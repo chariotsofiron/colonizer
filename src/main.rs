@@ -82,11 +82,11 @@ fn fmt_resource(sure: u8, expected: f64, rob_chance: f64) -> String {
 impl eframe::App for MyApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
         if self.last_update.elapsed() > std::time::Duration::from_secs(1) {
-            let html = self
-                .cdp
-                .evaluate(r#"document.getElementById("game-log-text").innerHTML"#)
-                .expect("Unable to read game log");
-            // let html = std::fs::read_to_string("games/game8.html").unwrap();
+            // let html = self
+            //     .cdp
+            //     .evaluate(r#"document.getElementById("game-log-text").innerHTML"#)
+            //     .expect("Unable to read game log");
+            let html = std::fs::read_to_string("games/game3.html").unwrap();
             self.state.update(&html);
         }
 

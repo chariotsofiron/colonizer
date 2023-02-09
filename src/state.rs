@@ -60,10 +60,10 @@ lazy_static! {
     ];
 }
 
-
 pub struct State {
-    /// Maps player username to index (id)
+    /// The player's username
     username: String,
+    /// Maps player names to their index
     players: HashMap<String, usize>,
     colors: HashMap<String, Color32>,
     last_line: usize,
@@ -89,14 +89,20 @@ impl State {
 
     fn normalize(&self, s: &str) -> String {
         // remove consecutive spaces and newlines
-        s.trim()
+        let s = s
+            .trim()
             .replace(':', "")
             .replace("you", &self.username)
             .replace("You", &self.username)
             .split([' ', '\n'])
             .filter(|s| !s.is_empty())
             .collect::<Vec<_>>()
-            .join(" ")
+            .join(" ");
+
+        // fix for usernames prefixed with resources
+        let re = Regex::new("(from|with|User|Guest) (brick|lumber|wool|grain|ore) ").unwrap();
+        let s = re.replace_all(&s, "$1 $2");
+        s.into_owned()
     }
 
     pub fn update(&mut self, html: &str) {
@@ -114,8 +120,12 @@ impl State {
         self.last_line = tmp;
     }
 
-    /// Gets the player index for the given name
+    /// Returns the index for a given player
     /// If the player is not in the tracker, it will be added
+    ///
+    /// # Panics
+    ///
+    /// Panics if the number of players is greater than `N_PLAYERS`
     fn get_player_index(&mut self, name: &str) -> usize {
         let i = self.players.len();
         let tmp = *self.players.entry(name.to_owned()).or_insert(i);
