@@ -27,9 +27,13 @@ $ ./target/release/catan_tracker <username>
 
 ## How it works
 
-Events are recorded to the in-game chat log. Colonizer communicates with the browser to acess the page's HTML using Chrome's [DevTools protocol](https://chromedevtools.github.io/devtools-protocol/). The chat messages are parsed and the state of the game is updated. The basic events are adding cards, removing cards, monopoly, and robbing. The only event that adds uncertainty to the game state is robbing. The program keeps track of every state the game could be in, and future events narrow this space.
+Events are recorded to the in-game chat log. Colonizer communicates with the browser to acess the page's HTML using Chrome's [DevTools protocol](https://chromedevtools.github.io/devtools-protocol/). Colonizer parses the chat messages and updates the game state. The game events include receiving cards, discarding cards, monopoly, trading, and robbing. The only event that adds uncertainty to the game state is robbing.
+
+The game state is represented using a 4x5 matrix (4 players, 5 resources each). Each cell represents the number of cards a player has for a given resource. When one player robs another, it creates new possible states for the game. The expected number of cards each player has can be calculated by taking the average of the possible states. Events such as trades or spending cards reduces the number of possible states.
+
 
 ## Future plans
 
 - Refreshing the page clears the chat log and the program is unable to resume. The ability to start tracking a game in progress is being worked on.
 - Track development cards
+- Track dice rolls
