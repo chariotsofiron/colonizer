@@ -35,7 +35,7 @@ impl MyApp {
         let browser = cdp_client::Browser::new("http://localhost:9222/json")
             .expect("Unable to connect to Chrome");
         Self {
-            state: State::new(&username),
+            state: State::new(username),
             last_update: std::time::Instant::now() - std::time::Duration::from_secs(1),
             cdp: browser,
         }
@@ -49,7 +49,7 @@ fn fmt_rob_chance(rob_chance: f64) -> String {
         // pretty easy to see that it's the only card available
         "   ".to_owned()
     } else if percentage < 10 {
-        format!(".0{:<1}", percentage)
+        format!(".0{percentage:<1}")
     } else {
         format!(
             ".{:<2}",

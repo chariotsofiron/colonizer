@@ -2,7 +2,7 @@
 //! Updates different trackers
 use std::collections::HashMap;
 
-use crate::card_tracker::N_PLAYERS;
+use crate::card_tracker::MAX_PLAYERS;
 use crate::html_parser;
 use crate::resource::{Resource, N_RESOURCES};
 use crate::{card_tracker::CardTracker, hand::Hand};
@@ -15,6 +15,7 @@ const CARDS: &str = r"((?:(?:lumber|brick|wool|grain|ore|card) ?)+)";
 const ITEM_PTTN: &str = r"(road|settlement|city|development card)";
 
 type Callback = fn(&mut State, &[&str]) -> ();
+pub type Record = (String, Color32, [(u8, f64, f64); N_RESOURCES]);
 
 lazy_static! {
     static ref PATTERNS: [(Regex, Callback); 9] = [
@@ -73,13 +74,13 @@ pub struct State {
 }
 
 impl State {
-    pub fn new(username: &str) -> Self {
+    pub fn new(username: String) -> Self {
         Self {
-            username: username.to_owned(),
-            players: Default::default(),
+            username,
+            players: HashMap::new(),
             colors: Default::default(),
-            last_line: Default::default(),
-            card_tracker: Default::default(),
+            last_line: 0,
+            card_tracker: CardTracker::default(),
         }
     }
 
@@ -111,7 +112,7 @@ impl State {
         for ((r, g, b), line) in lines.into_iter().skip(self.last_line) {
             let line = self.normalize(&line);
             if line.contains("starting") {
-                let name = line.split(' ').skip(1).next().unwrap();
+                let name = line.split(' ').nth(1).unwrap();
                 self.colors
                     .insert(name.to_owned(), Color32::from_rgb(r, g, b));
             }
@@ -125,13 +126,13 @@ impl State {
     ///
     /// # Panics
     ///
-    /// Panics if the number of players is greater than `N_PLAYERS`
+    /// Panics if the number of players is greater than `MAX_PLAYERS`
     fn get_player_index(&mut self, name: &str) -> usize {
         let i = self.players.len();
         let tmp = *self.players.entry(name.to_owned()).or_insert(i);
 
         assert!(
-            self.players.len() <= N_PLAYERS,
+            self.players.len() <= MAX_PLAYERS,
             "Too many players! {:?}",
             self.players.keys().collect::<Vec<_>>()
         );
@@ -140,7 +141,7 @@ impl State {
 
     pub fn handle_line(&mut self, line: &str) {
         for (regex, event) in PATTERNS.iter() {
-            if let Some(caps) = regex.captures(&line) {
+            if let Some(caps) = regex.captures(line) {
                 let line = caps
                     .iter()
                     // skip over capture group 0
@@ -237,17 +238,16 @@ impl State {
         );
     }
 
-    pub fn build_table(&self) -> [(String, Color32, [(u8, f64, f64); N_RESOURCES]); N_PLAYERS] {
+    pub fn build_table(&self) -> Vec<Record> {
         // associate the player names with the table
         let table = self.card_tracker.table();
-        let mut result: [(String, Color32, [(u8, f64, f64); N_RESOURCES]); N_PLAYERS] =
-            Default::default();
-        for (i, (name, id)) in self.players.iter().enumerate() {
-            result[i] = (
+        let mut result: Vec<Record> = Vec::new();
+        for (name, id) in &self.players {
+            result.push((
                 name.to_string(),
                 *self.colors.get(name).unwrap_or(&Color32::WHITE),
                 table[*id],
-            );
+            ));
         }
         result
     }

@@ -31,8 +31,8 @@ pub const fn gcd(a: u32, b: u32) -> u32 {
     m << shift
 }
 
-pub const N_PLAYERS: usize = 4;
-pub type State = [Hand; N_PLAYERS];
+pub const MAX_PLAYERS: usize = 6;
+pub type State = [Hand; MAX_PLAYERS];
 
 pub struct CardTracker {
     /// A list of all states and their frequency
@@ -126,9 +126,9 @@ impl CardTracker {
     }
 
     /// Computes the expected value for the number of cards each player has
-    fn expected(&self) -> [[f64; N_RESOURCES]; N_PLAYERS] {
+    fn expected(&self) -> [[f64; N_RESOURCES]; MAX_PLAYERS] {
         let n_states = f64::from(self.states.iter().map(|(_, count)| *count).sum::<u32>());
-        let mut expected = <[[f64; N_RESOURCES]; N_PLAYERS]>::default();
+        let mut expected = <[[f64; N_RESOURCES]; MAX_PLAYERS]>::default();
         for &(state, count) in &self.states {
             for (player, cards) in state.iter().enumerate() {
                 for (card, num) in cards.into_iter() {
@@ -155,8 +155,8 @@ impl CardTracker {
 
     /// Computes the expected and minimum value for each card of the player
     /// (sure, expected, rob chance)
-    pub fn table(&self) -> [[(u8, f64, f64); N_RESOURCES]; N_PLAYERS] {
-        let mut table: [[(u8, f64, f64); N_RESOURCES]; N_PLAYERS] = Default::default();
+    pub fn table(&self) -> [[(u8, f64, f64); N_RESOURCES]; MAX_PLAYERS] {
+        let mut table: [[(u8, f64, f64); N_RESOURCES]; MAX_PLAYERS] = Default::default();
         for (i, (sure, expected)) in self
             .sure()
             .into_iter()

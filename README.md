@@ -14,16 +14,9 @@ The value 17 in the bottom-right is the number of possible states the game could
 
 ## Instructions
 
-1. Build the project
-2. Run Chrome or Firefox in debug mode
-3. Run the program
-
-For example, on macOS with Google Chrome:
-```shell
-$ /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --user-data-dir=/tmp/data
-$ cargo build --release
-$ ./target/release/catan_tracker <username>
-```
+1. Build: `cargo build --release`
+2. Run browser in debug mode: `Google\ Chrome --remote-debugging-port=9222 --user-data-dir=/tmp/data`
+3. Run program: `./target/release/colonizer <username>`
 
 ## How it works
 
