@@ -20,7 +20,6 @@
 - [x] parse player color from log
 - [ ] player ordering
 - [ ] reset logic
-- [ ] make player count generic instead of hardcoded
 
 
 Reset logic could be a bit more accurate but not a priority.

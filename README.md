@@ -9,7 +9,7 @@ Taking the first player, Dong, as an example. For the lumber resource, the proba
 
 There are two ways the expected value is represented. The `1.57` for Dong indicates they have 1 lumber, and an expected extra amount of `0.57`. The `3+1.42` for Brig indicates they definitely hve 3 wool, and are expected to have `1.42` additional wool. 
 
-The value 17 in the bottom-right is the number of possible states the game could be in. It can be thought of as the amount of uncertainty in the game, with a value of 1 being complete certainty.
+The value `17` in the bottom-right is the number of possible states the game could be in. It can be thought of as the amount of uncertainty in the game, with a value of 1 being complete certainty.
 
 
 ## Instructions
