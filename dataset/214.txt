@@ -1,0 +1,341 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Guestrogergoodell: gg
+UserLookaside: gg
+UserLookaside: :)
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+Guestrogergoodell placed a settlement
+Guestrogergoodell placed a road
+Guestrogergoodell placed a settlement
+Guestrogergoodell placed a road
+Guestrogergoodell received starting resources orebrickore
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolgrainbrick
+UserLookaside rolled dice_5 dice_6
+Guestrogergoodell rolled dice_6 dice_6
+UserLookaside rolled dice_4 dice_5
+UserLookaside got brick
+Guestrogergoodell got brick
+Guestrogergoodell rolled dice_5 dice_5
+UserLookaside got wool
+Guestrogergoodell got ore
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grain
+Guestrogergoodell got ore
+Guestrogergoodell rolled dice_1 dice_1
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+Guestrogergoodell got grain
+Guestrogergoodell rolled dice_4 dice_4
+UserLookaside got lumber
+Guestrogergoodell got lumber
+Guestrogergoodell built a road
+UserLookaside rolled dice_1 dice_5
+UserLookaside got wool
+UserLookaside built a road
+Guestrogergoodell rolled dice_4 dice_2
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+Guestrogergoodell got lumber
+UserLookaside built a settlement (+1 VP)
+Guestrogergoodell rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Guestrogergoodell moved robber robber to prob_5 grain tile
+Guestrogergoodell stole grain from you
+Guestrogergoodell built a city (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+Guestrogergoodell rolled dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+Guestrogergoodell got ore
+UserLookaside rolled dice_1 dice_2
+Guestrogergoodell got lumberlumber
+Guestrogergoodell rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+Guestrogergoodell got ore
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from rogergoodell
+Guestrogergoodell rolled dice_6 dice_4
+UserLookaside got wool
+Guestrogergoodell got ore
+Guestrogergoodell gave bank lumberlumberlumberlumber and took wool
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brick
+UserLookaside built a road
+Guestrogergoodell rolled dice_2 dice_1
+Guestrogergoodell got lumberlumber
+Guestrogergoodell gave bank oreoreoreore and took grain
+Guestrogergoodell built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brick
+Guestrogergoodell got brick
+UserLookaside built a settlement (+1 VP)
+Guestrogergoodell rolled dice_2 dice_2
+UserLookaside got graingrain
+Guestrogergoodell got graingrain
+Guestrogergoodell built a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole grain from rogergoodell
+Guestrogergoodell rolled dice_2 dice_5
+Guestrogergoodell moved robber robber to prob_5 grain tile
+Guestrogergoodell stole grain from you
+UserLookaside rolled dice_5 dice_6
+UserLookaside got brick
+Guestrogergoodell got brick
+Guestrogergoodell rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+Guestrogergoodell got ore
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+UserLookaside built a road
+Guestrogergoodell rolled dice_2 dice_4
+UserLookaside got woolwool
+UserLookaside rolled dice_3 dice_6
+UserLookaside got brickbrick
+Guestrogergoodell got brick
+UserLookaside gave bank woolwoolwoolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+Guestrogergoodell rolled dice_1 dice_3
+UserLookaside got graingrain
+Guestrogergoodell got graingrain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+Guestrogergoodell rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+Guestrogergoodell got ore
+Guestrogergoodell gave bank lumberlumberlumberlumber and took ore
+Guestrogergoodell built a city (+1 VP)
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+Guestrogergoodell rolled dice_4 dice_6
+UserLookaside got woolwool
+Guestrogergoodell got oreoreore
+Guestrogergoodell built a road
+Guestrogergoodell built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got brickbrickbrick
+Guestrogergoodell got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took ore
+Guestrogergoodell rolled dice_6 dice_3
+UserLookaside got brickbrickbrick
+Guestrogergoodell got brickbrick
+UserLookaside rolled dice_2 dice_1
+Guestrogergoodell got lumberlumberoreore
+UserLookaside built a road
+Guestrogergoodell rolled dice_1 dice_1
+Guestrogergoodell built a road
+Guestrogergoodell received longest road (+2 VPs)
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+UserLookaside gave bank graingrain and took ore
+Guestrogergoodell rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+Guestrogergoodell got oreore
+Guestrogergoodell built a road
+Guestrogergoodell built a road
+Guestrogergoodell built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from rogergoodell
+UserLookaside built a road
+Guestrogergoodell rolled dice_4 dice_3
+Guestrogergoodell moved robber robber to prob_5 grain tile
+Guestrogergoodell stole ore from you
+UserLookaside rolled dice_5 dice_1
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwool and took ore
+Guestrogergoodell rolled dice_1 dice_5
+UserLookaside got woolwool
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole brick from rogergoodell
+Guestrogergoodell rolled dice_4 dice_2
+UserLookaside got woolwool
+UserLookaside rolled dice_1 dice_2
+Guestrogergoodell got lumberlumberoreore
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+Guestrogergoodell rolled dice_1 dice_6
+Guestrogergoodell moved robber robber to prob_5 grain tile
+Guestrogergoodell stole brick from you
+Guestrogergoodell gave bank oreoreoreore and took wool
+UserLookaside rolled dice_1 dice_2
+Guestrogergoodell got lumberlumberoreore
+Guestrogergoodell rolled dice_3 dice_5
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+Guestrogergoodell wants to give lumberlumberlumberoreoreoreore for brickgrain
+Guestrogergoodell gave bank lumberlumberlumberlumberoreoreoreore and took brickgrain
+Guestrogergoodell built a road
+Guestrogergoodell built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole lumber from rogergoodell
+UserLookaside built a road
+Guestrogergoodell rolled dice_3 dice_2
+UserLookaside got graingraingrain
+Guestrogergoodell got oreore
+UserLookaside rolled dice_2 dice_3
+UserLookaside got graingraingrain
+Guestrogergoodell got oreore
+UserLookaside gave bank graingrain and took ore
+Guestrogergoodell rolled dice_4 dice_4
+UserLookaside got lumber
+Guestrogergoodell got lumberlumber
+UserLookaside rolled dice_2 dice_4
+UserLookaside got woolwoolwool
+Guestrogergoodell got wool
+UserLookaside bought development card
+Guestrogergoodell rolled dice_3 dice_1
+UserLookaside got graingraingrain
+Guestrogergoodell got graingrain
+Guestrogergoodell built a city (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLookaside got brickbrickbrickbrick
+Guestrogergoodell got brickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Guestrogergoodell rolled dice_5 dice_3
+UserLookaside got lumberlumber
+Guestrogergoodell got lumberlumber
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brick
+Guestrogergoodell got woolwoolbrickbrick
+UserLookaside built a road
+Userlongest road passed from rogergoodell to Lookaside (+2 VPs)
+UserLookaside built a road
+Guestrogergoodell rolled dice_6 dice_6
+Guestrogergoodell built a road
+Guestrogergoodell built a road
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwoolwool
+Guestrogergoodell got woolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+Guestrogergoodell rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+Guestrogergoodell gave bank woolwoolwoolwool and took grain
+Guestrogergoodell built a road
+Guestlongest road passed from Lookaside to rogergoodell (+2 VPs)
+Guestrogergoodell built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+Guestrogergoodell rolled dice_4 dice_2
+UserLookaside got woolwoolwool
+Guestrogergoodell got woolwool
+UserLookaside rolled dice_5 dice_1
+UserLookaside got woolwoolwool
+Guestrogergoodell got woolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwoolwoolwoolwool and took oreoreore
+UserLookaside built a city (+1 VP)
+Guestrogergoodell rolled dice_1 dice_1
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from rogergoodell
+Guestrogergoodell rolled dice_6 dice_2
+UserLookaside got lumberlumber
+Guestrogergoodell got lumberlumber
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from rogergoodell
+Guestrogergoodell rolled dice_1 dice_4
+UserLookaside got graingraingraingrain
+Guestrogergoodell got oreore
+Guestrogergoodell gave bank lumberlumber and took grain
+Guestrogergoodell bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumberlumber
+Guestrogergoodell got lumberlumber
+UserLookaside gave bank lumberlumberlumbergraingraingraingrain and took oreoreore
+UserLookaside built a city (+1 VP)
+Guestrogergoodell rolled dice_3 dice_6
+UserLookaside got brickbrickbrickbrickbrick
+Guestrogergoodell got brickbrick
+Guestrogergoodell used Monopoly card monopoly
+Guestrogergoodell stole 5 brick
+Guestrogergoodell gave bank brickbrickbrickbrick and took grain
+Guestrogergoodell built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+Guestrogergoodell got lumberlumberlumberoreoreoreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from rogergoodell
+Guestrogergoodell rolled dice_5 dice_2
+GuestBot is selecting cards to discard for rogergoodell
+Guestrogergoodell discarded lumberlumberlumberoreore
+Guestrogergoodell moved robber robber to prob_5 grain tile
+Guestrogergoodell stole lumber from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole lumber from rogergoodell
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumberlumberlumber
+Guestrogergoodell got lumberlumber
+Guestrogergoodell rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+UserLookaside rolled dice_1 dice_3
+UserLookaside got graingraingrain
+Guestrogergoodell got graingrain
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+Guestrogergoodell rolled dice_2 dice_3
+UserLookaside got graingraingraingraingrain
+Guestrogergoodell got oreore
+Guestrogergoodell gave bank oreoreoreore and took wool
+Guestrogergoodell built a settlement (+1 VP)
+Guestrogergoodell built a road
+UserLookaside rolled dice_2 dice_2
+UserLookaside got graingraingrain
+Guestrogergoodell got lumbergraingrain
+UserLookaside gave bank graingraingraingraingraingrain and took oreoreore
+UserLookaside built a city (+1 VP)
+Guestrogergoodell rolled dice_5 dice_4
+UserLookaside got brickbrickbrickbrickbrick
+Guestrogergoodell got brickbrick
+Guestrogergoodell built a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from rogergoodell
+UserLookaside built a road
+Guestrogergoodell rolled dice_2 dice_6
+UserLookaside got lumberlumberlumber
+Guestrogergoodell got grainlumberlumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumberlumberlumber
+Guestrogergoodell got grainlumberlumber
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole lumber from rogergoodell
+UserLookaside gave bank lumberlumberlumberbrickbrickbrick and took woolgrain
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+Guestrogergoodell has left the game

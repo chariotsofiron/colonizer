@@ -1,0 +1,406 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: lucky dog
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestShenan5356 placed a settlement
+GuestShenan5356 placed a road
+GuestShenan5356 placed a settlement
+GuestShenan5356 placed a road
+GuestShenan5356 received starting resources brickorelumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumbergrainbrick
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumber
+GuestShenan5356 rolled dice_2 dice_1
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_5
+GuestShenan5356 got grain
+UserLookaside built a road
+GuestShenan5356 rolled dice_5 dice_4
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+UserLookaside rolled dice_4 dice_5
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+GuestShenan5356 rolled dice_4 dice_4
+GuestShenan5356 got grain
+UserLookaside rolled dice_5 dice_5
+GuestShenan5356 got woolore
+UserLookaside got wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside built a road
+GuestShenan5356 rolled dice_6 dice_4
+GuestShenan5356 got woolore
+UserLookaside got wool
+GuestShenan5356 built a road
+GuestShenan5356 bought development card
+UserLookaside rolled dice_1 dice_1
+GuestShenan5356 used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+GuestShenan5356 moved robber robber to prob_9 brick tile
+GuestShenan5356 stole wool from you
+GuestShenan5356 rolled dice_5 dice_6
+GuestShenan5356 got brick
+UserLookaside got brick
+GuestShenan5356 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+UserLookaside got grain
+GuestShenan5356 rolled dice_2 dice_3
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_2
+GuestShenan5356 got graingrain
+GuestShenan5356 rolled dice_2 dice_5
+GuestShenan5356 moved robber robber to prob_6 grain tile
+GuestShenan5356 stole grain from you
+GuestShenan5356 bought development card
+UserLookaside rolled dice_4 dice_6
+GuestShenan5356 got woolore
+UserLookaside got wool
+GuestShenan5356 rolled dice_3 dice_1
+GuestShenan5356 got grain
+UserLookaside got grain
+UserLookaside rolled dice_6 dice_3
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+UserLookaside built a settlement (+1 VP)
+GuestShenan5356 rolled dice_5 dice_2
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 built a road
+UserLookaside rolled dice_2 dice_2
+GuestShenan5356 got grain
+UserLookaside got grain
+GuestShenan5356 rolled dice_5 dice_3
+GuestShenan5356 got graingrain
+GuestShenan5356 gave bank graingraingrain and took brick
+GuestShenan5356 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole grain from Shenan5356
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole grain from you
+GuestShenan5356 rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+GuestShenan5356 rolled dice_3 dice_4
+GuestShenan5356 moved robber robber to prob_9 brick tile
+GuestShenan5356 stole lumber from you
+UserLookaside rolled dice_1 dice_1
+GuestShenan5356 got wool
+GuestShenan5356 rolled dice_3 dice_5
+GuestShenan5356 got graingrain
+GuestShenan5356 bought development card
+UserLookaside rolled dice_5 dice_6
+GuestShenan5356 got brick
+UserLookaside got brickbrick
+GuestShenan5356 rolled dice_1 dice_2
+GuestShenan5356 got brick
+UserLookaside got brickgrain
+UserLookaside rolled dice_6 dice_5
+GuestShenan5356 got brick
+UserLookaside got brickbrick
+UserLookaside built a road
+GuestShenan5356 rolled dice_4 dice_3
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 built a road
+UserLookaside rolled dice_5 dice_4
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+GuestShenan5356 rolled dice_2 dice_2
+GuestShenan5356 got grain
+UserLookaside got grain
+GuestShenan5356 built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded brickbrickbrickgraingrain
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole grain from Shenan5356
+GuestShenan5356 used Knight card knight
+GuestShenan5356 received largest army (+2 VPs)
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole grain from you
+GuestShenan5356 rolled dice_5 dice_5
+GuestShenan5356 got wooloreore
+UserLookaside got wool
+GuestShenan5356 built a city (+1 VP)
+UserLookaside rolled dice_4 dice_4
+GuestShenan5356 got graingrain
+UserLookaside built a settlement (+1 VP)
+GuestShenan5356 rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserLookaside rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestShenan5356 rolled dice_3 dice_1
+GuestShenan5356 got grain
+UserLookaside got grain
+GuestShenan5356 gave bank graingraingrain and took lumber
+GuestShenan5356 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_6
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+UserLookaside gave bank graingraingraingrain and took ore
+GuestShenan5356 rolled dice_2 dice_1
+GuestShenan5356 got brick
+UserLookaside got brickgrain
+UserLookaside rolled dice_1 dice_3
+GuestShenan5356 got grain
+UserLookaside got grain
+UserLookaside gave bank graingraingraingrain and took ore
+GuestShenan5356 rolled dice_5 dice_3
+GuestShenan5356 got graingrain
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole grain from Shenan5356
+GuestShenan5356 rolled dice_4 dice_5
+GuestShenan5356 got lumber
+UserLookaside got bricklumber
+UserLookaside rolled dice_4 dice_1
+GuestShenan5356 got oreoreore
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+GuestShenan5356 rolled dice_4 dice_2
+UserLookaside got graingraingrainore
+GuestShenan5356 built a city (+1 VP)
+UserLookaside rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestShenan5356 got woolwool
+UserLookaside got wool
+UserLookaside bought development card
+GuestShenan5356 rolled dice_6 dice_2
+GuestShenan5356 got graingraingrain
+GuestShenan5356 gave bank graingraingrain and took ore
+GuestShenan5356 bought development card
+UserLookaside rolled dice_5 dice_5
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestShenan5356 got woolwool
+UserLookaside got wool
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 rolled dice_2 dice_5
+GuestShenan5356 moved robber robber to prob_6 grain tile
+GuestShenan5356 stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from Shenan5356
+UserLookaside rolled dice_1 dice_5
+UserLookaside got graingraingrainore
+GuestShenan5356 rolled dice_5 dice_6
+GuestShenan5356 got brick
+UserLookaside got brickbrick
+UserLookaside rolled dice_6 dice_6
+UserLookaside bought development card
+GuestShenan5356 rolled dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+GuestShenan5356 built a road
+GuestShenan5356 built a road
+UserLookaside rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumber and took wool
+UserLookaside built a settlement (+1 VP)
+GuestShenan5356 rolled dice_6 dice_3
+GuestShenan5356 got lumber
+UserLookaside got bricklumberlumber
+GuestShenan5356 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from Shenan5356
+UserLookaside built a road
+GuestShenan5356 rolled dice_2 dice_4
+UserLookaside got graingraingrainore
+UserLookaside rolled dice_1 dice_3
+GuestShenan5356 got graingrain
+UserLookaside got woolgrain
+UserLookaside gave bank lumberlumbergraingraingraingrain and took oreore
+UserLookaside built a city (+1 VP)
+GuestShenan5356 rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestShenan5356 got woolwool
+UserLookaside got wool
+UserLookaside rolled dice_6 dice_2
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+GuestShenan5356 rolled dice_1 dice_2
+GuestShenan5356 got brick
+UserLookaside got brickbrickgraingrain
+GuestShenan5356 gave bank graingraingrain and took ore
+GuestShenan5356 bought development card
+UserLookaside rolled dice_5 dice_4
+GuestShenan5356 got lumber
+UserLookaside got bricklumberlumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 rolled dice_2 dice_1
+GuestShenan5356 got brick
+UserLookaside got brickbrickgraingrain
+UserLookaside rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside bought development card
+GuestShenan5356 rolled dice_3 dice_5
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+GuestShenan5356 gave bank woolwoolwool and took ore
+GuestShenan5356 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole grain from Shenan5356
+UserLookaside rolled dice_4 dice_4
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside bought development card
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole grain from you
+GuestShenan5356 rolled dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+GuestShenan5356 gave bank graingraingrain and took ore
+GuestShenan5356 bought development card
+UserLookaside rolled dice_5 dice_3
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+GuestShenan5356 rolled dice_3 dice_4
+GuestShenan5356 discarded lumberbrickbrickbrickgrain
+GuestShenan5356 moved robber robber to prob_5 lumber tile
+GuestShenan5356 stole grain from you
+UserLookaside rolled dice_3 dice_6
+GuestShenan5356 got lumber
+UserLookaside got brickbricklumberlumber
+GuestShenan5356 rolled dice_1 dice_6
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestShenan5356 stole lumber from you
+GuestShenan5356 gave bank graingraingrain and took ore
+GuestShenan5356 bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from Shenan5356
+UserLookaside built a road
+UserLookaside built a road
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_6 ore tile
+GuestNo player to steal from
+GuestShenan5356 rolled dice_1 dice_4
+GuestShenan5356 got oreoreore
+UserLookaside got lumberlumberlumberlumberlumber
+UserLookaside rolled dice_6 dice_5
+GuestShenan5356 got brick
+UserLookaside got brickbrickbrick
+UserLookaside gave bank lumberlumberlumberlumber and took woolgrain
+UserLookaside built a settlement (+1 VP)
+GuestShenan5356 rolled dice_6 dice_2
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+GuestShenan5356 used Knight card knight
+GuestShenan5356 moved robber robber to prob_5 lumber tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 bought development card
+GuestShenan5356 built a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole grain from Shenan5356
+GuestShenan5356 rolled dice_1 dice_3
+GuestShenan5356 got graingrain
+UserLookaside got woolwoolgraingrain
+GuestShenan5356 used Monopoly card monopoly
+GuestShenan5356 stole 3 wool
+GuestShenan5356 bought development card
+GuestShenan5356 bought development card
+UserLookaside rolled dice_1 dice_2
+GuestShenan5356 got brick
+UserLookaside got brickbrickgraingrain
+GuestShenan5356 rolled dice_5 dice_2
+GuestShenan5356 moved robber robber to prob_5 lumber tile
+GuestShenan5356 stole brick from you
+GuestShenan5356 used Road Building card road building
+GuestShenan5356 placed a road
+GuestShenan5356 placed a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole grain from Shenan5356
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a road
+GuestShenan5356 rolled dice_2 dice_1
+GuestShenan5356 got brick
+UserLookaside got brickbrickgraingrain
+GuestShenan5356 gave bank brickbrickbrick and took lumber
+GuestShenan5356 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_10 ore tile
+UserNo player to steal from
+GuestShenan5356 rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestShenan5356 got woolwool
+UserLookaside got woolwool
+UserLookaside rolled dice_6 dice_3
+GuestShenan5356 got lumber
+UserLookaside got brickbricklumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside gave bank brickbrickbrickbrick and took ore
+GuestShenan5356 rolled dice_5 dice_6
+GuestShenan5356 got brick
+UserLookaside got lumberbrickbrickbrick
+GuestShenan5356 used Road Building card road building
+GuestShenan5356 placed a road
+GuestShenan5356 placed a road
+Guestlongest road passed from Lookaside to Shenan5356 (+2 VPs)
+UserLookaside rolled dice_2 dice_6
+GuestShenan5356 got graingraingrainwool
+UserLookaside got wool
+UserLookaside built a road
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a road
+Userlongest road passed from Shenan5356 to Lookaside (+2 VPs)
+GuestShenan5356 rolled dice_3 dice_6
+GuestShenan5356 got lumber
+UserLookaside got brickbricklumberlumber
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded brickbrickwoolwoolwool
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from Shenan5356
+GuestShenan5356 rolled dice_5 dice_4
+GuestShenan5356 got lumber
+UserLookaside got brickbricklumberlumber
+UserLookaside rolled dice_2 dice_2
+GuestShenan5356 got graingrain
+UserLookaside got woolwoolgraingrain
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+No Ads

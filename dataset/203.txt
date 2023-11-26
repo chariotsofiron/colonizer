@@ -1,0 +1,286 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+Send a message
+send
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+SettlerJeremy899211 placed a settlement
+SettlerJeremy899211 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberbrickbrick
+SettlerJeremy899211 placed a settlement
+SettlerJeremy899211 placed a road
+SettlerJeremy899211 received starting resources grainorelumber
+SettlerJeremy899211 rolled dice_4 dice_1
+SettlerJeremy899211 got grain
+UserLookaside got brickgrain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woollumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+SettlerJeremy899211 rolled dice_5 dice_6
+SettlerJeremy899211 got brick
+SettlerJeremy899211 built a road
+UserLookaside rolled dice_5 dice_4
+SettlerJeremy899211 rolled dice_6 dice_4
+UserLookaside got woolwoollumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoollumber
+SettlerJeremy899211 rolled dice_1 dice_3
+SettlerJeremy899211 got ore
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_5
+SettlerJeremy899211 got grain
+UserLookaside got brickgrain
+UserLookaside built a road
+UserLookaside built a road
+SettlerJeremy899211 rolled dice_3 dice_3
+SettlerJeremy899211 got ore
+SettlerJeremy899211 built a city (+1 VP)
+UserLookaside rolled dice_6 dice_3
+SettlerJeremy899211 rolled dice_5 dice_2
+SettlerJeremy899211 moved robber robber to prob_10 wool tile
+SettlerJeremy899211 stole wool from you
+UserLookaside rolled dice_2 dice_3
+SettlerJeremy899211 got graingrain
+UserLookaside got brickgrain
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_1 dice_1
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from Jeremy899211
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_3 lumber tile
+UserYou stole grain from Jeremy899211
+SettlerJeremy899211 rolled dice_6 dice_5
+SettlerJeremy899211 got brickbrick
+UserLookaside rolled dice_1 dice_5
+SettlerJeremy899211 got oreore
+SettlerJeremy899211 rolled dice_3 dice_1
+SettlerJeremy899211 got ore
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_1
+prob_3 lumber tile is blocked by the robber. No resources produced.
+SettlerJeremy899211 rolled dice_4 dice_4
+SettlerJeremy899211 got grain
+UserLookaside got brickgrain
+UserLookaside rolled dice_3 dice_2
+SettlerJeremy899211 got graingrain
+UserLookaside got brickgrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_4 dice_5
+UserLookaside got wool
+SettlerJeremy899211 built a city (+1 VP)
+UserLookaside rolled dice_4 dice_2
+SettlerJeremy899211 got oreore
+SettlerJeremy899211 rolled dice_2 dice_6
+SettlerJeremy899211 got graingrain
+UserLookaside got brickgrain
+UserLookaside rolled dice_1 dice_2
+prob_3 lumber tile is blocked by the robber. No resources produced.
+SettlerJeremy899211 rolled dice_3 dice_2
+SettlerJeremy899211 got graingrain
+UserLookaside got brickgrain
+SettlerJeremy899211 gave bank graingraingraingrain and took lumber
+SettlerJeremy899211 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from Jeremy899211
+UserLookaside gave bank brickbrickbrick and took lumber
+UserLookaside built a road
+SettlerJeremy899211 rolled dice_2 dice_3
+SettlerJeremy899211 got graingrain
+UserLookaside got brickgrain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwoollumber
+UserLookaside built a settlement (+1 VP)
+SettlerJeremy899211 rolled dice_5 dice_5
+UserLookaside got woolwoollumber
+UserLookaside rolled dice_2 dice_6
+SettlerJeremy899211 got graingrain
+UserLookaside got brickbrickgrain
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside built a road
+SettlerJeremy899211 rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_4
+SettlerJeremy899211 got wool
+UserLookaside got wool
+SettlerJeremy899211 rolled dice_6 dice_1
+SettlerJeremy899211 moved robber robber to prob_8 brick tile
+SettlerJeremy899211 stole grain from you
+SettlerJeremy899211 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from Jeremy899211
+UserLookaside rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+SettlerJeremy899211 got wool
+UserLookaside bought development card
+SettlerJeremy899211 used Knight card knight
+SettlerJeremy899211 moved robber robber to prob_8 brick tile
+SettlerJeremy899211 stole grain from you
+SettlerJeremy899211 rolled dice_3 dice_6
+SettlerJeremy899211 got wool
+UserLookaside got wool
+SettlerJeremy899211 bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from Jeremy899211
+SettlerJeremy899211 rolled dice_6 dice_3
+SettlerJeremy899211 got wool
+UserLookaside got wool
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_3 lumber tile
+UserYou stole grain from Jeremy899211
+SettlerJeremy899211 rolled dice_1 dice_2
+prob_3 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_1
+SettlerJeremy899211 got oreore
+UserLookaside got oreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+SettlerJeremy899211 rolled dice_4 dice_1
+SettlerJeremy899211 got graingrain
+UserLookaside got brickbrickgraingrain
+SettlerJeremy899211 bought development card
+SettlerJeremy899211 bought development card
+UserLookaside rolled dice_5 dice_3
+SettlerJeremy899211 got graingrain
+UserLookaside got brickbrickgrain
+UserLookaside gave bank brickbrickbrickbrick and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_5 dice_6
+SettlerJeremy899211 got brickbrick
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolwoollumber
+UserLookaside gave bank brickbrickwoolwoolwool and took grainore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside built a city (+1 VP)
+SettlerJeremy899211 rolled dice_6 dice_2
+SettlerJeremy899211 got graingrain
+UserLookaside got brickbrickbrickgrain
+UserLookaside rolled dice_6 dice_5
+SettlerJeremy899211 got brickbrick
+UserLookaside got brick
+UserLookaside gave bank brickbrick and took wool
+UserLookaside built a settlement (+1 VP)
+SettlerJeremy899211 rolled dice_2 dice_4
+SettlerJeremy899211 got wooloreore
+SettlerJeremy899211 bought development card
+UserLookaside rolled dice_2 dice_1
+prob_3 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+SettlerJeremy899211 rolled dice_1 dice_1
+UserLookaside got graingrain
+SettlerJeremy899211 used Knight card knight
+SettlerJeremy899211 moved robber robber to prob_8 brick tile
+SettlerJeremy899211 stole brick from you
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from Jeremy899211
+UserLookaside rolled dice_3 dice_4
+SettlerJeremy899211 discarded brickbrickbrickgraingrain
+UserLookaside moved robber robber to prob_3 lumber tile
+UserYou stole brick from Jeremy899211
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+SettlerJeremy899211 rolled dice_5 dice_2
+SettlerJeremy899211 moved robber robber to prob_8 brick tile
+SettlerJeremy899211 stole grain from you
+UserLookaside rolled dice_2 dice_4
+SettlerJeremy899211 got wooloreore
+SettlerJeremy899211 rolled dice_3 dice_3
+SettlerJeremy899211 got wooloreore
+SettlerJeremy899211 built a city (+1 VP)
+SettlerJeremy899211 bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 brick tile is blocked by the robber. No resources produced.
+SettlerJeremy899211 got graingrain
+UserLookaside got grain
+SettlerJeremy899211 rolled dice_4 dice_6
+UserLookaside got woolwoolwoollumberlumberlumber
+SettlerJeremy899211 bought development card
+SettlerJeremy899211 used Knight card knight
+SettlerJeremy899211 moved robber robber to prob_5 brick tile
+SettlerJeremy899211 stole lumber from you
+UserLookaside rolled dice_4 dice_5
+SettlerJeremy899211 got woolwool
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_2 dice_1
+SettlerJeremy899211 got lumberlumberlumberlumber
+UserLookaside got lumber
+SettlerJeremy899211 used Knight card knight
+Settlerlargest army passed from Lookaside to Jeremy899211 (+2 VPs)
+SettlerJeremy899211 moved robber robber to prob_8 brick tile
+SettlerJeremy899211 stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from Jeremy899211
+UserLookaside rolled dice_5 dice_4
+SettlerJeremy899211 got woolwool
+UserLookaside got woolwool
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_6 dice_6
+SettlerJeremy899211 used Road Building card road building
+SettlerJeremy899211 placed a road
+SettlerJeremy899211 placed a road
+SettlerJeremy899211 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+Userlargest army passed from Jeremy899211 to Lookaside (+2 VPs)
+UserLookaside moved robber robber to prob_3 lumber tile
+UserYou stole wool from Jeremy899211
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from Jeremy899211
+SettlerJeremy899211 rolled dice_1 dice_2
+SettlerJeremy899211 got lumberlumberlumberlumber
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_1
+SettlerJeremy899211 got graingraingrain
+UserLookaside got brickbrickbrickgraingrain
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+SettlerJeremy899211 rolled dice_2 dice_6
+SettlerJeremy899211 got graingrain
+UserLookaside got brickbrickbrickgrain
+SettlerJeremy899211 gave bank lumberlumberlumberlumber and took brick
+SettlerJeremy899211 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded lumberwoolwoolwoolgrain
+UserLookaside moved robber robber to prob_3 lumber tile
+UserYou stole grain from Jeremy899211
+SettlerJeremy899211 rolled dice_1 dice_4
+SettlerJeremy899211 got graingraingrain
+UserLookaside got brickbrickbrickgraingrain
+UserLookaside rolled dice_6 dice_5
+SettlerJeremy899211 got grainbrickbrick
+UserLookaside got brick
+UserLookaside gave bank brickbrickbrickbrickbrickbrick and took oreoreore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+
+Use special build phases to try to win against 7 other players

@@ -1,0 +1,352 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserGoku00 placed a settlement
+UserGoku00 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumberbrick
+UserGoku00 placed a settlement
+UserGoku00 placed a road
+UserGoku00 received starting resources woolgrainlumber
+UserGoku00 rolled dice_4 dice_4
+UserGoku00 got grain
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_2
+UserGoku00 got wool
+UserLookaside got brick
+UserGoku00 rolled dice_6 dice_3
+UserGoku00 got ore
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+UserLookaside built a road
+UserLookaside built a road
+UserGoku00 rolled dice_3 dice_6
+UserGoku00 got ore
+UserLookaside got brick
+UserLookaside rolled dice_2 dice_6
+UserGoku00 got grain
+UserLookaside got grain
+UserGoku00 rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserGoku00 moved robber robber to prob_8 grain tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserGoku00 got grain
+UserLookaside got grain
+UserGoku00 rolled dice_5 dice_6
+UserLookaside rolled dice_2 dice_3
+UserGoku00 got brick
+UserLookaside got wool
+UserGoku00 rolled dice_3 dice_4
+UserGoku00 discarded woolwoolgraingraingrain
+robberFriendly Robber is active, tiles available to block are limited
+UserGoku00 moved robber robber to prob_11 wool tile
+UserNo player to steal from
+UserGoku00 built a road
+UserLookaside rolled dice_5 dice_5
+UserGoku00 got wool
+UserLookaside got lumber
+UserLookaside built a road
+UserGoku00 rolled dice_3 dice_3
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a settlement (+1 VP)
+UserGoku00 rolled dice_4 dice_1
+UserGoku00 got brick
+UserLookaside got wool
+UserLookaside rolled dice_3 dice_2
+UserGoku00 got brick
+UserLookaside got wool
+UserGoku00 rolled dice_3 dice_1
+UserGoku00 got lumber
+UserLookaside got grain
+UserGoku00 built a road
+UserLookaside rolled dice_5 dice_3
+UserGoku00 got grain
+UserLookaside got graingrain
+UserGoku00 rolled dice_4 dice_5
+UserGoku00 got ore
+UserLookaside got brick
+UserGoku00 built a city (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserGoku00 got grain
+UserLookaside got graingrain
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a road
+UserGoku00 rolled dice_4 dice_6
+UserGoku00 got woolwool
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole grain from Goku00
+UserLookaside built a settlement (+1 VP)
+UserGoku00 rolled dice_2 dice_1
+UserGoku00 got wool
+UserLookaside got brickbrick
+UserLookaside rolled dice_6 dice_5
+UserGoku00 rolled dice_1 dice_4
+UserGoku00 got brickbrick
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_1
+UserGoku00 got brickbrick
+UserLookaside got wool
+UserGoku00 rolled dice_3 dice_4
+UserGoku00 moved robber robber to prob_6 lumber tile
+UserGoku00 stole grain from you
+UserGoku00 gave bank brickbrickbrickbrick and took lumber
+UserGoku00 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_4
+UserGoku00 got grain
+UserLookaside got graingraingrain
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+UserGoku00 rolled dice_5 dice_5
+UserGoku00 got woolwool
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_2
+UserGoku00 got grain
+UserLookaside got graingraingrain
+UserLookaside built a settlement (+1 VP)
+UserGoku00 rolled dice_4 dice_2
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserGoku00 got grain
+UserLookaside rolled dice_6 dice_4
+UserGoku00 got woolwool
+UserLookaside got lumberlumber
+UserGoku00 rolled dice_2 dice_1
+UserGoku00 got woolwool
+UserLookaside got brickbrickwool
+UserGoku00 gave bank woolwoolwoolwool and took ore
+UserGoku00 bought development card
+UserLookaside rolled dice_5 dice_3
+UserGoku00 got grain
+UserLookaside got graingraingrain
+UserLookaside gave bank brickbrickbrickgraingraingrain and took oreore
+UserGoku00 rolled dice_2 dice_5
+UserGoku00 moved robber robber to prob_10 lumber tile
+UserGoku00 stole grain from you
+UserGoku00 used Knight card knight
+UserGoku00 moved robber robber to prob_6 lumber tile
+UserGoku00 stole grain from you
+UserLookaside rolled dice_4 dice_6
+UserGoku00 got woolwool
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumber and took ore
+UserGoku00 rolled dice_1 dice_2
+UserGoku00 got woolwool
+UserLookaside got brickbrickwool
+UserGoku00 wants to give woolwoolwoolwool for ore
+UserGoku00 gave bank woolwoolwoolwool and took ore
+UserGoku00 bought development card
+UserLookaside rolled dice_1 dice_3
+UserGoku00 got lumber
+UserLookaside got grain
+UserLookaside built a city (+1 VP)
+UserGoku00 rolled dice_5 dice_4
+UserGoku00 got oreore
+UserLookaside got brick
+UserGoku00 used Year of Plenty card year of plenty
+UserGoku00 took from bank ore ore
+UserGoku00 bought development card
+UserGoku00 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserGoku00 got grain
+UserGoku00 rolled dice_5 dice_1
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserGoku00 got grain
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole lumber from Goku00
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+UserGoku00 used Knight card knight
+UserGoku00 moved robber robber to prob_10 lumber tile
+UserGoku00 stole wool from you
+UserGoku00 rolled dice_6 dice_5
+UserGoku00 got ore
+UserLookaside got wool
+UserGoku00 bought development card
+UserLookaside rolled dice_2 dice_3
+UserGoku00 got brickbrick
+UserLookaside got woolwool
+UserGoku00 rolled dice_3 dice_6
+UserGoku00 got oreore
+UserLookaside got brick
+UserGoku00 bought development card
+UserLookaside rolled dice_3 dice_5
+UserGoku00 got graingrain
+UserLookaside got graingraingraingrain
+UserLookaside gave bank woolwoolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+UserGoku00 rolled dice_2 dice_4
+UserGoku00 got grain
+UserLookaside got lumbergrain
+UserGoku00 bought development card
+UserLookaside rolled dice_5 dice_6
+UserGoku00 got ore
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserGoku00 rolled dice_2 dice_5
+UserGoku00 moved robber robber to prob_5 wool tile
+UserGoku00 stole brick from you
+UserLookaside rolled dice_3 dice_3
+UserGoku00 got grain
+UserLookaside got lumbergrain
+UserLookaside gave bank graingraingrain and took ore
+UserGoku00 rolled dice_1 dice_6
+UserGoku00 moved robber robber to prob_9 brick tile
+UserGoku00 stole grain from you
+UserGoku00 used Year of Plenty card year of plenty
+UserGoku00 took from bank lumber lumber
+UserGoku00 built a road
+UserGoku00 built a road
+UserLookaside rolled dice_4 dice_2
+UserGoku00 got grain
+UserLookaside got lumbergrain
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside built a city (+1 VP)
+UserGoku00 rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_6
+UserGoku00 got ore
+UserLookaside got woolwoolwool
+UserGoku00 rolled dice_2 dice_1
+UserGoku00 got woolwoolwool
+UserLookaside got brickbrickwool
+UserGoku00 gave bank graingraingraingrain and took lumber
+UserGoku00 built a settlement (+1 VP)
+UserGoku00 bought development card
+UserLookaside rolled dice_1 dice_3
+UserGoku00 got lumberlumber
+UserLookaside got grain
+UserGoku00 rolled dice_5 dice_5
+UserGoku00 got woolwool
+UserLookaside got lumberlumberlumber
+UserLookaside rolled dice_4 dice_1
+UserGoku00 got brickbrick
+UserLookaside got woolwoolbrickbrick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank woolwoolwool and took ore
+UserGoku00 rolled dice_2 dice_2
+UserGoku00 got lumberlumber
+UserLookaside got graingrain
+UserGoku00 used Road Building card road building
+UserGoku00 placed a road
+UserGoku00 placed a road
+Userlongest road passed from Lookaside to Goku00 (+2 VPs)
+UserGoku00 built a road
+UserLookaside rolled dice_3 dice_5
+UserGoku00 got graingrain
+UserLookaside got graingraingraingrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from Goku00 to Lookaside (+2 VPs)
+UserLookaside bought development card
+UserGoku00 rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+UserGoku00 got oreore
+UserGoku00 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserGoku00 got graingraingrain
+UserLookaside got lumbergraingrain
+UserGoku00 rolled dice_3 dice_4
+UserGoku00 discarded lumberwoolwoolgraingrain
+UserGoku00 moved robber robber to prob_5 wool tile
+UserGoku00 stole lumber from you
+UserGoku00 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+UserGoku00 got oreore
+UserLookaside got woolwoolwoolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 2 ore
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+UserGoku00 rolled dice_6 dice_1
+UserGoku00 moved robber robber to prob_11 wool tile
+UserGoku00 stole grain from you
+UserLookaside rolled dice_5 dice_3
+UserGoku00 got graingrain
+UserLookaside got graingraingraingraingrain
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+UserGoku00 rolled dice_3 dice_2
+UserGoku00 got brickbrick
+UserLookaside got woolwoolbrickbrick
+UserGoku00 built a road
+UserGoku00 built a road
+UserLookaside rolled dice_3 dice_6
+UserGoku00 got oreore
+UserLookaside got brickbrick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+UserGoku00 rolled dice_4 dice_5
+UserGoku00 got oreore
+UserLookaside got brickbrick
+UserGoku00 built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole ore from Goku00
+UserLookaside rolled dice_2 dice_3
+UserGoku00 got brickbrick
+UserLookaside got woolwoolbrickbrick
+UserLookaside gave bank brickbrickbrickwoolwoolwool and took lumberlumber
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside built a road
+UserGoku00 used Knight card knight
+UserGoku00 received largest army (+2 VPs)
+UserGoku00 moved robber robber to prob_5 wool tile
+UserNo player to steal from
+UserGoku00 rolled dice_4 dice_6
+UserGoku00 got woolwool
+UserLookaside got lumberlumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from Goku00
+UserLookaside rolled dice_2 dice_6
+UserGoku00 got graingrain
+UserLookaside got graingraingraingraingrain
+UserLookaside gave bank graingraingrain and took brick
+UserLookaside built a settlement (+1 VP)
+UserGoku00 used Knight card knight
+UserGoku00 moved robber robber to prob_5 wool tile
+UserGoku00 stole lumber from you
+UserGoku00 rolled dice_6 dice_6
+UserGoku00 got lumberlumberlumber
+UserGoku00 built a road
+UserGoku00 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole grain from Goku00
+UserGoku00 rolled dice_6 dice_5
+UserGoku00 got oreoreore
+UserLookaside got woolwoolwoolwool
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole lumber from Goku00
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+trophyUserLookaside won the game!trophy
+UserLookaside: gg
+Send a message
+Send message
+No Ads

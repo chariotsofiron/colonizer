@@ -1,0 +1,345 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: glhf
+UserLookaside: wp
+GuesttheCTNprince: not sure..
+GuesttheCTNprince: now u surprised me
+UserLookaside: you're hangin in there
+GuesttheCTNprince: i know
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuesttheCTNprince placed a settlement
+GuesttheCTNprince placed a road
+GuesttheCTNprince placed a settlement
+GuesttheCTNprince placed a road
+GuesttheCTNprince received starting resources brickbricklumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources grainlumberwool
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 lumber tile
+UserNo player to steal from
+GuesttheCTNprince rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuesttheCTNprince moved robber robber to Desert
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_2
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+GuesttheCTNprince rolled dice_1 dice_3
+UserLookaside rolled dice_2 dice_3
+GuesttheCTNprince got wool
+UserLookaside got graingrain
+GuesttheCTNprince rolled dice_4 dice_6
+GuesttheCTNprince got grain
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_5
+GuesttheCTNprince got brick
+UserLookaside got brick
+UserLookaside built a road
+GuesttheCTNprince rolled dice_3 dice_5
+GuesttheCTNprince got grain
+UserLookaside rolled dice_5 dice_5
+GuesttheCTNprince got grain
+UserLookaside got ore
+GuesttheCTNprince rolled dice_4 dice_4
+GuesttheCTNprince got grain
+GuesttheCTNprince built a road
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 grain tile
+UserNo player to steal from
+GuesttheCTNprince rolled dice_5 dice_1
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+GuesttheCTNprince built a road
+GuesttheCTNprince built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+GuesttheCTNprince got wool
+UserLookaside got wool
+GuesttheCTNprince rolled dice_6 dice_6
+GuesttheCTNprince got brick
+UserLookaside rolled dice_5 dice_4
+GuesttheCTNprince got bricklumber
+UserLookaside got brick
+UserLookaside built a road
+GuesttheCTNprince rolled dice_2 dice_4
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+GuesttheCTNprince built a road
+GuesttheCTNprince built a road
+GuesttheCTNprince received longest road (+2 VPs)
+UserLookaside rolled dice_5 dice_3
+GuesttheCTNprince got grain
+UserLookaside bought development card
+GuesttheCTNprince rolled dice_6 dice_5
+GuesttheCTNprince got wool
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole grain from theCTNprince
+GuesttheCTNprince rolled dice_1 dice_5
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_6
+GuesttheCTNprince got bricklumber
+UserLookaside got brick
+UserLookaside built a settlement (+1 VP)
+GuesttheCTNprince rolled dice_1 dice_1
+GuesttheCTNprince built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole wool from theCTNprince
+GuesttheCTNprince rolled dice_1 dice_4
+GuesttheCTNprince got wool
+UserLookaside got graingraingrain
+UserLookaside rolled dice_3 dice_6
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brick
+UserLookaside built a road
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a settlement (+1 VP)
+GuesttheCTNprince rolled dice_6 dice_3
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brick
+GuesttheCTNprince built a road
+GuesttheCTNprince built a road
+UserLookaside rolled dice_4 dice_6
+GuesttheCTNprince got graingrain
+UserLookaside got oreore
+GuesttheCTNprince rolled dice_1 dice_5
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_5
+GuesttheCTNprince got wool
+UserLookaside got wool
+GuesttheCTNprince rolled dice_3 dice_4
+GuesttheCTNprince discarded lumberlumberlumberwoolgrain
+GuesttheCTNprince moved robber robber to prob_10 ore tile
+GuesttheCTNprince stole wool from you
+UserLookaside rolled dice_3 dice_3
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole wool from theCTNprince
+GuesttheCTNprince rolled dice_6 dice_2
+GuesttheCTNprince got grain
+UserLookaside got woolwool
+UserLookaside rolled dice_5 dice_1
+GuesttheCTNprince got lumber
+UserLookaside got lumber
+UserLookaside gave bank lumberlumberlumberwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+GuesttheCTNprince rolled dice_1 dice_1
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from theCTNprince
+GuesttheCTNprince rolled dice_5 dice_4
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brickbrick
+GuesttheCTNprince built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+GuesttheCTNprince got brick
+GuesttheCTNprince rolled dice_2 dice_1
+GuesttheCTNprince built a road
+UserLookaside rolled dice_5 dice_6
+GuesttheCTNprince got wool
+UserLookaside got wool
+GuesttheCTNprince rolled dice_4 dice_5
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brickbrick
+GuesttheCTNprince built a road
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole lumber from theCTNprince
+UserLookaside built a road
+UserLookaside built a road
+GuesttheCTNprince rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingrain
+UserLookaside rolled dice_1 dice_4
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+GuesttheCTNprince rolled dice_5 dice_3
+GuesttheCTNprince got grain
+UserLookaside got woolwool
+UserLookaside rolled dice_2 dice_6
+GuesttheCTNprince got grain
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+GuesttheCTNprince rolled dice_3 dice_5
+GuesttheCTNprince got grain
+UserLookaside got woolwool
+GuesttheCTNprince gave bank graingrain and took ore
+GuesttheCTNprince gave bank graingrain and took ore
+GuesttheCTNprince bought development card
+UserLookaside rolled dice_4 dice_1
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank lumber lumber
+UserLookaside gave bank graingraingraingraingraingrain and took lumberbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuesttheCTNprince rolled dice_6 dice_1
+GuesttheCTNprince moved robber robber to prob_5 grain tile
+GuesttheCTNprince stole wool from you
+UserLookaside rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuesttheCTNprince got woolwool
+GuesttheCTNprince rolled dice_2 dice_2
+GuesttheCTNprince got brick
+UserLookaside got lumberbrick
+GuesttheCTNprince built a road
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole lumber from theCTNprince
+UserLookaside built a road
+GuesttheCTNprince rolled dice_4 dice_4
+GuesttheCTNprince got grain
+UserLookaside got grainwoolwool
+GuesttheCTNprince used Year of Plenty card year of plenty
+GuesttheCTNprince took from bank ore ore
+GuesttheCTNprince built a city (+1 VP)
+UserLookaside rolled dice_6 dice_6
+GuesttheCTNprince got brick
+GuesttheCTNprince rolled dice_3 dice_1
+GuesttheCTNprince got brick
+UserLookaside got lumberbrick
+UserLookaside rolled dice_5 dice_5
+GuesttheCTNprince got graingraingrain
+UserLookaside got oreoreore
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuesttheCTNprince rolled dice_1 dice_4
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingraingrain
+UserLookaside rolled dice_5 dice_1
+GuesttheCTNprince got lumber
+UserLookaside got lumberlumber
+GuesttheCTNprince rolled dice_5 dice_2
+GuesttheCTNprince moved robber robber to prob_10 ore tile
+GuesttheCTNprince stole lumber from you
+GuesttheCTNprince gave bank graingrain and took ore
+GuesttheCTNprince bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole lumber from theCTNprince
+GuesttheCTNprince rolled dice_3 dice_6
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brickbrick
+GuesttheCTNprince built a road
+UserLookaside rolled dice_2 dice_1
+UserLookaside got graingrain
+UserLookaside gave bank graingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuesttheCTNprince rolled dice_2 dice_3
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingraingrain
+UserLookaside rolled dice_1 dice_3
+GuesttheCTNprince got brick
+UserLookaside got lumberbrickbrick
+UserLookaside gave bank lumberlumberlumberbrickbrickbrickgraingraingrain and took oreoreore
+UserLookaside built a city (+1 VP)
+GuesttheCTNprince rolled dice_6 dice_4
+GuesttheCTNprince got graingraingrain
+UserLookaside got oreoreore
+GuesttheCTNprince used Road Building card road building
+GuesttheCTNprince placed a road
+GuesttheCTNprince placed a road
+GuesttheCTNprince built a settlement (+1 VP)
+GuesttheCTNprince built a road
+UserLookaside rolled dice_6 dice_5
+GuesttheCTNprince got orewool
+UserLookaside got orewool
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+GuesttheCTNprince rolled dice_4 dice_2
+GuesttheCTNprince got lumber
+UserLookaside got lumberlumberlumber
+GuesttheCTNprince bought development card
+UserLookaside rolled dice_3 dice_3
+GuesttheCTNprince got lumber
+UserLookaside got lumberlumberlumber
+GuesttheCTNprince rolled dice_3 dice_5
+GuesttheCTNprince got graingrain
+UserLookaside got graingrainwoolwoolwoolwool
+GuesttheCTNprince gave bank lumberlumber and took ore
+GuesttheCTNprince bought development card
+UserLookaside rolled dice_4 dice_1
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingraingraingraingrain
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumberlumberlumberlumber and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+GuesttheCTNprince used Knight card knight
+GuesttheCTNprince moved robber robber to prob_5 grain tile
+GuesttheCTNprince stole grain from you
+GuesttheCTNprince rolled dice_3 dice_4
+GuesttheCTNprince moved robber robber to prob_8 wool tile
+GuesttheCTNprince stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole brick from theCTNprince
+UserLookaside rolled dice_1 dice_1
+GuesttheCTNprince rolled dice_4 dice_5
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brickbrick
+UserLookaside rolled dice_4 dice_6
+GuesttheCTNprince got graingraingrain
+UserLookaside got oreoreore
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole lumber from theCTNprince
+UserLookaside built a road
+GuesttheCTNprince rolled dice_3 dice_6
+GuesttheCTNprince got bricklumberlumber
+UserLookaside got brickbrick
+GuesttheCTNprince used Monopoly card monopoly
+GuesttheCTNprince stole 3 ore
+GuesttheCTNprince built a city (+1 VP)
+GuesttheCTNprince gave bank graingrain and took wool
+GuesttheCTNprince built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+GuesttheCTNprince got lumberlumber
+UserLookaside got lumberlumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole lumber from theCTNprince
+UserLookaside built a road
+UserLookaside built a road
+GuesttheCTNprince rolled dice_5 dice_1
+GuesttheCTNprince got lumberlumber
+UserLookaside got lumberlumberlumber
+GuesttheCTNprince gave bank lumberlumberlumberlumber and took woolore
+GuesttheCTNprince bought development card
+UserLookaside rolled dice_3 dice_5
+GuesttheCTNprince got graingrain
+UserLookaside got graingrainwoolwoolwoolwool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+No Ads

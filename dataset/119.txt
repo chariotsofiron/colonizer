@@ -1,0 +1,243 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestAllieTrish placed a settlement
+GuestAllieTrish placed a road
+GuestAllieTrish placed a settlement
+GuestAllieTrish placed a road
+GuestAllieTrish received starting resources: bricklumbergrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: oregrainlumber
+UserLookaside rolled: dice_1 dice_2
+GuestAllieTrish got: lumber
+UserLookaside got: grain
+GuestAllieTrish rolled: dice_2 dice_1
+GuestAllieTrish got: lumber
+UserLookaside got: grain
+GuestAllieTrish built a road
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: lumberore
+GuestAllieTrish rolled: dice_6 dice_2
+GuestAllieTrish got: ore
+UserLookaside got: ore
+UserLookaside rolled: dice_6 dice_6
+UserLookaside built a city: +1 VP
+GuestAllieTrish rolled: dice_4 dice_2
+GuestAllieTrish got: brick
+UserLookaside rolled: dice_2 dice_4
+GuestAllieTrish got: brick
+GuestAllieTrish rolled: dice_1 dice_4
+GuestAllieTrish got: wool
+UserLookaside got: brickbrick
+GuestAllieTrish built a settlement: +1 VP
+GuestAllieTrish built a road
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: ore from: AllieTrish
+UserLookaside built a road
+GuestAllieTrish rolled: dice_3 dice_5
+GuestAllieTrish got: orewool
+UserLookaside got: ore
+UserLookaside rolled: dice_2 dice_6
+GuestAllieTrish got: orewool
+UserLookaside got: ore
+GuestAllieTrish rolled: dice_2 dice_3
+GuestAllieTrish got: wool
+UserLookaside got: brickbrick
+UserLookaside rolled: dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestAllieTrish rolled: dice_3 dice_1
+GuestAllieTrish got: ore
+UserLookaside got: lumberoreore
+UserLookaside rolled: dice_3 dice_4
+Lookaside discarding resource cards
+UserLookaside discarded: lumberbrickbrickoreore
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: wool from: AllieTrish
+UserLookaside built a settlement: +1 VP
+GuestAllieTrish rolled: dice_5 dice_5
+GuestAllieTrish got: wool
+UserLookaside got: graingraingrain
+UserLookaside rolled: dice_5 dice_3
+GuestAllieTrish got: orewool
+UserLookaside got: ore
+UserLookaside built a city: +1 VP
+GuestAllieTrish rolled: dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+UserLookaside rolled: dice_2 dice_2
+GuestAllieTrish got: ore
+UserLookaside got: lumberlumberoreore
+UserLookaside bought development card
+GuestAllieTrish rolled: dice_1 dice_5
+GuestAllieTrish got: brick
+GuestAllieTrish gave bank: oreoreoreore and took lumber
+GuestAllieTrish built a road
+UserLookaside rolled: dice_1 dice_1
+GuestAllieTrish rolled: dice_5 dice_2
+GuestAllieTrish moved robber robber to prob_10 grain tile
+GuestAllieTrish stole: ore from you
+UserLookaside rolled: dice_4 dice_5
+GuestAllieTrish got: grain
+UserLookaside got: wool
+GuestAllieTrish rolled: dice_4 dice_4
+GuestAllieTrish got: orewool
+UserLookaside got: oreore
+GuestAllieTrish gave bank: woolwoolwoolwool and took grain
+GuestAllieTrish built a city: +1 VP
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: wool from: AllieTrish
+GuestAllieTrish rolled: dice_6 dice_1
+GuestAllieTrish moved robber robber to prob_10 grain tile
+GuestAllieTrish stole: ore from you
+UserLookaside rolled: dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestAllieTrish got: wool
+GuestAllieTrish rolled: dice_3 dice_6
+GuestAllieTrish got: graingrain
+UserLookaside got: wool
+UserLookaside rolled: dice_3 dice_3
+GuestAllieTrish got: brickbrick
+GuestAllieTrish rolled: dice_6 dice_5
+UserLookaside rolled: dice_2 dice_1
+GuestAllieTrish got: lumberlumberlumber
+UserLookaside got: graingrain
+UserLookaside bought development card
+GuestAllieTrish rolled: dice_4 dice_1
+GuestAllieTrish got: wool
+UserLookaside got: brickbrick
+GuestAllieTrish built a settlement: +1 VP
+GuestAllieTrish built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: AllieTrish
+UserLookaside rolled: dice_2 dice_6
+GuestAllieTrish got: orewool
+UserLookaside got: oreore
+UserLookaside built a road
+GuestAllieTrish rolled: dice_3 dice_5
+GuestAllieTrish got: orewool
+UserLookaside got: oreore
+GuestAllieTrish gave bank: woolwool and took grain
+GuestAllieTrish built a city: +1 VP
+UserLookaside rolled: dice_1 dice_4
+GuestAllieTrish got: woolwool
+UserLookaside got: brickbrick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+GuestAllieTrish rolled: dice_6 dice_3
+GuestAllieTrish got: graingrain
+UserLookaside got: wool
+UserLookaside rolled: dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestAllieTrish rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestAllieTrish gave bank: woolwool and took ore
+GuestAllieTrish bought development card
+UserLookaside rolled: dice_3 dice_2
+GuestAllieTrish got: woolwool
+UserLookaside got: brickbrick
+UserLookaside gave bank: oreoreore and took lumber
+UserLookaside built a road
+GuestAllieTrish rolled: dice_5 dice_3
+GuestAllieTrish got: oreorewool
+UserLookaside got: oreore
+UserLookaside rolled: dice_3 dice_1
+GuestAllieTrish got: ore
+UserLookaside got: lumberlumberoreore
+UserLookaside gave bank: oreoreore and took grain
+UserLookaside built a settlement: +1 VP
+UserLookaside gave bank: oreoreore and took grain
+UserLookaside built a settlement: +1 VP
+GuestAllieTrish rolled: dice_5 dice_6
+UserLookaside got: grainoreore
+GuestAllieTrish gave bank: woolwool and took grain
+GuestAllieTrish built a city: +1 VP
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole: wool from: AllieTrish
+UserLookaside bought development card
+GuestAllieTrish rolled: dice_6 dice_6
+UserLookaside rolled: dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestAllieTrish got: oreore
+UserLookaside got: oreore
+GuestAllieTrish rolled: dice_5 dice_4
+GuestAllieTrish got: graingrain
+UserLookaside got: woolgrain
+UserLookaside rolled: dice_1 dice_2
+GuestAllieTrish got: lumberlumberlumberlumber
+UserLookaside got: graingraingraingrain
+UserLookaside built a city: +1 VP
+GuestAllieTrish rolled: dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestAllieTrish got: oreore
+UserLookaside got: oreore
+GuestAllieTrish built a city: +1 VP
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: AllieTrish
+UserLookaside bought development card
+GuestAllieTrish rolled: dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+UserLookaside rolled: dice_1 dice_2
+GuestAllieTrish got: lumberlumberlumberlumber
+UserLookaside got: graingraingraingrain
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside gave bank: graingraingrain and took wool
+UserLookaside bought development card
+GuestAllieTrish rolled: dice_3 dice_2
+GuestAllieTrish got: woolwool
+UserLookaside got: brickbrick
+GuestAllieTrish gave bank: lumberlumberlumberlumber and took brick
+UserLookaside rolled: dice_2 dice_6
+GuestAllieTrish got: oreorewoolwool
+UserLookaside got: oreore
+GuestAllieTrish rolled: dice_3 dice_6
+GuestAllieTrish got: graingrain
+UserLookaside got: woolgraingrain
+GuestAllieTrish used Road Building card road building
+GuestAllieTrish placed a road
+GuestAllieTrish placed a road
+Guestlongest road passed from: Lookaside to: AllieTrish: +2 VPs
+GuestAllieTrish built a settlement: +1 VP
+GuestAllieTrish bought development card
+UserLookaside rolled: dice_5 dice_4
+GuestAllieTrish got: graingrain
+UserLookaside got: woolgraingrain
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside built a city: +1 VP
+GuestAllieTrish rolled: dice_1 dice_3
+GuestAllieTrish got: oreore
+UserLookaside got: lumberlumberoreoreoreore
+GuestAllieTrish bought development card
+GuestAllieTrish bought development card
+UserLookaside rolled: dice_5 dice_3
+GuestAllieTrish got: oreorewoolwoolwool
+UserLookaside got: oreore
+UserLookaside built a road
+Userlongest road passed from: AllieTrish to: Lookaside: +2 VPs
+UserLookaside built a road
+UserLookaside gave bank: oreoreoreoreoreore and took lumberbrick
+UserLookaside built a settlement: +1 VP
+trophy Lookaside won the game! trophy
+Send a message
+
+Discover the random hexes that lie beneath the fog

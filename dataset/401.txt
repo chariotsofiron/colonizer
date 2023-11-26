@@ -1,0 +1,334 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserGabigordo placed a settlement
+UserGabigordo placed a road
+UserGabigordo placed a settlement
+UserGabigordo received starting resources grainwoolwool
+UserGabigordo placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources woollumberbrick
+UserLookaside placed a road
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 lumber tile
+UserNo player to steal from
+UserGabigordo rolled dice_3 dice_1
+prob_4 lumber tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+UserGabigordo rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserGabigordo moved robber robber to prob_2 ore tile
+UserNo player to steal from
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+UserGabigordo rolled dice_6 dice_5
+UserGabigordo got wool
+UserLookaside rolled dice_5 dice_1
+UserLookaside got grain
+UserGabigordo got grain
+UserGabigordo rolled dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_1 dice_1
+UserGabigordo rolled dice_2 dice_1
+UserGabigordo got wool
+UserLookaside rolled dice_6 dice_3
+UserLookaside got grain
+UserGabigordo rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserGabigordo moved robber robber to prob_9 ore tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+UserGabigordo rolled dice_3 dice_5
+UserLookaside got lumber
+UserGabigordo got lumber
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumber
+UserGabigordo got lumber
+UserGabigordo rolled dice_4 dice_2
+UserLookaside got grain
+UserGabigordo got grain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got wool
+UserGabigordo got brick
+UserLookaside built a road
+UserGabigordo rolled dice_4 dice_3
+UserGabigordo discarded woolwoolwoolgraingrain
+robberFriendly Robber is active, tiles available to block are limited
+UserGabigordo moved robber robber to prob_9 ore tile
+UserNo player to steal from
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+UserGabigordo got brick
+UserGabigordo rolled dice_1 dice_3
+UserGabigordo built a road
+UserGabigordo built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+UserGabigordo got lumber
+UserLookaside gave bank graingraingraingrain and took brick
+UserGabigordo rolled dice_5 dice_6
+UserGabigordo got woolgrain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brickbrick
+UserGabigordo got brickbrick
+UserLookaside built a road
+UserGabigordo rolled dice_2 dice_4
+UserLookaside got grain
+UserGabigordo got grain
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserGabigordo got lumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserGabigordo rolled dice_1 dice_1
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_3
+UserGabigordo got lumber
+UserGabigordo rolled dice_5 dice_3
+UserLookaside got lumber
+UserGabigordo got lumber
+UserGabigordo built a road
+UserLookaside rolled dice_5 dice_4
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserGabigordo rolled dice_6 dice_1
+UserGabigordo moved robber robber to prob_8 lumber tile
+UserGabigordo stole grain from you
+UserLookaside rolled dice_1 dice_5
+UserLookaside got grain
+UserGabigordo got grain
+UserGabigordo rolled dice_1 dice_6
+UserGabigordo moved robber robber to prob_10 wool tile
+UserGabigordo stole lumber from you
+UserLookaside rolled dice_4 dice_6
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserGabigordo got brick
+UserGabigordo rolled dice_3 dice_1
+UserGabigordo got lumber
+UserGabigordo built a road
+UserGabigordo built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumber
+UserGabigordo got lumber
+UserGabigordo rolled dice_3 dice_6
+UserLookaside got grainore
+UserGabigordo got ore
+UserLookaside rolled dice_2 dice_2
+UserGabigordo got lumberlumber
+UserLookaside bought development card
+UserGabigordo rolled dice_3 dice_5
+UserLookaside got lumber
+UserGabigordo got lumber
+UserGabigordo gave bank lumberlumberlumberlumber and took ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from Gabigordo
+UserLookaside rolled dice_5 dice_1
+UserLookaside got grain
+UserGabigordo got grain
+UserGabigordo rolled dice_4 dice_3
+UserGabigordo moved robber robber to prob_10 wool tile
+UserGabigordo stole lumber from you
+UserLookaside rolled dice_3 dice_2
+UserLookaside got brickbrick
+UserGabigordo got brickbrick
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+UserGabigordo rolled dice_3 dice_4
+UserGabigordo discarded lumberlumbergraingraingrain
+UserGabigordo moved robber robber to prob_8 lumber tile
+UserGabigordo stole ore from you
+UserLookaside rolled dice_5 dice_6
+UserGabigordo got woolgrain
+UserGabigordo rolled dice_2 dice_3
+UserLookaside got brickbrick
+UserGabigordo got brickbrick
+UserGabigordo gave bank brickbrickbrickbrick and took ore
+UserGabigordo built a city (+1 VP)
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwool
+UserGabigordo got brickbrick
+UserGabigordo rolled dice_6 dice_4
+UserLookaside got woolwool
+UserGabigordo got brickbrick
+UserGabigordo built a road
+UserGabigordo built a road
+Userlongest road passed from Lookaside to Gabigordo (+2 VPs)
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grainore
+UserGabigordo got ore
+UserLookaside bought development card
+UserLookaside bought development card
+UserGabigordo rolled dice_2 dice_1
+UserLookaside got ore
+UserGabigordo got orewool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from Gabigordo
+UserLookaside rolled dice_5 dice_6
+UserGabigordo got woolgrain
+UserGabigordo rolled dice_1 dice_4
+UserLookaside got brickbrick
+UserGabigordo got brickbrickbrick
+UserGabigordo bought development card
+UserLookaside rolled dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userlongest road passed from Gabigordo to Lookaside (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+UserGabigordo rolled dice_3 dice_4
+UserGabigordo moved robber robber to prob_8 lumber tile
+UserGabigordo stole wool from you
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grainore
+UserGabigordo got ore
+UserGabigordo rolled dice_6 dice_1
+UserGabigordo moved robber robber to prob_10 wool tile
+UserGabigordo stole ore from you
+UserGabigordo gave bank brickbrickbrickbrick and took grain
+UserGabigordo bought development card
+UserLookaside rolled dice_4 dice_1
+UserLookaside got brickbrick
+UserGabigordo got brickbrickbrick
+UserGabigordo rolled dice_5 dice_3
+UserLookaside got lumberlumber
+UserGabigordo got lumberlumber
+UserGabigordo built a road
+UserGabigordo built a road
+Userlongest road passed from Lookaside to Gabigordo (+2 VPs)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumbergrain
+UserGabigordo got grain
+UserLookaside built a road
+UserGabigordo rolled dice_3 dice_1
+UserLookaside got grain
+UserGabigordo got lumberlumber
+UserGabigordo built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brickbrick
+UserGabigordo got brickbrickbrick
+UserGabigordo rolled dice_1 dice_3
+UserLookaside got grain
+UserGabigordo got lumberlumber
+UserGabigordo used Year of Plenty card year of plenty
+UserGabigordo took from bank grain grain
+UserGabigordo gave bank brickbrick and took ore
+UserGabigordo built a city (+1 VP)
+UserLookaside rolled dice_6 dice_4
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserGabigordo got brickbrick
+UserLookaside built a road
+Userlongest road passed from Gabigordo to Lookaside (+2 VPs)
+UserGabigordo rolled dice_6 dice_3
+UserLookaside got grainore
+UserGabigordo got ore
+UserGabigordo built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grainore
+UserGabigordo got ore
+UserLookaside built a city (+1 VP)
+UserGabigordo rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumbergraingrain
+UserGabigordo got graingrain
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+UserGabigordo rolled dice_2 dice_5
+UserGabigordo moved robber robber to prob_8 lumber tile
+UserGabigordo stole brick from you
+UserGabigordo built a settlement (+1 VP)
+UserGabigordo built a road
+Userlongest road passed from Lookaside to Gabigordo (+2 VPs)
+UserLookaside rolled dice_1 dice_2
+UserLookaside got orewool
+UserGabigordo got oreorewoolwool
+UserLookaside bought development card
+UserGabigordo rolled dice_5 dice_2
+UserGabigordo moved robber robber to prob_10 wool tile
+UserGabigordo stole lumber from you
+UserGabigordo built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from Gabigordo
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwool
+UserGabigordo got brickbrickbrick
+UserGabigordo rolled dice_1 dice_6
+UserGabigordo moved robber robber to prob_8 lumber tile
+UserGabigordo stole ore from you
+UserGabigordo gave bank brickbrick and took grain
+UserGabigordo bought development card
+UserLookaside rolled dice_2 dice_1
+UserLookaside got orewool
+UserGabigordo got oreorewoolwool
+UserGabigordo rolled dice_3 dice_2
+UserLookaside got brickbrickbrick
+UserGabigordo got brickbrickbrick
+UserGabigordo gave bank brickbrickbrickbrick and took graingrain
+UserGabigordo built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from Gabigordo
+UserGabigordo rolled dice_6 dice_5
+UserGabigordo got woolwoolgrain
+UserGabigordo bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from Gabigordo
+UserLookaside gave bank brickbrickbrick and took grain
+UserLookaside bought development card
+UserGabigordo rolled dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserGabigordo got graingrain
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumberlumberlumber
+UserGabigordo got lumberlumber
+UserLookaside gave bank lumberlumberlumber and took ore
+UserGabigordo rolled dice_2 dice_2
+UserLookaside got grain
+UserGabigordo got lumberlumberlumber
+UserGabigordo gave bank lumberlumberlumberlumber and took ore
+UserGabigordo bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumbergraingrain
+UserGabigordo got graingrain
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside built a city (+1 VP)
+UserGabigordo rolled dice_4 dice_1
+UserLookaside got brickbrickbrickbrick
+UserGabigordo got brickbrickbrick
+UserGabigordo used Monopoly card monopoly
+UserGabigordo stole 4 brick
+UserGabigordo gave bank brickbrick and took lumber
+UserGabigordo built a road
+UserGabigordo built a settlement (+1 VP)
+trophyUserGabigordo won the game!trophy
+UserGabigordo has left the game
+Thank you for playing. Game is closed, cannot create a rematch anymore
+Chat now disabled
+Send a message
+Send message

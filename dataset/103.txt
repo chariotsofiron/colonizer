@@ -1,0 +1,211 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestBot is placing a settlement for Germandalf
+GuestGermandalf placed a settlement
+GuestGermandalf placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberlumberbrick
+GuestGermandalf placed a settlement
+GuestGermandalf placed a road
+GuestGermandalf received starting resources: grainorelumber
+GuestGermandalf rolled: dice_3 dice_5
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: brick
+GuestGermandalf got: brick
+GuestGermandalf rolled: dice_1 dice_1
+GuestGermandalf got: grain
+GuestGermandalf built a road
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: lumber
+GuestGermandalf rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestGermandalf moved robber robber to prob_8 ore tile
+GuestNo player to steal from
+UserLookaside rolled: dice_5 dice_6
+GuestGermandalf rolled: dice_6 dice_6
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: ore
+GuestGermandalf rolled: dice_1 dice_3
+UserLookaside got: lumber
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brick
+GuestGermandalf got: brick
+UserLookaside built a road
+GuestGermandalf rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuestGermandalf moved robber robber to prob_5 grain tile
+GuestNo player to steal from
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: lumberlumber
+GuestGermandalf got: lumber
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+GuestGermandalf rolled: dice_6 dice_3
+GuestGermandalf got: brickore
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 grain tile
+UserNo player to steal from
+GuestGermandalf rolled: dice_1 dice_2
+UserLookaside got: ore
+UserLookaside rolled: dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestGermandalf got: wool
+GuestGermandalf rolled: dice_2 dice_2
+UserLookaside got: lumber
+GuestGermandalf built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: lumber
+GuestGermandalf rolled: dice_2 dice_6
+UserLookaside got: lumber
+UserLookaside rolled: dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestGermandalf got: wool
+UserLookaside gave bank: lumberlumberlumberlumber and took wool
+UserLookaside built a settlement: +1 VP
+GuestGermandalf rolled: dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestGermandalf got: wool
+GuestGermandalf bought development card
+UserLookaside rolled: dice_5 dice_4
+GuestGermandalf got: brickoreore
+GuestGermandalf rolled: dice_3 dice_6
+GuestGermandalf got: brickoreore
+GuestGermandalf used Knight card knight
+GuestGermandalf moved robber robber to prob_8 lumber tile
+GuestGermandalf stole: ore from you
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: lumber
+GuestGermandalf rolled: dice_5 dice_5
+UserLookaside got: lumberlumber
+GuestGermandalf got: lumber
+GuestGermandalf built a road
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: lumber
+UserLookaside gave bank: lumberlumber and took wool
+GuestGermandalf rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole: ore from: Germandalf
+GuestGermandalf rolled: dice_2 dice_6
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: grainbrick
+GuestGermandalf got: brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestGermandalf rolled: dice_5 dice_4
+GuestGermandalf got: brickoreore
+GuestGermandalf gave bank: oreoreoreore and took grain
+GuestGermandalf bought development card
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: orelumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took graingrain
+UserLookaside built a city: +1 VP
+GuestGermandalf used Knight card knight
+GuestGermandalf moved robber robber to prob_8 lumber tile
+GuestNo player to steal from
+GuestGermandalf rolled: dice_4 dice_3
+GuestGermandalf moved robber robber to prob_4 lumber tile
+GuestNo player to steal from
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole: brick from: Germandalf
+GuestGermandalf rolled: dice_2 dice_1
+UserLookaside got: brickore
+GuestGermandalf got: brick
+UserLookaside rolled: dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestGermandalf got: wool
+GuestGermandalf rolled: dice_1 dice_4
+UserLookaside got: grainbrickbrick
+GuestGermandalf got: brick
+UserLookaside rolled: dice_1 dice_1
+GuestGermandalf got: grain
+GuestGermandalf rolled: dice_3 dice_1
+UserLookaside got: lumberlumberlumber
+GuestGermandalf bought development card
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: brickore
+GuestGermandalf got: brick
+UserLookaside gave bank: brickbrickbrickbrick and took wool
+GuestGermandalf used Knight card knight
+GuestGermandalf received largest army: +2 VPs
+GuestGermandalf moved robber robber to prob_4 lumber tile
+GuestGermandalf stole: lumber from you
+GuestGermandalf rolled: dice_4 dice_6
+UserLookaside got: lumberlumberlumber
+GuestGermandalf got: lumber
+UserLookaside rolled: dice_5 dice_1
+GuestGermandalf got: grainwool
+UserLookaside gave bank: lumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestGermandalf rolled: dice_3 dice_4
+Germandalf discarding resource cards
+GuestGermandalf discarded: brickbrickbrickbrickbrick
+GuestGermandalf moved robber robber to prob_10 lumber tile
+GuestGermandalf stole: lumber from you
+GuestGermandalf built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: oreorelumberlumber
+GuestGermandalf rolled: dice_2 dice_3
+UserLookaside got: grainbrickbrick
+GuestGermandalf got: brick
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: lumberlumberlumber
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside built a city: +1 VP
+UserLookaside built a road
+UserLookaside built a road
+GuestGermandalf rolled: dice_5 dice_3
+UserLookaside got: oreorelumberlumberlumber
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: grainbrickbrick
+GuestGermandalf got: brick
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside built a city: +1 VP
+GuestGermandalf rolled: dice_6 dice_5
+GuestGermandalf got: wool
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole: ore from: Germandalf
+GuestGermandalf rolled: dice_1 dice_1
+GuestGermandalf got: grain
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: brick from: Germandalf
+GuestGermandalf rolled: dice_6 dice_6
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: lumberlumberlumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took woolgrain
+UserLookaside built a settlement: +1 VP
+GuestGermandalf rolled: dice_2 dice_3
+UserLookaside got: grainbrickbrick
+GuestGermandalf got: brick
+GuestGermandalf built a road
+GuestGermandalf built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_4
+GuestGermandalf got: brickoreore
+GuestGermandalf rolled: dice_2 dice_6
+UserLookaside got: oreoreorelumberlumberlumber
+UserLookaside rolled: dice_5 dice_2
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumberbrickbrickbrickbrick
+GuestGermandalf Resigned
+trophy Lookaside won the game! trophy
+GuestGermandalf has left the game
+Send a message

@@ -1,0 +1,391 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+GuestWhistler: gg
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestWhistler placed a settlement
+GuestWhistler placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberwoolbrick
+GuestWhistler placed a settlement
+GuestWhistler placed a road
+GuestWhistler received starting resources: lumberlumberbrick
+GuestWhistler rolled: dice_4 dice_1
+UserLookaside got: orebrick
+GuestWhistler got: brick
+GuestWhistler built a road
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: orebrick
+GuestWhistler got: brick
+GuestWhistler rolled: dice_5 dice_3
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: wool
+GuestWhistler rolled: dice_1 dice_4
+UserLookaside got: orebrick
+GuestWhistler got: brick
+UserLookaside rolled: dice_1 dice_6
+Lookaside discarding resource cards
+UserLookaside discarded: brickbrickwooloreore
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 ore tile
+UserNo player to steal from
+GuestWhistler rolled: dice_1 dice_2
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: grain
+GuestWhistler got: grain
+UserLookaside built a road
+GuestWhistler rolled: dice_1 dice_3
+GuestWhistler got: lumber
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: wool
+GuestWhistler got: lumber
+GuestWhistler rolled: dice_4 dice_2
+UserLookaside got: lumber
+GuestWhistler got: lumber
+GuestWhistler gave bank: lumberlumberlumberlumber and took wool
+UserLookaside rolled: dice_2 dice_2
+GuestWhistler got: lumber
+UserLookaside built a road
+GuestWhistler rolled: dice_2 dice_1
+UserLookaside rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 ore tile
+UserNo player to steal from
+GuestWhistler rolled: dice_6 dice_2
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 ore tile
+UserNo player to steal from
+GuestWhistler rolled: dice_3 dice_3
+UserLookaside got: lumber
+GuestWhistler got: lumber
+GuestWhistler built a road
+GuestWhistler built a road
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 ore tile
+UserNo player to steal from
+GuestWhistler rolled: dice_5 dice_1
+UserLookaside got: lumber
+GuestWhistler got: lumber
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_6
+prob_8 ore tile is blocked by the robber. No resources produced.
+GuestWhistler rolled: dice_5 dice_5
+UserLookaside got: grain
+GuestWhistler got: grain
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: orebrick
+GuestWhistler got: brickbrick
+UserLookaside built a settlement: +1 VP
+GuestWhistler rolled: dice_6 dice_6
+GuestWhistler got: brickbrick
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: wool
+GuestWhistler got: ore
+UserLookaside bought development card
+GuestWhistler rolled: dice_3 dice_3
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: lumber from: Whistler
+GuestWhistler rolled: dice_2 dice_1
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: wool
+GuestWhistler got: ore
+GuestWhistler rolled: dice_2 dice_6
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+UserLookaside bought development card
+GuestWhistler rolled: dice_2 dice_5
+GuestWhistler moved robber robber to prob_10 grain tile
+GuestWhistler stole: lumber from you
+GuestWhistler built a road
+GuestWhistler received longest road: +2 VPs
+GuestWhistler built a road
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: orebrick
+GuestWhistler got: brickbrick
+UserLookaside built a road
+GuestWhistler rolled: dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestWhistler got: grain
+UserLookaside rolled: dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestWhistler got: grain
+GuestWhistler rolled: dice_1 dice_4
+UserLookaside got: orebrick
+GuestWhistler got: brickbrick
+GuestWhistler gave bank: brickbrickbrickbrick and took wool
+UserLookaside rolled: dice_6 dice_6
+GuestWhistler got: brickbrick
+UserLookaside built a road
+GuestWhistler rolled: dice_6 dice_5
+UserLookaside got: wool
+GuestWhistler got: lumber
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: wool
+GuestWhistler got: ore
+GuestWhistler rolled: dice_1 dice_2
+UserLookaside got: lumber
+GuestWhistler built a city: +1 VP
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: orebrick
+GuestWhistler got: brickbrickbrick
+GuestWhistler rolled: dice_4 dice_3
+GuestWhistler moved robber robber to prob_5 ore tile
+GuestWhistler stole: wool from you
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: wool
+GuestWhistler got: lumber
+GuestWhistler rolled: dice_1 dice_3
+UserLookaside got: wool
+GuestWhistler got: woollumberlumber
+GuestWhistler built a road
+GuestWhistler gave bank: brickbrickbrickbrick and took grain
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: lumber from: Whistler
+UserLookaside gave bank: woolwoolwoolwool and took grain
+GuestWhistler rolled: dice_4 dice_4
+GuestWhistler got: oregrain
+GuestWhistler bought development card
+UserLookaside rolled: dice_1 dice_1
+GuestWhistler rolled: dice_5 dice_4
+UserLookaside got: wool
+GuestWhistler got: ore
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside built a settlement: +1 VP
+GuestWhistler rolled: dice_4 dice_2
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside rolled: dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside built a city: +1 VP
+GuestWhistler rolled: dice_1 dice_1
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole: lumber from: Whistler
+GuestWhistler rolled: dice_2 dice_5
+GuestWhistler moved robber robber to prob_5 ore tile
+GuestWhistler stole: lumber from you
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: grain
+GuestWhistler got: oregrain
+GuestWhistler rolled: dice_2 dice_4
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: wool
+GuestWhistler got: lumber
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestWhistler rolled: dice_1 dice_3
+UserLookaside got: wool
+GuestWhistler got: woollumberlumberlumber
+GuestWhistler gave bank: lumberlumberlumberlumber and took brick
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_6
+GuestWhistler got: brickbrick
+GuestWhistler rolled: dice_4 dice_6
+UserLookaside got: graingraingrain
+GuestWhistler got: graingrain
+GuestWhistler built a road
+GuestWhistler built a road
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: ore from: Whistler
+UserLookaside bought development card
+GuestWhistler rolled: dice_2 dice_2
+UserLookaside got: wool
+GuestWhistler got: woolwoollumberlumberlumber
+GuestWhistler bought development card
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: woolwool
+GuestWhistler got: ore
+GuestWhistler used Knight card knight
+GuestWhistler moved robber robber to prob_5 ore tile
+GuestWhistler stole: lumber from you
+GuestWhistler rolled: dice_3 dice_1
+UserLookaside got: wool
+GuestWhistler got: woolwoollumberlumberlumber
+GuestWhistler bought development card
+GuestWhistler gave bank: lumberlumberlumberlumber and took brick
+GuestWhistler built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: wool from: Whistler
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside gave bank: woolwoolwoolwool and took brick
+UserLookaside built a settlement: +1 VP
+GuestWhistler used Knight card knight
+GuestWhistler moved robber robber to prob_5 ore tile
+GuestWhistler stole: grain from you
+GuestWhistler rolled: dice_6 dice_4
+UserLookaside got: graingraingrain
+GuestWhistler got: graingrain
+UserLookaside rolled: dice_2 dice_3
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+GuestWhistler got: brickbrickbrick
+UserLookaside built a road
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside bought development card
+GuestWhistler rolled: dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+GuestWhistler got: brickbrickbrick
+GuestWhistler built a road
+GuestWhistler built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: brick from: Whistler
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumber
+GuestWhistler got: wool
+UserLookaside built a road
+GuestWhistler rolled: dice_6 dice_5
+UserLookaside got: wool
+GuestWhistler got: lumberlumber
+UserLookaside rolled: dice_6 dice_1
+Whistler discarding resource cards
+GuestWhistler discarded: lumberlumberbrickbrickgrain
+UserLookaside moved robber robber to prob_4 lumber tile
+UserYou stole: grain from: Whistler
+GuestWhistler rolled: dice_3 dice_3
+UserLookaside got: lumberlumber
+GuestWhistler got: lumber
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: lumber from: Whistler
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestWhistler rolled: dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: graingraingrain
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumber
+GuestWhistler got: wool
+GuestWhistler rolled: dice_2 dice_6
+UserLookaside got: grain
+GuestWhistler got: oregrain
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: wool
+GuestWhistler got: woolwoollumberlumberlumber
+GuestWhistler rolled: dice_5 dice_4
+UserLookaside got: woolwool
+GuestWhistler got: ore
+GuestWhistler gave bank: woolwoolwoolwool and took ore
+GuestWhistler built a city: +1 VP
+GuestWhistler used Monopoly card monopoly
+GuestWhistler stole 2: lumber
+GuestWhistler gave bank: lumberlumberlumberlumber and took grain
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: lumberlumber
+GuestWhistler got: woolwoolwool
+UserLookaside gave bank: graingrain and took ore
+UserLookaside bought development card
+GuestWhistler rolled: dice_3 dice_3
+UserLookaside got: grainlumberlumber
+GuestWhistler got: grainlumber
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: oreoreorebrick
+GuestWhistler got: brickbrickbrick
+UserLookaside built a city: +1 VP
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole: brick from: Whistler
+UserLookaside built a road
+UserLookaside built a road
+GuestWhistler rolled: dice_3 dice_1
+UserLookaside got: wool
+GuestWhistler got: woolwoollumberlumberlumberlumber
+GuestWhistler gave bank: lumberlumberlumberlumber and took ore
+GuestWhistler bought development card
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: grainlumberlumber
+GuestWhistler got: grainlumber
+UserLookaside gave bank: lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestWhistler used Knight card knight
+GuestWhistler moved robber robber to prob_9 wool tile
+GuestWhistler stole: wool from you
+GuestWhistler rolled: dice_4 dice_3
+Whistler discarding resource cards
+GuestWhistler discarded: lumberwoolwoolwoolwool
+GuestWhistler moved robber robber to prob_5 ore tile
+GuestWhistler stole: lumber from you
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: graingrain
+GuestWhistler got: oreoregrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: ore ore
+UserLookaside bought development card
+GuestWhistler rolled: dice_5 dice_6
+UserLookaside got: wool
+GuestWhistler got: lumberlumber
+GuestWhistler gave bank: lumberlumberlumberlumber and took ore
+GuestWhistler built a city: +1 VP
+GuestWhistler built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole: brick from: Whistler
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: wool
+GuestWhistler got: lumberlumber
+UserLookaside bought development card
+GuestWhistler rolled: dice_1 dice_1
+UserLookaside got: brick
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: oreoreorebrick
+GuestWhistler got: brickbrickbrickbrick
+GuestWhistler rolled: dice_4 dice_2
+UserLookaside got: grainlumberlumber
+GuestWhistler got: grainlumber
+GuestWhistler built a road
+GuestWhistler built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: graingraingraingrain
+GuestWhistler got: graingrain
+UserLookaside built a settlement: +1 VP
+UserLookaside built a city: +1 VP
+UserLookaside built a road
+GuestWhistler rolled: dice_6 dice_3
+UserLookaside got: woolwool
+GuestWhistler got: oreore
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole: brick from: Whistler
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole: grain from: Whistler
+UserLookaside gave bank: graingrain and took lumber
+UserLookaside built a settlement: +1 VP
+trophy Lookaside won the game! trophy

@@ -1,0 +1,345 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestDesertFiend placed a settlement
+GuestDesertFiend placed a road
+GuestDesertFiend placed a settlement
+GuestDesertFiend placed a road
+GuestDesertFiend received starting resources brickgrainbrick
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberorewool
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberore
+GuestDesertFiend got ore
+GuestDesertFiend rolled dice_1 dice_2
+GuestDesertFiend got brick
+UserLookaside rolled dice_5 dice_6
+GuestDesertFiend got brick
+GuestDesertFiend rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestDesertFiend moved robber robber to prob_6 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_2
+GuestDesertFiend rolled dice_5 dice_3
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend rolled dice_3 dice_2
+UserLookaside got lumberore
+GuestDesertFiend got ore
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_2 dice_1
+GuestDesertFiend got brick
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_1 dice_1
+UserLookaside rolled dice_1 dice_5
+UserLookaside got grain
+GuestDesertFiend got grain
+UserLookaside bought development card
+GuestDesertFiend rolled dice_3 dice_3
+UserLookaside got grain
+GuestDesertFiend got grain
+GuestDesertFiend bought development card
+UserLookaside rolled dice_4 dice_4
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend rolled dice_4 dice_1
+UserLookaside got lumberore
+GuestDesertFiend got ore
+GuestDesertFiend bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded lumberlumberwoolwoolore
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_3 dice_5
+UserLookaside got wool
+GuestDesertFiend got wool
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_4 dice_2
+UserLookaside got grain
+GuestDesertFiend got grain
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend rolled dice_3 dice_1
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_4 dice_5
+UserLookaside got brick
+UserLookaside built a road
+GuestDesertFiend rolled dice_3 dice_6
+UserLookaside got brick
+UserLookaside rolled dice_2 dice_2
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside built a settlement (+1 VP)
+GuestDesertFiend rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole ore from you
+GuestDesertFiend bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend rolled dice_1 dice_5
+UserLookaside got grain
+GuestDesertFiend got grain
+UserLookaside rolled dice_1 dice_3
+GuestDesertFiend rolled dice_3 dice_5
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend gave bank brickbrickbrickbrick and took lumber
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_4 dice_5
+UserLookaside got brickbrick
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumberore
+GuestDesertFiend got ore
+UserLookaside built a road
+UserLookaside bought development card
+UserLookaside bought development card
+GuestDesertFiend rolled dice_4 dice_6
+UserLookaside got lumberore
+GuestDesertFiend got lumber
+UserLookaside rolled dice_1 dice_1
+UserLookaside built a road
+GuestDesertFiend rolled dice_6 dice_3
+UserLookaside got brickbrick
+GuestDesertFiend used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole ore from you
+UserLookaside used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestDesertFiend rolled dice_2 dice_1
+GuestDesertFiend got brick
+GuestDesertFiend built a road
+GuestDesertFiend built a settlement (+1 VP)
+GuestDesertFiend used Knight card knight
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole wool from DesertFiend
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 wool tile
+UserYou stole ore from DesertFiend
+GuestDesertFiend rolled dice_4 dice_3
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole wool from you
+UserLookaside rolled dice_6 dice_5
+GuestDesertFiend got brickgrain
+GuestDesertFiend rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestDesertFiend bought development card
+UserLookaside rolled dice_4 dice_4
+UserLookaside got wool
+GuestDesertFiend got wool
+GuestDesertFiend rolled dice_1 dice_4
+UserLookaside got lumberore
+GuestDesertFiend got oreore
+UserLookaside rolled dice_5 dice_3
+UserLookaside got wool
+GuestDesertFiend got wool
+UserLookaside built a road
+GuestDesertFiend rolled dice_3 dice_3
+UserLookaside got grain
+GuestDesertFiend got grain
+UserLookaside rolled dice_3 dice_1
+GuestDesertFiend got wool
+UserLookaside bought development card
+GuestDesertFiend rolled dice_5 dice_5
+UserLookaside got lumberore
+GuestDesertFiend got lumber
+GuestDesertFiend gave bank woolwoolwoolwool and took lumber
+UserLookaside rolled dice_5 dice_6
+GuestDesertFiend got brickgrain
+GuestDesertFiend rolled dice_1 dice_4
+UserLookaside got lumberore
+GuestDesertFiend got oreore
+GuestDesertFiend built a road
+GuestDesertFiend built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got grain
+GuestDesertFiend got grain
+GuestDesertFiend rolled dice_4 dice_3
+GuestDesertFiend moved robber robber to prob_5 lumber tile
+GuestDesertFiend stole ore from you
+GuestDesertFiend built a city (+1 VP)
+UserLookaside rolled dice_1 dice_2
+GuestDesertFiend got brickbrick
+UserLookaside built a road
+GuestDesertFiend rolled dice_5 dice_1
+UserLookaside got grain
+GuestDesertFiend got grain
+UserLookaside rolled dice_3 dice_6
+UserLookaside got brickbrick
+UserLookaside built a settlement (+1 VP)
+GuestDesertFiend rolled dice_2 dice_3
+prob_5 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+GuestDesertFiend got oreoreore
+UserLookaside rolled dice_6 dice_4
+UserLookaside got lumberoreore
+GuestDesertFiend got lumberlumber
+UserLookaside built a road
+GuestDesertFiend rolled dice_3 dice_5
+UserLookaside got wool
+GuestDesertFiend got woolwoolwool
+GuestDesertFiend built a road
+GuestDesertFiend built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+GuestDesertFiend rolled dice_6 dice_1
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole ore from you
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole ore from DesertFiend
+GuestDesertFiend used Knight card knight
+GuestDesertFiend received largest army (+2 VPs)
+GuestDesertFiend moved robber robber to prob_9 brick tile
+GuestDesertFiend stole ore from you
+GuestDesertFiend rolled dice_2 dice_2
+GuestDesertFiend got graingrainwool
+GuestDesertFiend built a city (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole wool from DesertFiend
+GuestDesertFiend rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestDesertFiend got wool
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberore
+GuestDesertFiend got oreoreore
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+GuestDesertFiend rolled dice_6 dice_5
+GuestDesertFiend got brickbrickbrickgrain
+GuestDesertFiend gave bank oreoreore and took grain
+GuestDesertFiend built a city (+1 VP)
+UserLookaside rolled dice_3 dice_3
+UserLookaside got graingrain
+GuestDesertFiend got graingrain
+GuestDesertFiend rolled dice_5 dice_5
+UserLookaside got lumberoreore
+GuestDesertFiend got lumberlumber
+GuestDesertFiend built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickbrickbricklumber
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a city (+1 VP)
+GuestDesertFiend rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+GuestDesertFiend got woolwool
+GuestDesertFiend gave bank woolwoolwool and took lumber
+GuestDesertFiend built a road
+GuestDesertFiend built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from DesertFiend
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestDesertFiend rolled dice_1 dice_1
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_6
+GuestDesertFiend rolled dice_4 dice_5
+UserLookaside got brickbrickbricklumber
+GuestDesertFiend got lumber
+UserLookaside rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+GuestDesertFiend got woolwool
+UserLookaside built a road
+GuestDesertFiend rolled dice_1 dice_1
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberoreoreoreore
+GuestDesertFiend got lumberlumber
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside bought development card
+GuestDesertFiend rolled dice_5 dice_5
+UserLookaside got lumberoreoreoreore
+GuestDesertFiend got lumberlumber
+GuestDesertFiend gave bank lumberlumberlumber and took brick
+GuestDesertFiend built a road
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberbrickoreoreore
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from DesertFiend
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a city (+1 VP)
+GuestDesertFiend rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside rolled dice_3 dice_5
+UserLookaside got woolwool
+GuestDesertFiend got woolwoolwoolwool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+GuestDesertFiend rolled dice_5 dice_1
+UserLookaside got woolgraingrain
+GuestDesertFiend got graingrain
+GuestDesertFiend gave bank woolwoolwool and took brick
+GuestDesertFiend built a road
+UserLookaside rolled dice_1 dice_3
+GuestDesertFiend got graingraingrainwoolwool
+GuestDesertFiend rolled dice_3 dice_6
+UserLookaside got brickbrickbricklumberlumber
+GuestDesertFiend got lumber
+GuestDesertFiend gave bank graingraingrain and took brick
+GuestDesertFiend built a settlement (+1 VP)
+GuestDesertFiend gave bank woolwoolwool and took ore
+GuestDesertFiend bought development card
+UserLookaside rolled dice_2 dice_3
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+GuestDesertFiend rolled dice_1 dice_5
+UserLookaside got woolgraingrain
+GuestDesertFiend got graingrain
+GuestDesertFiend used Road Building card road building
+GuestDesertFiend placed a road
+GuestDesertFiend placed a road
+Guestlongest road passed from Lookaside to DesertFiend (+2 VPs)
+trophyGuestDesertFiend won the game!trophy
+UserLookaside: gosh dangit
+GuestDesertFiend: Lol
+UserLookaside: fml
+Send a message
+Send message

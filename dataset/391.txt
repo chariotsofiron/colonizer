@@ -1,0 +1,395 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserOptimalistic placed a settlement
+UserOptimalistic placed a road
+UserOptimalistic placed a settlement
+UserOptimalistic received starting resources woolgrainbrick
+UserOptimalistic placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources bricklumberwool
+UserLookaside placed a road
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 ore tile
+UserNo player to steal from
+UserLookaside built a road
+UserOptimalistic rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserOptimalistic moved robber robber to Desert
+UserNo player to steal from
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumbergrain
+UserOptimalistic rolled dice_5 dice_5
+UserOptimalistic got lumber
+UserLookaside rolled dice_4 dice_6
+UserOptimalistic got lumber
+UserOptimalistic rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserOptimalistic moved robber robber to prob_10 wool tile
+UserNo player to steal from
+UserLookaside rolled dice_6 dice_4
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserOptimalistic got lumber
+UserOptimalistic rolled dice_2 dice_3
+UserLookaside got wool
+UserOptimalistic got brick
+UserOptimalistic built a road
+UserOptimalistic built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumberwool
+UserOptimalistic got wool
+UserOptimalistic rolled dice_3 dice_5
+UserOptimalistic got lumber
+UserLookaside rolled dice_4 dice_4
+UserOptimalistic got lumber
+UserOptimalistic rolled dice_3 dice_2
+UserLookaside got wool
+UserOptimalistic got brick
+UserOptimalistic built a road
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole wool from Optimalistic
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+UserOptimalistic rolled dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumberwool
+UserOptimalistic got wool
+UserOptimalistic rolled dice_5 dice_4
+UserLookaside got lumberwool
+UserOptimalistic got wool
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole lumber from Optimalistic
+UserOptimalistic rolled dice_1 dice_5
+UserLookaside got lumberlumbergrain
+UserLookaside rolled dice_1 dice_4
+UserLookaside got wool
+UserOptimalistic got brick
+UserLookaside gave bank lumberlumberlumberlumber and took brickbrick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserOptimalistic rolled dice_6 dice_2
+UserOptimalistic got lumber
+UserOptimalistic built a road
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brick
+UserOptimalistic got brick
+UserOptimalistic rolled dice_6 dice_5
+UserLookaside got ore
+UserOptimalistic got ore
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+UserOptimalistic got brick
+UserOptimalistic rolled dice_1 dice_2
+UserLookaside got grain
+UserOptimalistic got grainore
+UserOptimalistic built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolwool
+UserOptimalistic got brick
+UserLookaside bought development card
+UserOptimalistic rolled dice_6 dice_1
+UserOptimalistic moved robber robber to prob_6 lumber tile
+UserOptimalistic stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole ore from Optimalistic
+UserLookaside rolled dice_6 dice_2
+UserOptimalistic got lumber
+UserOptimalistic rolled dice_5 dice_6
+UserLookaside got ore
+UserOptimalistic got grainore
+UserOptimalistic bought development card
+UserOptimalistic built a road
+UserOptimalistic received longest road (+2 VPs)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got woolwool
+UserOptimalistic got brick
+UserOptimalistic rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_1
+UserLookaside got brick
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserOptimalistic rolled dice_3 dice_3
+UserLookaside got lumberlumbergrain
+UserOptimalistic got grain
+UserLookaside rolled dice_5 dice_3
+UserOptimalistic got lumber
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a city (+1 VP)
+UserOptimalistic rolled dice_4 dice_1
+UserLookaside got woolwoolwool
+UserOptimalistic got brick
+UserOptimalistic built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole brick from Optimalistic
+UserOptimalistic used Knight card knight
+UserOptimalistic moved robber robber to prob_6 lumber tile
+UserOptimalistic stole brick from you
+UserOptimalistic rolled dice_5 dice_4
+UserLookaside got lumberlumberwool
+UserOptimalistic got wool
+UserOptimalistic bought development card
+UserLookaside rolled dice_2 dice_1
+UserLookaside got grain
+UserOptimalistic got grainoreore
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+UserOptimalistic rolled dice_3 dice_6
+UserLookaside got lumberlumberwool
+UserOptimalistic got wool
+UserOptimalistic bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from Optimalistic
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole brick from Optimalistic
+UserLookaside built a road
+UserOptimalistic used Knight card knight
+UserOptimalistic moved robber robber to prob_6 lumber tile
+UserOptimalistic stole brick from you
+UserOptimalistic rolled dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserOptimalistic got grain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole grain from Optimalistic
+UserOptimalistic used Knight card knight
+UserOptimalistic received largest army (+2 VPs)
+UserOptimalistic moved robber robber to prob_6 lumber tile
+UserOptimalistic stole wool from you
+UserOptimalistic rolled dice_5 dice_5
+UserOptimalistic got lumberlumber
+UserLookaside rolled dice_4 dice_2
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserOptimalistic got grain
+UserOptimalistic rolled dice_6 dice_3
+UserLookaside got lumberlumberwool
+UserOptimalistic got wool
+UserOptimalistic built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brick
+UserOptimalistic got grainbrick
+UserLookaside built a settlement (+1 VP)
+UserOptimalistic rolled dice_3 dice_1
+UserLookaside got brickbrick
+UserOptimalistic got grainbrick
+UserOptimalistic bought development card
+UserLookaside rolled dice_3 dice_5
+UserLookaside got wool
+UserOptimalistic got lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserOptimalistic rolled dice_1 dice_2
+UserLookaside got grain
+UserOptimalistic got grainoreore
+UserLookaside rolled dice_5 dice_1
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserOptimalistic got grain
+UserOptimalistic rolled dice_6 dice_1
+UserOptimalistic discarded lumberlumberbrickbrickbrick
+UserOptimalistic moved robber robber to prob_9 lumber tile
+UserOptimalistic stole grain from you
+UserOptimalistic gave bank graingrain and took ore
+UserOptimalistic built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberlumbergraingrain
+UserOptimalistic got graingrain
+UserOptimalistic rolled dice_6 dice_3
+prob_9 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserOptimalistic got wool
+UserLookaside rolled dice_6 dice_5
+UserLookaside got ore
+UserOptimalistic got graingraingrainore
+UserLookaside bought development card
+UserOptimalistic rolled dice_3 dice_6
+prob_9 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserOptimalistic got wool
+UserOptimalistic bought development card
+UserOptimalistic gave bank graingrain and took ore
+UserOptimalistic bought development card
+UserLookaside rolled dice_1 dice_1
+UserLookaside got brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+Userlongest road passed from Optimalistic to Lookaside (+2 VPs)
+UserLookaside placed a road
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside gave bank graingraingraingrain and took ore
+UserOptimalistic rolled dice_5 dice_6
+UserLookaside got ore
+UserOptimalistic got graingraingrainore
+UserLookaside rolled dice_5 dice_3
+UserLookaside got wool
+UserOptimalistic got lumber
+UserLookaside built a city (+1 VP)
+UserOptimalistic rolled dice_5 dice_5
+UserLookaside got woolwool
+UserOptimalistic got lumberlumber
+UserLookaside rolled dice_1 dice_4
+UserLookaside got woolwoolwool
+UserOptimalistic got brick
+UserLookaside gave bank woolwoolwoolwool and took lumbergrain
+UserLookaside built a settlement (+1 VP)
+UserOptimalistic rolled dice_5 dice_2
+UserOptimalistic moved robber robber to prob_8 wool tile
+UserOptimalistic stole wool from you
+UserOptimalistic bought development card
+UserOptimalistic built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwool
+UserOptimalistic got lumberlumber
+UserOptimalistic rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserOptimalistic got lumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+UserOptimalistic got grainoreoreore
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+UserOptimalistic rolled dice_4 dice_3
+UserOptimalistic discarded lumberlumberlumberlumberlumbergrain
+UserOptimalistic moved robber robber to prob_9 lumber tile
+UserOptimalistic stole grain from you
+UserOptimalistic built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole grain from Optimalistic
+UserLookaside rolled dice_2 dice_3
+UserLookaside got woolwoolwool
+UserOptimalistic got brickbrick
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+UserOptimalistic used Knight card knight
+UserOptimalistic moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserOptimalistic rolled dice_3 dice_3
+UserLookaside got lumberlumbergraingrain
+UserOptimalistic got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole brick from Optimalistic
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from Optimalistic
+UserOptimalistic used Knight card knight
+UserOptimalistic moved robber robber to prob_8 wool tile
+UserOptimalistic stole grain from you
+UserOptimalistic rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserOptimalistic got lumberlumber
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumberlumberlumberwool
+UserOptimalistic got wool
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+UserOptimalistic rolled dice_3 dice_1
+UserLookaside got brickbrickbrick
+UserOptimalistic got grainbrick
+UserOptimalistic gave bank graingrain and took ore
+UserOptimalistic bought development card
+UserLookaside rolled dice_5 dice_4
+UserLookaside got lumberlumberlumberwool
+UserOptimalistic got wool
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+UserLookaside built a road
+UserOptimalistic rolled dice_1 dice_3
+UserLookaside got brickbrickbrick
+UserOptimalistic got grainbrick
+UserOptimalistic built a settlement (+1 VP)
+UserOptimalistic built a road
+UserOptimalistic used Year of Plenty card year of plenty
+UserOptimalistic took from bank wool ore
+UserOptimalistic bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole grain from Optimalistic
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolwoolwool
+UserOptimalistic got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside bought development card
+UserLookaside built a road
+UserOptimalistic used Knight card knight
+UserOptimalistic moved robber robber to prob_8 wool tile
+UserOptimalistic stole wool from you
+UserOptimalistic rolled dice_1 dice_5
+UserLookaside got lumberlumbergraingrain
+UserOptimalistic got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_3 ore tile
+UserYou stole brick from Optimalistic
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole grain from Optimalistic
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+UserOptimalistic rolled dice_1 dice_3
+UserLookaside got brickbrickbrick
+UserOptimalistic got graingrainbrick
+UserOptimalistic gave bank graingrain and took ore
+UserOptimalistic bought development card
+UserLookaside rolled dice_1 dice_1
+UserLookaside got brick
+UserOptimalistic rolled dice_3 dice_1
+UserLookaside got brickbrickbrick
+UserOptimalistic got graingrainbrick
+UserOptimalistic used Monopoly card monopoly
+UserOptimalistic stole 10 brick
+UserOptimalistic gave bank brickbrickbrickbrickbrickbrickbrickbrick and took woolore
+UserOptimalistic bought development card
+UserLookaside rolled dice_6 dice_6
+UserOptimalistic rolled dice_4 dice_5
+UserLookaside got lumberlumberlumberwool
+UserOptimalistic got wool
+UserOptimalistic gave bank brickbrickbrickbrick and took ore
+UserOptimalistic bought development card
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwool
+UserOptimalistic got lumberlumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+UserOptimalistic rolled dice_5 dice_6
+UserLookaside got ore
+UserOptimalistic got graingraingrainore
+UserOptimalistic used Year of Plenty card year of plenty
+UserOptimalistic took from bank brick brick
+UserOptimalistic built a road
+UserOptimalistic built a road
+UserOptimalistic built a road
+Userlongest road passed from Lookaside to Optimalistic (+2 VPs)
+trophyUserOptimalistic won the game!trophy
+UserOptimalistic: Hi, have fun!
+UserLookaside: Hey! Thanks, you too :)
+UserLookaside: :/
+UserOptimalistic: defense :)
+UserOptimalistic: gg
+UserLookaside: :(
+UserLookaside: gg
+UserLookaside: shoulda connected
+Send a message
+Send message
+7/8 player expansion
+Use special build phases to try to win against 7 other players

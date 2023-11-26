@@ -1,0 +1,352 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+Userpimajarrod placed a settlement
+Userpimajarrod placed a road
+Userpimajarrod placed a settlement
+Userpimajarrod received starting resources woolorebrick
+Userpimajarrod placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources orewoollumber
+UserLookaside placed a road
+UserLookaside rolled dice_4 dice_4
+Userpimajarrod got lumberwool
+UserLookaside got wool
+Userpimajarrod rolled dice_4 dice_5
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_4
+Userpimajarrod rolled dice_4 dice_1
+UserLookaside got grainore
+UserLookaside rolled dice_1 dice_2
+Userpimajarrod got grainbrick
+Userpimajarrod rolled dice_4 dice_6
+UserLookaside got lumberbrick
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grainore
+UserLookaside built a road
+UserLookaside built a city (+1 VP)
+Userpimajarrod rolled dice_1 dice_1
+UserLookaside rolled dice_6 dice_2
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+Userpimajarrod rolled dice_6 dice_5
+Userpimajarrod built a road
+Userpimajarrod built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+Userpimajarrod rolled dice_2 dice_6
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole lumber from pimajarrod
+Userpimajarrod rolled dice_6 dice_4
+UserLookaside got lumberbrickbrick
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberlumberbrickwoolwoolwool
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from pimajarrod
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+Userpimajarrod rolled dice_3 dice_2
+UserLookaside got graingrainoreore
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from pimajarrod
+UserLookaside built a city (+1 VP)
+Userpimajarrod rolled dice_2 dice_1
+Userpimajarrod got grainbrick
+UserLookaside rolled dice_5 dice_1
+UserLookaside got wool
+Userpimajarrod rolled dice_3 dice_4
+Userpimajarrod moved robber robber to prob_5 grain tile
+Userpimajarrod stole wool from you
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberbrickbrick
+Userpimajarrod rolled dice_1 dice_6
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole brick from you
+UserLookaside rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+Userpimajarrod rolled dice_3 dice_6
+Userpimajarrod got ore
+UserLookaside got woolwool
+UserLookaside rolled dice_6 dice_2
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+UserLookaside built a road
+Userpimajarrod rolled dice_2 dice_2
+Userpimajarrod got oregraingrain
+Userpimajarrod bought development card
+UserLookaside rolled dice_4 dice_4
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+Userpimajarrod rolled dice_4 dice_2
+UserLookaside got wool
+Userpimajarrod built a road
+Userpimajarrod built a settlement (+1 VP)
+Userpimajarrod bought development card
+UserLookaside rolled dice_1 dice_1
+Userpimajarrod rolled dice_4 dice_6
+UserLookaside got lumberlumberbrickbrick
+UserLookaside rolled dice_6 dice_5
+Userpimajarrod got grainbrick
+UserLookaside got brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+Userpimajarrod rolled dice_1 dice_2
+Userpimajarrod got grainbrickbrick
+UserLookaside rolled dice_3 dice_6
+Userpimajarrod got ore
+UserLookaside got woolwoolwool
+Userpimajarrod rolled dice_6 dice_4
+UserLookaside got lumberlumberbrickbrick
+Userpimajarrod bought development card
+UserLookaside rolled dice_5 dice_3
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+Userpimajarrod rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserLookaside rolled dice_2 dice_6
+Userpimajarrod got lumberwool
+UserLookaside got woolwool
+UserLookaside built a road
+Userpimajarrod rolled dice_3 dice_3
+Userpimajarrod got wool
+UserLookaside got woolwool
+Userpimajarrod built a road
+Userpimajarrod built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole grain from you
+Userpimajarrod rolled dice_2 dice_5
+Userpimajarrod moved robber robber to prob_5 grain tile
+Userpimajarrod stole wool from you
+UserLookaside rolled dice_1 dice_3
+Userpimajarrod got oregraingrain
+Userpimajarrod rolled dice_6 dice_3
+Userpimajarrod got oreore
+UserLookaside got woolwoolwool
+Userpimajarrod built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+Userpimajarrod got woolwool
+UserLookaside got woolwool
+Userpimajarrod rolled dice_3 dice_5
+Userpimajarrod got lumberwoolwool
+UserLookaside got woolwool
+Userpimajarrod built a road
+Userpimajarrod gave bank woolwoolwoolwool and took ore
+Userpimajarrod bought development card
+UserLookaside rolled dice_5 dice_1
+Userpimajarrod got woolwool
+UserLookaside got woolwool
+Userpimajarrod rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreoreore
+UserLookaside rolled dice_2 dice_4
+Userpimajarrod got woolwool
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwoolwoolwool and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+Userpimajarrod rolled dice_3 dice_1
+Userpimajarrod got oreoregraingrain
+Userpimajarrod bought development card
+Userpimajarrod bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingrainoreoreore
+UserLookaside bought development card
+UserLookaside bought development card
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole ore from you
+Userpimajarrod rolled dice_1 dice_3
+Userpimajarrod got oreoregraingrain
+Userpimajarrod built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside rolled dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+Userpimajarrod used Knight card knight
+Userpimajarrod received largest army (+2 VPs)
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole ore from you
+Userpimajarrod rolled dice_5 dice_3
+Userpimajarrod got lumberwoolwool
+UserLookaside got woolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from pimajarrod
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole wool from you
+Userpimajarrod rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside rolled dice_1 dice_5
+Userpimajarrod got woolwoolwool
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwoolwoolwool and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+Userpimajarrod rolled dice_6 dice_2
+Userpimajarrod got lumberwoolwool
+UserLookaside got woolwool
+Userpimajarrod used Year of Plenty card year of plenty
+Userpimajarrod took from bank grain grain
+Userpimajarrod gave bank woolwoolwoolwool and took ore
+Userpimajarrod bought development card
+Userpimajarrod bought development card
+UserLookaside rolled dice_3 dice_2
+UserLookaside got graingrainoreoreore
+UserLookaside bought development card
+UserLookaside bought development card
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole ore from you
+Userpimajarrod rolled dice_3 dice_3
+Userpimajarrod got woolwoolwool
+UserLookaside got woolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole lumber from pimajarrod
+UserLookaside rolled dice_5 dice_6
+Userpimajarrod got grainbrick
+UserLookaside got brickbrick
+Userpimajarrod rolled dice_6 dice_5
+Userpimajarrod got grainbrick
+UserLookaside got brickbrick
+Userpimajarrod built a road
+Userpimajarrod bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from pimajarrod
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+Userpimajarrod rolled dice_2 dice_1
+Userpimajarrod got graingraingrainbrickbrickbrick
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_1
+Userpimajarrod got woolwoolwool
+UserLookaside got woolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 3 brick
+UserLookaside gave bank brickbrickbrickbrick and took grainore
+UserLookaside bought development card
+Userpimajarrod rolled dice_2 dice_3
+UserLookaside got graingrainoreoreore
+Userpimajarrod used Monopoly card monopoly
+Userpimajarrod stole 3 ore
+Userpimajarrod bought development card
+Userpimajarrod bought development card
+Userpimajarrod bought development card
+UserLookaside rolled dice_5 dice_4
+Userpimajarrod got oreoreore
+UserLookaside got woolwoolwool
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 grain tile
+Userpimajarrod stole grain from you
+Userpimajarrod rolled dice_6 dice_4
+UserLookaside got lumberlumberbrickbrickbrick
+Userpimajarrod built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from pimajarrod
+UserLookaside rolled dice_6 dice_1
+UserLookaside discarded lumberlumberbrickwoolwoolwool
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from pimajarrod
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 grain tile
+Userpimajarrod stole wool from you
+Userpimajarrod rolled dice_3 dice_1
+Userpimajarrod got oreoregraingrain
+UserLookaside rolled dice_4 dice_2
+Userpimajarrod got woolwoolwoolwool
+UserLookaside got woolwool
+Userpimajarrod rolled dice_1 dice_6
+Userpimajarrod discarded woolwoolwoolwoolwool
+Userpimajarrod moved robber robber to prob_10 brick tile
+Userpimajarrod stole wool from you
+UserLookaside rolled dice_4 dice_5
+Userpimajarrod got oreoreore
+UserLookaside got woolwoolwool
+Userpimajarrod rolled dice_1 dice_2
+Userpimajarrod got graingraingrainbrickbrickbrickbrick
+UserLookaside got brick
+Userpimajarrod built a city (+1 VP)
+Userpimajarrod used Knight card knight
+Userpimajarrod moved robber robber to prob_5 grain tile
+Userpimajarrod stole wool from you
+UserLookaside rolled dice_5 dice_3
+Userpimajarrod got lumberlumberwoolwool
+UserLookaside got woolwoolwool
+UserLookaside gave bank brickbrickwoolwoolwoolwool and took lumbergrain
+UserLookaside built a settlement (+1 VP)
+Userpimajarrod rolled dice_6 dice_1
+Userpimajarrod discarded woolwoolwoolwoolgraingrainoreore
+Userpimajarrod moved robber robber to prob_5 ore tile
+Userpimajarrod stole wool from you
+Userpimajarrod built a settlement (+1 VP)
+Userpimajarrod built a road
+UserLookaside rolled dice_5 dice_1
+Userpimajarrod got woolwoolwoolwool
+UserLookaside got woolwool
+Userpimajarrod rolled dice_2 dice_1
+Userpimajarrod got graingraingraingrainbrickbrickbrickbrick
+UserLookaside got brick
+Userpimajarrod gave bank woolwool and took lumber
+Userpimajarrod built a settlement (+1 VP)
+trophyUserpimajarrod won the game!trophy
+UserLookaside: what a game
+UserLookaside: gg
+Userpimajarrod: truly a roller coaster
+Userpimajarrod: gg
+Send a message
+Send message
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

@@ -1,0 +1,283 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Usercleetorres placed a settlement
+Usercleetorres placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources woolbrickore
+UserLookaside placed a road
+Usercleetorres placed a settlement
+Usercleetorres received starting resources brickorewool
+Usercleetorres placed a road
+Usercleetorres rolled dice_3 dice_2
+Usercleetorres got brick
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_1
+Usercleetorres got wool
+UserLookaside built a road
+Usercleetorres rolled dice_2 dice_6
+Usercleetorres got lumberbrick
+Usercleetorres built a road
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 wool tile
+UserNo player to steal from
+Usercleetorres rolled dice_4 dice_2
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 ore tile
+UserNo player to steal from
+Usercleetorres rolled dice_6 dice_5
+UserLookaside rolled dice_5 dice_5
+Usercleetorres got oregrain
+UserLookaside got ore
+Usercleetorres rolled dice_4 dice_4
+Usercleetorres got lumberbrick
+Usercleetorres built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+Usercleetorres got brick
+UserLookaside got lumber
+Usercleetorres rolled dice_3 dice_3
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_2
+Usercleetorres got lumberbrickbrick
+Usercleetorres rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Usercleetorres moved robber robber to prob_11 grain tile
+UserNo player to steal from
+Usercleetorres built a road
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole brick from cleetorres
+Usercleetorres rolled dice_2 dice_2
+Usercleetorres got wool
+UserLookaside rolled dice_2 dice_3
+Usercleetorres got brick
+UserLookaside got lumber
+Usercleetorres rolled dice_2 dice_1
+Usercleetorres got wool
+UserLookaside got wool
+UserLookaside rolled dice_1 dice_4
+Usercleetorres got brick
+UserLookaside got lumber
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside built a settlement (+1 VP)
+Usercleetorres rolled dice_6 dice_4
+Usercleetorres got oregrain
+UserLookaside got ore
+Usercleetorres gave bank brickbrickbrick and took grain
+Usercleetorres built a city (+1 VP)
+UserLookaside rolled dice_1 dice_1
+Usercleetorres rolled dice_6 dice_3
+UserLookaside got grainbrickbrick
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grainbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+Usercleetorres rolled dice_3 dice_6
+UserLookaside got grainbrickbrick
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole wool from cleetorres
+UserLookaside bought development card
+Usercleetorres rolled dice_3 dice_1
+Usercleetorres got wool
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_5
+Usercleetorres got oregraingrain
+UserLookaside got ore
+UserLookaside bought development card
+Usercleetorres rolled dice_1 dice_5
+UserLookaside got ore
+Usercleetorres bought development card
+UserLookaside rolled dice_3 dice_2
+Usercleetorres got brickbrick
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+Usercleetorres used Knight card knight
+Usercleetorres moved robber robber to prob_6 ore tile
+Usercleetorres stole ore from you
+Usercleetorres rolled dice_3 dice_4
+Usercleetorres moved robber robber to prob_9 grain tile
+Usercleetorres stole brick from you
+Usercleetorres bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from cleetorres
+UserLookaside rolled dice_2 dice_2
+Usercleetorres got wool
+UserLookaside got wool
+Usercleetorres used Knight card knight
+Usercleetorres moved robber robber to prob_6 ore tile
+Usercleetorres stole wool from you
+Usercleetorres rolled dice_3 dice_6
+UserLookaside got grainbrickbrick
+UserLookaside rolled dice_2 dice_6
+Usercleetorres got lumberlumberbrickbrick
+Usercleetorres rolled dice_1 dice_1
+Usercleetorres built a road
+Usercleetorres gave bank brickbrickbrick and took grain
+Usercleetorres built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_6
+Usercleetorres got oregraingraingrain
+UserLookaside got ore
+Usercleetorres rolled dice_4 dice_1
+Usercleetorres got brickbrick
+UserLookaside got lumberlumber
+Usercleetorres bought development card
+Usercleetorres gave bank brickbrickbrick and took ore
+Usercleetorres bought development card
+UserLookaside rolled dice_2 dice_1
+Usercleetorres got woolore
+UserLookaside got wool
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+UserLookaside bought development card
+Usercleetorres rolled dice_2 dice_5
+Usercleetorres moved robber robber to prob_9 brick tile
+Usercleetorres stole brick from you
+Usercleetorres bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole brick from cleetorres
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+Usercleetorres used Knight card knight
+Usercleetorres received largest army (+2 VPs)
+Usercleetorres moved robber robber to prob_6 ore tile
+Usercleetorres stole brick from you
+Usercleetorres rolled dice_2 dice_3
+Usercleetorres got brickbrick
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_5
+Usercleetorres got grain
+UserLookaside got graingrain
+Usercleetorres rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside rolled dice_1 dice_3
+Usercleetorres got wool
+UserLookaside got wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+Usercleetorres rolled dice_3 dice_5
+Usercleetorres got lumberlumberbrickbrick
+Usercleetorres built a road
+Usercleetorres built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_2
+Usercleetorres got wooloreore
+UserLookaside got woolore
+Usercleetorres rolled dice_1 dice_6
+Usercleetorres moved robber robber to prob_9 grain tile
+Usercleetorres stole wool from you
+UserLookaside rolled dice_5 dice_6
+Usercleetorres got grain
+UserLookaside got lumbergraingrain
+Usercleetorres rolled dice_2 dice_4
+UserLookaside got orewoolwool
+Usercleetorres used Monopoly card monopoly
+Usercleetorres stole 3 grain
+Usercleetorres bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole wool from cleetorres
+Usercleetorres used Knight card knight
+Usercleetorres moved robber robber to prob_9 grain tile
+Usercleetorres stole wool from you
+Usercleetorres rolled dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+Usercleetorres bought development card
+UserLookaside rolled dice_1 dice_3
+Usercleetorres got grainwool
+UserLookaside got wool
+UserLookaside built a road
+Usercleetorres rolled dice_4 dice_1
+Usercleetorres got brickbrick
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_2
+Usercleetorres got lumberlumberlumberbrickbrick
+Usercleetorres rolled dice_3 dice_5
+Usercleetorres got lumberlumberlumberbrickbrick
+Usercleetorres built a road
+Usercleetorres built a settlement (+1 VP)
+Usercleetorres built a road
+Usercleetorres built a road
+Usercleetorres gave bank brickbrickbrick and took wool
+Usercleetorres gave bank lumberlumber and took ore
+Usercleetorres bought development card
+UserLookaside rolled dice_6 dice_4
+Usercleetorres got oregraingraingrain
+UserLookaside got ore
+UserLookaside gave bank woolwoolwoolwool and took grain
+Usercleetorres rolled dice_6 dice_5
+Usercleetorres got grain
+UserLookaside got lumbergraingrain
+Usercleetorres used Monopoly card monopoly
+Usercleetorres stole 3 grain
+Usercleetorres gave bank graingraingraingraingraingrain and took oreore
+Usercleetorres built a city (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from cleetorres
+Usercleetorres used Knight card knight
+Usercleetorres moved robber robber to prob_9 grain tile
+Usercleetorres stole brick from you
+Usercleetorres rolled dice_4 dice_5
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserLookaside rolled dice_2 dice_2
+Usercleetorres got grainwoolwool
+UserLookaside got wool
+Usercleetorres rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_3
+Usercleetorres got brickbrickbrick
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+Usercleetorres rolled dice_1 dice_1
+Usercleetorres got wool
+Usercleetorres gave bank brickbrickbrick and took lumber
+Usercleetorres built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+Usercleetorres got lumberlumberlumberbrickbrickbrick
+Usercleetorres rolled dice_3 dice_1
+Usercleetorres got grainwoolwool
+UserLookaside got wool
+Usercleetorres gave bank lumberlumber and took ore
+Usercleetorres bought development card
+UserLookaside rolled dice_5 dice_5
+Usercleetorres got oreoregraingraingrain
+UserLookaside got ore
+UserLookaside bought development card
+Usercleetorres rolled dice_4 dice_6
+Usercleetorres got oreoregraingraingrain
+UserLookaside got ore
+Usercleetorres built a city (+1 VP)
+Usercleetorres used Knight card knight
+Usercleetorres moved robber robber to prob_9 brick tile
+Usercleetorres stole wool from you
+Usercleetorres bought development card
+Usercleetorres gave bank woolwoolwoolgraingraingrain and took lumberlumber
+Usercleetorres built a road
+Usercleetorres built a road
+Usercleetorres built a road
+Userlongest road passed from Lookaside to cleetorres (+2 VPs)
+trophyUsercleetorres won the game!trophy
+Usercleetorres has left the game
+UserLookaside: bruh
+Send a message
+Send message

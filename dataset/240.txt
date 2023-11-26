@@ -1,0 +1,336 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+GuestHezsus: you forgot wool
+UserLookaside: im dum
+GuestHezsus: nah that was a goodp lay
+GuestHezsus: gg
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestHezsus placed a settlement
+GuestHezsus placed a road
+GuestHezsus placed a settlement
+GuestHezsus placed a road
+GuestHezsus received starting resources grainwoolbrick
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumberbrick
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brick
+GuestHezsus rolled dice_3 dice_2
+GuestHezsus got grainwool
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brick
+UserLookaside built a road
+GuestHezsus rolled dice_5 dice_1
+GuestHezsus got brick
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 ore tile
+UserNo player to steal from
+GuestHezsus rolled dice_3 dice_6
+GuestHezsus got wool
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_5
+GuestHezsus got brick
+UserLookaside got brick
+GuestHezsus rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestHezsus moved robber robber to Desert
+GuestNo player to steal from
+UserLookaside rolled dice_5 dice_5
+GuestHezsus got lumber
+UserLookaside got orelumber
+UserLookaside gave bank brickbrickbrickbrick and took wool
+UserLookaside built a settlement (+1 VP)
+GuestHezsus rolled dice_4 dice_4
+UserLookaside got brick
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 ore tile
+UserNo player to steal from
+GuestHezsus rolled dice_2 dice_2
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_6 dice_6
+GuestHezsus rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestHezsus moved robber robber to prob_10 ore tile
+GuestHezsus stole ore from you
+GuestHezsus bought development card
+UserLookaside rolled dice_3 dice_1
+GuestHezsus rolled dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestHezsus got lumber
+UserLookaside got lumber
+GuestHezsus built a road
+GuestHezsus built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+GuestHezsus got grain
+UserLookaside got grain
+UserLookaside built a road
+GuestHezsus rolled dice_2 dice_4
+GuestHezsus got brick
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_4
+GuestHezsus got wool
+UserLookaside got grainwool
+GuestHezsus rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestHezsus got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_2
+GuestHezsus got grain
+UserLookaside got brickbrick
+UserLookaside built a settlement (+1 VP)
+GuestHezsus rolled dice_4 dice_5
+GuestHezsus got wool
+UserLookaside got grainwool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumberbrick
+UserLookaside built a road
+GuestHezsus rolled dice_1 dice_3
+GuestHezsus got ore
+GuestHezsus bought development card
+UserLookaside rolled dice_3 dice_1
+GuestHezsus got ore
+GuestHezsus rolled dice_5 dice_5
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestHezsus got lumber
+UserLookaside got lumber
+GuestHezsus built a road
+GuestHezsus built a road
+GuestHezsus bought development card
+UserLookaside rolled dice_1 dice_3
+GuestHezsus got ore
+UserLookaside built a road
+GuestHezsus rolled dice_5 dice_1
+GuestHezsus got brick
+UserLookaside got brick
+UserLookaside rolled dice_2 dice_1
+GuestHezsus got grain
+UserLookaside got brickbrick
+GuestHezsus rolled dice_6 dice_2
+UserLookaside got lumberbrick
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole grain from Hezsus
+UserLookaside built a settlement (+1 VP)
+GuestHezsus used Knight card knight
+GuestHezsus moved robber robber to prob_10 ore tile
+GuestHezsus stole grain from you
+GuestHezsus rolled dice_5 dice_3
+UserLookaside got lumberbrick
+GuestHezsus bought development card
+UserLookaside rolled dice_6 dice_5
+GuestHezsus got grain
+UserLookaside got grain
+UserLookaside gave bank brickbrick and took ore
+GuestHezsus rolled dice_4 dice_5
+GuestHezsus got wool
+UserLookaside got graingrainwool
+UserLookaside rolled dice_4 dice_1
+GuestHezsus got grainwoolwool
+UserLookaside got wool
+UserLookaside bought development card
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+GuestHezsus rolled dice_4 dice_2
+GuestHezsus got brick
+UserLookaside got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole grain from Hezsus
+UserLookaside rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuestHezsus got woolwool
+UserLookaside got wool
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+GuestHezsus used Knight card knight
+GuestHezsus moved robber robber to prob_10 ore tile
+GuestHezsus stole lumber from you
+GuestHezsus rolled dice_1 dice_5
+GuestHezsus got brick
+UserLookaside got brick
+GuestHezsus built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+GuestHezsus got grain
+UserLookaside got grain
+GuestHezsus rolled dice_2 dice_5
+GuestHezsus moved robber robber to prob_9 grain tile
+GuestHezsus stole grain from you
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumberbrick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside gave bank brickbrick and took ore
+UserLookaside built a city (+1 VP)
+GuestHezsus rolled dice_6 dice_6
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from Hezsus
+GuestHezsus rolled dice_1 dice_4
+GuestHezsus got grainwoolwool
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_6
+GuestHezsus got lumber
+UserLookaside got oreorelumberlumber
+GuestHezsus rolled dice_6 dice_1
+GuestHezsus discarded woolwoolwoolwoolgrain
+GuestHezsus moved robber robber to prob_9 grain tile
+GuestHezsus stole lumber from you
+GuestHezsus built a road
+GuestHezsus built a road
+GuestHezsus received longest road (+2 VPs)
+UserLookaside rolled dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+GuestHezsus got woolwool
+UserLookaside got wool
+GuestHezsus rolled dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+GuestHezsus got woolwool
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumberbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestHezsus rolled dice_3 dice_1
+GuestHezsus got oreore
+GuestHezsus gave bank woolwoolwoolwool and took ore
+GuestHezsus built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+GuestHezsus got oreoreore
+GuestHezsus rolled dice_5 dice_2
+GuestHezsus moved robber robber to prob_10 ore tile
+GuestHezsus stole ore from you
+UserLookaside rolled dice_4 dice_1
+GuestHezsus got grainwoolwoolwool
+UserLookaside got wool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+GuestHezsus rolled dice_2 dice_6
+UserLookaside got lumberbrickbrick
+GuestHezsus bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole ore from Hezsus
+UserLookaside rolled dice_2 dice_1
+GuestHezsus got graingrain
+UserLookaside got brickbrickbrick
+UserLookaside gave bank brickbrickbrickbrick and took woolgrain
+UserLookaside built a settlement (+1 VP)
+GuestHezsus rolled dice_1 dice_1
+GuestHezsus got lumber
+GuestHezsus bought development card
+GuestHezsus bought development card
+UserLookaside rolled dice_3 dice_6
+GuestHezsus got woolwool
+UserLookaside got graingrainwool
+UserLookaside bought development card
+GuestHezsus used Knight card knight
+GuestHezsus received largest army (+2 VPs)
+GuestHezsus moved robber robber to prob_9 grain tile
+GuestHezsus stole ore from you
+GuestHezsus rolled dice_5 dice_6
+GuestHezsus got grain
+UserLookaside got grain
+GuestHezsus bought development card
+UserLookaside rolled dice_4 dice_2
+GuestHezsus got brick
+UserLookaside got brick
+GuestHezsus rolled dice_6 dice_5
+GuestHezsus got grain
+UserLookaside got grain
+GuestHezsus used Road Building card road building
+GuestHezsus placed a road
+GuestHezsus placed a road
+GuestHezsus built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_3
+prob_9 grain tile is blocked by the robber. No resources produced.
+GuestHezsus got woolwool
+UserLookaside got wool
+GuestHezsus rolled dice_5 dice_5
+GuestHezsus got lumber
+UserLookaside got oreorelumberlumber
+UserLookaside rolled dice_1 dice_4
+GuestHezsus got grainwoolwoolwool
+UserLookaside got wool
+UserLookaside bought development card
+UserLookaside bought development card
+GuestHezsus rolled dice_3 dice_5
+UserLookaside got lumberbrickbrickbrick
+GuestHezsus gave bank woolwoolwool and took ore
+GuestHezsus bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole lumber from Hezsus
+UserLookaside rolled dice_6 dice_1
+UserLookaside discarded lumberlumberlumberlumberlumber
+UserLookaside moved robber robber to prob_3 grain tile
+UserYou stole wool from Hezsus
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+GuestHezsus rolled dice_6 dice_6
+UserLookaside got ore
+UserLookaside used Knight card knight
+Userlargest army passed from Hezsus to Lookaside (+2 VPs)
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from Hezsus
+UserLookaside rolled dice_2 dice_2
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside gave bank brickbrick and took grain
+UserLookaside bought development card
+GuestHezsus rolled dice_2 dice_3
+GuestHezsus got grainwoolwoolwool
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole grain from Hezsus
+GuestHezsus rolled dice_5 dice_4
+GuestHezsus got woolwool
+UserLookaside got graingrainwool
+UserLookaside rolled dice_1 dice_5
+GuestHezsus got woolbrick
+UserLookaside got brick
+GuestHezsus rolled dice_5 dice_3
+UserLookaside got lumberbrickbrickbrick
+UserLookaside rolled dice_6 dice_4
+GuestHezsus got lumber
+UserLookaside got oreorelumberlumber
+UserLookaside gave bank brickbrick and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestHezsus rolled dice_4 dice_5
+GuestHezsus got woolwool
+UserLookaside got graingraingrainwool
+GuestHezsus used Monopoly card monopoly
+GuestHezsus stole 3 grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from Hezsus
+UserLookaside rolled dice_6 dice_5
+GuestHezsus got grain
+UserLookaside got grain
+UserLookaside gave bank woolwoolwool and took brick
+UserLookaside built a road
+Userlongest road passed from Hezsus to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+GuestHezsus has left the game
+No Ads

@@ -1,0 +1,485 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLDCurran placed a settlement
+UserLDCurran placed a road
+UserLDCurran placed a settlement
+UserLDCurran received starting resources grainlumberbrick
+UserLDCurran placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources woolbricklumber
+UserLookaside placed a road
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grain
+UserLDCurran rolled dice_2 dice_2
+UserLDCurran got graingrain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brick
+UserLDCurran got brick
+UserLDCurran rolled dice_4 dice_4
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+UserLDCurran rolled dice_2 dice_1
+UserLookaside got ore
+UserLDCurran got brick
+UserLookaside rolled dice_5 dice_4
+UserLDCurran got wool
+UserLDCurran rolled dice_6 dice_4
+UserLookaside got wool
+UserLDCurran got lumber
+UserLDCurran built a road
+UserLookaside rolled dice_5 dice_5
+UserLookaside got wool
+UserLDCurran got lumber
+UserLookaside built a road
+UserLDCurran rolled dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLDCurran built a road
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserLDCurran rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 grain tile
+UserNo player to steal from
+UserLDCurran rolled dice_5 dice_6
+UserLookaside got wool
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+UserLDCurran rolled dice_4 dice_1
+UserLookaside got brick
+UserLDCurran got brick
+UserLookaside rolled dice_6 dice_6
+UserLDCurran rolled dice_6 dice_2
+UserLookaside got graingrain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got wool
+UserLDCurran got lumber
+UserLDCurran rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLDCurran built a road
+UserLDCurran built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLDCurran got wool
+UserLookaside built a road
+UserLDCurran rolled dice_3 dice_1
+UserLookaside got ore
+UserLDCurran got graingrain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from LDCurran
+UserLookaside bought development card
+UserLDCurran rolled dice_1 dice_1
+UserLDCurran got lumber
+UserLookaside rolled dice_6 dice_6
+UserLDCurran rolled dice_3 dice_5
+UserLookaside got graingrain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+UserLDCurran rolled dice_3 dice_4
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLDCurran gave bank graingraingraingrain and took brick
+UserLDCurran built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_2
+UserLookaside got brick
+UserLDCurran got woolbrick
+UserLDCurran rolled dice_5 dice_1
+UserLookaside got lumber
+UserLDCurran got grain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brick
+UserLDCurran got woolbrick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank lumber ore
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserLDCurran rolled dice_4 dice_3
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from LDCurran
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwool
+UserLDCurran got lumberwool
+UserLDCurran rolled dice_2 dice_1
+UserLookaside got ore
+UserLDCurran got brick
+UserLDCurran built a road
+UserLookaside rolled dice_4 dice_4
+UserLookaside got graingrain
+UserLookaside bought development card
+UserLDCurran rolled dice_2 dice_5
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wool
+UserLDCurran got woolwool
+UserLDCurran rolled dice_1 dice_1
+UserLDCurran got lumberlumber
+UserLDCurran built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole grain from LDCurran
+UserLDCurran rolled dice_5 dice_6
+UserLookaside got woolwool
+UserLookaside rolled dice_5 dice_3
+UserLookaside got graingrain
+UserLDCurran got lumber
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+UserLDCurran rolled dice_4 dice_1
+UserLookaside got brick
+UserLDCurran got woolbrick
+UserLDCurran built a road
+UserLDCurran received longest road (+2 VPs)
+UserLDCurran built a road
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumber
+UserLDCurran got grain
+UserLookaside built a road
+UserLDCurran rolled dice_4 dice_2
+UserLookaside got lumber
+UserLDCurran got grain
+UserLDCurran gave bank woolwoolwoolwool and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_2 dice_2
+UserLookaside got ore
+UserLDCurran got graingrain
+UserLookaside bought development card
+UserLDCurran rolled dice_1 dice_4
+UserLookaside got brick
+UserLDCurran got woolbrick
+UserLookaside rolled dice_6 dice_2
+UserLookaside got graingrain
+UserLDCurran got lumber
+UserLookaside built a road
+UserLDCurran rolled dice_1 dice_2
+UserLookaside got ore
+UserLDCurran got brick
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLDCurran gave bank graingrain and took ore
+UserLDCurran bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from LDCurran
+UserLookaside rolled dice_5 dice_3
+UserLookaside got graingrain
+UserLDCurran got lumber
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLDCurran rolled dice_2 dice_4
+UserLookaside got lumber
+UserLDCurran got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from LDCurran
+UserLookaside rolled dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+UserLDCurran rolled dice_1 dice_6
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole brick from you
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+UserLDCurran got grain
+UserLDCurran rolled dice_4 dice_6
+UserLookaside got woolwool
+UserLDCurran got lumberlumberwool
+UserLDCurran gave bank lumberlumberlumberlumber and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwool
+UserLDCurran got lumberlumberwool
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a settlement (+1 VP)
+UserLDCurran rolled dice_2 dice_1
+UserLookaside got ore
+UserLDCurran got brick
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from LDCurran
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole wool from you
+UserLDCurran rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLDCurran got lumber
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+UserLDCurran got woolwool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+UserLDCurran rolled dice_1 dice_3
+UserLookaside got ore
+UserLDCurran got graingrain
+UserLDCurran gave bank graingrain and took ore
+UserLDCurran bought development card
+UserLDCurran built a road
+UserLDCurran built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from LDCurran
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolbrick
+UserLDCurran got woolbrick
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole wool from you
+UserLDCurran rolled dice_4 dice_1
+UserLookaside got woolbrick
+UserLDCurran got woolbrick
+UserLDCurran gave bank woolwoolwoolwool and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+UserLDCurran got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+UserLDCurran rolled dice_1 dice_2
+UserLookaside got ore
+UserLDCurran got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from LDCurran
+UserLookaside rolled dice_6 dice_5
+UserLookaside got woolwool
+UserLDCurran rolled dice_1 dice_1
+UserLDCurran got lumberlumber
+UserLookaside rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+UserLDCurran rolled dice_6 dice_2
+UserLookaside got graingraingrain
+UserLDCurran got lumber
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumber
+UserLDCurran got grain
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+UserLookaside built a road
+UserLDCurran rolled dice_5 dice_2
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole wool from you
+UserLDCurran built a road
+UserLDCurran used Road Building card road building
+UserLDCurran placed a road
+UserLDCurran placed a road
+UserLookaside rolled dice_1 dice_4
+UserLookaside got woolbrickbrick
+UserLDCurran got woolbrick
+UserLDCurran rolled dice_4 dice_3
+UserLDCurran discarded lumberlumberbrickbrickbrick
+UserLDCurran moved robber robber to prob_6 lumber tile
+UserLDCurran stole brick from you
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwool
+UserLDCurran got lumberlumberwool
+UserLDCurran rolled dice_2 dice_3
+UserLookaside got woolbrickbrick
+UserLDCurran got woolbrick
+UserLDCurran gave bank woolwoolwoolwool and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from LDCurran
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a settlement (+1 VP)
+UserLDCurran rolled dice_2 dice_1
+UserLookaside got ore
+UserLDCurran got brick
+UserLookaside rolled dice_5 dice_6
+UserLookaside got woolwoolwool
+UserLDCurran rolled dice_2 dice_4
+UserLookaside got lumberlumber
+UserLDCurran got grain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got woolbrickbrickbrick
+UserLDCurran got woolbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+UserLDCurran rolled dice_4 dice_4
+UserLookaside got graingraingrain
+UserLDCurran got lumber
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickwool
+UserLDCurran got woolwool
+UserLDCurran rolled dice_1 dice_6
+UserLDCurran discarded lumberlumberwoolwoolwool
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole brick from you
+UserLDCurran gave bank brickbrickbrickbrick and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from LDCurran
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole grain from you
+UserLDCurran rolled dice_5 dice_4
+UserLookaside got brickwool
+UserLDCurran got woolwool
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolbrickbrickbrick
+UserLDCurran got woolbrick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside built a city (+1 VP)
+UserLDCurran rolled dice_4 dice_2
+UserLookaside got lumberlumber
+UserLDCurran got grain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got ore
+UserLDCurran got graingrain
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+UserLDCurran rolled dice_1 dice_1
+UserLDCurran got lumberlumber
+UserLDCurran gave bank graingrain and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from LDCurran
+UserLookaside built a road
+UserLDCurran used Knight card knight
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole brick from you
+UserLDCurran rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLDCurran got lumber
+UserLDCurran built a road
+UserLookaside rolled dice_6 dice_6
+UserLDCurran rolled dice_5 dice_5
+UserLookaside got woolwoolwool
+UserLDCurran got lumberlumberwool
+UserLDCurran gave bank lumberlumberlumberlumber and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLDCurran got lumber
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+UserLDCurran rolled dice_1 dice_5
+UserLookaside got lumberlumber
+UserLDCurran got grain
+UserLDCurran used Knight card knight
+Userlargest army passed from Lookaside to LDCurran (+2 VPs)
+UserLDCurran moved robber robber to prob_9 brick tile
+UserLDCurran stole lumber from you
+UserLookaside rolled dice_1 dice_2
+UserLookaside got ore
+UserLDCurran got brick
+UserLDCurran rolled dice_4 dice_3
+UserLDCurran moved robber robber to prob_8 grain tile
+UserLDCurran stole ore from you
+UserLDCurran bought development card
+UserLDCurran built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwoolwool
+UserLDCurran got lumberlumberwool
+UserLDCurran rolled dice_1 dice_4
+UserLookaside got woolbrickbrickbrick
+UserLDCurran got woolbrick
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickbrickwoolwool
+UserLDCurran got woolwool
+UserLookaside gave bank brickbrickbrickbrickwoolwool and took grainore
+UserLookaside bought development card
+UserLookaside built a road
+UserLDCurran rolled dice_4 dice_3
+UserLDCurran moved robber robber to prob_6 lumber tile
+UserLDCurran stole wool from you
+UserLDCurran gave bank woolwoolwoolwool and took ore
+UserLookaside rolled dice_1 dice_1
+UserLDCurran got lumberlumber
+UserLDCurran rolled dice_6 dice_5
+UserLookaside got woolwoolwoolwool
+UserLDCurran gave bank lumberlumberlumberlumber and took grain
+UserLDCurran bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from LDCurran
+UserLookaside gave bank woolwoolwoolwool and took brickgrain
+UserLDCurran rolled dice_4 dice_4
+UserLookaside got graingraingrain
+UserLDCurran got lumber
+UserLDCurran used Monopoly card monopoly
+UserLDCurran stole 4 grain
+UserLDCurran gave bank graingrain and took ore
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolwool
+UserLDCurran got lumberlumberwool
+UserLDCurran rolled dice_6 dice_2
+UserLookaside got graingraingrain
+UserLDCurran got lumber
+UserLDCurran used Monopoly card monopoly
+UserLDCurran stole 3 grain
+UserLDCurran gave bank graingrain and took ore
+UserLDCurran gave bank lumberlumberlumberlumber and took ore
+UserLDCurran built a city (+1 VP)
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumberlumber
+UserLDCurran got graingrain
+UserLookaside gave bank lumberlumber and took ore
+UserLDCurran rolled dice_2 dice_1
+UserLookaside got ore
+UserLDCurran got brick
+UserLDCurran gave bank graingrain and took ore
+UserLDCurran bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got woolwoolwoolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took graingrainore
+UserLookaside built a city (+1 VP)
+UserLookaside gave bank woolwool and took grain
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+UserLookaside: What does curran mean to you
+UserLDCurran: Take a guess
+UserLookaside: i honestly don't know
+UserLookaside: i know a curran lake
+UserLDCurran: It’s my name
+UserLookaside: gotcha
+UserLookaside: oh no
+UserLDCurran: I still need so many cities aha
+UserLookaside: but i almost literally can't win
+UserLookaside: you have road and army locked
+UserLookaside: mmm
+UserLDCurran: You still win I think
+UserLookaside: just barely
+UserLookaside: gg friend
+Send a message
+Send message
+Cities and Knights Expansion
+Defeat barbarians by playing Cities & Knights with top players

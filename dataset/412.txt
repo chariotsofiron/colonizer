@@ -1,0 +1,443 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+icon_avocadoSimon2000 placed a settlement
+icon_avocadoSimon2000 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources grainbricklumber
+UserLookaside placed a road
+icon_avocadoSimon2000 placed a settlement
+icon_avocadoSimon2000 received starting resources lumbergrainwool
+icon_avocadoSimon2000 placed a road
+icon_avocadoSimon2000 rolled dice_4 dice_6
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_3
+icon_avocadoSimon2000 got grain
+icon_avocadoSimon2000 rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+icon_avocadoSimon2000 moved robber robber to prob_9 wool tile
+icon_avocadoNo player to steal from
+UserLookaside rolled dice_2 dice_4
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 rolled dice_2 dice_6
+UserLookaside got woolgrain
+icon_avocadoSimon2000 got wool
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grain
+icon_avocadoSimon2000 got ore
+icon_avocadoSimon2000 rolled dice_1 dice_4
+UserLookaside got grain
+icon_avocadoSimon2000 got ore
+icon_avocadoSimon2000 bought development card
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumber
+UserLookaside built a road
+icon_avocadoSimon2000 rolled dice_3 dice_3
+icon_avocadoSimon2000 got wool
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumber
+icon_avocadoSimon2000 rolled dice_5 dice_3
+UserLookaside got woolgrain
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 used Monopoly card monopoly
+icon_avocadoSimon2000 stole 5 grain
+icon_avocadoSimon2000 gave bank graingraingraingrain and took brick
+icon_avocadoSimon2000 built a road
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+icon_avocadoSimon2000 got grain
+icon_avocadoSimon2000 rolled dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+icon_avocadoSimon2000 got grain
+UserLookaside rolled dice_6 dice_5
+icon_avocadoSimon2000 rolled dice_3 dice_2
+UserLookaside got grain
+icon_avocadoSimon2000 got ore
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_4 dice_2
+icon_avocadoSimon2000 got wool
+UserLookaside built a settlement (+1 VP)
+icon_avocadoSimon2000 rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole lumber from you
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 wool tile
+UserNo player to steal from
+icon_avocadoSimon2000 rolled dice_2 dice_1
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumber
+UserLookaside rolled dice_6 dice_6
+icon_avocadoSimon2000 rolled dice_5 dice_6
+prob_11 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 brick tile
+UserNo player to steal from
+icon_avocadoSimon2000 rolled dice_1 dice_3
+UserLookaside got brick
+icon_avocadoSimon2000 got grain
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 wool tile
+UserNo player to steal from
+UserLookaside built a road
+icon_avocadoSimon2000 rolled dice_3 dice_6
+icon_avocadoSimon2000 got grain
+icon_avocadoSimon2000 gave bank graingraingraingrain and took brick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got woolgraingrain
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 rolled dice_3 dice_3
+icon_avocadoSimon2000 got wool
+UserLookaside rolled dice_6 dice_6
+icon_avocadoSimon2000 rolled dice_4 dice_1
+UserLookaside got grainore
+icon_avocadoSimon2000 got ore
+icon_avocadoSimon2000 gave bank woolwoolwoolwool and took grain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got bricklumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_3 dice_1
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got grain
+icon_avocadoSimon2000 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got woolgraingrain
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 rolled dice_5 dice_4
+icon_avocadoSimon2000 got graingrain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got woolgraingrain
+icon_avocadoSimon2000 got wool
+UserLookaside built a road
+icon_avocadoSimon2000 rolled dice_2 dice_5
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole brick from you
+icon_avocadoSimon2000 built a road
+icon_avocadoSimon2000 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole grain from Simon2000
+UserLookaside rolled dice_1 dice_1
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 rolled dice_2 dice_4
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 gave bank woolwool and took brick
+icon_avocadoSimon2000 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+icon_avocadoSimon2000 got graingrain
+icon_avocadoSimon2000 rolled dice_5 dice_2
+icon_avocadoSimon2000 moved robber robber to prob_4 brick tile
+icon_avocadoSimon2000 stole grain from you
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumberlumber
+icon_avocadoSimon2000 rolled dice_1 dice_6
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole wool from you
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumberlumber
+icon_avocadoSimon2000 rolled dice_1 dice_3
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got grain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got ore
+icon_avocadoSimon2000 got wool
+UserLookaside built a road
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+icon_avocadoSimon2000 rolled dice_4 dice_6
+UserLookaside got bricklumber
+icon_avocadoSimon2000 got brick
+icon_avocadoSimon2000 built a road
+icon_avocadoSimon2000 gave bank woolwool and took brick
+icon_avocadoSimon2000 built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from Simon2000
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole ore from you
+icon_avocadoSimon2000 rolled dice_5 dice_1
+icon_avocadoSimon2000 got woolwool
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 rolled dice_4 dice_6
+UserLookaside got bricklumber
+icon_avocadoSimon2000 got brick
+icon_avocadoSimon2000 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from Simon2000
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 received largest army (+2 VPs)
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole grain from you
+icon_avocadoSimon2000 rolled dice_2 dice_1
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumberlumberlumber
+UserLookaside rolled dice_5 dice_4
+icon_avocadoSimon2000 got graingrain
+icon_avocadoSimon2000 rolled dice_1 dice_2
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumberlumberlumber
+icon_avocadoSimon2000 gave bank lumberlumberlumberlumber and took ore
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_6 dice_3
+icon_avocadoSimon2000 got graingrain
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_6 dice_5
+UserLookaside got ore
+icon_avocadoSimon2000 got woolore
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+icon_avocadoSimon2000 got wool
+icon_avocadoSimon2000 gave bank woolwool and took ore
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingrainoreore
+icon_avocadoSimon2000 got ore
+UserLookaside built a city (+1 VP)
+icon_avocadoSimon2000 rolled dice_6 dice_1
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole wool from you
+UserLookaside rolled dice_6 dice_4
+UserLookaside got bricklumberlumber
+icon_avocadoSimon2000 got bricklumber
+icon_avocadoSimon2000 rolled dice_2 dice_2
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got grain
+icon_avocadoSimon2000 gave bank lumberlumberlumberlumber and took ore
+icon_avocadoSimon2000 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_1
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+icon_avocadoSimon2000 rolled dice_5 dice_3
+UserLookaside got woolwoolgraingrain
+icon_avocadoSimon2000 got wool
+UserLookaside rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+icon_avocadoSimon2000 got oreore
+UserLookaside bought development card
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_1 dice_6
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 gave bank woolwool and took ore
+icon_avocadoSimon2000 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole wool from Simon2000
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 rolled dice_4 dice_2
+icon_avocadoSimon2000 got woolwoolwool
+UserLookaside rolled dice_3 dice_6
+icon_avocadoSimon2000 got graingraingrain
+icon_avocadoSimon2000 rolled dice_6 dice_6
+icon_avocadoSimon2000 gave bank woolwool and took ore
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got ore
+icon_avocadoSimon2000 got woolore
+icon_avocadoSimon2000 rolled dice_5 dice_5
+UserLookaside got bricklumberlumber
+icon_avocadoSimon2000 got bricklumber
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got graingrain
+icon_avocadoSimon2000 rolled dice_4 dice_3
+icon_avocadoSimon2000 moved robber robber to prob_4 brick tile
+icon_avocadoSimon2000 stole brick from you
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from Simon2000
+UserLookaside gave bank brickbrickbrick and took wool
+UserLookaside bought development card
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole brick from you
+icon_avocadoSimon2000 rolled dice_3 dice_5
+UserLookaside got woolwoolgraingrain
+icon_avocadoSimon2000 got woolwool
+icon_avocadoSimon2000 gave bank woolwool and took ore
+icon_avocadoSimon2000 bought development card
+icon_avocadoSimon2000 built a road
+UserLookaside rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+icon_avocadoSimon2000 got oreore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank brick brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got graingrain
+icon_avocadoSimon2000 rolled dice_6 dice_2
+UserLookaside got woolwoolgraingrain
+icon_avocadoSimon2000 got woolwool
+icon_avocadoSimon2000 gave bank woolwool and took ore
+icon_avocadoSimon2000 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_5
+UserLookaside got bricklumberlumber
+icon_avocadoSimon2000 got bricklumberlumber
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_1 dice_1
+UserLookaside got ore
+icon_avocadoSimon2000 built a road
+icon_avocadoSimon2000 built a road
+icon_avocadolongest road passed from Lookaside to Simon2000 (+2 VPs)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got woolwoolgraingrain
+icon_avocadoSimon2000 got woolwool
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userlongest road passed from Simon2000 to Lookaside (+2 VPs)
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_1 dice_3
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got graingrain
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+icon_avocadoSimon2000 got woolwoolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 5 wool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_5 dice_3
+UserLookaside got woolwoolgraingrain
+icon_avocadoSimon2000 got woolwool
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_4 brick tile
+icon_avocadoSimon2000 stole brick from you
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+icon_avocadoSimon2000 got graingraingrain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+icon_avocadoSimon2000 rolled dice_4 dice_5
+UserLookaside got wool
+icon_avocadoSimon2000 got graingraingrain
+icon_avocadoSimon2000 gave bank graingraingraingraingraingraingraingrain and took lumberlumber
+icon_avocadoSimon2000 built a road
+icon_avocadoSimon2000 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+UserLookaside got lumber
+icon_avocadoSimon2000 got woolwoolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole wool from Simon2000
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 rolled dice_5 dice_4
+UserLookaside got wool
+icon_avocadoSimon2000 got graingraingrain
+icon_avocadoSimon2000 gave bank woolwool and took lumber
+icon_avocadoSimon2000 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from Simon2000
+UserLookaside rolled dice_3 dice_1
+UserLookaside got brickbrick
+icon_avocadoSimon2000 got graingraingrain
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 rolled dice_1 dice_6
+icon_avocadoSimon2000 moved robber robber to prob_8 grain tile
+icon_avocadoSimon2000 stole lumber from you
+icon_avocadoSimon2000 gave bank graingraingrain and took ore
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_4 dice_6
+UserLookaside got bricklumberlumber
+icon_avocadoSimon2000 got bricklumberlumber
+UserLookaside built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole wool from Simon2000
+icon_avocadoSimon2000 used Knight card knight
+icon_avocadoSimon2000 moved robber robber to prob_5 grain tile
+icon_avocadoSimon2000 stole wool from you
+icon_avocadoSimon2000 rolled dice_6 dice_5
+UserLookaside got ore
+icon_avocadoSimon2000 got woolwoolwooloreore
+icon_avocadoSimon2000 gave bank woolwool and took grain
+icon_avocadoSimon2000 gave bank lumberlumberlumberwoolwool and took grainore
+icon_avocadoSimon2000 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+icon_avocadoSimon2000 got lumberlumberlumberlumberlumberlumber
+icon_avocadoSimon2000 rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+icon_avocadoSimon2000 got oreore
+icon_avocadoSimon2000 gave bank lumberlumberlumber and took grain
+icon_avocadoSimon2000 built a road
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from Simon2000
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a city (+1 VP)
+icon_avocadoSimon2000 rolled dice_4 dice_5
+UserLookaside got wool
+icon_avocadoSimon2000 got graingraingrain
+icon_avocadoSimon2000 gave bank graingraingrain and took wool
+icon_avocadoSimon2000 bought development card
+UserLookaside rolled dice_4 dice_1
+UserLookaside got graingraingrainoreoreore
+icon_avocadoSimon2000 got oreore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+UserLookaside: what a game
+UserLookaside: gg
+Send a message
+Send message
+7/8 player expansion
+Use special build phases to try to win against 7 other players

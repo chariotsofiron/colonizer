@@ -1,0 +1,324 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Settlersujitha has disconnected.
+SettlerBot will wait until next turn to give sujitha a chance to reconnect
+botsujitha has left the game, giving them 2 minutes to reconnect.
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+Settlersujitha has reconnected
+Settlersujitha placed a settlement
+Settlersujitha placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: orelumberwool
+Settlersujitha placed a settlement
+Settlersujitha placed a road
+Settlersujitha received starting resources: oreorewool
+Settlersujitha rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+Settlersujitha moved robber robber to prob_11 lumber tile
+SettlerNo player to steal from
+UserLookaside rolled: dice_5 dice_6
+prob_11 lumber tile is blocked by the robber. No resources produced.
+Settlersujitha got: wool
+Settlersujitha rolled: dice_6 dice_3
+UserLookaside got: brick
+Settlersujitha got: brick
+UserLookaside rolled: dice_4 dice_4
+Settlersujitha rolled: dice_5 dice_3
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: brick
+Settlersujitha rolled: dice_3 dice_3
+UserLookaside got: ore
+Settlersujitha got: grain
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: lumber
+Settlersujitha got: ore
+Settlersujitha rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+Settlersujitha moved robber robber to prob_8 lumber tile
+SettlerNo player to steal from
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: brick
+Settlersujitha got: brick
+Settlersujitha rolled: dice_1 dice_4
+UserLookaside got: brick
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: lumber
+Settlersujitha got: ore
+UserLookaside built a road
+Settlersujitha rolled: dice_5 dice_5
+UserLookaside got: grain
+Settlersujitha got: lumber
+Settlersujitha gave bank: oreoreoreore and took lumber
+Settlersujitha built a road
+Settlersujitha built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: ore
+Settlersujitha got: grain
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+Settlersujitha rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+Settlersujitha got: wool
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: brick
+Settlersujitha got: brick
+Settlersujitha rolled: dice_4 dice_2
+UserLookaside got: ore
+Settlersujitha got: grain
+UserLookaside rolled: dice_1 dice_1
+Settlersujitha rolled: dice_4 dice_6
+UserLookaside got: graingrain
+Settlersujitha got: lumberlumber
+UserLookaside rolled: dice_6 dice_5
+Settlersujitha got: wool
+UserLookaside built a city: +1 VP
+Settlersujitha rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+Settlersujitha got: wool
+Settlersujitha gave bank: woolwoolwoolwool and took brick
+Settlersujitha built a road
+Settlersujitha built a road
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole: grain from: sujitha
+Settlersujitha rolled: dice_3 dice_1
+UserLookaside got: lumberlumber
+Settlersujitha got: ore
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole: ore from: sujitha
+UserLookaside built a road
+Settlersujitha rolled: dice_6 dice_6
+UserLookaside rolled: dice_6 dice_5
+Settlersujitha got: wool
+Settlersujitha rolled: dice_2 dice_2
+UserLookaside got: lumberlumber
+Settlersujitha got: ore
+Settlersujitha bought development card
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: brick
+Settlersujitha got: brick
+Settlersujitha rolled: dice_5 dice_3
+UserLookaside got: lumber
+Settlersujitha got: wool
+Settlersujitha used Knight card knight
+Settlersujitha moved robber robber to prob_6 ore tile
+Settlersujitha stole: lumber from you
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brick
+Settlersujitha got: wool
+UserLookaside built a road
+Settlersujitha rolled: dice_5 dice_6
+Settlersujitha got: wool
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: lumberlumber
+Settlersujitha got: ore
+Settlersujitha rolled: dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+Settlersujitha got: grain
+Settlersujitha built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: brick
+Settlersujitha got: wool
+UserLookaside built a road
+Settlersujitha rolled: dice_4 dice_3
+Settlersujitha moved robber robber to prob_10 grain tile
+Settlersujitha stole: ore from you
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: woolwool
+Settlersujitha got: ore
+UserLookaside built a settlement: +1 VP
+Settlersujitha rolled: dice_2 dice_6
+UserLookaside got: lumber
+Settlersujitha got: woollumber
+Settlersujitha gave bank: woolwoolwoolwool and took graingrain
+Settlersujitha built a city: +1 VP
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: woolwool
+Settlersujitha got: ore
+Settlersujitha rolled: dice_4 dice_1
+UserLookaside got: brickwool
+Settlersujitha got: wool
+UserLookaside rolled: dice_1 dice_1
+UserLookaside built a road
+UserLookaside built a road
+Settlersujitha rolled: dice_5 dice_1
+UserLookaside got: oreore
+Settlersujitha got: graingrain
+Settlersujitha bought development card
+UserLookaside rolled: dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+Settlersujitha got: lumberlumberlumber
+Settlersujitha rolled: dice_2 dice_5
+Settlersujitha moved robber robber to prob_6 ore tile
+Settlersujitha stole: ore from you
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: brick
+Settlersujitha got: brickbrick
+Settlersujitha rolled: dice_1 dice_3
+UserLookaside got: lumberlumberlumber
+Settlersujitha got: oreore
+Settlersujitha built a road
+Settlersujitha built a road
+UserLookaside rolled: dice_3 dice_4
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumberlumberwoolwool
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole: lumber from: sujitha
+Settlersujitha rolled: dice_5 dice_2
+Settlersujitha moved robber robber to prob_6 ore tile
+Settlersujitha stole: wool from you
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: brick
+Settlersujitha got: brickbrick
+Settlersujitha rolled: dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+Settlersujitha got: graingrain
+Settlersujitha built a settlement: +1 VP
+Settlersujitha built a city: +1 VP
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: lumber
+Settlersujitha got: woolwoollumber
+Settlersujitha rolled: dice_3 dice_1
+UserLookaside got: lumberlumberlumber
+Settlersujitha got: oreore
+Settlersujitha built a road
+Settlersujitha received longest road: +2 VPs
+UserLookaside rolled: dice_6 dice_1
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumberbrickoreore
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole: wool from: sujitha
+Settlersujitha rolled: dice_4 dice_1
+UserLookaside got: brickwool
+Settlersujitha got: woolwool
+Settlersujitha gave bank: woolwool and took grain
+Settlersujitha bought development card
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: lumber
+Settlersujitha got: wool
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+UserLookaside built a settlement: +1 VP
+Settlersujitha used Knight card knight
+Settlersujitha moved robber robber to prob_6 ore tile
+Settlersujitha stole: wool from you
+Settlersujitha rolled: dice_2 dice_1
+UserLookaside got: woolwoolore
+Settlersujitha got: ore
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: lumberlumberlumber
+Settlersujitha got: oreore
+Settlersujitha rolled: dice_4 dice_4
+UserLookaside got: lumber
+Settlersujitha got: woolwoollumber
+Settlersujitha gave bank: woolwoolwoolwool and took graingrain
+Settlersujitha built a city: +1 VP
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: lumber
+Settlersujitha got: woolwoollumber
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+UserLookaside built a settlement: +1 VP
+Settlersujitha rolled: dice_2 dice_2
+UserLookaside got: lumberlumberlumber
+Settlersujitha got: oreoreore
+Settlersujitha gave bank: woolwool and took brick
+Settlersujitha built a road
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: graingrain
+Settlersujitha got: lumberlumberlumberlumberlumber
+UserLookaside bought development card
+Settlersujitha rolled: dice_3 dice_6
+UserLookaside got: brick
+Settlersujitha got: brickbrick
+Settlersujitha gave bank: lumberlumberlumberlumberoreoreoreore and took woolgrain
+Settlersujitha built a settlement: +1 VP
+Settlersujitha built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: oreoregrain
+Settlersujitha got: graingrain
+UserLookaside gave bank: lumberlumber and took ore
+UserLookaside built a city: +1 VP
+Settlersujitha rolled: dice_1 dice_5
+UserLookaside got: oreoregraingrain
+Settlersujitha got: graingrain
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: brick
+Settlersujitha got: brickbrickbrick
+UserLookaside built a road
+Settlersujitha rolled: dice_1 dice_1
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole: grain from: sujitha
+UserLookaside bought development card
+Settlersujitha rolled: dice_3 dice_2
+UserLookaside got: brickbrickwool
+Settlersujitha got: woolwool
+Settlersujitha gave bank: woolwool and took lumber
+Settlersujitha built a road
+UserLookaside rolled: dice_4 dice_6
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: ore ore
+Settlersujitha rolled: dice_6 dice_6
+Settlersujitha got: grain
+UserLookaside rolled: dice_6 dice_4
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside built a city: +1 VP
+Settlersujitha rolled: dice_2 dice_6
+UserLookaside got: lumber
+Settlersujitha got: woolwoollumber
+Settlersujitha built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: woolwooloreore
+Settlersujitha got: oreore
+UserLookaside built a settlement: +1 VP
+UserLookaside bought development card
+UserLookaside bought development card
+Settlersujitha rolled: dice_6 dice_5
+UserLookaside got: lumberlumberlumberlumberlumber
+Settlersujitha got: woolwoolwool
+Settlersujitha bought development card
+Settlersujitha bought development card
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: lumber
+Settlersujitha got: woolwoollumber
+UserLookaside gave bank: lumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+Settlersujitha rolled: dice_4 dice_2
+UserLookaside got: oreoregraingrain
+Settlersujitha got: graingrain
+Settlersujitha used Road Building card road building
+Settlersujitha placed a road
+Settlersujitha placed a road
+Settlersujitha built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: brickbrickwoolwool
+Settlersujitha got: woolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole: wool from: sujitha
+UserLookaside bought development card
+UserLookaside bought development card
+Settlersujitha used Knight card knight
+Settlersujitha received largest army: +2 VPs
+trophy sujitha won the game! trophy
+Send a message

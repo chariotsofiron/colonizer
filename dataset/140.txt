@@ -1,0 +1,268 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestPomogranate placed a settlement
+GuestPomogranate placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberbrickgrain
+GuestPomogranate placed a settlement
+GuestPomogranate placed a road
+GuestPomogranate received starting resources: oregrain
+GuestPomogranate rolled: dice_6 dice_5
+UserLookaside got: wool
+UserLookaside rolled: dice_3 dice_1
+GuestPomogranate rolled: dice_5 dice_4
+UserLookaside got: lumber
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: grain
+GuestPomogranate rolled: dice_4 dice_6
+GuestPomogranate got: woolore
+UserLookaside got: ore
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 grain tile
+UserNo player to steal from
+GuestPomogranate rolled: dice_3 dice_6
+UserLookaside got: lumber
+UserLookaside rolled: dice_4 dice_2
+GuestPomogranate got: brick
+GuestPomogranate rolled: dice_2 dice_2
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: brick
+UserLookaside built a road
+GuestPomogranate rolled: dice_3 dice_2
+GuestPomogranate got: grainlumber
+UserLookaside got: lumber
+UserLookaside rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 lumber tile
+UserNo player to steal from
+GuestPomogranate rolled: dice_1 dice_1
+UserLookaside rolled: dice_1 dice_4
+GuestPomogranate got: grainlumber
+UserLookaside got: lumber
+GuestPomogranate rolled: dice_4 dice_4
+UserLookaside got: grain
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestPomogranate rolled: dice_4 dice_5
+prob_9 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestPomogranate built a road
+UserLookaside rolled: dice_5 dice_5
+GuestPomogranate got: woolore
+UserLookaside got: oreore
+UserLookaside built a city: +1 VP
+GuestPomogranate rolled: dice_2 dice_4
+GuestPomogranate got: brick
+GuestPomogranate built a settlement: +1 VP
+GuestPomogranate built a city: +1 VP
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: wool from: Pomogranate
+GuestPomogranate rolled: dice_2 dice_3
+GuestPomogranate got: graingrainlumber
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: wool
+GuestPomogranate rolled: dice_2 dice_6
+GuestPomogranate got: grain
+UserLookaside got: graingraingrain
+UserLookaside rolled: dice_4 dice_1
+GuestPomogranate got: graingrainlumber
+UserLookaside got: lumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestPomogranate rolled: dice_4 dice_6
+GuestPomogranate got: woolwooloreore
+UserLookaside got: oreore
+GuestPomogranate bought development card
+UserLookaside rolled: dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestPomogranate used Knight card knight
+GuestPomogranate moved robber robber to prob_3 brick tile
+GuestPomogranate stole: lumber from you
+GuestPomogranate rolled: dice_1 dice_1
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: wool
+UserLookaside bought development card
+GuestPomogranate rolled: dice_2 dice_1
+prob_3 brick tile is blocked by the robber. No resources produced.
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: wool from: Pomogranate
+UserLookaside rolled: dice_3 dice_1
+GuestPomogranate rolled: dice_1 dice_4
+GuestPomogranate got: graingrainlumber
+UserLookaside got: lumberlumber
+GuestPomogranate gave bank: graingraingraingrain and took wool
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: Pomogranate
+UserLookaside bought development card
+GuestPomogranate rolled: dice_4 dice_5
+UserLookaside got: lumber
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: lumber
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement: +1 VP
+GuestPomogranate rolled: dice_5 dice_3
+GuestPomogranate got: grain
+UserLookaside got: graingraingrain
+UserLookaside rolled: dice_5 dice_5
+GuestPomogranate got: woolwooloreore
+UserLookaside got: oreore
+UserLookaside bought development card
+GuestPomogranate rolled: dice_5 dice_4
+UserLookaside got: lumber
+GuestPomogranate built a city: +1 VP
+UserLookaside rolled: dice_6 dice_6
+GuestPomogranate rolled: dice_1 dice_3
+UserLookaside got: wool
+UserLookaside rolled: dice_6 dice_2
+GuestPomogranate got: grain
+UserLookaside got: graingraingrain
+UserLookaside gave bank: graingraingraingrain and took brick
+UserLookaside built a settlement: +1 VP
+GuestPomogranate rolled: dice_3 dice_2
+GuestPomogranate got: graingrainlumberlumber
+UserLookaside got: lumberlumber
+GuestPomogranate gave bank: woolwool and took ore
+GuestPomogranate bought development card
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: lumber
+GuestPomogranate rolled: dice_1 dice_6
+GuestPomogranate moved robber robber to prob_3 brick tile
+GuestPomogranate stole: lumber from you
+UserLookaside rolled: dice_2 dice_6
+GuestPomogranate got: grain
+UserLookaside got: graingraingraingrain
+GuestPomogranate rolled: dice_1 dice_5
+GuestPomogranate got: brickbrick
+UserLookaside got: brick
+GuestPomogranate built a road
+GuestPomogranate built a road
+UserLookaside rolled: dice_3 dice_5
+GuestPomogranate got: grain
+UserLookaside got: graingraingraingrain
+UserLookaside gave bank: graingraingraingrain and took wool
+UserLookaside built a settlement: +1 VP
+GuestPomogranate rolled: dice_2 dice_4
+GuestPomogranate got: brickbrick
+UserLookaside got: brick
+GuestPomogranate gave bank: graingraingraingrain and took wool
+GuestPomogranate built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: Pomogranate
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+GuestPomogranate used Knight card knight
+GuestPomogranate moved robber robber to prob_8 grain tile
+GuestPomogranate stole: ore from you
+GuestPomogranate rolled: dice_6 dice_4
+GuestPomogranate got: woolwoolwooloreore
+UserLookaside got: oreore
+UserLookaside rolled: dice_3 dice_2
+GuestPomogranate got: graingrainlumberlumber
+UserLookaside got: grainlumberlumber
+GuestPomogranate rolled: dice_6 dice_5
+UserLookaside got: woolwool
+GuestPomogranate built a city: +1 VP
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: grainwool
+UserLookaside gave bank: lumberlumberlumberlumber and took ore
+UserLookaside built a city: +1 VP
+GuestPomogranate rolled: dice_5 dice_4
+UserLookaside got: lumberlumberlumber
+UserLookaside rolled: dice_4 dice_1
+GuestPomogranate got: graingrainlumberlumber
+UserLookaside got: grainlumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestPomogranate rolled: dice_5 dice_2
+Pomogranate discarding resource cards
+GuestPomogranate discarded: lumberlumberlumberlumberwoolwool
+GuestPomogranate moved robber robber to prob_9 lumber tile
+GuestPomogranate stole: wool from you
+UserLookaside rolled: dice_4 dice_4
+GuestPomogranate got: graingrain
+UserLookaside got: graingraingraingrain
+UserLookaside gave bank: graingraingraingrain and took ore
+UserLookaside bought development card
+GuestPomogranate rolled: dice_6 dice_2
+GuestPomogranate got: graingrain
+UserLookaside got: graingraingraingrain
+GuestPomogranate gave bank: graingraingraingrain and took brick
+GuestPomogranate built a road
+GuestPomogranate built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_5
+GuestPomogranate got: brickbrickbrick
+UserLookaside got: brick
+UserLookaside gave bank: graingraingraingrain and took lumber
+UserLookaside built a settlement: +1 VP
+GuestPomogranate rolled: dice_3 dice_4
+GuestPomogranate moved robber robber to prob_8 grain tile
+GuestPomogranate stole: grain from you
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: brick from: Pomogranate
+GuestPomogranate rolled: dice_1 dice_1
+UserLookaside got: ore
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: woolwoolwool
+UserLookaside bought development card
+GuestPomogranate rolled: dice_4 dice_5
+UserLookaside got: lumberlumberlumber
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: lumberlumberlumber
+UserLookaside built a road
+GuestPomogranate rolled: dice_4 dice_6
+GuestPomogranate got: woolwoolwoolwooloreore
+UserLookaside got: oreoreore
+GuestPomogranate bought development card
+GuestPomogranate bought development card
+UserLookaside rolled: dice_1 dice_6
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumberlumberlumberlumber
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: wool from: Pomogranate
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: grain grain
+UserLookaside built a city: +1 VP
+GuestPomogranate rolled: dice_5 dice_3
+GuestPomogranate got: graingrain
+UserLookaside got: graingraingraingrain
+UserLookaside rolled: dice_5 dice_5
+prob_10 wool tile is blocked by the robber. No resources produced.
+GuestPomogranate got: oreore
+UserLookaside got: oreoreore
+UserLookaside built a city: +1 VP
+GuestPomogranate rolled: dice_1 dice_3
+GuestPomogranate got: wool
+UserLookaside got: graingraingrainwool
+GuestPomogranate bought development card
+GuestPomogranate bought development card
+UserLookaside rolled: dice_1 dice_2
+GuestPomogranate got: wool
+UserLookaside got: brickbrickbrick
+UserLookaside gave bank: graingrain and took lumber
+UserLookaside built a settlement: +1 VP
+trophy Lookaside won the game! trophy

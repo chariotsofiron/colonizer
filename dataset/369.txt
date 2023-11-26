@@ -1,0 +1,297 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserHawkeye has disconnected. Bot will wait until next turn to give Hawkeye a chance to reconnect.
+botHawkeye has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+UserHawkeye has reconnected
+UserHawkeye placed a settlement
+UserHawkeye placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumberlumber
+UserHawkeye placed a settlement
+UserHawkeye placed a road
+UserHawkeye received starting resources woollumbergrain
+UserHawkeye rolled dice_3 dice_5
+UserLookaside got lumberlumber
+UserHawkeye got brick
+UserLookaside rolled dice_6 dice_4
+UserLookaside got grain
+UserHawkeye got brick
+UserHawkeye rolled dice_5 dice_4
+UserHawkeye got wool
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 ore tile
+UserNo player to steal from
+UserHawkeye rolled dice_2 dice_1
+UserLookaside got lumber
+UserHawkeye got grain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+UserHawkeye rolled dice_4 dice_5
+UserHawkeye got wool
+UserHawkeye built a road
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+UserHawkeye got ore
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserHawkeye rolled dice_4 dice_6
+UserLookaside got graingrain
+UserHawkeye got brick
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+UserHawkeye got grain
+UserHawkeye rolled dice_1 dice_3
+UserLookaside got brick
+UserHawkeye bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got brick
+UserLookaside built a road
+UserHawkeye rolled dice_5 dice_6
+UserLookaside rolled dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserHawkeye got lumber
+UserHawkeye rolled dice_1 dice_4
+UserLookaside got wool
+UserHawkeye got ore
+UserHawkeye built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumberlumber
+UserHawkeye got brick
+UserLookaside built a settlement (+1 VP)
+UserHawkeye rolled dice_4 dice_3
+UserHawkeye moved robber robber to prob_10 grain tile
+UserHawkeye stole lumber from you
+UserHawkeye built a road
+UserLookaside rolled dice_6 dice_6
+UserHawkeye rolled dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserHawkeye got brick
+UserLookaside rolled dice_1 dice_5
+UserLookaside got ore
+UserHawkeye got lumberlumber
+UserHawkeye rolled dice_6 dice_1
+UserHawkeye moved robber robber to prob_6 ore tile
+UserHawkeye stole lumber from you
+UserHawkeye built a road
+UserHawkeye built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from Hawkeye
+UserHawkeye used Knight card knight
+UserHawkeye moved robber robber to prob_10 grain tile
+UserHawkeye stole lumber from you
+UserHawkeye rolled dice_6 dice_2
+UserLookaside got lumberlumber
+UserHawkeye got brick
+UserHawkeye built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+UserHawkeye got woolwool
+UserLookaside bought development card
+UserHawkeye rolled dice_3 dice_6
+UserLookaside got wool
+UserHawkeye got woolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole wool from Hawkeye
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole wool from Hawkeye
+UserHawkeye rolled dice_2 dice_3
+UserLookaside got wool
+UserHawkeye got ore
+UserLookaside rolled dice_3 dice_3
+UserLookaside got ore
+UserHawkeye got lumberlumber
+UserHawkeye rolled dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumberlumber
+UserHawkeye got grain
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a road
+UserHawkeye rolled dice_1 dice_6
+UserHawkeye moved robber robber to prob_4 brick tile
+UserHawkeye stole wool from you
+UserLookaside rolled dice_1 dice_4
+UserLookaside got wool
+UserHawkeye got ore
+UserHawkeye rolled dice_3 dice_1
+prob_4 brick tile is blocked by the robber. No resources produced.
+UserHawkeye got wool
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrain
+UserHawkeye got brick
+UserLookaside bought development card
+UserHawkeye rolled dice_5 dice_3
+UserLookaside got lumberlumber
+UserHawkeye got brick
+UserHawkeye built a settlement (+1 VP)
+UserHawkeye built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got graingrain
+UserHawkeye got brick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank brick brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserHawkeye rolled dice_1 dice_5
+UserLookaside got ore
+UserHawkeye got lumberlumberore
+UserHawkeye gave bank lumberlumber and took grain
+UserLookaside rolled dice_3 dice_2
+UserLookaside got wool
+UserHawkeye got oreore
+UserLookaside bought development card
+UserHawkeye rolled dice_4 dice_2
+UserLookaside got ore
+UserHawkeye got lumberlumberore
+UserHawkeye gave bank lumberlumber and took grain
+UserHawkeye built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole ore from Hawkeye
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+UserHawkeye got orewoolwoolwool
+UserHawkeye rolled dice_2 dice_2
+UserLookaside got brick
+UserHawkeye got wool
+UserHawkeye gave bank woolwoolwoolwool and took grain
+UserHawkeye bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got woolgrain
+UserHawkeye got grain
+UserLookaside bought development card
+UserLookaside built a road
+UserHawkeye used Knight card knight
+UserHawkeye moved robber robber to prob_10 grain tile
+UserHawkeye stole lumber from you
+UserHawkeye rolled dice_4 dice_1
+UserLookaside got wool
+UserHawkeye got oreore
+UserHawkeye built a settlement (+1 VP)
+UserHawkeye gave bank oreoreore and took grain
+UserHawkeye bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumberlumber
+UserHawkeye got brick
+UserHawkeye rolled dice_4 dice_3
+UserHawkeye moved robber robber to prob_8 lumber tile
+UserHawkeye stole wool from you
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brick
+UserHawkeye got wool
+UserLookaside built a road
+UserHawkeye rolled dice_5 dice_5
+UserLookaside got graingraingrain
+UserHawkeye got brickbrick
+UserHawkeye gave bank brickbrickbrick and took grain
+UserHawkeye bought development card
+UserLookaside rolled dice_6 dice_6
+UserLookaside bought development card
+UserHawkeye rolled dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserHawkeye got brick
+UserHawkeye used Road Building card road building
+UserHawkeye placed a road
+UserHawkeye placed a road
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole brick from Hawkeye
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+UserHawkeye got oreorewoolwoolwool
+UserHawkeye rolled dice_5 dice_2
+UserHawkeye moved robber robber to prob_10 grain tile
+UserHawkeye stole lumber from you
+UserHawkeye gave bank woolwoolwool and took grain
+UserHawkeye bought development card
+UserLookaside rolled dice_3 dice_3
+UserLookaside got ore
+UserHawkeye got lumberlumberlumberore
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 2 ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a settlement (+1 VP)
+UserHawkeye rolled dice_6 dice_2
+UserLookaside got lumberlumberlumber
+UserHawkeye got brick
+UserLookaside rolled dice_6 dice_6
+UserHawkeye rolled dice_6 dice_1
+UserHawkeye moved robber robber to prob_8 lumber tile
+UserHawkeye stole lumber from you
+UserLookaside rolled dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserHawkeye got brick
+UserHawkeye rolled dice_1 dice_5
+UserLookaside got oreore
+UserHawkeye got lumberlumberlumberore
+UserHawkeye gave bank lumberlumberlumberlumberlumberlumberlumberlumber and took graingrainoreore
+UserHawkeye built a city (+1 VP)
+UserLookaside rolled dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserHawkeye got brick
+UserHawkeye rolled dice_4 dice_5
+UserLookaside got wool
+UserHawkeye got oreoreorewoolwoolwool
+UserHawkeye gave bank brickbrickbrick and took grain
+UserHawkeye bought development card
+UserHawkeye used Road Building card road building
+UserHawkeye placed a road
+UserHawkeye received longest road (+2 VPs)
+UserHawkeye placed a road
+UserLookaside rolled dice_5 dice_4
+UserLookaside got wool
+UserHawkeye got oreoreorewoolwoolwool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+UserHawkeye rolled dice_4 dice_6
+UserLookaside got graingraingrain
+UserHawkeye got brickbrick
+UserHawkeye used Knight card knight
+UserHawkeye moved robber robber to prob_6 ore tile
+UserHawkeye stole grain from you
+UserHawkeye bought development card
+UserHawkeye gave bank woolwoolwool and took grain
+UserHawkeye bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumberlumberlumberlumber
+UserHawkeye got graingrain
+UserLookaside gave bank lumberlumberlumberlumberlumberlumber and took oreore
+UserLookaside built a city (+1 VP)
+UserHawkeye rolled dice_1 dice_1
+UserLookaside got lumber
+UserHawkeye got lumber
+UserHawkeye built a city (+1 VP)
+UserLookaside rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserHawkeye got lumberlumberlumber
+UserHawkeye rolled dice_1 dice_4
+UserLookaside got woolwool
+UserHawkeye got oreoreoreore
+UserHawkeye gave bank lumberlumberoreoreore and took woolgrain
+UserHawkeye built a settlement (+1 VP)
+UserHawkeye used Knight card knight
+Userlargest army passed from Lookaside to Hawkeye (+2 VPs)
+trophyUserHawkeye won the game!trophy
+UserHawkeye has left the game
+Send a message
+Send message
+No Ads

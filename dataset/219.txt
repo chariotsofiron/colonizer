@@ -1,0 +1,300 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+GuestGoldSombrero: gg
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestGoldSombrero placed a settlement
+GuestGoldSombrero placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources brickwoollumber
+GuestGoldSombrero placed a settlement
+GuestGoldSombrero placed a road
+GuestGoldSombrero received starting resources orebricklumber
+GuestGoldSombrero rolled dice_4 dice_6
+GuestGoldSombrero got grain
+UserLookaside got wool
+GuestGoldSombrero built a road
+UserLookaside rolled dice_5 dice_6
+UserLookaside got lumber
+UserLookaside built a road
+GuestGoldSombrero rolled dice_3 dice_1
+GuestGoldSombrero got ore
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+GuestGoldSombrero rolled dice_4 dice_5
+GuestGoldSombrero got ore
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 wool tile
+UserNo player to steal from
+GuestGoldSombrero rolled dice_6 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_1
+GuestGoldSombrero got brick
+UserLookaside got brick
+GuestGoldSombrero rolled dice_2 dice_1
+GuestGoldSombrero got lumber
+UserLookaside rolled dice_2 dice_6
+UserLookaside got grain
+UserLookaside built a settlement (+1 VP)
+GuestGoldSombrero rolled dice_1 dice_2
+GuestGoldSombrero got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+GuestGoldSombrero rolled dice_2 dice_4
+GuestGoldSombrero got brick
+UserLookaside got brick
+GuestGoldSombrero built a road
+UserLookaside rolled dice_5 dice_4
+GuestGoldSombrero got ore
+UserLookaside got ore
+UserLookaside built a road
+UserLookaside built a road
+GuestGoldSombrero rolled dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_5
+GuestGoldSombrero got grain
+UserLookaside got wool
+GuestGoldSombrero rolled dice_2 dice_3
+GuestGoldSombrero got lumber
+UserLookaside got wool
+GuestGoldSombrero gave bank oreoreoreore and took wool
+UserLookaside rolled dice_4 dice_2
+GuestGoldSombrero got brick
+UserLookaside got brick
+GuestGoldSombrero rolled dice_3 dice_3
+GuestGoldSombrero got brick
+UserLookaside got brick
+GuestGoldSombrero built a road
+GuestGoldSombrero built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_2
+GuestGoldSombrero got ore
+UserLookaside got brick
+GuestGoldSombrero rolled dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside bought development card
+GuestGoldSombrero rolled dice_1 dice_3
+GuestGoldSombrero got ore
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_2
+GuestGoldSombrero got lumber
+UserLookaside got wool
+GuestGoldSombrero rolled dice_5 dice_1
+GuestGoldSombrero got brick
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_1
+UserLookaside discarded brickbrickbrickwoolwool
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole brick from GoldSombrero
+GuestGoldSombrero rolled dice_5 dice_2
+GuestGoldSombrero moved robber robber to prob_8 grain tile
+GuestGoldSombrero stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole grain from GoldSombrero
+UserLookaside rolled dice_3 dice_6
+GuestGoldSombrero got ore
+UserLookaside got ore
+GuestGoldSombrero rolled dice_2 dice_1
+GuestGoldSombrero got lumberlumber
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_5
+UserLookaside got lumberlumber
+UserLookaside built a road
+UserLookaside built a road
+GuestGoldSombrero rolled dice_1 dice_6
+GuestGoldSombrero moved robber robber to prob_8 grain tile
+GuestGoldSombrero stole grain from you
+GuestGoldSombrero built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestGoldSombrero got lumber
+GuestGoldSombrero rolled dice_4 dice_1
+GuestGoldSombrero got lumberlumber
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole lumber from GoldSombrero
+UserLookaside built a settlement (+1 VP)
+GuestGoldSombrero rolled dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserLookaside rolled dice_1 dice_5
+GuestGoldSombrero got brick
+UserLookaside got brick
+UserLookaside bought development card
+UserLookaside built a road
+GuestGoldSombrero rolled dice_5 dice_4
+GuestGoldSombrero got ore
+UserLookaside got brickore
+UserLookaside rolled dice_3 dice_1
+GuestGoldSombrero got ore
+UserLookaside got brick
+GuestGoldSombrero rolled dice_4 dice_2
+GuestGoldSombrero got brick
+UserLookaside got brick
+GuestGoldSombrero built a road
+GuestGoldSombrero built a road
+UserLookaside rolled dice_1 dice_2
+GuestGoldSombrero got lumberlumber
+UserLookaside got lumber
+GuestGoldSombrero rolled dice_4 dice_3
+GuestGoldSombrero moved robber robber to prob_8 grain tile
+GuestGoldSombrero stole lumber from you
+UserLookaside rolled dice_4 dice_6
+GuestGoldSombrero got graingrain
+UserLookaside got woolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole ore from GoldSombrero
+GuestGoldSombrero rolled dice_3 dice_5
+GuestGoldSombrero got lumber
+UserLookaside got grain
+GuestGoldSombrero built a city (+1 VP)
+UserLookaside rolled dice_2 dice_4
+GuestGoldSombrero got brickbrick
+UserLookaside got brick
+UserLookaside gave bank brickbrickbrickbrick and took ore
+GuestGoldSombrero rolled dice_5 dice_6
+UserLookaside got lumberlumber
+UserLookaside rolled dice_2 dice_2
+GuestGoldSombrero got oreore
+UserLookaside got brick
+UserLookaside built a settlement (+1 VP)
+GuestGoldSombrero rolled dice_5 dice_3
+GuestGoldSombrero got lumber
+UserLookaside got graingrain
+GuestGoldSombrero gave bank lumberlumberlumberlumber and took wool
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a city (+1 VP)
+GuestGoldSombrero rolled dice_3 dice_2
+GuestGoldSombrero got lumberlumber
+UserLookaside got woolwool
+GuestGoldSombrero gave bank lumberlumberlumberlumber and took grain
+GuestGoldSombrero built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole brick from GoldSombrero
+GuestGoldSombrero rolled dice_2 dice_5
+GuestGoldSombrero moved robber robber to prob_8 grain tile
+GuestGoldSombrero stole wool from you
+UserLookaside rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestGoldSombrero got lumber
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestGoldSombrero rolled dice_1 dice_2
+GuestGoldSombrero got lumberlumberlumber
+UserLookaside got lumberlumber
+UserLookaside rolled dice_1 dice_3
+GuestGoldSombrero got oreore
+UserLookaside got brick
+UserLookaside built a road
+GuestGoldSombrero rolled dice_3 dice_3
+GuestGoldSombrero got brickbrick
+UserLookaside got brick
+GuestGoldSombrero built a road
+GuestGoldSombrero built a road
+UserLookaside rolled dice_2 dice_3
+GuestGoldSombrero got lumberlumber
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+GuestGoldSombrero rolled dice_5 dice_4
+GuestGoldSombrero got oreore
+UserLookaside got brickoreore
+GuestGoldSombrero gave bank oreoreoreore and took grain
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole lumber from GoldSombrero
+GuestGoldSombrero rolled dice_6 dice_5
+UserLookaside got lumberlumberlumber
+UserLookaside rolled dice_4 dice_5
+GuestGoldSombrero got oreore
+UserLookaside got brickoreore
+UserLookaside gave bank lumberlumberlumber and took grain
+GuestGoldSombrero rolled dice_1 dice_5
+GuestGoldSombrero got brickbrick
+UserLookaside got brick
+GuestGoldSombrero built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+GuestGoldSombrero rolled dice_5 dice_1
+GuestGoldSombrero got grainbrickbrick
+UserLookaside got brick
+GuestGoldSombrero gave bank lumberlumber and took grain
+GuestGoldSombrero built a city (+1 VP)
+UserLookaside rolled dice_2 dice_1
+GuestGoldSombrero got lumberlumberlumberlumber
+UserLookaside got woollumberlumber
+UserLookaside built a road
+UserLookaside built a road
+GuestGoldSombrero rolled dice_3 dice_1
+GuestGoldSombrero got oreore
+UserLookaside got brick
+GuestGoldSombrero gave bank lumberlumberoreoreoreore and took woolgrain
+GuestGoldSombrero built a road
+GuestGoldSombrero built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_4
+GuestGoldSombrero got lumberlumber
+UserLookaside got graingraingrain
+UserLookaside bought development card
+GuestGoldSombrero rolled dice_3 dice_6
+GuestGoldSombrero got oreore
+UserLookaside got brickbrickoreore
+UserLookaside rolled dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside built a city (+1 VP)
+GuestGoldSombrero rolled dice_2 dice_6
+GuestGoldSombrero got lumberlumber
+UserLookaside got graingraingraingrain
+UserLookaside rolled dice_1 dice_1
+GuestGoldSombrero got woolwool
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+GuestGoldSombrero rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from GoldSombrero
+UserLookaside built a road
+GuestGoldSombrero rolled dice_6 dice_5
+UserLookaside got lumberlumberlumber
+UserLookaside rolled dice_3 dice_2
+GuestGoldSombrero got lumberlumber
+UserLookaside got woolwoolwool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+trophyUserLookaside won the game!trophy
+GuestGoldSombrero has left the game
+Thank you for playing. Game is closed, cannot create a rematch anymore
+Chat now disabled

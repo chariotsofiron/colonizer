@@ -1,0 +1,250 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+send
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestSezzler placed a settlement
+GuestSezzler placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumbergrainbrick
+GuestBot is placing a settlement for Sezzler
+GuestSezzler placed a settlement
+GuestBot is placing a road for Sezzler
+GuestSezzler placed a road
+GuestSezzler received starting resources woollumberwool
+GuestSezzler rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestBot is selecting where to place robber for Sezzler
+GuestSezzler moved robber robber to prob_12 grain tile
+GuestNo player to steal from
+GuestSezzler is inactive and was kicked, a bot will continue the game.
+botSezzler has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+UserLookaside rolled dice_5 dice_4
+UserLookaside got brick
+botSezzler got grain
+botSezzler rolled dice_2 dice_3
+UserLookaside got grain
+botSezzler got lumber
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 ore tile
+UserNo player to steal from
+botSezzler rolled dice_6 dice_5
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to Desert
+UserNo player to steal from
+botSezzler rolled dice_5 dice_5
+UserLookaside got lumber
+botSezzler got wool
+GuestSezzler has reconnected
+UserLookaside rolled dice_3 dice_3
+UserLookaside got ore
+GuestSezzler got brick
+GuestSezzler rolled dice_1 dice_3
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_2
+UserLookaside got ore
+UserLookaside built a road
+GuestSezzler rolled dice_4 dice_4
+GuestSezzler got wool
+UserLookaside rolled dice_3 dice_5
+GuestSezzler got wool
+GuestSezzler rolled dice_1 dice_5
+UserLookaside got ore
+GuestSezzler got brick
+GuestSezzler built a road
+GuestSezzler built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_2
+UserLookaside got ore
+GuestSezzler got brick
+UserLookaside built a city (+1 VP)
+GuestSezzler rolled dice_6 dice_4
+UserLookaside got lumberlumber
+GuestSezzler got wool
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Sezzler
+UserLookaside built a road
+GuestSezzler rolled dice_4 dice_1
+UserLookaside got graingrain
+GuestSezzler got lumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole wool from Sezzler
+UserLookaside bought development card
+GuestSezzler rolled dice_4 dice_5
+UserLookaside got brickbrick
+GuestSezzler got grain
+GuestSezzler built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickbrick
+GuestSezzler got grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestSezzler rolled dice_1 dice_2
+UserLookaside got wool
+GuestSezzler got lumberlumber
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Sezzler
+GuestSezzler rolled dice_1 dice_4
+UserLookaside got graingrain
+GuestSezzler got lumber
+UserLookaside rolled dice_1 dice_1
+GuestSezzler rolled dice_2 dice_5
+GuestSezzler moved robber robber to prob_5 grain tile
+GuestSezzler stole wool from you
+UserLookaside rolled dice_5 dice_6
+GuestSezzler rolled dice_6 dice_4
+UserLookaside got lumberlumberlumber
+GuestSezzler got wool
+UserLookaside rolled dice_5 dice_3
+UserLookaside got grain
+GuestSezzler got woolgrain
+UserLookaside built a settlement (+1 VP)
+GuestSezzler rolled dice_3 dice_3
+UserLookaside got oreore
+GuestSezzler got brick
+GuestSezzler built a road
+UserLookaside rolled dice_6 dice_5
+UserLookaside got lumber
+UserLookaside built a city (+1 VP)
+GuestSezzler rolled dice_6 dice_2
+UserLookaside got grain
+GuestSezzler got woolgrain
+GuestSezzler gave bank woolwoolwoolwool and took brick
+GuestSezzler built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_4
+UserLookaside got grain
+GuestSezzler got woolgrain
+GuestSezzler rolled dice_3 dice_6
+UserLookaside got brickbrick
+GuestSezzler got grain
+UserLookaside rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuestSezzler got lumber
+UserLookaside built a road
+GuestSezzler rolled dice_2 dice_1
+UserLookaside got woolwool
+GuestSezzler got lumberlumber
+UserLookaside rolled dice_1 dice_1
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestSezzler rolled dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuestSezzler got lumber
+GuestSezzler gave bank lumberlumberlumberlumber and took ore
+GuestSezzler bought development card
+UserLookaside rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+GuestSezzler got lumber
+GuestSezzler rolled dice_1 dice_6
+GuestSezzler moved robber robber to prob_6 ore tile
+GuestSezzler stole wool from you
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumberlumber
+GuestSezzler got wool
+GuestSezzler rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestSezzler got brickbrick
+GuestSezzler rolled dice_5 dice_4
+UserLookaside got brickbrickgrain
+GuestSezzler got grain
+GuestSezzler built a road
+GuestSezzler built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got grain
+GuestSezzler got woolwoolgrain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestSezzler rolled dice_1 dice_2
+UserLookaside got woolwool
+GuestSezzler got lumberlumber
+GuestSezzler gave bank woolwoolwoolwool and took oreore
+GuestSezzler gave bank graingraingrain and took ore
+GuestSezzler built a city (+1 VP)
+UserLookaside rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestSezzler got brickbrick
+GuestSezzler rolled dice_1 dice_4
+UserLookaside got graingraingrain
+GuestSezzler got lumberlumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumber
+GuestSezzler got woolwool
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+GuestSezzler rolled dice_6 dice_4
+UserLookaside got lumberlumberlumberwool
+GuestSezzler got woolwool
+GuestSezzler built a road
+GuestSezzler built a road
+UserLookaside rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestSezzler got brickbrick
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+GuestSezzler rolled dice_4 dice_5
+UserLookaside got brickbrickgraingrain
+GuestSezzler got grain
+GuestSezzler built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole wool from Sezzler
+UserLookaside rolled dice_2 dice_2
+UserLookaside got oreorewool
+GuestSezzler got wool
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestSezzler rolled dice_1 dice_5
+UserLookaside got oreoreore
+GuestSezzler got brickbrick
+UserLookaside rolled dice_2 dice_3
+UserLookaside got graingraingrain
+GuestSezzler got lumberlumber
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+UserLookaside bought development card
+GuestSezzler rolled dice_2 dice_1
+UserLookaside got woolwoolwool
+GuestSezzler got lumberlumberwool
+GuestSezzler built a road
+GuestSezzler built a road
+GuestSezzler gave bank woolwool and took grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from Sezzler
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberwoolwool
+GuestSezzler got woolwool
+UserLookaside gave bank lumberlumberlumberwoolwoolwool and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestSezzler rolled dice_1 dice_4
+UserLookaside got graingraingraingrain
+GuestSezzler got lumberlumber
+GuestSezzler gave bank woolwoolwoolwool and took brickbrick
+GuestSezzler built a road
+GuestSezzler built a road
+GuestSezzler built a road
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+trophyUserLookaside won the game! trophy
+GuestSezzler has left the game
+Thank you for playing. Game is closed, cannot create a rematch anymore
+Chat now disabled

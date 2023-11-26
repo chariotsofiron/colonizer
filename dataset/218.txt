@@ -1,0 +1,389 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: close game
+Guestyamborgina: 4 vps?
+UserLookaside: i wish but no
+Guestyamborgina: ah
+UserLookaside: gg
+Guestyamborgina: should have closed my road
+UserLookaside: yeah
+UserLookaside: woulda had me
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Guestyamborgina placed a settlement
+Guestyamborgina placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources brickwoollumber
+Guestyamborgina placed a settlement
+Guestyamborgina placed a road
+Guestyamborgina received starting resources woolwoolbrick
+Guestyamborgina rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Guestyamborgina moved robber robber to prob_9 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to Desert
+UserNo player to steal from
+Guestyamborgina rolled dice_1 dice_1
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberbrick
+Guestyamborgina rolled dice_4 dice_6
+UserLookaside got lumber
+Guestyamborgina got ore
+UserLookaside rolled dice_1 dice_2
+UserLookaside got wool
+Guestyamborgina got wool
+Guestyamborgina rolled dice_2 dice_2
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_5
+Guestyamborgina got grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Guestyamborgina rolled dice_5 dice_4
+UserLookaside got grain
+Guestyamborgina got grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_5 dice_6
+Guestyamborgina rolled dice_6 dice_4
+UserLookaside got lumber
+Guestyamborgina got ore
+UserLookaside rolled dice_5 dice_3
+Guestyamborgina got brick
+Guestyamborgina rolled dice_1 dice_4
+UserLookaside got wool
+Guestyamborgina got lumberwool
+Guestyamborgina built a road
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 brick tile
+UserNo player to steal from
+Guestyamborgina rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+Guestyamborgina moved robber robber to prob_6 brick tile
+Guestyamborgina stole lumber from you
+UserLookaside rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Guestyamborgina rolled dice_4 dice_4
+Guestyamborgina got brick
+UserLookaside rolled dice_6 dice_6
+Guestyamborgina rolled dice_4 dice_1
+UserLookaside got wool
+Guestyamborgina got lumberwool
+Guestyamborgina built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+Guestyamborgina got lumberlumberwool
+Guestyamborgina rolled dice_6 dice_3
+UserLookaside got grain
+Guestyamborgina got grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumber
+Guestyamborgina got ore
+Guestyamborgina rolled dice_3 dice_1
+UserLookaside got graingrain
+UserLookaside rolled dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside gave bank woolwoolwoolwool and took brick
+Guestyamborgina rolled dice_1 dice_1
+UserLookaside got ore
+Guestyamborgina got ore
+UserLookaside rolled dice_4 dice_4
+Guestyamborgina got brick
+UserLookaside built a road
+Guestyamborgina rolled dice_4 dice_1
+UserLookaside got wool
+Guestyamborgina got lumberlumberwool
+Guestyamborgina built a road
+Guestyamborgina built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+Guestyamborgina got grain
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a settlement (+1 VP)
+Guestyamborgina rolled dice_3 dice_6
+UserLookaside got lumbergrain
+Guestyamborgina got grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from yamborgina
+UserLookaside bought development card
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 brick tile
+Guestyamborgina stole lumber from you
+Guestyamborgina rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Guestyamborgina rolled dice_6 dice_4
+UserLookaside got lumberlumber
+Guestyamborgina got ore
+UserLookaside rolled dice_2 dice_6
+Guestyamborgina got brick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside gave bank lumberlumberlumberlumberlumberlumber and took graingrainore
+UserLookaside built a city (+1 VP)
+Guestyamborgina rolled dice_1 dice_6
+Guestyamborgina discarded lumberlumberlumberwoolore
+Guestyamborgina moved robber robber to prob_6 lumber tile
+GuestNo player to steal from
+Guestyamborgina built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from yamborgina
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole ore from you
+Guestyamborgina rolled dice_1 dice_3
+UserLookaside got graingraingrain
+Guestyamborgina got grain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+Guestyamborgina got lumberlumberwoolwool
+Guestyamborgina rolled dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+Guestyamborgina bought development card
+UserLookaside rolled dice_6 dice_6
+Guestyamborgina rolled dice_6 dice_3
+UserLookaside got lumbergrain
+Guestyamborgina got grain
+UserLookaside rolled dice_6 dice_2
+Guestyamborgina got brick
+UserLookaside built a road
+Guestyamborgina rolled dice_3 dice_5
+Guestyamborgina got brick
+Guestyamborgina built a road
+Guestyamborgina built a road
+Guestyamborgina received longest road (+2 VPs)
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumber
+Guestyamborgina got ore
+Guestyamborgina rolled dice_1 dice_4
+UserLookaside got wool
+Guestyamborgina got lumberlumberwoolwool
+UserLookaside rolled dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside built a road
+Guestyamborgina rolled dice_1 dice_2
+UserLookaside got woolwool
+Guestyamborgina got wool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from yamborgina
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+Guestyamborgina used Knight card knight
+Guestyamborgina received largest army (+2 VPs)
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole grain from you
+Guestyamborgina rolled dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+Guestyamborgina bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole grain from yamborgina
+Guestyamborgina rolled dice_4 dice_4
+UserLookaside got brick
+Guestyamborgina got brick
+UserLookaside rolled dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumberlumber
+UserLookaside built a road
+Guestyamborgina rolled dice_2 dice_2
+UserLookaside got graingraingrain
+Guestyamborgina got grain
+Guestyamborgina used Road Building card road building
+Guestyamborgina placed a road
+Guestyamborgina placed a road
+Guestyamborgina built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole lumber from yamborgina
+UserLookaside gave bank lumberlumber and took wool
+UserLookaside built a settlement (+1 VP)
+Guestyamborgina rolled dice_5 dice_6
+Guestyamborgina got wool
+UserLookaside rolled dice_3 dice_2
+prob_5 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Guestyamborgina got woolwool
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside bought development card
+Guestyamborgina rolled dice_5 dice_3
+UserLookaside got brick
+Guestyamborgina got brickbrick
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumbergrain
+Guestyamborgina got grain
+Guestyamborgina rolled dice_1 dice_5
+UserLookaside got lumberlumberlumberbrick
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumbergrain
+Guestyamborgina got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from yamborgina
+UserLookaside built a road
+UserLookaside gave bank lumberlumber and took ore
+Guestyamborgina rolled dice_5 dice_2
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole grain from you
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from yamborgina
+Guestyamborgina rolled dice_4 dice_2
+UserLookaside got lumberlumberlumberbrick
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brick
+Guestyamborgina got brickbrick
+UserLookaside gave bank lumberlumberlumberlumberwoolwool and took grainoreore
+UserLookaside built a city (+1 VP)
+Guestyamborgina rolled dice_4 dice_3
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole brick from you
+Guestyamborgina wants to give brickbrickbrickbrick for ore
+Guestyamborgina gave bank brickbrickbrick and took ore
+Guestyamborgina used Year of Plenty card year of plenty
+Guestyamborgina took from bank ore ore
+Guestyamborgina built a city (+1 VP)
+UserLookaside rolled dice_1 dice_2
+UserLookaside got woolwool
+Guestyamborgina got wool
+Guestyamborgina rolled dice_6 dice_5
+Guestyamborgina got wool
+Guestyamborgina gave bank woolwoolwool and took lumber
+Guestyamborgina built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+Guestyamborgina rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumber
+Guestyamborgina got oreore
+UserLookaside rolled dice_2 dice_1
+UserLookaside got woolwool
+Guestyamborgina got woolwool
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+UserLookaside gave bank brickbrickbrickbrickwoolwool and took grainore
+UserLookaside bought development card
+Guestyamborgina rolled dice_4 dice_1
+UserLookaside got woolwool
+Guestyamborgina got lumberlumberlumberwoolwool
+Guestyamborgina gave bank woolwoolwool and took grain
+Guestyamborgina bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole brick from yamborgina
+UserLookaside rolled dice_1 dice_1
+UserLookaside got oreore
+Guestyamborgina got ore
+Guestyamborgina rolled dice_3 dice_1
+UserLookaside got graingraingrain
+Guestyamborgina got grain
+UserLookaside rolled dice_2 dice_1
+UserLookaside got woolwool
+Guestyamborgina got woolwool
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserLookaside bought development card
+Guestyamborgina rolled dice_4 dice_4
+UserLookaside got brick
+Guestyamborgina got brickbrick
+Guestyamborgina bought development card
+Guestyamborgina gave bank lumberlumberlumber and took grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberlumberlumberbrickbrickbrick
+UserLookaside gave bank lumberlumberbrickbrickbrickbrick and took grainore
+UserLookaside bought development card
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole lumber from you
+Guestyamborgina rolled dice_6 dice_6
+UserLookaside got ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole lumber from yamborgina
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brick
+Guestyamborgina got brickbrick
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole ore from you
+Guestyamborgina rolled dice_5 dice_6
+Guestyamborgina got woolwool
+Guestyamborgina gave bank brickbrickbrick and took grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole brick from yamborgina
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole brick from you
+Guestyamborgina rolled dice_1 dice_2
+UserLookaside got woolwool
+Guestyamborgina got woolwool
+UserLookaside rolled dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+UserLookaside built a road
+Guestyamborgina rolled dice_4 dice_1
+UserLookaside got woolwool
+Guestyamborgina got lumberlumberlumberwoolwool
+Guestyamborgina gave bank lumberlumberlumberwoolwoolwool and took grainore
+Guestyamborgina bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole brick from yamborgina
+UserLookaside gave bank brickbrickbrickbrickwoolwool and took grainore
+UserLookaside bought development card
+Guestyamborgina used Knight card knight
+Guestyamborgina moved robber robber to prob_6 lumber tile
+Guestyamborgina stole wool from you
+Guestyamborgina rolled dice_1 dice_1
+UserLookaside got oreore
+Guestyamborgina got ore
+UserLookaside rolled dice_6 dice_5
+Guestyamborgina got woolwool
+Guestyamborgina rolled dice_4 dice_6
+UserLookaside got lumberlumberlumberlumber
+Guestyamborgina got oreore
+Guestyamborgina gave bank woolwoolwool and took grain
+Guestyamborgina bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from yamborgina
+UserLookaside gave bank lumberlumberlumberlumber and took graingrain
+UserLookaside built a city (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userlongest road passed from yamborgina to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+Guestyamborgina has left the game
+Thank you for playing. Game is closed, cannot create a rematch anymore
+Chat now disabled
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

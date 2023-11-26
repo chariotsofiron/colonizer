@@ -1,0 +1,312 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Usermadpanda90 placed a settlement
+Usermadpanda90 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberbricklumber
+Usermadpanda90 placed a settlement
+Usermadpanda90 placed a road
+Usermadpanda90 received starting resources woolgrainlumber
+Usermadpanda90 rolled dice_4 dice_6
+UserLookaside got wool
+Usermadpanda90 got woollumber
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumber
+Usermadpanda90 rolled dice_2 dice_1
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grain
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_5 dice_1
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_5
+UserLookaside got wool
+Usermadpanda90 got woollumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Usermadpanda90 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+Usermadpanda90 moved robber robber to prob_6 brick tile
+Usermadpanda90 stole wool from you
+Usermadpanda90 built a road
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumber
+Usermadpanda90 got grainlumber
+Usermadpanda90 rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Usermadpanda90 moved robber robber to prob_8 grain tile
+Usermadpanda90 stole lumber from you
+UserLookaside rolled dice_4 dice_5
+Usermadpanda90 got grain
+Usermadpanda90 rolled dice_6 dice_3
+Usermadpanda90 got grain
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_1 dice_1
+Usermadpanda90 built a settlement (+1 VP)
+Usermadpanda90 gave bank graingrain and took ore
+Usermadpanda90 bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole wool from madpanda90
+Usermadpanda90 used Knight card knight
+Usermadpanda90 moved robber robber to prob_6 brick tile
+Usermadpanda90 stole lumber from you
+Usermadpanda90 rolled dice_6 dice_4
+UserLookaside got wool
+Usermadpanda90 got woollumber
+UserLookaside rolled dice_3 dice_6
+Usermadpanda90 got grain
+Usermadpanda90 rolled dice_5 dice_6
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+Usermadpanda90 rolled dice_4 dice_1
+UserLookaside got lumber
+Usermadpanda90 got graingrainlumber
+Usermadpanda90 gave bank lumberlumberlumberlumber and took ore
+Usermadpanda90 bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole grain from madpanda90
+Usermadpanda90 rolled dice_2 dice_2
+UserLookaside got grainlumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got grain
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_5 dice_4
+Usermadpanda90 got grain
+Usermadpanda90 built a road
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Usermadpanda90 rolled dice_4 dice_3
+Usermadpanda90 moved robber robber to prob_6 brick tile
+Usermadpanda90 stole lumber from you
+UserLookaside rolled dice_3 dice_5
+UserLookaside got graingrain
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_6 dice_1
+Usermadpanda90 moved robber robber to prob_8 grain tile
+Usermadpanda90 stole grain from you
+Usermadpanda90 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_1 dice_3
+UserLookaside got grainlumber
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserLookaside built a road
+Usermadpanda90 rolled dice_3 dice_3
+UserLookaside got brickbrick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grainlumber
+UserLookaside built a settlement (+1 VP)
+Usermadpanda90 rolled dice_3 dice_4
+Usermadpanda90 moved robber robber to prob_6 brick tile
+Usermadpanda90 stole grain from you
+UserLookaside rolled dice_6 dice_2
+UserLookaside got graingrain
+Usermadpanda90 got brick
+Usermadpanda90 rolled dice_4 dice_1
+UserLookaside got lumber
+Usermadpanda90 got graingrainlumber
+Usermadpanda90 used Year of Plenty card year of plenty
+Usermadpanda90 took from bank ore ore
+Usermadpanda90 gave bank graingrain and took ore
+Usermadpanda90 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wool
+Usermadpanda90 got graingraingrain
+Usermadpanda90 rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+Usermadpanda90 gave bank graingrain and took wool
+Usermadpanda90 built a road
+Usermadpanda90 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole grain from madpanda90
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Usermadpanda90 got wool
+UserLookaside built a road
+Usermadpanda90 rolled dice_2 dice_2
+UserLookaside got grainlumberlumber
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumber
+Usermadpanda90 got graingrainlumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_2 dice_4
+UserLookaside got brickbrick
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumber
+Usermadpanda90 got graingrainlumberlumber
+Usermadpanda90 rolled dice_1 dice_1
+Usermadpanda90 got woolwool
+Usermadpanda90 gave bank graingrain and took ore
+Usermadpanda90 gave bank lumberlumberlumberlumberwoolwool and took oreore
+Usermadpanda90 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole wool from madpanda90
+Usermadpanda90 rolled dice_2 dice_1
+UserLookaside got oreoreore
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+Usermadpanda90 got graingraingrainwool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a city (+1 VP)
+Usermadpanda90 rolled dice_5 dice_3
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrick
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_1 dice_3
+UserLookaside got grainlumberlumberlumber
+Usermadpanda90 gave bank graingrain and took ore
+Usermadpanda90 bought development card
+UserLookaside rolled dice_3 dice_5
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrick
+UserLookaside built a settlement (+1 VP)
+Usermadpanda90 rolled dice_2 dice_6
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrick
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside built a road
+Usermadpanda90 rolled dice_5 dice_5
+UserLookaside got woolwoollumber
+Usermadpanda90 got woolwoollumberlumberlumber
+Usermadpanda90 built a road
+Usermadpanda90 built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+Usermadpanda90 got graingraingrainwool
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_2 dice_1
+UserLookaside got oreoreoreore
+Usermadpanda90 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded lumberwoolwoolgrainore
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole wool from madpanda90
+UserLookaside built a city (+1 VP)
+Usermadpanda90 rolled dice_4 dice_2
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrickbrick
+Usermadpanda90 rolled dice_2 dice_5
+Usermadpanda90 moved robber robber to prob_4 lumber tile
+Usermadpanda90 stole brick from you
+Usermadpanda90 gave bank brickbrickbrickbrick and took ore
+Usermadpanda90 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole brick from madpanda90
+UserLookaside rolled dice_6 dice_2
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrickbrick
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+Usermadpanda90 got lumberlumber
+UserLookaside rolled dice_2 dice_2
+UserLookaside got grainlumberlumberlumber
+UserLookaside gave bank lumberlumber and took wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+Usermadpanda90 rolled dice_5 dice_6
+UserLookaside got woollumberlumberlumber
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole lumber from madpanda90
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_1 dice_4
+UserLookaside got lumberlumber
+Usermadpanda90 got graingraingrainlumberlumber
+Usermadpanda90 gave bank graingrain and took wool
+Usermadpanda90 used Road Building card road building
+Usermadpanda90 placed a road
+Usermadpanda90 placed a road
+Usermadpanda90 built a settlement (+1 VP)
+Usermadpanda90 built a road
+Userlongest road passed from Lookaside to madpanda90 (+2 VPs)
+Usermadpanda90 built a road
+UserLookaside rolled dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Usermadpanda90 got wool
+UserLookaside gave bank lumberlumber and took brick
+UserLookaside built a road
+Userlongest road passed from madpanda90 to Lookaside (+2 VPs)
+Usermadpanda90 rolled dice_6 dice_4
+UserLookaside got woolwoollumber
+Usermadpanda90 got woolwoollumberlumberlumber
+Usermadpanda90 built a road
+Usermadpanda90 built a road
+Userlongest road passed from Lookaside to madpanda90 (+2 VPs)
+Usermadpanda90 gave bank woolwool and took brick
+Usermadpanda90 built a road
+UserLookaside rolled dice_4 dice_5
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Usermadpanda90 got wool
+Usermadpanda90 rolled dice_5 dice_2
+Usermadpanda90 moved robber robber to prob_6 brick tile
+Usermadpanda90 stole lumber from you
+Usermadpanda90 gave bank woolwool and took brick
+Usermadpanda90 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole grain from madpanda90
+UserLookaside rolled dice_6 dice_5
+UserLookaside got woollumberlumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+Usermadpanda90 rolled dice_5 dice_3
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrickbrick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got graingraingrain
+Usermadpanda90 got brickbrickbrick
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 6 brick
+UserLookaside built a road
+UserLookaside built a road
+Usermadpanda90 Resigned
+trophyUserLookaside won the game!trophy
+Usermadpanda90 has left the game
+UserLookaside: every time
+Send a message
+Send message
+No Ads

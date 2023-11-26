@@ -1,0 +1,331 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestEli1983 placed a settlement
+GuestEli1983 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberorebrick
+GuestEli1983 placed a settlement
+GuestEli1983 placed a road
+GuestEli1983 received starting resources: woolbrickore
+GuestEli1983 rolled: dice_5 dice_5
+GuestEli1983 got: ore
+UserLookaside got: ore
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumber
+UserLookaside built a road
+GuestEli1983 rolled: dice_1 dice_5
+GuestEli1983 got: brick
+UserLookaside got: brick
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: wool
+GuestEli1983 rolled: dice_2 dice_4
+GuestEli1983 got: brick
+UserLookaside got: brick
+UserLookaside rolled: dice_2 dice_3
+GuestEli1983 got: ore
+UserLookaside got: ore
+UserLookaside wants to give: ore for: grain
+GuestEli1983 rolled: dice_3 dice_2
+GuestEli1983 got: ore
+UserLookaside got: ore
+UserLookaside rolled: dice_6 dice_4
+GuestEli1983 got: ore
+UserLookaside got: ore
+UserLookaside gave bank: oreoreoreore and took grain
+UserLookaside built a settlement: +1 VP
+GuestEli1983 rolled: dice_1 dice_2
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_5
+GuestEli1983 got: grain
+UserLookaside got: lumber
+UserLookaside built a road
+GuestEli1983 rolled: dice_5 dice_4
+UserLookaside got: wool
+GuestEli1983 gave bank: oreoreoreore and took lumber
+UserLookaside rolled: dice_3 dice_1
+GuestEli1983 got: lumber
+UserLookaside got: oreore
+GuestEli1983 rolled: dice_5 dice_1
+GuestEli1983 got: brick
+UserLookaside got: brick
+GuestEli1983 built a road
+GuestEli1983 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: brick from: Eli1983
+GuestEli1983 rolled: dice_2 dice_5
+GuestEli1983 moved robber robber to prob_4 ore tile
+GuestEli1983 stole: ore from you
+UserLookaside rolled: dice_1 dice_4
+GuestEli1983 got: ore
+UserLookaside got: ore
+GuestEli1983 rolled: dice_6 dice_5
+GuestEli1983 got: woolwool
+UserLookaside rolled: dice_5 dice_6
+GuestEli1983 got: woolwool
+GuestEli1983 rolled: dice_6 dice_2
+GuestEli1983 got: grain
+UserLookaside got: lumber
+UserLookaside rolled: dice_4 dice_2
+GuestEli1983 got: brick
+UserLookaside got: brick
+UserLookaside wants to give: brick for: ore
+UserLookaside built a road
+GuestEli1983 rolled: dice_3 dice_3
+GuestEli1983 got: brick
+UserLookaside got: brick
+GuestEli1983 bought development card
+UserLookaside rolled: dice_1 dice_1
+GuestEli1983 rolled: dice_3 dice_6
+GuestEli1983 got: wool
+UserLookaside got: wool
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: ore from: Eli1983
+UserLookaside gave bank: oreoreoreore and took grain
+UserLookaside built a settlement: +1 VP
+GuestEli1983 rolled: dice_1 dice_1
+UserLookaside rolled: dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestEli1983 rolled: dice_3 dice_4
+GuestEli1983 moved robber robber to prob_8 lumber tile
+GuestEli1983 stole: brick from you
+UserLookaside rolled: dice_4 dice_2
+GuestEli1983 got: brick
+UserLookaside got: brick
+GuestEli1983 rolled: dice_4 dice_1
+GuestEli1983 got: ore
+UserLookaside got: ore
+GuestEli1983 gave bank: brickbrickbrickbrick and took lumber
+UserLookaside rolled: dice_5 dice_6
+GuestEli1983 got: woolwool
+GuestEli1983 rolled: dice_2 dice_2
+GuestEli1983 got: lumber
+UserLookaside got: oreore
+GuestEli1983 built a road
+UserLookaside rolled: dice_6 dice_4
+GuestEli1983 got: ore
+UserLookaside got: ore
+UserLookaside gave bank: oreoreore and took lumber
+UserLookaside built a road
+UserLookaside built a road
+GuestEli1983 rolled: dice_6 dice_6
+UserLookaside got: grain
+UserLookaside rolled: dice_4 dice_6
+GuestEli1983 got: ore
+UserLookaside got: ore
+GuestEli1983 rolled: dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+GuestEli1983 got: grain
+GuestEli1983 gave bank: woolwoolwoolwool and took grain
+GuestEli1983 built a city: +1 VP
+UserLookaside rolled: dice_3 dice_6
+GuestEli1983 got: wool
+UserLookaside got: woolwool
+GuestEli1983 rolled: dice_2 dice_5
+GuestEli1983 moved robber robber to prob_4 ore tile
+GuestEli1983 stole: wool from you
+UserLookaside rolled: dice_4 dice_5
+GuestEli1983 got: wool
+UserLookaside got: woolwool
+GuestEli1983 rolled: dice_3 dice_1
+prob_4 ore tile is blocked by the robber. No resources produced.
+GuestEli1983 got: lumberlumber
+UserLookaside rolled: dice_1 dice_5
+GuestEli1983 got: brick
+UserLookaside got: brick
+UserLookaside gave bank: woolwoolwool and took lumber
+UserLookaside built a settlement: +1 VP
+GuestEli1983 rolled: dice_3 dice_5
+GuestEli1983 got: graingrain
+UserLookaside got: lumber
+GuestEli1983 built a road
+GuestEli1983 gave bank: woolwoolwoolwool and took brick
+GuestEli1983 built a road
+GuestEli1983 received : +2 VPs
+UserLookaside rolled: dice_2 dice_3
+GuestEli1983 got: ore
+UserLookaside got: lumberore
+GuestEli1983 rolled: dice_1 dice_2
+GuestEli1983 got: lumber
+UserLookaside got: lumber
+UserLookaside rolled: dice_4 dice_4
+GuestEli1983 got: graingrain
+UserLookaside got: lumber
+GuestEli1983 rolled: dice_3 dice_3
+GuestEli1983 got: brick
+UserLookaside got: brick
+GuestEli1983 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: grain from: Eli1983
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside built a city: +1 VP
+GuestEli1983 rolled: dice_1 dice_6
+GuestEli1983 moved robber robber to prob_9 wool tile
+GuestEli1983 stole: brick from you
+GuestEli1983 built a road
+UserLookaside rolled: dice_1 dice_4
+GuestEli1983 got: ore
+UserLookaside got: lumberoreore
+GuestEli1983 rolled: dice_3 dice_1
+GuestEli1983 got: lumberlumber
+UserLookaside got: oreore
+GuestEli1983 built a city: +1 VP
+UserLookaside rolled: dice_6 dice_5
+GuestEli1983 got: grainwoolwoolwool
+GuestEli1983 rolled: dice_3 dice_2
+GuestEli1983 got: oreore
+UserLookaside got: lumberoreore
+UserLookaside rolled: dice_1 dice_4
+GuestEli1983 got: oreore
+UserLookaside got: lumberoreore
+UserLookaside gave bank: lumberlumberlumberoreoreore and took graingrain
+UserLookaside built a city: +1 VP
+GuestEli1983 rolled: dice_5 dice_2
+Eli1983 discarding resource cards
+GuestEli1983 discarded: woolwoolwooloreore
+GuestEli1983 moved robber robber to prob_4 ore tile
+GuestEli1983 stole: ore from you
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: lumber from: Eli1983
+GuestEli1983 rolled: dice_5 dice_1
+GuestEli1983 got: brickbrickbrick
+UserLookaside got: brick
+GuestEli1983 built a road
+UserLookaside rolled: dice_6 dice_6
+GuestEli1983 got: grain
+UserLookaside got: grain
+GuestEli1983 rolled: dice_5 dice_6
+GuestEli1983 got: grainwoolwoolwool
+GuestEli1983 built a city: +1 VP
+UserLookaside rolled: dice_4 dice_5
+GuestEli1983 got: wool
+UserLookaside got: woolwoolwoolwoolwool
+UserLookaside gave bank: woolwoolwool and took brick
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside built a road
+User passed from: Eli1983 to: Lookaside: +2 VPs
+GuestEli1983 rolled: dice_3 dice_6
+GuestEli1983 got: wool
+UserLookaside got: woolwoolwoolwoolwool
+UserLookaside rolled: dice_4 dice_2
+GuestEli1983 got: brickbrickbrickbrick
+UserLookaside got: brick
+GuestEli1983 rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestEli1983 gave bank: brickbrickbrickbrick and took lumber
+GuestEli1983 built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_2
+GuestEli1983 got: lumber
+UserLookaside got: lumber
+UserLookaside gave bank: woolwoolwool and took grain
+UserLookaside built a settlement: +1 VP
+GuestEli1983 rolled: dice_4 dice_1
+GuestEli1983 got: oreore
+UserLookaside got: lumberlumberoreore
+UserLookaside rolled: dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestEli1983 rolled: dice_2 dice_4
+GuestEli1983 got: brickbrickbrickbrick
+UserLookaside got: brick
+GuestEli1983 built a road
+GuestEli1983 gave bank: woolwoolwool and took lumber
+GuestEli1983 built a road
+UserLookaside rolled: dice_5 dice_4
+GuestEli1983 got: wool
+UserLookaside got: woolwoolwoolwoolwool
+UserLookaside gave bank: lumberlumberlumberwoolwoolwoolwoolwoolwool and took graingrainore
+UserLookaside built a city: +1 VP
+UserLookaside built a road
+GuestEli1983 rolled: dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_1 dice_3
+GuestEli1983 got: lumberlumber
+UserLookaside got: oreoreore
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestEli1983 rolled: dice_1 dice_5
+GuestEli1983 got: brickbrickbrickbrick
+UserLookaside got: brickbrick
+GuestEli1983 gave bank: brickbrickbrick and took grain
+GuestEli1983 built a settlement: +1 VP
+GuestEli1983 built a road
+UserLookaside rolled: dice_4 dice_6
+GuestEli1983 got: oreore
+UserLookaside got: oreorewoolwoolwool
+GuestEli1983 rolled: dice_1 dice_1
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole: ore from: Eli1983
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: ore from: Eli1983
+UserLookaside gave bank: woolwoolwooloreoreore and took graingrain
+UserLookaside built a city: +1 VP
+GuestEli1983 rolled: dice_5 dice_5
+GuestEli1983 got: oreore
+UserLookaside got: oreorewoolwoolwoolwool
+UserLookaside rolled: dice_5 dice_1
+GuestEli1983 got: brickbrickbrickbrick
+UserLookaside got: brickbrick
+UserLookaside gave bank: brickbrickbrickwoolwoolwool and took lumbergrain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement: +1 VP
+GuestEli1983 rolled: dice_4 dice_6
+GuestEli1983 got: oreore
+UserLookaside got: oreorewoolwoolwoolwool
+GuestEli1983 gave bank: oreoreore and took lumber
+GuestEli1983 built a road
+UserLookaside rolled: dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestEli1983 rolled: dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+UserLookaside rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+UserLookaside gave bank: lumberlumberlumberlumberlumberlumber and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestEli1983 rolled: dice_3 dice_2
+GuestEli1983 got: oreore
+UserLookaside got: lumberlumberlumberoreore
+GuestEli1983 gave bank: brickbrickbrickoreoreore and took lumbergrain
+GuestEli1983 built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 lumber tile
+UserYou stole: ore from: Eli1983
+UserLookaside rolled: dice_3 dice_6
+GuestEli1983 got: wool
+UserLookaside got: woolwoolwoolwoolwool
+UserLookaside gave bank: woolwoolwooloreoreore and took brickgrain
+UserLookaside built a settlement: +1 VP
+trophy Lookaside won the game! trophy
+GuestEli1983 has left the game
+GuestEli1983: gg
+Send a message
+
+Use special build phases to try to win against 7 other players

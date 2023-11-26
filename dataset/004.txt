@@ -1,0 +1,396 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestMaher#9888 placed a settlement
+GuestMaher#9888 placed a road
+GuestMcMath8642 placed a settlement
+GuestMcMath8642 placed a road
+GuestPoten77a placed a settlement
+GuestPoten77a placed a road
+GuestPoten77a placed a settlement
+GuestPoten77a placed a road
+GuestPoten77a received starting resources: grainlumberbrick
+GuestMcMath8642 placed a settlement
+GuestMcMath8642 placed a road
+GuestMcMath8642 received starting resources: brickgrainlumber
+GuestMaher#9888 placed a settlement
+GuestMaher#9888 placed a road
+GuestMaher#9888 received starting resources: grainbricklumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: graingraingrain
+UserLookaside rolled: dice_2 dice_1
+GuestPoten77a got: brick
+GuestMcMath8642 got: brick
+GuestMaher#9888 got: orebrick
+GuestMaher#9888 rolled: dice_4 dice_4
+GuestMcMath8642 got: lumberbrick
+GuestMaher#9888 built a road
+GuestMcMath8642 rolled: dice_6 dice_1
+GuestMcMath8642 moved robber robber to prob_10 lumber tile
+GuestMcMath8642 stole card from: Poten77a
+GuestMcMath8642 built a road
+GuestMcMath8642 built a road
+GuestMcMath8642 wants to give: grain for: wool
+GuestPoten77a rolled: dice_1 dice_4
+UserLookaside got: lumber
+GuestPoten77a built a road
+UserLookaside rolled: dice_6 dice_2
+GuestMcMath8642 got: lumberbrick
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: grain for: wool
+GuestMcMath8642 wants to give: Lookaside: brick for: wool
+UserLookaside wants to give: grain for: ore
+GuestMaher#9888 rolled: dice_6 dice_6
+GuestMcMath8642 rolled: dice_1 dice_1
+GuestPoten77a got: brick
+GuestMcMath8642 wants to give: brick for: wool
+GuestMcMath8642 wants to give: grain for: wool
+GuestMcMath8642 wants to give: brickgrain for: wool
+GuestPoten77a rolled: dice_5 dice_1
+GuestPoten77a got: ore
+UserLookaside got: ore
+GuestMaher#9888 got: ore
+UserLookaside rolled: dice_5 dice_1
+GuestPoten77a got: ore
+UserLookaside got: ore
+GuestMaher#9888 got: ore
+UserLookaside wants to give: grain for: wool
+UserLookaside wants to give: lumber for: wool
+UserLookaside wants to give: lumber for: ore
+UserLookaside wants to give: grain for: ore
+UserLookaside traded: lumber for: ore with: Maher#9888
+UserLookaside built a city: +1 VP
+GuestMaher#9888 rolled: dice_5 dice_2
+GuestMaher#9888 moved robber robber to prob_6 ore tile
+GuestMaher#9888 stole: grain from you
+GuestMaher#9888 wants to give: ore for: wool
+GuestMaher#9888 wants to give: grain for: wool
+GuestMaher#9888 wants to give: grainore for: wool
+GuestMcMath8642 rolled: dice_1 dice_4
+UserLookaside got: lumberlumber
+GuestMcMath8642 wants to give: brickgrain for: wool
+GuestPoten77a rolled: dice_3 dice_6
+GuestPoten77a got: grain
+UserLookaside got: woolwoolgrain
+GuestMaher#9888 got: grain
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: lumberlumber
+UserLookaside wants to give: lumber for: ore
+UserLookaside wants to give: wool for: ore
+UserLookaside wants to give: wool for: grainore
+UserLookaside traded: wool for: grainore with: Maher#9888
+UserLookaside bought development card
+UserLookaside wants to give: lumber for: brick
+UserLookaside wants to give: lumberlumber for: brick
+GuestMcMath8642 wants to give: Lookaside: brick for: wool
+GuestMaher#9888 rolled: dice_5 dice_6
+GuestPoten77a got: wool
+UserLookaside got: grain
+GuestMaher#9888 got: grain
+GuestMaher#9888 built a settlement: +1 VP
+GuestMcMath8642 rolled: dice_5 dice_6
+GuestPoten77a got: wool
+UserLookaside got: grain
+GuestMaher#9888 got: grain
+GuestMcMath8642 wants to give: brick for: wool
+GuestMcMath8642 wants to give: grain for: wool
+GuestMcMath8642 wants to give: brickgrain for: wool
+GuestPoten77a rolled: dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestMaher#9888 got: ore
+GuestPoten77a wants to give: wool for: lumber
+GuestPoten77a traded: wool for: lumber with: Lookaside
+GuestPoten77a wants to give: ore for: lumber
+GuestPoten77a traded: ore for: lumber with: Lookaside
+GuestPoten77a built a road
+GuestPoten77a built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: ore from: Poten77a
+UserLookaside rolled: dice_2 dice_2
+GuestMcMath8642 got: graingrain
+UserLookaside got: grain
+GuestMcMath8642 has disconnected.
+GuestBot will wait until next turn to give McMath8642 a chance to reconnect
+botMcMath8642 has left the game, giving them 2 minutes to reconnect.
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: grain for: ore
+UserLookaside wants to give: graingrain for: brick
+UserLookaside wants to give: lumber for: brick
+UserLookaside wants to give: lumbergrain for: brick
+UserLookaside traded: graingrain for: brick with: McMath8642
+UserLookaside wants to give: ore for: brick
+UserLookaside wants to give: grain for: brick
+UserLookaside built a road
+UserLookaside bought development card
+UserLookaside wants to give: lumber for: wool
+GuestMaher#9888 rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+GuestMaher#9888 wants to give: grain for: ore
+GuestMaher#9888 wants to give: grain for: brick
+GuestMaher#9888 wants to give: grain for: lumber
+botMcMath8642 rolled: dice_6 dice_3
+GuestPoten77a got: grain
+UserLookaside got: woolwoolgrain
+GuestMaher#9888 got: grain
+botMcMath8642 built a road
+GuestPoten77a rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+UserLookaside rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+UserLookaside wants to give: wool for: brick
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: ore for: brick
+UserLookaside wants to give: woolgrain for: brick
+UserLookaside traded: woolgrain for: brick with: McMath8642
+UserLookaside built a settlement: +1 VP
+GuestMaher#9888 rolled: dice_6 dice_4
+GuestPoten77a got: lumberlumber
+botMcMath8642 got: wool
+GuestMaher#9888 got: lumber
+GuestMaher#9888 gave bank: graingrain and took ore
+GuestMaher#9888 built a city: +1 VP
+botMcMath8642 rolled: dice_5 dice_1
+GuestPoten77a got: ore
+UserLookaside got: oreore
+GuestMaher#9888 got: oreore
+botMcMath8642 gave bank: graingraingraingrain and took lumber
+botMcMath8642 built a settlement: +1 VP
+botMcMath8642 wants to give: grain for: lumber
+botMcMath8642 traded: grain for: lumber with: Maher#9888
+botMcMath8642 built a road
+botMcMath8642 received : +2 VPs
+GuestPoten77a rolled: dice_5 dice_1
+GuestPoten77a got: ore
+UserLookaside got: oreore
+GuestMaher#9888 got: oreore
+UserLookaside rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+UserLookaside wants to give: ore for: grain
+UserLookaside wants to give: ore for: wool
+UserLookaside wants to give: oreore for: grain
+UserLookaside wants to give: oreore for: wool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: grain grain
+UserLookaside built a city: +1 VP
+GuestMaher#9888 rolled: dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+botMcMath8642 rolled: dice_1 dice_1
+GuestPoten77a got: brick
+botMcMath8642 wants to give: grain for: lumber
+GuestPoten77a rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+botMcMath8642 got: brick
+GuestPoten77a wants to give: lumber for: wool
+GuestPoten77a traded: lumber for: wool with: McMath8642
+GuestPoten77a built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_5
+GuestPoten77a got: wool
+UserLookaside got: graingrain
+GuestMaher#9888 got: grain
+UserLookaside wants to give: ore for: wool
+UserLookaside wants to give: grain for: wool
+GuestMaher#9888 rolled: dice_1 dice_2
+GuestPoten77a got: brick
+botMcMath8642 got: brick
+GuestMaher#9888 got: oreoreorebrick
+GuestMaher#9888 built a city: +1 VP
+GuestMaher#9888 wants to give: ore for: brick
+GuestMaher#9888 wants to give: ore for: grain
+GuestMaher#9888 wants to give: ore for: lumber
+GuestMaher#9888 wants to give: ore for: wool
+botMcMath8642 rolled: dice_6 dice_6
+UserLookaside got: wool
+botMcMath8642 built a road
+GuestPoten77a rolled: dice_2 dice_4
+GuestPoten77a got: ore
+UserLookaside got: oreore
+GuestMaher#9888 got: oreore
+UserLookaside rolled: dice_5 dice_6
+GuestPoten77a got: wool
+UserLookaside got: graingrain
+GuestMaher#9888 got: graingrain
+UserLookaside wants to give: ore for: wool
+UserLookaside wants to give: grain for: wool
+UserLookaside wants to give: grainore for: wool
+UserLookaside wants to give: graingrain for: wool
+UserLookaside bought development card
+UserLookaside built a city: +1 VP
+GuestMaher#9888 rolled: dice_2 dice_2
+botMcMath8642 got: graingrain
+UserLookaside got: graingrain
+GuestMaher#9888 gave bank: oreoreoreore and took lumber
+GuestMaher#9888 built a road
+botMcMath8642 rolled: dice_3 dice_4
+botMcMath8642 moved robber robber to prob_9 grain tile
+botMcMath8642 stole: grain from you
+GuestPoten77a rolled: dice_2 dice_2
+botMcMath8642 got: graingrain
+UserLookaside got: graingrain
+GuestPoten77a wants to give: wool for: graingrain
+UserLookaside wants to give: Poten77a: grain for: wool
+UserLookaside wants to give: Poten77a: grain for: wool
+UserLookaside rolled: dice_3 dice_3
+GuestPoten77a got: ore
+UserLookaside got: oreore
+GuestMaher#9888 got: oreore
+UserLookaside gave bank: graingraingrain and took wool
+UserLookaside bought development card
+GuestMaher#9888 rolled: dice_2 dice_5
+McMath8642 discarding resource cards
+botBot is selecting cards to discard for McMath8642
+botMcMath8642 discarded: brickbrickgraingrain
+GuestMaher#9888 moved robber robber to prob_6 ore tile
+GuestMaher#9888 stole: ore from you
+GuestMaher#9888 wants to give: ore for: lumber
+GuestMaher#9888 wants to give: ore for: brick
+GuestMaher#9888 traded: ore for: brick with: McMath8642
+GuestMaher#9888 wants to give: ore for: wool
+GuestMaher#9888 wants to give: grain for: wool
+GuestPoten77a wants to give: Maher#9888: wool for: graingrain
+GuestMaher#9888 built a city: +1 VP
+botMcMath8642 rolled: dice_2 dice_5
+botMcMath8642 moved robber robber to prob_9 grain tile
+botMcMath8642 stole card from: Maher#9888
+botMcMath8642 wants to give: grain for: ore
+GuestPoten77a wants to give: McMath8642: ore for: graingrain
+botPoten77a traded: ore for: graingrain with: McMath8642
+botMcMath8642 built a city: +1 VP
+GuestPoten77a rolled: dice_1 dice_4
+GuestPoten77a got: lumberlumber
+UserLookaside got: lumberlumber
+GuestPoten77a built a city: +1 VP
+GuestPoten77a built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: brick from: Maher#9888
+UserLookaside rolled: dice_5 dice_5
+GuestPoten77a got: lumberlumber
+botMcMath8642 got: woolwool
+GuestMaher#9888 got: lumberlumber
+UserLookaside built a road
+GuestMaher#9888 rolled: dice_2 dice_2
+botMcMath8642 got: graingraingrain
+UserLookaside got: graingrain
+GuestMaher#9888 wants to give: lumber for: grain
+GuestMaher#9888 traded: lumber for: grain with: McMath8642
+botMcMath8642 rolled: dice_6 dice_6
+UserLookaside got: woolwool
+botMcMath8642 gave bank: woolwool and took brick
+GuestPoten77a rolled: dice_2 dice_2
+botMcMath8642 got: graingraingrain
+UserLookaside got: graingrain
+GuestPoten77a wants to give: lumber for: brick
+GuestPoten77a wants to give: wool for: brick
+UserLookaside rolled: dice_5 dice_3
+GuestPoten77a got: lumber
+botMcMath8642 got: lumberlumberbrickbrick
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: wool for: brick
+UserLookaside wants to give: graingrain for: brick
+UserLookaside traded: wool for: brick with: McMath8642
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside bought development card
+UserLookaside built a road
+GuestMaher#9888 rolled: dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestPoten77a got: oreore
+UserLookaside got: oreore
+botMcMath8642 rolled: dice_4 dice_3
+Poten77a and McMath8642 discarding resource cards
+botBot is selecting cards to discard for McMath8642
+botMcMath8642 discarded: graingrainlumberlumberbrick
+GuestPoten77a discarded: lumberlumberlumberwool
+botMcMath8642 moved robber robber to prob_9 grain tile
+botMcMath8642 stole: ore from you
+botMcMath8642 built a settlement: +1 VP
+botMcMath8642 wants to give: grain for: wool
+GuestPoten77a rolled: dice_5 dice_6
+GuestPoten77a got: woolwool
+UserLookaside got: graingrain
+GuestMaher#9888 got: graingrain
+GuestPoten77a wants to give: wool for: brick
+GuestPoten77a gave bank: woolwoolwool and took brick
+GuestPoten77a built a road
+UserLookaside rolled: dice_3 dice_1
+botMcMath8642 got: graingraingrain
+UserLookaside got: graingrain
+UserLookaside wants to give: grain for: lumber
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: grain for: wool
+UserLookaside gave bank: graingraingrain and took wool
+UserLookaside bought development card
+GuestMaher#9888 rolled: dice_5 dice_1
+GuestPoten77a got: oreore
+UserLookaside got: oreore
+GuestMaher#9888 got: oreore
+GuestMaher#9888 wants to give: grain for: brick
+GuestMaher#9888 wants to give: ore for: brick
+GuestMaher#9888 gave bank: graingrain and took wool
+GuestMaher#9888 wants to give: oreore for: brick
+GuestMaher#9888 bought development card
+botMcMath8642 rolled: dice_4 dice_6
+GuestPoten77a got: lumberlumber
+botMcMath8642 got: woolwool
+GuestMaher#9888 got: lumberlumber
+botMcMath8642 bought development card
+botMcMath8642 wants to give: grain for: ore
+botMcMath8642 traded: grain for: ore with: Maher#9888
+GuestPoten77a rolled: dice_6 dice_6
+UserLookaside got: woolwool
+GuestPoten77a wants to give: lumber for: brick
+UserLookaside rolled: dice_2 dice_3
+GuestPoten77a got: lumberlumber
+botMcMath8642 got: lumber
+UserLookaside got: lumberlumber
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 8: lumber
+UserLookaside gave bank: lumberlumberlumberlumberlumberlumber and took brickgrain
+UserLookaside built a settlement: +1 VP
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestMaher#9888 rolled: dice_5 dice_5
+GuestPoten77a got: lumberlumber
+botMcMath8642 got: woolwool
+UserLookaside got: wool
+GuestMaher#9888 got: lumberlumber
+botMcMath8642 rolled: dice_1 dice_6
+botMcMath8642 moved robber robber to prob_6 ore tile
+botMcMath8642 stole: ore from you
+botMcMath8642 gave bank: woolwool and took ore
+botMcMath8642 built a city: +1 VP
+botMcMath8642 used Knight card knight
+botMcMath8642 moved robber robber to prob_9 grain tile
+botMcMath8642 stole: wool from you
+GuestPoten77a rolled: dice_6 dice_2
+GuestPoten77a got: lumber
+botMcMath8642 got: lumberlumberlumberbrickbrick
+GuestPoten77a wants to give: lumber for: brick
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+trophy Lookaside won the game! trophy
+GuestMaher#9888 has left the game
+GuestPoten77a has left the game
+GuestMaher#9888: blue I think you destroyed reds spirit
+GuestPoten77a: you did same thing with that grain port
+GuestMaher#9888: true enough haha, I hate the bot playing
+GuestMaher#9888: gg green surely
+UserLookaside: gg
+Send a message
+
+Defeat barbarians by playing Cities & Knights with top players

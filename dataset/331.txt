@@ -1,0 +1,400 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Christmasbabaghanush placed a settlement
+Christmasbabaghanush placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumberore
+Christmasbabaghanush placed a settlement
+Christmasbabaghanush placed a road
+Christmasbabaghanush received starting resources woollumberwool
+Christmasbabaghanush rolled dice_5 dice_6
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+Christmasbabaghanush rolled dice_1 dice_3
+UserLookaside rolled dice_5 dice_1
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Christmasbabaghanush rolled dice_6 dice_5
+UserLookaside rolled dice_5 dice_4
+UserLookaside got brick
+Christmasbabaghanush got grain
+Christmasbabaghanush rolled dice_4 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_4
+Christmasbabaghanush got woolbrick
+Christmasbabaghanush rolled dice_3 dice_6
+UserLookaside got brick
+Christmasbabaghanush got grain
+UserLookaside rolled dice_6 dice_2
+UserLookaside got ore
+Christmasbabaghanush rolled dice_4 dice_6
+UserLookaside got wool
+Christmasbabaghanush got lumberwool
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 wool tile
+UserNo player to steal from
+Christmasbabaghanush rolled dice_2 dice_3
+Christmasbabaghanush got woolbrick
+Christmasbabaghanush built a road
+Christmasbabaghanush built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_10 lumber tile
+UserYou stole wool from babaghanush
+UserLookaside built a road
+Christmasbabaghanush rolled dice_6 dice_3
+UserLookaside got brick
+Christmasbabaghanush got grain
+UserLookaside rolled dice_3 dice_5
+UserLookaside got ore
+Christmasbabaghanush got ore
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside built a settlement (+1 VP)
+Christmasbabaghanush rolled dice_5 dice_5
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Christmasbabaghanush got wool
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_1 dice_1
+Christmasbabaghanush got lumber
+Christmasbabaghanush rolled dice_2 dice_6
+UserLookaside got ore
+Christmasbabaghanush got ore
+Christmasbabaghanush bought development card
+Christmasbabaghanush used Road Building card road building
+Christmasbabaghanush placed a road
+Christmasbabaghanush placed a road
+UserLookaside rolled dice_4 dice_1
+Christmasbabaghanush got woolbrick
+Christmasbabaghanush rolled dice_1 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole brick from babaghanush
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole brick from you
+Christmasbabaghanush rolled dice_3 dice_2
+Christmasbabaghanush got woolbrick
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+Christmasbabaghanush got lumberlumberwool
+Christmasbabaghanush rolled dice_6 dice_6
+Christmasbabaghanush built a road
+UserLookaside rolled dice_4 dice_5
+prob_9 brick tile is blocked by the robber. No resources produced.
+Christmasbabaghanush got grain
+Christmasbabaghanush rolled dice_2 dice_6
+UserLookaside got ore
+Christmasbabaghanush got ore
+Christmasbabaghanush built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+Christmasbabaghanush got lumberlumberwool
+Christmasbabaghanush rolled dice_4 dice_2
+UserLookaside got lumber
+Christmasbabaghanush gave bank woolwoolwoolwool and took grain
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Christmasbabaghanush rolled dice_3 dice_2
+Christmasbabaghanush got woolwoolbrick
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole lumber from babaghanush
+Christmasbabaghanush rolled dice_6 dice_1
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole lumber from you
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumberwool
+Christmasbabaghanush rolled dice_1 dice_2
+UserLookaside got oregraingrain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got wool
+Christmasbabaghanush got lumberlumberwool
+UserLookaside built a city (+1 VP)
+Christmasbabaghanush rolled dice_2 dice_2
+UserLookaside got grain
+Christmasbabaghanush got grain
+Christmasbabaghanush built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+UserLookaside got oreore
+Christmasbabaghanush got oreore
+UserLookaside bought development card
+Christmasbabaghanush rolled dice_3 dice_3
+UserLookaside got lumberwool
+Christmasbabaghanush got wool
+Christmasbabaghanush gave bank lumberlumberlumberlumber and took grain
+Christmasbabaghanush bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole ore from babaghanush
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickbrick
+Christmasbabaghanush got grain
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_3 grain tile
+Christmasbabaghanush stole ore from you
+Christmasbabaghanush rolled dice_4 dice_3
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+ChristmasNo player to steal from
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_1 dice_4
+Christmasbabaghanush got woolwoolbrickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole brick from babaghanush
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush received largest army (+2 VPs)
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole brick from you
+Christmasbabaghanush rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+Christmasbabaghanush got grain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole brick from babaghanush
+Christmasbabaghanush rolled dice_1 dice_1
+Christmasbabaghanush got lumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got oreore
+Christmasbabaghanush got oreore
+Christmasbabaghanush rolled dice_6 dice_5
+UserLookaside got graingrain
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+Christmasbabaghanush got grain
+Christmasbabaghanush rolled dice_6 dice_6
+Christmasbabaghanush got wool
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole wool from babaghanush
+UserLookaside bought development card
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole grain from you
+Christmasbabaghanush rolled dice_1 dice_2
+UserLookaside got oregraingraingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole wool from babaghanush
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwool
+Christmasbabaghanush got lumberlumberwool
+UserLookaside bought development card
+UserLookaside bought development card
+Christmasbabaghanush rolled dice_1 dice_1
+Christmasbabaghanush got lumber
+Christmasbabaghanush gave bank lumberlumberlumberlumber and took ore
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_6 dice_5
+UserLookaside got graingrain
+Christmasbabaghanush rolled dice_5 dice_4
+UserLookaside got brickbrick
+Christmasbabaghanush got grain
+UserLookaside rolled dice_1 dice_4
+prob_5 brick tile is blocked by the robber. No resources produced.
+Christmasbabaghanush got woolwool
+Christmasbabaghanush rolled dice_1 dice_6
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole brick from babaghanush
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole brick from babaghanush
+Christmasbabaghanush rolled dice_1 dice_3
+UserLookaside got grain
+Christmasbabaghanush got grain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got oreore
+Christmasbabaghanush got oreore
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside built a city (+1 VP)
+Christmasbabaghanush rolled dice_4 dice_5
+UserLookaside got brickbrickbrick
+Christmasbabaghanush got grain
+Christmasbabaghanush bought development card
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole grain from babaghanush
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole grain from you
+Christmasbabaghanush rolled dice_3 dice_1
+UserLookaside got grain
+Christmasbabaghanush got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole grain from babaghanush
+UserLookaside rolled dice_5 dice_6
+UserLookaside got graingrain
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole brick from you
+Christmasbabaghanush rolled dice_3 dice_5
+UserLookaside got oreoreore
+Christmasbabaghanush got oreore
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumberlumberwool
+Christmasbabaghanush got wool
+UserLookaside built a city (+1 VP)
+Christmasbabaghanush rolled dice_3 dice_2
+Christmasbabaghanush got woolwoolbrickbrick
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberlumberwoolwool
+Christmasbabaghanush got wool
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+Christmasbabaghanush rolled dice_4 dice_2
+UserLookaside got lumberlumberwoolwool
+Christmasbabaghanush got wool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got oreoreore
+Christmasbabaghanush got oreore
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside bought development card
+Christmasbabaghanush rolled dice_6 dice_4
+UserLookaside got woolwool
+Christmasbabaghanush got lumberlumberwool
+Christmasbabaghanush built a road
+Christmasbabaghanush built a road
+Christmasbabaghanush gave bank woolwoolwoolwool and took grain
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_4 dice_1
+Christmasbabaghanush got woolwoolbrickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole brick from babaghanush
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+Christmasbabaghanush rolled dice_6 dice_4
+UserLookaside got woolwool
+Christmasbabaghanush got lumberlumberwool
+Christmasbabaghanush used Year of Plenty card year of plenty
+Christmasbabaghanush took from bank grain grain
+Christmasbabaghanush bought development card
+Christmasbabaghanush bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberlumberwoolwool
+Christmasbabaghanush got wool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Christmasbabaghanush rolled dice_1 dice_4
+Christmasbabaghanush got woolwoolbrickbrick
+Christmasbabaghanush used Monopoly card monopoly
+Christmasbabaghanush stole 0 wool
+UserLookaside rolled dice_5 dice_3
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside got oreoreore
+Christmasbabaghanush got ore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank wool grain
+UserLookaside bought development card
+Christmasbabaghanush rolled dice_3 dice_5
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside got oreoreore
+Christmasbabaghanush got ore
+Christmasbabaghanush used Monopoly card monopoly
+Christmasbabaghanush stole 5 ore
+Christmasbabaghanush gave bank brickbrickbrickbrickoreoreoreore and took graingrain
+Christmasbabaghanush bought development card
+Christmasbabaghanush bought development card
+UserLookaside used Knight card knight
+Userlargest army passed from babaghanush to Lookaside (+2 VPs)
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole ore from babaghanush
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumberlumberwoolwool
+Christmasbabaghanush got wool
+UserLookaside built a road
+Christmasbabaghanush used Knight card knight
+Christmasbabaghanush moved robber robber to prob_11 grain tile
+Christmasbabaghanush stole lumber from you
+Christmasbabaghanush rolled dice_3 dice_2
+Christmasbabaghanush got woolwoolbrickbrick
+Christmasbabaghanush gave bank woolwoolwoolwool and took ore
+UserLookaside rolled dice_2 dice_4
+UserLookaside got lumberlumberwoolwool
+Christmasbabaghanush got wool
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a road
+Christmasbabaghanush rolled dice_6 dice_3
+UserLookaside got brickbrickbrick
+Christmasbabaghanush got grain
+UserLookaside rolled dice_4 dice_1
+Christmasbabaghanush got woolwoolbrickbrick
+Christmasbabaghanush rolled dice_4 dice_4
+UserLookaside got oreoreore
+Christmasbabaghanush got oreore
+Christmasbabaghanush gave bank brickbrickbrickbrick and took grain
+Christmasbabaghanush built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brickgrain
+Christmasbabaghanush got graingrain
+UserLookaside gave bank oreoreoreore and took lumber
+UserLookaside built a settlement (+1 VP)
+Christmasbabaghanush rolled dice_6 dice_1
+Christmasbabaghanush moved robber robber to prob_9 brick tile
+Christmasbabaghanush stole wool from you
+Christmasbabaghanush gave bank woolwoolwoolwool and took brick
+Christmasbabaghanush built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+Christmasbabaghanush got grain
+Christmasbabaghanush rolled dice_1 dice_2
+UserLookaside got oreoreoregraingraingraingrain
+UserLookaside rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+Christmasbabaghanush got grain
+UserLookaside built a city (+1 VP)
+Christmasbabaghanush rolled dice_5 dice_5
+UserLookaside got woolwool
+Christmasbabaghanush got lumberlumberlumberwool
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwool
+Christmasbabaghanush got lumberlumberlumberwool
+UserLookaside gave bank woolwoolwool and took lumber
+Christmasbabaghanush Resigned
+trophyUserLookaside won the game!trophy
+Christmasbabaghanush has left the game
+UserLookaside: ugh you're getting all the vps
+Christmasbabaghanush: i wish i got a knight
+UserLookaside: ouch
+UserLookaside: lol this is gonna be interesting
+Christmasbabaghanush: well you've got it 95%
+UserLookaside: this has to be a first, 5vps vs 0
+Send a message
+Send message
+No Ads

@@ -1,0 +1,170 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestSvenDover placed a settlement
+GuestSvenDover placed a road
+UserBot is placing a settlement for Lookaside
+UserLookaside placed a settlement
+UserBot is placing a road for Lookaside
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: bricklumberore
+GuestSvenDover placed a settlement
+GuestSvenDover placed a road
+GuestSvenDover received starting resources: brickgrainwool
+GuestSvenDover rolled: dice_4 dice_2
+UserLookaside got: lumbergrain
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 lumber tile
+UserNo player to steal from
+GuestSvenDover rolled: dice_1 dice_5
+UserLookaside got: lumbergrain
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: ore
+GuestSvenDover rolled: dice_2 dice_4
+UserLookaside got: lumbergrain
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: woolbrick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestSvenDover rolled: dice_6 dice_2
+GuestSvenDover got: orewool
+UserLookaside got: ore
+GuestSvenDover bought development card
+UserLookaside rolled: dice_4 dice_1
+GuestSvenDover got: bricklumber
+UserLookaside got: lumber
+UserLookaside built a city: +1 VP
+GuestSvenDover rolled: dice_5 dice_1
+UserLookaside got: lumbergraingrain
+GuestSvenDover built a road
+UserLookaside rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestSvenDover rolled: dice_1 dice_4
+GuestSvenDover got: bricklumber
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_5 dice_3
+GuestSvenDover got: orewool
+UserLookaside got: ore
+GuestSvenDover rolled: dice_3 dice_3
+UserLookaside got: lumbergraingrain
+UserLookaside rolled: dice_3 dice_2
+GuestSvenDover got: bricklumber
+UserLookaside got: lumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestSvenDover rolled: dice_3 dice_1
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: oreore
+GuestSvenDover built a road
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: woolwoolbrick
+UserLookaside built a settlement: +1 VP
+UserLookaside built a city: +1 VP
+GuestSvenDover rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestSvenDover moved robber robber to prob_6 grain tile
+GuestSvenDover stole: wool from you
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: woolwoolbrickbrick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestSvenDover rolled: dice_2 dice_1
+UserLookaside got: oreoregrain
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: wool
+UserLookaside bought development card
+GuestSvenDover rolled: dice_2 dice_3
+GuestSvenDover got: bricklumber
+UserLookaside got: lumberlumber
+GuestSvenDover built a road
+GuestSvenDover built a road
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestSvenDover rolled: dice_6 dice_5
+UserLookaside got: wool
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: woolwoolbrickbrick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: brick ore
+GuestSvenDover rolled: dice_5 dice_4
+UserLookaside got: woolwoolbrickbrick
+UserLookaside rolled: dice_3 dice_1
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: oreoreore
+UserLookaside gave bank: woolwoolwoolwool and took grain
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank: oreoreoreore and took lumber
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside built a settlement: +1 VP
+GuestSvenDover rolled: dice_6 dice_6
+UserLookaside rolled: dice_2 dice_3
+GuestSvenDover got: bricklumber
+UserLookaside got: lumberlumber
+GuestSvenDover rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestSvenDover moved robber robber to prob_6 grain tile
+GuestSvenDover stole: lumber from you
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: woolwoolbrickbrick
+GuestSvenDover rolled: dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+UserLookaside rolled: dice_4 dice_1
+GuestSvenDover got: bricklumber
+UserLookaside got: lumberlumber
+UserLookaside built a road
+UserLookaside built a road
+GuestSvenDover rolled: dice_6 dice_2
+GuestSvenDover got: orewool
+UserLookaside got: orewool
+UserLookaside rolled: dice_2 dice_6
+GuestSvenDover got: orewool
+UserLookaside got: orewool
+UserLookaside gave bank: woolwoolwoolwool and took grain
+UserLookaside built a settlement: +1 VP
+GuestSvenDover rolled: dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+GuestSvenDover gave bank: woolwoolwoolwool and took grain
+GuestSvenDover built a settlement: +1 VP
+GuestSvenDover built a road
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: lumber from: SvenDover
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+GuestSvenDover rolled: dice_1 dice_3
+UserLookaside got: wooloreoreore
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: oreoregraingrain
+UserLookaside built a city: +1 VP
+UserLookaside bought development card
+GuestSvenDover rolled: dice_4 dice_6
+GuestSvenDover got: lumbergrain
+UserLookaside got: grain
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: woolwoolbrickbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestSvenDover Resigned
+trophy Lookaside won the game! trophy
+GuestSvenDover has left the game
+UserLookaside: lmao
+Send a message

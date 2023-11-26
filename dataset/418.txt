@@ -1,0 +1,427 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Userrajesh placed a settlement
+Userrajesh placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources woollumberbrick
+UserLookaside placed a road
+Userrajesh placed a settlement
+Userrajesh received starting resources graingrainlumber
+Userrajesh placed a road
+Userrajesh rolled dice_4 dice_2
+Userrajesh got grain
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumber
+Userrajesh got orelumber
+Userrajesh rolled dice_6 dice_4
+Userrajesh got grain
+UserLookaside rolled dice_6 dice_5
+Userrajesh rolled dice_1 dice_2
+UserLookaside got woollumber
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 ore tile
+UserNo player to steal from
+Userrajesh rolled dice_3 dice_2
+Userrajesh got brick
+UserLookaside rolled dice_4 dice_1
+Userrajesh got brick
+Userrajesh rolled dice_4 dice_6
+Userrajesh got grain
+Userrajesh built a road
+Userrajesh gave bank graingraingraingrain and took wool
+Userrajesh built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole ore from rajesh
+Userrajesh rolled dice_5 dice_6
+UserLookaside rolled dice_4 dice_4
+UserLookaside got grain
+UserLookaside built a road
+Userrajesh rolled dice_2 dice_2
+UserLookaside got woolbrick
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumber
+Userrajesh got orelumber
+UserLookaside built a settlement (+1 VP)
+Userrajesh rolled dice_5 dice_4
+UserLookaside got lumber
+Userrajesh got orelumber
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grain
+Userrajesh rolled dice_2 dice_5
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole wool from you
+UserLookaside rolled dice_1 dice_4
+Userrajesh got brickbrick
+UserLookaside bought development card
+Userrajesh rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+Userrajesh built a road
+Userrajesh built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole ore from rajesh
+UserLookaside rolled dice_2 dice_4
+UserLookaside got wool
+Userrajesh got grainwool
+Userrajesh rolled dice_3 dice_4
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole lumber from you
+UserLookaside rolled dice_5 dice_5
+Userrajesh got grain
+Userrajesh rolled dice_1 dice_3
+UserLookaside got woolwoolbrick
+UserLookaside rolled dice_3 dice_3
+UserLookaside got wool
+Userrajesh got grainwool
+Userrajesh rolled dice_3 dice_6
+UserLookaside got lumber
+Userrajesh got orelumber
+Userrajesh bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole lumber from rajesh
+UserLookaside built a road
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole wool from you
+Userrajesh rolled dice_3 dice_1
+UserLookaside got woolwoolbrick
+Userrajesh bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got ore
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+Userrajesh rolled dice_2 dice_1
+UserLookaside got woollumber
+UserLookaside rolled dice_6 dice_4
+UserLookaside got grain
+Userrajesh got grain
+Userrajesh rolled dice_3 dice_3
+UserLookaside got wool
+Userrajesh got grainwool
+UserLookaside rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside built a road
+Userrajesh rolled dice_4 dice_6
+UserLookaside got grain
+Userrajesh got grain
+UserLookaside rolled dice_5 dice_4
+UserLookaside got lumber
+Userrajesh got orelumber
+Userrajesh rolled dice_2 dice_2
+UserLookaside got woolwoolbrickbrick
+Userrajesh bought development card
+UserLookaside rolled dice_2 dice_4
+UserLookaside got wool
+Userrajesh got grainwool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+Userrajesh rolled dice_1 dice_3
+UserLookaside got woolwoolbrickbrick
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+Userrajesh got orelumber
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took grainore
+UserLookaside built a city (+1 VP)
+Userrajesh rolled dice_5 dice_5
+UserLookaside got graingrain
+Userrajesh got grain
+Userrajesh bought development card
+UserLookaside rolled dice_6 dice_5
+UserLookaside got ore
+Userrajesh rolled dice_6 dice_6
+Userrajesh got ore
+Userrajesh bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole wool from rajesh
+UserLookaside built a settlement (+1 VP)
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole grain from you
+Userrajesh rolled dice_2 dice_3
+Userrajesh got brickbrick
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from rajesh
+Userrajesh used Knight card knight
+Userrajesh received largest army (+2 VPs)
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole ore from you
+Userrajesh rolled dice_1 dice_1
+Userrajesh got grain
+Userrajesh built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumber
+Userrajesh got orelumber
+Userrajesh rolled dice_5 dice_1
+UserLookaside got woolwool
+Userrajesh got grainwool
+Userrajesh bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got woolwool
+Userrajesh got grainwool
+UserLookaside built a road
+Userrajesh rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+Userrajesh bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside gave bank brickbrickbrick and took ore
+Userrajesh rolled dice_2 dice_3
+Userrajesh got brickbrick
+Userrajesh gave bank graingraingraingrain and took wool
+Userrajesh used Road Building card road building
+Userrajesh placed a road
+Userrajesh placed a road
+Userrajesh built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+UserLookaside got orewool
+Userrajesh got wool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+Userrajesh rolled dice_1 dice_1
+Userrajesh got grain
+Userrajesh built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got woolwool
+Userrajesh got grainwool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside bought development card
+UserLookaside bought development card
+Userrajesh rolled dice_2 dice_2
+UserLookaside got woolwoolbrickbrickbrick
+Userrajesh got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole grain from rajesh
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole brick from rajesh
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+UserLookaside built a road
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole wool from you
+Userrajesh rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole wool from rajesh
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole brick from you
+Userrajesh rolled dice_3 dice_3
+UserLookaside got woolwool
+Userrajesh got grainwool
+UserLookaside rolled dice_5 dice_1
+UserLookaside got woolwool
+Userrajesh got grainwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from rajesh
+UserLookaside gave bank woolwoolwool and took ore
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole wool from you
+Userrajesh rolled dice_5 dice_2
+Userrajesh moved robber robber to prob_8 brick tile
+Userrajesh stole brick from you
+Userrajesh gave bank woolwoolwool and took lumber
+Userrajesh built a road
+Userrajesh received longest road (+2 VPs)
+Userrajesh built a road
+UserLookaside rolled dice_5 dice_3
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside bought development card
+Userrajesh rolled dice_3 dice_6
+UserLookaside got lumber
+Userrajesh got orelumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole lumber from rajesh
+UserLookaside rolled dice_3 dice_1
+UserLookaside got woolwoolbrickbrickbrick
+Userrajesh got brick
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside built a road
+Userrajesh rolled dice_1 dice_2
+UserLookaside got woolwoollumberlumber
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded lumberlumberlumberbrickwool
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole grain from rajesh
+UserLookaside bought development card
+Userrajesh rolled dice_4 dice_2
+UserLookaside got woolwool
+Userrajesh got grainwool
+Userrajesh bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got grainbrickbrickbrick
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole brick from you
+Userrajesh rolled dice_6 dice_6
+Userrajesh got ore
+UserLookaside rolled dice_6 dice_5
+UserLookaside got orewool
+Userrajesh got wool
+Userrajesh rolled dice_6 dice_1
+Userrajesh moved robber robber to prob_8 brick tile
+Userrajesh stole brick from you
+Userrajesh bought development card
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+Userrajesh got orelumber
+Userrajesh rolled dice_3 dice_3
+UserLookaside got woolwool
+Userrajesh got grainwool
+Userrajesh bought development card
+Userrajesh built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+Userrajesh got orelumber
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+Userrajesh rolled dice_1 dice_3
+UserLookaside got woolwoolbrickbrickbrick
+Userrajesh got brick
+Userrajesh built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole brick from rajesh
+UserLookaside rolled dice_6 dice_6
+Userrajesh got ore
+UserLookaside gave bank brickbrickbrick and took ore
+Userrajesh rolled dice_3 dice_4
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole brick from you
+UserLookaside rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+UserLookaside gave bank brickbrickbrick and took grain
+UserLookaside bought development card
+Userrajesh rolled dice_2 dice_5
+Userrajesh moved robber robber to prob_8 brick tile
+Userrajesh stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole ore from rajesh
+UserLookaside rolled dice_1 dice_5
+UserLookaside got woolwool
+Userrajesh got grainwool
+Userrajesh rolled dice_1 dice_2
+UserLookaside got woolwoollumberlumber
+Userrajesh bought development card
+Userrajesh used Road Building card road building
+Userrajesh placed a road
+Userrajesh placed a road
+UserLookaside rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Userrajesh got lumber
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside bought development card
+Userrajesh used Knight card knight
+Userrajesh moved robber robber to prob_8 grain tile
+Userrajesh stole wool from you
+Userrajesh rolled dice_4 dice_6
+UserLookaside got graingrain
+Userrajesh got graingrain
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole grain from rajesh
+Userrajesh rolled dice_6 dice_5
+UserLookaside got orewool
+Userrajesh got wool
+UserLookaside rolled dice_2 dice_4
+UserLookaside got woolwool
+Userrajesh got grainwool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+UserLookaside bought development card
+Userrajesh rolled dice_2 dice_3
+Userrajesh got brickbrickbrick
+Userrajesh gave bank brickbrickbrick and took ore
+Userrajesh bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got woolwoolbrickbrickbrick
+Userrajesh got brick
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 3 brick
+UserLookaside gave bank brickbrickbrickbrickbrickbrick and took grainore
+UserLookaside built a road
+Userrajesh rolled dice_2 dice_2
+UserLookaside got woolwoolbrickbrickbrick
+Userrajesh got brick
+UserLookaside rolled dice_5 dice_5
+UserLookaside got graingrain
+Userrajesh got graingrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a settlement (+1 VP)
+Userrajesh rolled dice_2 dice_1
+UserLookaside got woolwoollumberlumber
+UserLookaside rolled dice_1 dice_1
+Userrajesh got grain
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 grain
+UserLookaside gave bank brickbrickwoolwoolwoolwoolwoolwool and took oreoreore
+UserLookaside built a city (+1 VP)
+Userrajesh rolled dice_5 dice_4
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Userrajesh got lumber
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole wool from rajesh
+Userrajesh rolled dice_4 dice_4
+UserLookaside got graingrainbrickbrickbrick
+UserLookaside rolled dice_1 dice_4
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserLookaside built a settlement (+1 VP)
+Userrajesh rolled dice_6 dice_4
+UserLookaside got graingrain
+Userrajesh got graingrain
+UserLookaside rolled dice_6 dice_2
+UserLookaside got graingraingrainbrickbrickbrick
+Userrajesh Resigned
+trophyUserLookaside won the game!trophy
+Userrajesh: sorry
+Userrajesh: was busy
+Userrajesh: will play faster
+UserLookaside: all g
+Userrajesh: gg
+UserLookaside: gg
+Userrajesh: wp
+UserLookaside: ty
+UserLookaside: you got unlucky pulling 6 knights to start
+Userrajesh: way she goes!!!
+Send a message
+Send message
+No Ads

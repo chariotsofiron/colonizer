@@ -1,0 +1,282 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLilBedsqueak placed a settlement
+UserLilBedsqueak placed a road
+UserLilBedsqueak placed a settlement
+UserLilBedsqueak placed a road
+UserLilBedsqueak received starting resources wooloreore
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolwoolgrain
+UserLookaside rolled dice_6 dice_4
+UserLilBedsqueak got grain
+UserLilBedsqueak rolled dice_6 dice_2
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLilBedsqueak rolled dice_5 dice_3
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 lumber tile
+UserNo player to steal from
+UserLilBedsqueak rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLilBedsqueak moved robber robber to prob_9 brick tile
+UserNo player to steal from
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+UserLilBedsqueak got wool
+UserLilBedsqueak rolled dice_3 dice_5
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLilBedsqueak bought development card
+UserLookaside rolled dice_1 dice_5
+UserLilBedsqueak got ore
+UserLilBedsqueak rolled dice_3 dice_1
+UserLookaside got lumberwool
+UserLilBedsqueak got wool
+UserLookaside rolled dice_3 dice_3
+UserLilBedsqueak got ore
+UserLookaside built a road
+UserLilBedsqueak rolled dice_4 dice_2
+UserLilBedsqueak got ore
+UserLilBedsqueak bought development card
+UserLilBedsqueak built a city (+1 VP)
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+UserLilBedsqueak got woolwool
+UserLookaside gave bank woolwoolwoolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+UserLilBedsqueak rolled dice_1 dice_4
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+UserLilBedsqueak got oreore
+UserLilBedsqueak rolled dice_5 dice_2
+UserLilBedsqueak moved robber robber to prob_5 grain tile
+UserLilBedsqueak stole grain from you
+UserLilBedsqueak bought development card
+UserLilBedsqueak bought development card
+UserLookaside rolled dice_3 dice_6
+UserLilBedsqueak rolled dice_4 dice_4
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLilBedsqueak used Road Building card road building
+UserLilBedsqueak placed a road
+UserLilBedsqueak placed a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from LilBedsqueak
+UserLilBedsqueak used Knight card knight
+UserLilBedsqueak moved robber robber to prob_5 grain tile
+UserLilBedsqueak stole brick from you
+UserLilBedsqueak rolled dice_4 dice_6
+UserLilBedsqueak got grain
+UserLookaside rolled dice_6 dice_3
+UserLilBedsqueak rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLilBedsqueak used Year of Plenty card year of plenty
+UserLilBedsqueak took from bank lumber wool
+UserLilBedsqueak built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLilBedsqueak got lumber
+UserLilBedsqueak rolled dice_2 dice_4
+UserLookaside got ore
+UserLilBedsqueak got oreore
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumberwool
+UserLilBedsqueak got wool
+UserLookaside built a road
+UserLilBedsqueak rolled dice_3 dice_1
+UserLookaside got lumberlumberwool
+UserLilBedsqueak got wool
+UserLilBedsqueak bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole ore from LilBedsqueak
+UserLilBedsqueak used Knight card knight
+UserLilBedsqueak moved robber robber to prob_5 grain tile
+UserLilBedsqueak stole lumber from you
+UserLilBedsqueak rolled dice_5 dice_3
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberbrickwoolwoolore
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from LilBedsqueak
+UserLookaside built a settlement (+1 VP)
+UserLilBedsqueak rolled dice_4 dice_6
+UserLookaside got grain
+UserLilBedsqueak got grainwool
+UserLookaside rolled dice_5 dice_4
+UserLookaside got brick
+UserLilBedsqueak got lumber
+UserLilBedsqueak rolled dice_5 dice_6
+UserLookaside got brickwool
+UserLilBedsqueak got woolwoolwool
+UserLilBedsqueak gave bank woolwoolwoolwool and took brick
+UserLilBedsqueak built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+UserLilBedsqueak got lumberoreore
+UserLilBedsqueak rolled dice_6 dice_1
+UserLilBedsqueak moved robber robber to prob_4 lumber tile
+UserLilBedsqueak stole grain from you
+UserLookaside rolled dice_1 dice_1
+UserLilBedsqueak rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_3
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+UserLilBedsqueak rolled dice_3 dice_2
+UserLookaside got graingrain
+UserLookaside rolled dice_2 dice_4
+UserLookaside got oreore
+UserLilBedsqueak got oreore
+UserLookaside bought development card
+UserLilBedsqueak rolled dice_1 dice_3
+prob_4 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLilBedsqueak got woolwool
+UserLilBedsqueak bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from LilBedsqueak
+UserLookaside rolled dice_4 dice_2
+UserLookaside got oreore
+UserLilBedsqueak got oreore
+UserLookaside built a road
+UserLookaside bought development card
+UserLilBedsqueak used Knight card knight
+UserLilBedsqueak received largest army (+2 VPs)
+UserLilBedsqueak moved robber robber to prob_4 lumber tile
+UserLilBedsqueak stole ore from you
+UserLilBedsqueak rolled dice_4 dice_5
+UserLookaside got brick
+UserLilBedsqueak got lumberlumber
+UserLilBedsqueak gave bank lumberlumberlumberlumber and took grain
+UserLilBedsqueak bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole ore from LilBedsqueak
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole ore from LilBedsqueak
+UserLilBedsqueak used Knight card knight
+UserLilBedsqueak moved robber robber to prob_5 grain tile
+UserLilBedsqueak stole ore from you
+UserLilBedsqueak rolled dice_3 dice_5
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brickbrickwool
+UserLilBedsqueak got woolwoolwool
+UserLilBedsqueak rolled dice_1 dice_2
+UserLookaside got ore
+UserLilBedsqueak got lumberoreore
+UserLilBedsqueak bought development card
+UserLilBedsqueak gave bank oreoreoreore and took grain
+UserLilBedsqueak bought development card
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside bought development card
+UserLilBedsqueak rolled dice_1 dice_5
+UserLookaside got oreore
+UserLilBedsqueak got oreore
+UserLilBedsqueak bought development card
+UserLookaside rolled dice_3 dice_3
+UserLookaside got oreore
+UserLilBedsqueak got oreore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a city (+1 VP)
+UserLilBedsqueak rolled dice_3 dice_5
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLookaside rolled dice_5 dice_6
+UserLookaside got brickbrickwool
+UserLilBedsqueak got woolwoolwool
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside bought development card
+UserLilBedsqueak rolled dice_3 dice_4
+UserLilBedsqueak moved robber robber to prob_4 lumber tile
+UserLilBedsqueak stole brick from you
+UserLookaside rolled dice_4 dice_2
+UserLookaside got oreore
+UserLilBedsqueak got oreore
+UserLilBedsqueak rolled dice_2 dice_6
+UserLookaside got brick
+UserLilBedsqueak got grain
+UserLilBedsqueak built a city (+1 VP)
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brick
+UserLilBedsqueak got graingrain
+UserLilBedsqueak rolled dice_1 dice_2
+UserLookaside got ore
+UserLilBedsqueak got lumberoreore
+UserLilBedsqueak used Monopoly card monopoly
+UserLilBedsqueak stole 2 brick
+UserLilBedsqueak gave bank oreoreoreore and took lumber
+UserLilBedsqueak built a road
+UserLilBedsqueak built a road
+UserLilBedsqueak built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_6
+UserLookaside got brickbrick
+UserLilBedsqueak got lumberlumber
+UserLilBedsqueak rolled dice_3 dice_2
+UserLookaside got graingraingrain
+UserLilBedsqueak got grain
+UserLookaside rolled dice_3 dice_1
+prob_4 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLilBedsqueak got woolwoolwool
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+UserLilBedsqueak rolled dice_5 dice_3
+UserLookaside got brick
+UserLilBedsqueak got graingrain
+UserLilBedsqueak gave bank woolwoolwoolwoolgraingraingraingrain and took brickbrick
+UserLilBedsqueak built a road
+UserLilBedsqueak received longest road (+2 VPs)
+UserLilBedsqueak built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole wool from LilBedsqueak
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrain
+UserLilBedsqueak got graingrainwool
+UserLookaside bought development card
+UserLilBedsqueak rolled dice_1 dice_6
+UserLilBedsqueak moved robber robber to prob_4 lumber tile
+UserLilBedsqueak stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from LilBedsqueak
+UserLookaside rolled dice_2 dice_4
+UserLookaside got oreore
+UserLilBedsqueak got oreoreore
+UserLilBedsqueak rolled dice_5 dice_1
+UserLookaside got oreore
+UserLilBedsqueak got oreoreore
+UserLilBedsqueak bought development card
+trophyUserLilBedsqueak won the game!trophy
+UserLilBedsqueak: ez
+Send a message
+Send message
+No Ads

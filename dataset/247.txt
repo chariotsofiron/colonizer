@@ -1,0 +1,271 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+ 
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestPyVen501 placed a settlement
+GuestPyVen501 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumbergrain
+GuestPyVen501 placed a settlement
+GuestPyVen501 placed a road
+GuestPyVen501 received starting resources brickwoolwool
+GuestPyVen501 rolled dice_6 dice_6
+UserLookaside rolled dice_4 dice_1
+GuestPyVen501 got lumber
+UserLookaside got ore
+GuestPyVen501 rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestPyVen501 moved robber robber to prob_11 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_1
+GuestPyVen501 rolled dice_3 dice_3
+GuestPyVen501 got grain
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+GuestPyVen501 rolled dice_1 dice_2
+GuestPyVen501 got brick
+UserLookaside got brick
+UserLookaside rolled dice_1 dice_5
+GuestPyVen501 got grain
+UserLookaside got grain
+GuestPyVen501 rolled dice_6 dice_3
+UserLookaside got wool
+UserLookaside rolled dice_3 dice_2
+GuestPyVen501 got lumber
+UserLookaside got ore
+UserLookaside bought development card
+GuestPyVen501 rolled dice_4 dice_2
+GuestPyVen501 got grain
+UserLookaside got grain
+GuestPyVen501 built a road
+GuestPyVen501 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from PyVen501
+UserLookaside built a road
+GuestPyVen501 rolled dice_3 dice_5
+GuestPyVen501 got ore
+UserLookaside rolled dice_2 dice_6
+GuestPyVen501 got ore
+GuestPyVen501 rolled dice_2 dice_3
+GuestPyVen501 got lumberlumber
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserYou stole ore from PyVen501
+UserLookaside built a city (+1 VP)
+GuestPyVen501 rolled dice_3 dice_1
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_6
+UserLookaside got woolwool
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 rolled dice_5 dice_4
+UserLookaside got woolwool
+UserLookaside rolled dice_5 dice_1
+GuestPyVen501 got grain
+UserLookaside got grain
+GuestPyVen501 rolled dice_2 dice_1
+GuestPyVen501 got brickbrick
+UserLookaside got brick
+GuestPyVen501 built a road
+UserLookaside rolled dice_2 dice_2
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside built a road
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 rolled dice_4 dice_3
+GuestPyVen501 moved robber robber to prob_5 ore tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+GuestPyVen501 got lumberlumber
+UserLookaside got lumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from PyVen501
+GuestPyVen501 rolled dice_2 dice_1
+GuestPyVen501 got brickbrick
+UserLookaside got brick
+GuestPyVen501 built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got woolwool
+GuestPyVen501 rolled dice_1 dice_4
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreorelumber
+UserLookaside rolled dice_2 dice_6
+GuestPyVen501 got ore
+UserLookaside built a road
+GuestPyVen501 rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+GuestPyVen501 built a road
+UserLookaside rolled dice_6 dice_5
+GuestPyVen501 got wool
+UserLookaside got wool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+GuestPyVen501 rolled dice_2 dice_3
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreorelumber
+GuestPyVen501 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+GuestPyVen501 rolled dice_3 dice_1
+GuestPyVen501 got wool
+UserLookaside got lumberlumberlumberlumber
+GuestPyVen501 bought development card
+UserLookaside rolled dice_6 dice_3
+UserLookaside got woolwool
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestPyVen501 used Knight card knight
+GuestPyVen501 moved robber robber to prob_6 grain tile
+GuestPyVen501 stole lumber from you
+GuestPyVen501 rolled dice_3 dice_2
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreorelumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from PyVen501
+UserLookaside rolled dice_3 dice_6
+UserLookaside got woolwool
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestPyVen501 rolled dice_1 dice_6
+GuestPyVen501 moved robber robber to prob_6 grain tile
+GuestPyVen501 stole wool from you
+UserLookaside rolled dice_6 dice_4
+GuestPyVen501 got lumberlumber
+UserLookaside got oreore
+GuestPyVen501 rolled dice_6 dice_6
+GuestPyVen501 gave bank lumberlumberlumberlumber and took brick
+GuestPyVen501 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+GuestPyVen501 got oreore
+GuestPyVen501 rolled dice_5 dice_5
+GuestPyVen501 got lumberlumber
+UserLookaside got oreore
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from PyVen501
+UserLookaside wants to give oreoreore for brick
+UserLookaside gave bank oreoreore and took brick
+UserLookaside built a road
+GuestPyVen501 rolled dice_4 dice_2
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+UserLookaside rolled dice_5 dice_6
+GuestPyVen501 got wool
+UserLookaside got woolwool
+UserLookaside bought development card
+UserLookaside bought development card
+GuestPyVen501 rolled dice_1 dice_2
+GuestPyVen501 got brickbrickbrick
+UserLookaside got brickbrick
+GuestPyVen501 built a road
+GuestPyVen501 built a road
+GuestPyVen501 built a road
+GuestPyVen501 received longest road (+2 VPs)
+UserLookaside rolled dice_3 dice_5
+GuestPyVen501 got oreore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 rolled dice_4 dice_1
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreorelumberlumber
+UserLookaside rolled dice_1 dice_1
+UserLookaside got grain
+UserLookaside gave bank oreoreore and took wool
+UserLookaside bought development card
+GuestPyVen501 rolled dice_5 dice_6
+GuestPyVen501 got wool
+UserLookaside got woolwool
+UserLookaside rolled dice_2 dice_2
+GuestPyVen501 got wool
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took brickbrick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 rolled dice_4 dice_4
+GuestPyVen501 got oreore
+UserLookaside rolled dice_1 dice_2
+GuestPyVen501 got brickbrickbrick
+UserLookaside got brickbrickbrick
+GuestPyVen501 rolled dice_6 dice_4
+GuestPyVen501 got lumberlumber
+UserLookaside got oreore
+GuestPyVen501 gave bank lumberlumberlumberlumber and took grain
+GuestPyVen501 bought development card
+GuestPyVen501 built a road
+UserLookaside rolled dice_2 dice_3
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreorelumberlumber
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank oreore and took grain
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 used Knight card knight
+GuestPyVen501 moved robber robber to prob_6 grain tile
+GuestPyVen501 stole ore from you
+GuestPyVen501 rolled dice_4 dice_6
+GuestPyVen501 got lumberlumber
+UserLookaside got oreoreore
+GuestPyVen501 gave bank lumberlumberlumberlumber and took grain
+GuestPyVen501 bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from PyVen501
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole ore from PyVen501
+UserLookaside gave bank oreoreoreore and took woolgrain
+UserLookaside built a settlement (+1 VP)
+GuestPyVen501 used Knight card knight
+GuestPyVen501 moved robber robber to prob_6 grain tile
+GuestPyVen501 stole brick from you
+GuestPyVen501 rolled dice_6 dice_6
+GuestPyVen501 got grain
+UserLookaside rolled dice_6 dice_5
+GuestPyVen501 got wool
+UserLookaside got woolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 3 ore
+UserLookaside gave bank oreoreoreore and took lumberbrick
+UserLookaside built a road
+GuestPyVen501 rolled dice_3 dice_1
+GuestPyVen501 got wool
+UserLookaside got lumberlumberlumberlumberlumber
+UserLookaside rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestPyVen501 got graingrain
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+UserLookaside gave bank lumberlumber and took brick
+UserLookaside built a road
+Userlongest road passed from PyVen501 to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+7/8 player expansion
+Use special build phases to try to win against 7 other players

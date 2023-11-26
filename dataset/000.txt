@@ -1,0 +1,387 @@
+Rondi3697(1792)
+woodgiver(1707)
+Johng123(1764)
+408represent(1775)
+Ranked
+Time: 25:31
+Date: 2023-03-22T22:00 EST
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Lookaside has started spectating!
+GuestJohng123 placed a settlement
+GuestJohng123 placed a road
+GuestJohng123 placed a settlement
+GuestJohng123 placed a road
+GuestJohng123 received starting resources: lumberlumberbrick
+Userwoodgiver placed a settlement
+Userwoodgiver placed a road
+Userwoodgiver received starting resources: woolorelumber
+GuestRondi3697 placed a settlement
+GuestRondi3697 placed a road
+GuestRondi3697 received starting resources: lumberbricklumber
+Guest408represent placed a settlement
+Guest408represent placed a road
+Guest408represent received starting resources: woollumberwool
+Guest408represent rolled: dice_3 dice_5
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 rolled: dice_3 dice_6
+Userwoodgiver got: grainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_1 dice_6
+Userwoodgiver moved robber robber to prob_8 brick tile
+Userwoodgiver stole card from: Rondi3697
+Userwoodgiver built a road
+Userwoodgiver bought development card
+GuestJohng123 rolled: dice_1 dice_4
+Userwoodgiver got: lumber
+GuestRondi3697 got: grainlumber
+GuestJohng123 built a road
+Guest408represent rolled: dice_3 dice_2
+Userwoodgiver got: lumber
+GuestRondi3697 got: grainlumber
+GuestRondi3697 rolled: dice_3 dice_4
+GuestRondi3697 moved robber robber to prob_9 lumber tile
+GuestBot is selecting who to rob for Rondi3697
+GuestRondi3697 stole card from: 408represent
+GuestRondi3697 wants to give: grain for: ore
+GuestRondi3697 wants to give: grain for: brick
+GuestRondi3697 wants to give: lumber for: ore
+GuestRondi3697 wants to give: lumber for: brick
+GuestRondi3697 wants to give: lumbergrain for: ore
+GuestRondi3697 wants to give: lumbergrain for: brick
+Userwoodgiver rolled: dice_1 dice_4
+Userwoodgiver got: lumber
+GuestRondi3697 got: grainlumber
+GuestJohng123 rolled: dice_5 dice_3
+Guest408represent got: ore
+GuestRondi3697 got: brick
+Guest408represent rolled: dice_6 dice_4
+Userwoodgiver got: grain
+Guest408represent got: grain
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+Guest408represent bought development card
+GuestRondi3697 rolled: dice_2 dice_6
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 built a road
+GuestRondi3697 built a settlement: +1 VP
+Userwoodgiver rolled: dice_3 dice_3
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+GuestJohng123 rolled: dice_6 dice_6
+GuestRondi3697 got: brick
+GuestJohng123 wants to give: lumber for: brick
+GuestJohng123 wants to give: lumber for: ore
+GuestJohng123 wants to give: lumber for: grain
+Guest408represent rolled: dice_1 dice_4
+Userwoodgiver got: lumber
+GuestRondi3697 got: grainlumberlumber
+GuestRondi3697 rolled: dice_5 dice_5
+Userwoodgiver got: grain
+Guest408represent got: grain
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+GuestRondi3697 built a settlement: +1 VP
+GuestRondi3697 gave bank: lumberlumberlumber and took ore
+GuestRondi3697 bought development card
+Userwoodgiver rolled: dice_2 dice_2
+Userwoodgiver got: ore
+Guest408represent got: ore
+GuestJohng123 got: brick
+GuestRondi3697 got: ore
+Userwoodgiver wants to give: lumber for: brick
+Userwoodgiver wants to give: grain for: brick
+Userwoodgiver wants to give: grain for: wool
+Userwoodgiver wants to give: lumber for: wool
+Userwoodgiver traded: grain for: wool with: Johng123
+Userwoodgiver gave bank: lumberlumberlumberlumber and took brick
+Userwoodgiver built a settlement: +1 VP
+GuestJohng123 rolled: dice_4 dice_3
+GuestJohng123 moved robber robber to prob_4 ore tile
+GuestJohng123 stole card from: Rondi3697
+GuestJohng123 built a settlement: +1 VP
+Guest408represent rolled: dice_6 dice_3
+Userwoodgiver got: grainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+Guest408represent used Knight card knight
+Guest408represent moved robber robber to prob_5 lumber tile
+Guest408represent stole card from: woodgiver
+Guest408represent bought development card
+GuestRondi3697 rolled: dice_5 dice_5
+Userwoodgiver got: grain
+Guest408represent got: grain
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+Userwoodgiver rolled: dice_4 dice_2
+Userwoodgiver got: wool
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+GuestJohng123 rolled: dice_2 dice_3
+prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestRondi3697 got: graingrain
+GuestJohng123 gave bank: lumberlumberlumberlumber and took grain
+GuestJohng123 bought development card
+Guest408represent rolled: dice_4 dice_3
+408represent discarding resource cards
+Guest408represent discarded: lumberlumberlumberore
+Guest408represent moved robber robber to prob_5 grain tile
+Guest408represent stole card from: Rondi3697
+GuestRondi3697 used Knight card knight
+GuestRondi3697 moved robber robber to prob_10 grain tile
+GuestRondi3697 stole card from: 408represent
+GuestRondi3697 rolled: dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+GuestRondi3697 bought development card
+Userwoodgiver rolled: dice_6 dice_1
+Userwoodgiver moved robber robber to prob_5 grain tile
+Userwoodgiver stole card from: Rondi3697
+GuestJohng123 rolled: dice_2 dice_5
+GuestJohng123 moved robber robber to prob_4 ore tile
+GuestJohng123 stole card from: Rondi3697
+Guest408represent rolled: dice_3 dice_3
+Userwoodgiver got: wool
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+Guest408represent bought development card
+GuestRondi3697 rolled: dice_5 dice_3
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_4 dice_3
+Userwoodgiver moved robber robber to prob_5 grain tile
+Userwoodgiver stole card from: Rondi3697
+Userwoodgiver gave bank: lumberlumber and took ore
+Userwoodgiver bought development card
+GuestJohng123 rolled: dice_2 dice_6
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestJohng123 wants to give: lumber for: brick
+GuestJohng123 wants to give: lumber for: grain
+GuestJohng123 wants to give: lumber for: ore
+Userwoodgiver wants to give: Johng123: grain for: lumberore
+Guest408represent rolled: dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+Userwoodgiver got: lumber
+GuestRondi3697 got: lumberlumber
+GuestRondi3697 used Knight card knight
+GuestRondi3697 moved robber robber to prob_10 grain tile
+GuestRondi3697 stole card from: woodgiver
+GuestRondi3697 rolled: dice_5 dice_2
+GuestRondi3697 moved robber robber to prob_6 wool tile
+GuestRondi3697 stole card from: 408represent
+GuestRondi3697 gave bank: lumberlumberlumber and took grain
+GuestRondi3697 bought development card
+Userwoodgiver rolled: dice_6 dice_6
+GuestRondi3697 got: brick
+GuestJohng123 rolled: dice_3 dice_6
+Userwoodgiver got: grainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+Guest408represent used Knight card knight
+Guest408represent moved robber robber to prob_5 grain tile
+Guest408represent stole card from: Rondi3697
+Guest408represent rolled: dice_4 dice_4
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 used Knight card knight
+GuestRondi3697 received largest army: +2 VPs
+GuestRondi3697 moved robber robber to prob_10 grain tile
+GuestRondi3697 stole card from: 408represent
+GuestRondi3697 rolled: dice_6 dice_1
+GuestRondi3697 moved robber robber to prob_6 wool tile
+GuestRondi3697 stole card from: 408represent
+Userwoodgiver rolled: dice_4 dice_3
+Userwoodgiver moved robber robber to prob_5 grain tile
+Userwoodgiver stole card from: Rondi3697
+Userwoodgiver built a road
+GuestJohng123 rolled: dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+Userwoodgiver got: lumber
+GuestRondi3697 got: lumberlumber
+Guest408represent rolled: dice_2 dice_1
+Userwoodgiver got: woolwool
+GuestJohng123 got: lumber
+Guest408represent wants to give: ore for: wool
+Guest408represent traded: ore for: wool with: woodgiver
+Guest408represent used Road Building card road building
+Guest408represent placed a road
+Guest408represent placed a road
+Guest408represent built a settlement: +1 VP
+GuestRondi3697 rolled: dice_5 dice_3
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 wants to give: brick for: lumber
+GuestRondi3697 wants to give: brick for: grain
+GuestJohng123 wants to give: Rondi3697: lumber for: brickgrain
+GuestRondi3697 traded: brick for: grain with: woodgiver
+GuestRondi3697 bought development card
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+Userwoodgiver got: lumber
+GuestRondi3697 got: lumberlumber
+Userwoodgiver built a settlement: +1 VP
+Userwoodgiver bought development card
+GuestJohng123 rolled: dice_3 dice_5
+Guest408represent got: ore
+GuestRondi3697 got: brick
+Guest408represent rolled: dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+Userwoodgiver got: lumber
+GuestRondi3697 got: lumberlumber
+GuestRondi3697 rolled: dice_3 dice_5
+Guest408represent got: ore
+GuestRondi3697 got: brick
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_4 dice_6
+Userwoodgiver got: grain
+Guest408represent got: grain
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+GuestJohng123 rolled: dice_6 dice_5
+GuestJohng123 got: oregrain
+GuestRondi3697 got: grain
+GuestJohng123 wants to give: wool for: lumber
+GuestJohng123 wants to give: wool for: lumber
+GuestJohng123 traded: wool for: lumber with: woodgiver
+GuestJohng123 gave bank: lumberlumberlumberlumber and took brick
+GuestJohng123 used Road Building card road building
+GuestJohng123 placed a road
+GuestJohng123 placed a road
+GuestJohng123 built a settlement: +1 VP
+Guest408represent rolled: dice_2 dice_6
+Guest408represent got: ore
+GuestJohng123 got: brick
+GuestRondi3697 got: brick
+GuestRondi3697 rolled: dice_6 dice_4
+Userwoodgiver got: grain
+Guest408represent got: grain
+GuestJohng123 got: wool
+GuestRondi3697 got: wool
+GuestRondi3697 built a settlement: +1 VP
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+Userwoodgiver got: lumber
+GuestRondi3697 got: lumberlumber
+Userwoodgiver gave bank: lumberlumber and took ore
+Userwoodgiver bought development card
+GuestJohng123 rolled: dice_5 dice_3
+Guest408represent got: ore
+GuestJohng123 got: brick
+GuestRondi3697 got: brickbrick
+GuestJohng123 wants to give: woolore for: lumberlumber
+GuestJohng123 wants to give: woolore for: lumberlumber
+GuestJohng123 wants to give: wool for: lumber
+GuestJohng123 wants to give: wool for: lumber
+Guest408represent rolled: dice_1 dice_5
+Userwoodgiver got: wool
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+Guest408represent built a city: +1 VP
+GuestRondi3697 rolled: dice_5 dice_1
+Userwoodgiver got: wool
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+GuestRondi3697 built a road
+GuestRondi3697 received : +2 VPs
+GuestRondi3697 built a road
+GuestRondi3697 gave bank: lumberlumberlumber and took brick
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_6 dice_5
+GuestJohng123 got: oregrain
+GuestRondi3697 got: grain
+Userwoodgiver wants to give: wool for: ore
+Userwoodgiver used Year of Plenty card year of plenty
+Userwoodgiver took from bank: ore ore
+Userwoodgiver bought development card
+GuestJohng123 rolled: dice_5 dice_3
+Guest408represent got: oreore
+GuestJohng123 got: brick
+GuestRondi3697 got: brickbrick
+GuestJohng123 built a road
+GuestJohng123 built a road
+GuestJohng123 bought development card
+Guest408represent rolled: dice_3 dice_1
+Userwoodgiver got: ore
+Guest408represent got: oreore
+GuestJohng123 got: brickbrick
+GuestRondi3697 got: ore
+Guest408represent gave bank: oreoreoreore and took grain
+Guest408represent bought development card
+GuestRondi3697 rolled: dice_1 dice_2
+Userwoodgiver got: woolwool
+GuestJohng123 got: lumberlumber
+GuestRondi3697 bought development card
+Userwoodgiver rolled: dice_2 dice_4
+Userwoodgiver got: wool
+Guest408represent got: wool
+GuestJohng123 got: lumber
+GuestRondi3697 got: lumber
+Userwoodgiver wants to give: woolwool for: lumberlumber
+Userwoodgiver wants to give: wool for: grain
+Userwoodgiver wants to give: ore for: grain
+Userwoodgiver wants to give: ore for: wool
+Userwoodgiver wants to give: oreore for: grain
+GuestJohng123 rolled: dice_3 dice_6
+Userwoodgiver got: graingrainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+GuestJohng123 wants to give: ore for: brick
+GuestJohng123 built a road
+GuestJohng123 built a road
+GuestJohng123 built a road
+Guest408represent used Knight card knight
+Guest408represent moved robber robber to prob_8 brick tile
+Guest408represent stole card from: Rondi3697
+Guest408represent rolled: dice_6 dice_3
+Userwoodgiver got: graingrainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+GuestRondi3697 used Knight card knight
+GuestRondi3697 moved robber robber to prob_4 brick tile
+GuestRondi3697 stole card from: Johng123
+GuestRondi3697 rolled: dice_3 dice_5
+Guest408represent got: oreore
+GuestJohng123 got: brick
+GuestRondi3697 got: brickbrick
+GuestRondi3697 built a road
+Userwoodgiver rolled: dice_3 dice_6
+Userwoodgiver got: graingrainlumber
+Guest408represent got: lumber
+GuestJohng123 got: lumber
+Userwoodgiver wants to give: ore for: lumber
+Userwoodgiver wants to give: oreore for: lumberlumber
+GuestJohng123 wants to give: woodgiver: lumber for: oreore
+UserJohng123 traded: lumber for: oreore with: woodgiver
+Userwoodgiver used Monopoly card monopoly
+Userwoodgiver stole 6: ore
+Guest408represent has disconnected.
+GuestBot will wait until next turn to give 408represent a chance to reconnect
+Userwoodgiver built a city: +1 VP
+Userwoodgiver built a city: +1 VP
+Userwoodgiver gave bank: lumberlumberlumberlumber and took oreore
+Userwoodgiver bought development card
+Userwoodgiver bought development card
+trophy woodgiver won the game! trophy
+GuestJohng123 has left the game
+Userwoodgiver has left the game
+GuestRondi3697 has left the game
+Send a message

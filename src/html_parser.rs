@@ -10,6 +10,7 @@ fn parse_color(text: &str) -> (u8, u8, u8) {
     (r, g, b)
 }
 
+/// Parses HTML into text messages
 pub fn parse(html: &str) -> Vec<((u8, u8, u8), String)> {
     let document = Html::parse_document(html);
     let msg_selector = Selector::parse(".message_post").unwrap();

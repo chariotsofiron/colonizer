@@ -1,0 +1,285 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestAizin placed a settlement
+GuestAizin placed a road
+GuestAizin placed a settlement
+GuestAizin placed a road
+GuestAizin received starting resources lumberoregrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources oregrainlumber
+UserLookaside rolled dice_4 dice_6
+GuestAizin got lumber
+GuestAizin rolled dice_6 dice_3
+UserLookaside got grainlumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got ore
+GuestAizin got wool
+GuestAizin rolled dice_1 dice_4
+UserLookaside got ore
+GuestAizin got grain
+GuestAizin bought development card
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 brick tile
+UserNo player to steal from
+GuestAizin rolled dice_6 dice_4
+GuestAizin got lumber
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brick
+GuestAizin got brick
+UserLookaside built a road
+UserLookaside built a city (+1 VP)
+GuestAizin rolled dice_2 dice_3
+UserLookaside got oreore
+GuestAizin got grain
+UserLookaside rolled dice_5 dice_6
+GuestAizin got wool
+GuestAizin rolled dice_3 dice_3
+UserLookaside got brickbrick
+GuestAizin got brick
+GuestAizin built a road
+GuestAizin built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+UserLookaside got brickbrick
+GuestAizin got brick
+GuestAizin rolled dice_6 dice_5
+GuestAizin got wool
+UserLookaside rolled dice_5 dice_4
+UserLookaside got graingrainlumber
+UserLookaside built a road
+GuestAizin rolled dice_4 dice_1
+UserLookaside got oreore
+GuestAizin got grain
+UserLookaside rolled dice_1 dice_1
+UserLookaside gave bank oreoreoreore and took wool
+UserLookaside built a settlement (+1 VP)
+GuestAizin rolled dice_2 dice_5
+GuestAizin moved robber robber to prob_5 ore tile
+GuestAizin stole grain from you
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+GuestAizin got oreore
+GuestAizin rolled dice_4 dice_4
+UserLookaside got wool
+GuestAizin got oreore
+GuestAizin built a city (+1 VP)
+GuestAizin bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got graingrain
+GuestAizin got brick
+GuestAizin rolled dice_3 dice_6
+UserLookaside got graingrainlumber
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+GuestAizin got brick
+UserLookaside built a settlement (+1 VP)
+GuestAizin rolled dice_5 dice_3
+UserLookaside got wool
+GuestAizin got oreoreore
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole brick from Aizin
+GuestAizin used Knight card knight
+GuestAizin moved robber robber to prob_5 ore tile
+GuestAizin stole grain from you
+GuestAizin rolled dice_5 dice_2
+GuestAizin moved robber robber to prob_9 grain tile
+GuestAizin stole grain from you
+GuestAizin built a road
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+GuestAizin got lumberlumber
+GuestAizin rolled dice_6 dice_6
+GuestAizin built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+GuestAizin got brick
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+UserLookaside built a road
+GuestAizin rolled dice_2 dice_5
+GuestAizin moved robber robber to prob_5 ore tile
+GuestAizin stole grain from you
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brickbrick
+GuestAizin got brick
+GuestAizin rolled dice_4 dice_2
+UserLookaside got brickbrick
+GuestAizin got brick
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole lumber from Aizin
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a settlement (+1 VP)
+GuestAizin rolled dice_3 dice_2
+UserLookaside got oreoreore
+GuestAizin got graingrain
+UserLookaside rolled dice_1 dice_1
+GuestAizin rolled dice_5 dice_5
+UserLookaside got wool
+GuestAizin got lumberlumber
+GuestAizin built a road
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+GuestAizin got wool
+GuestAizin rolled dice_4 dice_5
+UserLookaside got graingrainlumber
+GuestAizin built a road
+GuestAizin received longest road (+2 VPs)
+GuestAizin built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside discarded lumberwoolwoolwoolore
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole brick from Aizin
+UserLookaside bought development card
+GuestAizin rolled dice_3 dice_5
+UserLookaside got woolwool
+GuestAizin got oreoreoreore
+GuestAizin has disconnected. Bot will wait until next turn to give Aizin a chance to reconnect.
+botAizin has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+GuestAizin has reconnected
+GuestAizin built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got graingrainlumber
+GuestAizin got lumberlumber
+UserLookaside bought development card
+GuestAizin rolled dice_2 dice_1
+UserLookaside got oreore
+GuestAizin got woolwoolwool
+UserLookaside rolled dice_3 dice_1
+UserLookaside got graingraingrain
+GuestAizin got brickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole brick from Aizin
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside built a city (+1 VP)
+GuestAizin rolled dice_2 dice_4
+UserLookaside got brickbrick
+GuestAizin got graingrainbrick
+GuestAizin bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole lumber from Aizin
+UserLookaside built a road
+UserLookaside built a road
+GuestAizin used Knight card knight
+GuestAizin moved robber robber to prob_5 ore tile
+GuestAizin stole wool from you
+GuestAizin rolled dice_5 dice_3
+UserLookaside got woolwoolwool
+GuestAizin got oreoreoreore
+GuestAizin bought development card
+GuestAizin built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole wool from Aizin
+UserLookaside rolled dice_6 dice_3
+UserLookaside got graingrainlumber
+GuestAizin got lumberlumber
+UserLookaside built a settlement (+1 VP)
+GuestAizin rolled dice_1 dice_2
+UserLookaside got oreoreore
+GuestAizin got woolwoolwool
+GuestAizin built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwool
+GuestAizin got lumberlumber
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestAizin rolled dice_1 dice_3
+UserLookaside got graingraingraingrain
+GuestAizin got brickbrick
+GuestAizin built a road
+GuestAizin built a road
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole wool from Aizin
+UserLookaside bought development card
+GuestAizin rolled dice_4 dice_4
+UserLookaside got woolwoolwool
+GuestAizin got oreoreoreore
+GuestAizin gave bank oreoreoreore and took grain
+GuestAizin bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole wool from Aizin
+UserLookaside rolled dice_4 dice_2
+UserLookaside got grainbrickbrick
+GuestAizin got graingrainbrick
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+GuestAizin rolled dice_5 dice_3
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+GuestAizin used Year of Plenty card year of plenty
+GuestAizin took from bank wool ore
+GuestAizin built a settlement (+1 VP)
+GuestAizin bought development card
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole ore from Aizin
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took oreore
+UserLookaside built a city (+1 VP)
+GuestAizin used Knight card knight
+GuestAizin moved robber robber to prob_5 ore tile
+GuestAizin stole grain from you
+GuestAizin rolled dice_1 dice_3
+UserLookaside got graingraingraingrain
+GuestAizin got brickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole brick from Aizin
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole grain from Aizin
+GuestAizin rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreoreore
+UserLookaside rolled dice_5 dice_4
+UserLookaside got graingrainlumber
+GuestAizin got lumberlumber
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestAizin rolled dice_3 dice_3
+UserLookaside got graingrainbrickbrick
+GuestAizin got graingraingrainbrick
+GuestAizin built a road
+GuestAizin built a road
+UserLookaside rolled dice_5 dice_1
+UserLookaside got graingrainbrickbrick
+GuestAizin got graingraingrainbrick
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 6 grain
+UserLookaside gave bank graingraingraingraingraingraingraingraingrain and took lumberlumberlumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+Userlongest road passed from Aizin to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+GuestAizin has left the game
+GuestAizin: Rip
+GuestAizin: Gg
+UserLookaside: gg
+GuestAizin: <3
+UserLookaside: <33
+Send a message
+Send message
+Cities and Knights Expansion
+Defeat barbarians by playing Cities & Knights with top players

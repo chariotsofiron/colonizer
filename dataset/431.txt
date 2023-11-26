@@ -1,0 +1,350 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Userjmauricio placed a settlement
+Userjmauricio placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources bricklumberwool
+UserLookaside placed a road
+Userjmauricio placed a settlement
+Userjmauricio received starting resources lumberbrickgrain
+Userjmauricio placed a road
+Userjmauricio rolled dice_4 dice_1
+Userjmauricio got wool
+UserLookaside got grainwool
+UserLookaside rolled dice_2 dice_4
+Userjmauricio got bricklumber
+UserLookaside built a road
+Userjmauricio rolled dice_1 dice_2
+Userjmauricio got lumber
+UserLookaside got lumber
+Userjmauricio built a road
+Userjmauricio built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_4
+Userjmauricio got wool
+UserLookaside got grainwool
+Userjmauricio rolled dice_6 dice_2
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_6
+Userjmauricio got ore
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+Userjmauricio rolled dice_3 dice_6
+Userjmauricio got wool
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_3
+Userjmauricio got wool
+UserLookaside got grainwool
+Userjmauricio rolled dice_1 dice_3
+Userjmauricio got graingrain
+Userjmauricio bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from jmauricio
+Userjmauricio used Knight card knight
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole wool from you
+Userjmauricio rolled dice_4 dice_4
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_2 dice_1
+Userjmauricio got lumber
+UserLookaside got lumber
+Userjmauricio rolled dice_3 dice_5
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_1 dice_5
+Userjmauricio got bricklumber
+Userjmauricio rolled dice_2 dice_2
+Userjmauricio got graingrain
+Userjmauricio built a road
+UserLookaside rolled dice_5 dice_6
+Userjmauricio rolled dice_1 dice_1
+Userjmauricio got ore
+Userjmauricio bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole grain from jmauricio
+Userjmauricio used Knight card knight
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole grain from you
+Userjmauricio rolled dice_3 dice_3
+Userjmauricio got bricklumber
+Userjmauricio built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+Userjmauricio got bricklumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+Userjmauricio rolled dice_4 dice_5
+Userjmauricio got orewool
+UserLookaside got wool
+Userjmauricio built a road
+Userjmauricio bought development card
+UserLookaside rolled dice_3 dice_1
+Userjmauricio got graingrain
+Userjmauricio rolled dice_5 dice_5
+Userjmauricio got ore
+UserLookaside got lumberore
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from jmauricio
+UserLookaside bought development card
+Userjmauricio used Knight card knight
+Userjmauricio received largest army (+2 VPs)
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole lumber from you
+Userjmauricio rolled dice_3 dice_3
+Userjmauricio got bricklumberlumber
+Userjmauricio built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from jmauricio
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brickbrick
+UserLookaside built a road
+Userjmauricio rolled dice_4 dice_1
+Userjmauricio got wool
+UserLookaside got grainwool
+UserLookaside rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+Userjmauricio rolled dice_1 dice_6
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole wool from you
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole wool from jmauricio
+Userjmauricio rolled dice_5 dice_1
+prob_6 lumber tile is blocked by the robber. No resources produced.
+Userjmauricio got brick
+Userjmauricio built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_2
+Userjmauricio got graingrain
+Userjmauricio rolled dice_3 dice_5
+UserLookaside got brickbrick
+UserLookaside rolled dice_3 dice_2
+Userjmauricio got wool
+UserLookaside got grainwool
+UserLookaside gave bank woolwoolwoolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+Userjmauricio rolled dice_5 dice_6
+UserLookaside rolled dice_6 dice_2
+UserLookaside got grainbrickbrick
+Userjmauricio rolled dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+Userjmauricio got brick
+UserLookaside rolled dice_5 dice_5
+Userjmauricio got ore
+UserLookaside got lumberlumberore
+UserLookaside built a road
+UserLookaside built a road
+Userjmauricio rolled dice_4 dice_2
+prob_6 lumber tile is blocked by the robber. No resources produced.
+Userjmauricio got brick
+Userjmauricio bought development card
+UserLookaside rolled dice_6 dice_5
+Userjmauricio rolled dice_5 dice_4
+Userjmauricio got orewool
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_3
+UserLookaside got grainbrickbrick
+UserLookaside bought development card
+Userjmauricio rolled dice_6 dice_3
+Userjmauricio got orewool
+UserLookaside got wool
+Userjmauricio gave bank woolwool and took ore
+Userjmauricio built a city (+1 VP)
+UserLookaside rolled dice_1 dice_2
+Userjmauricio got lumberlumber
+UserLookaside got lumberwool
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_4
+Userjmauricio got woolwool
+UserLookaside got grainwool
+Userjmauricio gave bank lumberlumberlumberlumber and took grain
+Userjmauricio used Road Building card road building
+Userjmauricio placed a road
+Userjmauricio received longest road (+2 VPs)
+Userjmauricio placed a road
+Userjmauricio built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_6
+Userjmauricio got orewoolwool
+UserLookaside got orewool
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_3
+Userjmauricio got graingrain
+Userjmauricio bought development card
+UserLookaside rolled dice_2 dice_3
+Userjmauricio got woolwool
+UserLookaside got grainwool
+Userjmauricio rolled dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+Userjmauricio got brick
+Userjmauricio gave bank woolwool and took ore
+UserLookaside rolled dice_4 dice_5
+Userjmauricio got orewoolwool
+UserLookaside got orewool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 2 ore
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_1
+Userjmauricio got ore
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from jmauricio
+Userjmauricio used Knight card knight
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole ore from you
+Userjmauricio rolled dice_2 dice_4
+Userjmauricio got bricklumberlumberlumber
+Userjmauricio gave bank woolwoolwoolwool and took grainore
+Userjmauricio built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole brick from jmauricio
+UserLookaside rolled dice_2 dice_3
+Userjmauricio got woolwool
+UserLookaside got grainwool
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_4
+Userjmauricio got woolwool
+UserLookaside got grainwool
+Userjmauricio built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from jmauricio
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grainbrickbrick
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+UserLookaside built a road
+Userjmauricio rolled dice_6 dice_4
+Userjmauricio got oreore
+UserLookaside got lumberlumberoreore
+UserLookaside rolled dice_5 dice_6
+Userjmauricio got lumberlumber
+UserLookaside built a road
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a settlement (+1 VP)
+Userjmauricio rolled dice_1 dice_5
+Userjmauricio got bricklumberlumberlumber
+Userjmauricio built a road
+Userjmauricio gave bank lumberlumberlumberlumber and took brick
+Userjmauricio built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from jmauricio
+UserLookaside rolled dice_4 dice_1
+Userjmauricio got woolwool
+UserLookaside got graingrainwoolwool
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_3
+Userjmauricio got graingrain
+UserLookaside got grain
+Userjmauricio bought development card
+Userjmauricio bought development card
+UserLookaside rolled dice_5 dice_4
+Userjmauricio got orewoolwoolwool
+UserLookaside got orewoolwool
+UserLookaside bought development card
+Userjmauricio rolled dice_6 dice_6
+Userjmauricio got wool
+Userjmauricio used Road Building card road building
+Userjmauricio placed a road
+Userjmauricio placed a road
+Userjmauricio gave bank woolwool and took grain
+Userjmauricio bought development card
+UserLookaside used Knight card knight
+Userlargest army passed from jmauricio to Lookaside (+2 VPs)
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole wool from jmauricio
+UserLookaside rolled dice_6 dice_2
+UserLookaside got grainbrickbrick
+UserLookaside built a road
+Userjmauricio used Knight card knight
+Userjmauricio moved robber robber to prob_10 lumber tile
+Userjmauricio stole wool from you
+Userjmauricio rolled dice_5 dice_2
+Userjmauricio moved robber robber to prob_8 brick tile
+Userjmauricio stole grain from you
+Userjmauricio gave bank woolwool and took ore
+Userjmauricio bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole wool from jmauricio
+UserLookaside rolled dice_2 dice_1
+Userjmauricio got lumberlumberwoolwool
+UserLookaside got lumberwool
+UserLookaside built a road
+Userjmauricio rolled dice_3 dice_6
+Userjmauricio got orewoolwoolwool
+UserLookaside got orewoolwool
+Userjmauricio gave bank woolwool and took grain
+Userjmauricio bought development card
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole wool from jmauricio
+UserLookaside bought development card
+Userjmauricio rolled dice_4 dice_2
+Userjmauricio got bricklumberlumberlumber
+Userjmauricio used Year of Plenty card year of plenty
+Userjmauricio took from bank grain ore
+Userjmauricio bought development card
+UserLookaside rolled dice_5 dice_5
+Userjmauricio got oreore
+UserLookaside got lumberlumberlumberoreore
+UserLookaside gave bank woolwoolwoolwool and took brick
+Userjmauricio used Knight card knight
+Userjmauricio moved robber robber to prob_10 lumber tile
+Userjmauricio stole wool from you
+Userjmauricio rolled dice_4 dice_3
+Userjmauricio moved robber robber to prob_5 grain tile
+Userjmauricio stole lumber from you
+Userjmauricio gave bank lumberlumberlumberlumber and took grain
+Userjmauricio bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from jmauricio
+UserLookaside rolled dice_6 dice_3
+Userjmauricio got orewoolwoolwool
+UserLookaside got orewoolwool
+Userjmauricio rolled dice_1 dice_2
+Userjmauricio got lumberlumberwoolwool
+UserLookaside got lumberwool
+Userjmauricio gave bank woolwool and took grain
+Userjmauricio bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded brickwoolwooloreore
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole ore from jmauricio
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+Userjmauricio rolled dice_1 dice_1
+Userjmauricio got ore
+UserLookaside rolled dice_2 dice_2
+Userjmauricio got graingrain
+UserLookaside got grain
+UserLookaside gave bank lumberlumber and took wool
+UserLookaside bought development card
+Userjmauricio rolled dice_5 dice_6
+Userjmauricio got lumberlumber
+UserLookaside got lumber
+Userjmauricio built a settlement (+1 VP)
+trophyUserjmauricio won the game!trophy
+UserLookaside: oof
+UserLookaside: 4 vps :(
+Userjmauricio: si :(
+Send a message
+Send message
+Cities and Knights Expansion
+Defeat barbarians by playing Cities & Knights with top players

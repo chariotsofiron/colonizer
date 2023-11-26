@@ -1,0 +1,331 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestHaleStorm24 placed a settlement
+GuestHaleStorm24 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberorelumber
+GuestBot is placing a settlement for HaleStorm24
+GuestHaleStorm24 placed a settlement
+GuestHaleStorm24 placed a road
+GuestHaleStorm24 received starting resources: brickgraingrain
+GuestHaleStorm24 rolled: dice_6 dice_2
+UserLookaside got: lumber
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 wool tile
+UserNo player to steal from
+GuestHaleStorm24 rolled: dice_5 dice_3
+UserLookaside got: lumber
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: ore
+GuestHaleStorm24 got: ore
+GuestHaleStorm24 rolled: dice_6 dice_5
+UserLookaside rolled: dice_4 dice_1
+GuestHaleStorm24 got: grain
+GuestHaleStorm24 rolled: dice_5 dice_1
+UserLookaside got: brick
+GuestHaleStorm24 got: brick
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: lumber
+GuestHaleStorm24 rolled: dice_6 dice_6
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: brick
+GuestHaleStorm24 got: grain
+UserLookaside gave bank: lumberlumberlumberlumber and took wool
+GuestHaleStorm24 rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestHaleStorm24 moved robber robber to prob_11 ore tile
+GuestNo player to steal from
+UserLookaside rolled: dice_5 dice_4
+GuestHaleStorm24 got: lumbergrain
+GuestHaleStorm24 rolled: dice_3 dice_2
+GuestHaleStorm24 got: grain
+GuestHaleStorm24 built a road
+UserLookaside rolled: dice_3 dice_3
+UserLookaside got: brick
+GuestHaleStorm24 got: brick
+GuestHaleStorm24 rolled: dice_6 dice_3
+GuestHaleStorm24 got: lumbergrain
+GuestHaleStorm24 gave bank: graingraingraingrain and took wool
+GuestHaleStorm24 built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: brick
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 rolled: dice_4 dice_2
+UserLookaside got: brick
+GuestHaleStorm24 got: brick
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: brick
+GuestHaleStorm24 got: brick
+UserLookaside built a road
+GuestHaleStorm24 rolled: dice_1 dice_4
+GuestHaleStorm24 got: grain
+GuestHaleStorm24 gave bank: graingrain and took wool
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: lumber
+UserLookaside gave bank: brickbrickbrickbrick and took grain
+UserLookaside built a settlement: +1 VP
+GuestHaleStorm24 rolled: dice_5 dice_2
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: ore from you
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: brick from: HaleStorm24
+GuestHaleStorm24 used Knight card knight
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: ore from you
+GuestHaleStorm24 rolled: dice_5 dice_6
+UserLookaside got: ore
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: ore
+GuestHaleStorm24 got: ore
+GuestHaleStorm24 rolled: dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestHaleStorm24 got: brick
+GuestHaleStorm24 built a city: +1 VP
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: lumber
+UserLookaside built a road
+GuestHaleStorm24 rolled: dice_2 dice_1
+UserLookaside got: brick
+GuestHaleStorm24 got: graingrain
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: ore
+GuestHaleStorm24 rolled: dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestHaleStorm24 got: brick
+UserLookaside rolled: dice_6 dice_3
+GuestHaleStorm24 got: lumberlumbergrain
+GuestHaleStorm24 rolled: dice_1 dice_4
+UserLookaside got: grain
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 built a road
+GuestHaleStorm24 built a road
+UserLookaside rolled: dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestHaleStorm24 got: brick
+GuestHaleStorm24 rolled: dice_6 dice_5
+UserLookaside got: ore
+GuestHaleStorm24 gave bank: graingrain and took wool
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: grain from: HaleStorm24
+UserLookaside built a city: +1 VP
+GuestHaleStorm24 rolled: dice_4 dice_1
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 gave bank: graingrain and took ore
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_6 dice_6
+GuestHaleStorm24 used Knight card knight
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: grain from you
+GuestHaleStorm24 rolled: dice_4 dice_5
+GuestHaleStorm24 got: lumberlumbergrain
+GuestHaleStorm24 gave bank: graingrain and took wool
+GuestHaleStorm24 built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: lumber
+UserLookaside built a road
+GuestHaleStorm24 rolled: dice_2 dice_6
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: grainlumber
+GuestHaleStorm24 rolled: dice_2 dice_2
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_1 dice_1
+GuestHaleStorm24 got: wool
+GuestHaleStorm24 rolled: dice_1 dice_3
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: brick from: HaleStorm24
+UserLookaside gave bank: lumberlumberlumberlumber and took wool
+GuestHaleStorm24 rolled: dice_6 dice_1
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: brick from you
+UserLookaside rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestHaleStorm24 got: brickbrick
+GuestHaleStorm24 rolled: dice_1 dice_2
+UserLookaside got: brick
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 built a road
+GuestHaleStorm24 gave bank: brickbrick and took lumber
+GuestHaleStorm24 built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: lumber
+UserLookaside built a settlement: +1 VP
+GuestHaleStorm24 rolled: dice_3 dice_1
+UserLookaside got: graingrainlumber
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a road
+GuestHaleStorm24 rolled: dice_4 dice_3
+GuestHaleStorm24 moved robber robber to prob_8 wool tile
+GuestHaleStorm24 stole: grain from you
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: grain from: HaleStorm24
+GuestHaleStorm24 rolled: dice_1 dice_1
+GuestHaleStorm24 got: woolwool
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 rolled: dice_5 dice_5
+UserLookaside got: ore
+GuestHaleStorm24 got: oreorewool
+GuestHaleStorm24 bought development card
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: graingrainlumber
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside built a city: +1 VP
+GuestHaleStorm24 rolled: dice_6 dice_2
+UserLookaside got: woollumberlumber
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: woollumberlumber
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a settlement: +1 VP
+GuestHaleStorm24 used Knight card knight
+GuestHaleStorm24 received largest army: +2 VPs
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: wool from you
+GuestHaleStorm24 rolled: dice_5 dice_4
+GuestHaleStorm24 got: lumberlumbergraingrain
+GuestHaleStorm24 gave bank: graingrain and took ore
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestHaleStorm24 got: brickbrick
+GuestHaleStorm24 rolled: dice_4 dice_5
+GuestHaleStorm24 got: lumberlumbergraingrain
+GuestHaleStorm24 built a road
+GuestHaleStorm24 received longest road: +2 VPs
+GuestHaleStorm24 built a road
+GuestHaleStorm24 used Year of Plenty card year of plenty
+GuestHaleStorm24 took from bank: brick ore
+GuestHaleStorm24 built a settlement: +1 VP
+GuestHaleStorm24 gave bank: graingrain and took wool
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: HaleStorm24
+GuestHaleStorm24 rolled: dice_2 dice_2
+UserLookaside got: graingrainlumberlumber
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+UserLookaside gave bank: lumberlumberlumbergraingraingrain and took woolore
+UserLookaside bought development card
+GuestHaleStorm24 rolled: dice_1 dice_4
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: oreoreore
+UserLookaside built a city: +1 VP
+GuestHaleStorm24 rolled: dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: brickbrickbrickbrick
+GuestHaleStorm24 used Monopoly card monopoly
+GuestHaleStorm24 stole 4: brick
+GuestHaleStorm24 gave bank: brickbrickbrickbrick and took woolore
+GuestHaleStorm24 bought development card
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: woollumberlumber
+GuestHaleStorm24 got: lumber
+GuestHaleStorm24 rolled: dice_2 dice_5
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: grain from you
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: woollumberlumber
+GuestHaleStorm24 got: lumber
+UserLookaside gave bank: lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestHaleStorm24 rolled: dice_3 dice_5
+UserLookaside got: woollumberlumber
+GuestHaleStorm24 got: lumber
+GuestHaleStorm24 gave bank: lumberlumberlumbergraingrain and took woolore
+GuestHaleStorm24 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: grain from: HaleStorm24
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: oreorewool
+GuestHaleStorm24 got: oreorewool
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a road
+UserLookaside bought development card
+GuestHaleStorm24 used Knight card knight
+GuestHaleStorm24 moved robber robber to prob_6 brick tile
+GuestHaleStorm24 stole: wool from you
+GuestHaleStorm24 rolled: dice_5 dice_2
+GuestHaleStorm24 moved robber robber to prob_11 ore tile
+GuestHaleStorm24 stole: ore from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: wool from: HaleStorm24
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: oreoreore
+GuestHaleStorm24 rolled: dice_6 dice_3
+GuestHaleStorm24 got: lumberlumbergraingrain
+GuestHaleStorm24 built a city: +1 VP
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: lumber from: HaleStorm24
+GuestHaleStorm24 rolled: dice_5 dice_3
+UserLookaside got: woollumberlumber
+GuestHaleStorm24 got: lumber
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: brickbrickbrickbrick
+GuestHaleStorm24 got: brickbrickbrick
+UserLookaside built a road
+UserLookaside gave bank: oreoreore and took grain
+UserLookaside built a settlement: +1 VP
+GuestHaleStorm24 rolled: dice_4 dice_4
+UserLookaside got: woollumberlumber
+GuestHaleStorm24 got: lumber
+GuestHaleStorm24 built a road
+GuestHaleStorm24 built a road
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: brickbrickbrickbrick
+GuestHaleStorm24 got: brickbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from: HaleStorm24 to: Lookaside: +2 VPs
+UserLookaside built a road
+GuestHaleStorm24 rolled: dice_4 dice_1
+UserLookaside got: graingrain
+GuestHaleStorm24 got: graingrain
+GuestHaleStorm24 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: oreorewool
+GuestHaleStorm24 got: oreorewool
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside built a city: +1 VP
+GuestHaleStorm24 rolled: dice_2 dice_1
+UserLookaside got: brickbrickbrick
+GuestHaleStorm24 got: graingraingrain
+GuestHaleStorm24 gave bank: graingraingraingrain and took lumberlumber
+GuestHaleStorm24 built a road
+GuestHaleStorm24 built a road
+Guestlongest road passed from: Lookaside to: HaleStorm24: +2 VPs
+trophy HaleStorm24 won the game! trophy
+UserLookaside: gg
+GuestHaleStorm24: gg
+Send a message

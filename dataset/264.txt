@@ -1,0 +1,285 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestNovocaine placed a settlement
+GuestNovocaine placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources orelumbergrain
+GuestNovocaine placed a settlement
+GuestNovocaine placed a road
+GuestNovocaine received starting resources lumbergrainwool
+GuestNovocaine rolled dice_4 dice_1
+UserLookaside got grainore
+GuestNovocaine got ore
+UserLookaside rolled dice_4 dice_2
+GuestNovocaine got grain
+GuestNovocaine rolled dice_1 dice_5
+GuestNovocaine got grain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woolore
+UserLookaside built a city (+1 VP)
+GuestNovocaine rolled dice_3 dice_3
+GuestNovocaine got grain
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 ore tile
+UserNo player to steal from
+GuestNovocaine rolled dice_3 dice_2
+UserLookaside got grainoreore
+GuestNovocaine got ore
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestNovocaine rolled dice_2 dice_2
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_5 dice_6
+GuestNovocaine got grain
+GuestNovocaine rolled dice_2 dice_1
+UserLookaside rolled dice_5 dice_1
+GuestNovocaine got grain
+GuestNovocaine rolled dice_3 dice_6
+GuestNovocaine got brickwool
+GuestNovocaine built a road
+GuestNovocaine gave bank graingraingraingrain and took ore
+GuestNovocaine built a city (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole wool from Novocaine
+UserLookaside bought development card
+GuestNovocaine rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestNovocaine got wool
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grainoreore
+GuestNovocaine got oreore
+UserLookaside bought development card
+GuestNovocaine rolled dice_5 dice_3
+UserLookaside got woolwoolore
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumber
+GuestNovocaine got lumber
+GuestNovocaine rolled dice_6 dice_5
+GuestNovocaine got grain
+GuestNovocaine bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from Novocaine
+UserLookaside gave bank oreoreoreore and took brick
+UserLookaside built a road
+GuestNovocaine used Knight card knight
+GuestNovocaine moved robber robber to prob_5 grain tile
+GuestNovocaine stole wool from you
+GuestNovocaine rolled dice_4 dice_5
+GuestNovocaine got brickbrickwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Novocaine
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grainoreore
+GuestNovocaine got oreore
+UserLookaside built a settlement (+1 VP)
+GuestNovocaine rolled dice_4 dice_6
+UserLookaside got lumberlumberlumber
+GuestNovocaine got lumber
+UserLookaside rolled dice_1 dice_1
+GuestNovocaine rolled dice_6 dice_3
+GuestNovocaine got brickbrickwool
+GuestNovocaine built a road
+UserLookaside rolled dice_5 dice_3
+UserLookaside got woolwooloreore
+UserLookaside gave bank oreore and took brick
+UserLookaside built a road
+GuestNovocaine rolled dice_2 dice_1
+UserLookaside rolled dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestNovocaine rolled dice_1 dice_3
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from Novocaine
+UserLookaside gave bank oreore and took grain
+UserLookaside bought development card
+GuestNovocaine rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestNovocaine got wool
+GuestNovocaine gave bank woolwoolwoolwool and took grain
+GuestNovocaine built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_5
+UserLookaside got woolwooloreore
+GuestNovocaine rolled dice_6 dice_5
+GuestNovocaine got graingrain
+UserLookaside rolled dice_2 dice_2
+GuestNovocaine got wool
+GuestNovocaine rolled dice_1 dice_4
+UserLookaside got grainoreore
+GuestNovocaine got oreoreore
+GuestNovocaine built a city (+1 VP)
+UserLookaside rolled dice_3 dice_2
+UserLookaside got grainoreore
+GuestNovocaine got oreoreore
+UserLookaside gave bank oreore and took brick
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a city (+1 VP)
+GuestNovocaine rolled dice_2 dice_6
+UserLookaside got woolwoolwooloreoreore
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded woolwoolwooloreore
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Novocaine
+GuestNovocaine rolled dice_5 dice_2
+GuestNovocaine moved robber robber to prob_8 ore tile
+GuestNovocaine stole lumber from you
+GuestNovocaine built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from Novocaine
+UserLookaside rolled dice_4 dice_5
+GuestNovocaine got brickbrickwoolwool
+GuestNovocaine rolled dice_4 dice_6
+UserLookaside got lumberlumberlumberlumber
+GuestNovocaine got lumberlumber
+UserLookaside rolled dice_4 dice_1
+UserLookaside got graingrainoreore
+GuestNovocaine got oreoreore
+UserLookaside gave bank oreoreoreore and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside bought development card
+GuestNovocaine rolled dice_4 dice_2
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestNovocaine gave bank oreoreoreore and took grain
+GuestNovocaine built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+GuestNovocaine got graingraingrain
+GuestNovocaine rolled dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestNovocaine built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_1
+GuestNovocaine got woolwool
+GuestNovocaine rolled dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestNovocaine bought development card
+GuestNovocaine bought development card
+UserLookaside rolled dice_5 dice_4
+GuestNovocaine got brickbrickbrickwoolwoolwool
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestNovocaine used Knight card knight
+GuestNovocaine moved robber robber to prob_8 ore tile
+GuestNovocaine stole wool from you
+GuestNovocaine rolled dice_2 dice_1
+GuestNovocaine got ore
+GuestNovocaine gave bank brickbrickbrick and took grain
+GuestNovocaine bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole wool from Novocaine
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Novocaine
+GuestNovocaine rolled dice_2 dice_3
+UserLookaside got graingrainoreore
+GuestNovocaine got oreoreore
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from Novocaine
+UserLookaside bought development card
+UserLookaside bought development card
+GuestNovocaine rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestNovocaine got woolwoolwool
+GuestNovocaine gave bank woolwoolwool and took grain
+GuestNovocaine bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got woolwoolwooloreoreore
+UserLookaside gave bank oreore and took grain
+UserLookaside bought development card
+GuestNovocaine rolled dice_2 dice_4
+GuestNovocaine got graingrain
+UserLookaside rolled dice_3 dice_5
+UserLookaside got woolwoolwooloreoreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from Novocaine
+UserLookaside gave bank oreoreoreore and took lumberbrick
+UserLookaside built a settlement (+1 VP)
+GuestNovocaine used Knight card knight
+GuestNovocaine moved robber robber to prob_8 ore tile
+GuestNovocaine stole wool from you
+GuestNovocaine rolled dice_5 dice_2
+GuestNovocaine moved robber robber to prob_5 grain tile
+GuestNovocaine stole wool from you
+GuestNovocaine bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole wool from Novocaine
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumberlumberlumber
+GuestNovocaine got lumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+GuestNovocaine rolled dice_5 dice_1
+GuestNovocaine got graingrain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got woolwoolwooloreoreoreore
+UserLookaside gave bank oreore and took grain
+UserLookaside bought development card
+GuestNovocaine rolled dice_4 dice_2
+GuestNovocaine got graingrain
+GuestNovocaine used Road Building card road building
+GuestNovocaine placed a road
+GuestNovocaine placed a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from Novocaine
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingrainoreore
+GuestNovocaine got oreoreore
+UserLookaside gave bank oreore and took brick
+GuestNovocaine rolled dice_6 dice_5
+GuestNovocaine got graingraingrain
+GuestNovocaine built a city (+1 VP)
+GuestNovocaine used Road Building card road building
+GuestNovocaine placed a road
+GuestNovocaine received longest road (+2 VPs)
+GuestNovocaine placed a road
+UserLookaside rolled dice_5 dice_6
+GuestNovocaine got graingraingraingrain
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 9 grain
+UserLookaside built a road
+UserLookaside gave bank graingraingraingraingraingraingraingrain and took lumberbrick
+UserLookaside built a road
+UserLookaside bought development card
+GuestNovocaine rolled dice_2 dice_2
+UserLookaside got lumber
+GuestNovocaine got woolwoolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole wool from Novocaine
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumber
+GuestNovocaine got lumberlumberlumber
+UserLookaside gave bank lumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+Userlongest road passed from Novocaine to Lookaside (+2 VPs)
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+trophyUserLookaside won the game!trophy
+No Ads

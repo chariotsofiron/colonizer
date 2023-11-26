@@ -1,0 +1,277 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestKeeler8959 placed a settlement
+GuestKeeler8959 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources brickwoollumber
+GuestKeeler8959 placed a settlement
+GuestKeeler8959 placed a road
+GuestKeeler8959 received starting resources lumberorewool
+GuestKeeler8959 rolled dice_6 dice_2
+UserLookaside rolled dice_1 dice_4
+UserLookaside got woolbrick
+GuestKeeler8959 rolled dice_6 dice_3
+GuestKeeler8959 got ore
+UserLookaside got lumberore
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+GuestKeeler8959 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuestKeeler8959 moved robber robber to Desert
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_6
+GuestKeeler8959 rolled dice_5 dice_6
+GuestKeeler8959 got lumber
+UserLookaside rolled dice_1 dice_3
+GuestKeeler8959 got grain
+GuestKeeler8959 rolled dice_1 dice_5
+GuestKeeler8959 got brick
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_5
+GuestKeeler8959 got ore
+UserLookaside got ore
+UserLookaside built a road
+GuestKeeler8959 rolled dice_3 dice_6
+GuestKeeler8959 got ore
+UserLookaside got lumberore
+GuestKeeler8959 built a road
+UserLookaside rolled dice_6 dice_4
+GuestKeeler8959 got ore
+UserLookaside got ore
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside built a settlement (+1 VP)
+GuestKeeler8959 rolled dice_4 dice_5
+GuestKeeler8959 got ore
+UserLookaside got lumberore
+GuestKeeler8959 gave bank oreoreoreore and took brick
+GuestKeeler8959 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_2
+GuestKeeler8959 got brickwool
+GuestKeeler8959 rolled dice_2 dice_3
+UserLookaside got woolbrickbrick
+UserLookaside rolled dice_6 dice_6
+GuestKeeler8959 rolled dice_1 dice_1
+UserLookaside rolled dice_2 dice_4
+GuestKeeler8959 got brick
+UserLookaside got wool
+UserLookaside built a road
+GuestKeeler8959 rolled dice_4 dice_3
+GuestKeeler8959 moved robber robber to prob_9 lumber tile
+GuestKeeler8959 stole wool from you
+UserLookaside rolled dice_5 dice_1
+GuestKeeler8959 got brick
+UserLookaside got wool
+GuestKeeler8959 rolled dice_3 dice_1
+GuestKeeler8959 got graingrain
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_4 dice_6
+GuestKeeler8959 got ore
+UserLookaside got grainore
+UserLookaside built a settlement (+1 VP)
+GuestKeeler8959 rolled dice_2 dice_5
+GuestKeeler8959 moved robber robber to prob_10 grain tile
+GuestKeeler8959 stole wool from you
+UserLookaside rolled dice_2 dice_2
+GuestKeeler8959 got graingrain
+GuestKeeler8959 rolled dice_6 dice_5
+GuestKeeler8959 got lumber
+GuestKeeler8959 built a road
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_4 dice_2
+GuestKeeler8959 got brick
+UserLookaside got wool
+GuestKeeler8959 rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestKeeler8959 got ore
+UserLookaside got oreore
+GuestKeeler8959 used Year of Plenty card year of plenty
+GuestKeeler8959 took from bank lumber lumber
+GuestKeeler8959 built a settlement (+1 VP)
+GuestKeeler8959 built a road
+UserLookaside rolled dice_2 dice_1
+GuestKeeler8959 got brickwoolwool
+GuestKeeler8959 rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestKeeler8959 got ore
+UserLookaside got oreore
+UserLookaside rolled dice_5 dice_1
+GuestKeeler8959 got brick
+UserLookaside got wool
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside bought development card
+GuestKeeler8959 rolled dice_3 dice_3
+GuestKeeler8959 got brick
+UserLookaside got wool
+GuestKeeler8959 gave bank brickbrickbrickbrick and took grain
+GuestKeeler8959 built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Keeler8959
+UserLookaside rolled dice_1 dice_2
+GuestKeeler8959 got brickwoolwool
+GuestKeeler8959 used Knight card knight
+GuestKeeler8959 moved robber robber to prob_9 lumber tile
+GuestKeeler8959 stole wool from you
+GuestKeeler8959 rolled dice_3 dice_1
+GuestKeeler8959 got oregraingraingrain
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_4 dice_5
+prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestKeeler8959 got oreore
+UserLookaside got ore
+GuestKeeler8959 rolled dice_2 dice_5
+GuestKeeler8959 moved robber robber to prob_10 grain tile
+GuestKeeler8959 stole ore from you
+GuestKeeler8959 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Keeler8959
+GuestKeeler8959 rolled dice_3 dice_5
+GuestKeeler8959 got woolgraingrain
+UserLookaside got woolgrain
+UserLookaside rolled dice_1 dice_5
+GuestKeeler8959 got brickbrick
+UserLookaside got wool
+UserLookaside bought development card
+GuestKeeler8959 rolled dice_1 dice_4
+UserLookaside got woolbrickbrick
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from Keeler8959
+UserLookaside gave bank woolwoolwoolwool and took lumber
+GuestKeeler8959 rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_6
+GuestKeeler8959 got lumber
+GuestKeeler8959 rolled dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestKeeler8959 built a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from Keeler8959
+GuestKeeler8959 rolled dice_3 dice_2
+UserLookaside got woolbrickbrick
+UserLookaside rolled dice_5 dice_4
+GuestKeeler8959 got oreore
+UserLookaside got lumberore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank woolwool and took grain
+GuestKeeler8959 rolled dice_6 dice_2
+GuestKeeler8959 got woolgraingrain
+UserLookaside got woolgrain
+GuestKeeler8959 bought development card
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_3 dice_6
+GuestKeeler8959 got oreore
+UserLookaside got lumberore
+UserLookaside gave bank woolwool and took ore
+UserLookaside built a city (+1 VP)
+GuestKeeler8959 used Knight card knight
+GuestKeeler8959 moved robber robber to prob_6 wool tile
+GuestKeeler8959 stole brick from you
+GuestKeeler8959 rolled dice_5 dice_3
+GuestKeeler8959 got woolgraingrain
+UserLookaside got woolgrain
+GuestKeeler8959 bought development card
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_6 dice_2
+GuestKeeler8959 got woolgraingrain
+UserLookaside got woolgrain
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+GuestKeeler8959 rolled dice_4 dice_1
+UserLookaside got woolwoolbrickbrickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Keeler8959
+UserLookaside rolled dice_4 dice_6
+GuestKeeler8959 got ore
+UserLookaside got grainoreore
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside bought development card
+GuestKeeler8959 used Knight card knight
+GuestKeeler8959 received largest army (+2 VPs)
+GuestKeeler8959 moved robber robber to prob_6 wool tile
+GuestKeeler8959 stole grain from you
+GuestKeeler8959 rolled dice_4 dice_2
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestKeeler8959 got brickbrick
+GuestKeeler8959 bought development card
+UserLookaside rolled dice_6 dice_5
+GuestKeeler8959 got lumber
+GuestKeeler8959 rolled dice_1 dice_6
+GuestKeeler8959 moved robber robber to prob_5 wool tile
+GuestKeeler8959 stole brick from you
+GuestKeeler8959 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from Keeler8959
+GuestKeeler8959 used Knight card knight
+GuestKeeler8959 moved robber robber to prob_6 wool tile
+GuestKeeler8959 stole brick from you
+GuestKeeler8959 rolled dice_1 dice_3
+GuestKeeler8959 got oreoregraingraingraingrain
+GuestKeeler8959 wants to give graingraingraingrain for lumber
+GuestKeeler8959 gave bank graingraingrain and took ore
+GuestKeeler8959 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_2
+GuestKeeler8959 got oreoreoregraingraingraingrain
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 5 grain
+GuestKeeler8959 rolled dice_5 dice_5
+GuestKeeler8959 got ore
+UserLookaside got grainoreore
+UserLookaside rolled dice_1 dice_4
+UserLookaside got woolwoolbrickbrickbrick
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank lumber ore
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a city (+1 VP)
+GuestKeeler8959 rolled dice_3 dice_6
+GuestKeeler8959 got oreore
+UserLookaside got lumberlumberore
+GuestKeeler8959 gave bank oreoreoreoreoreore and took lumberlumber
+GuestKeeler8959 built a road
+GuestKeeler8959 received longest road (+2 VPs)
+GuestKeeler8959 built a road
+UserLookaside rolled dice_2 dice_6
+GuestKeeler8959 got woolwoolgraingrain
+UserLookaside got woolwoolgraingrain
+UserLookaside gave bank woolwoolgraingraingrain and took oreore
+UserLookaside built a city (+1 VP)
+GuestKeeler8959 rolled dice_4 dice_3
+GuestKeeler8959 moved robber robber to prob_5 wool tile
+GuestKeeler8959 stole wool from you
+UserLookaside rolled dice_1 dice_2
+GuestKeeler8959 got brickbrickwoolwoolwool
+GuestKeeler8959 rolled dice_3 dice_5
+GuestKeeler8959 got woolwoolgraingrain
+UserLookaside got woolwoolgraingrain
+GuestKeeler8959 gave bank woolwoolwoolwoolwoolwool and took lumberlumber
+GuestKeeler8959 built a road
+GuestKeeler8959 built a settlement (+1 VP)
+trophyGuestKeeler8959 won the game!trophy
+GuestKeeler8959 has left the game
+No Ads

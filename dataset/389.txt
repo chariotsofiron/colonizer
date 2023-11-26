@@ -1,0 +1,281 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserTsangwich placed a settlement
+UserTsangwich placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources lumbergrainbrick
+UserLookaside placed a road
+UserTsangwich placed a settlement
+UserTsangwich received starting resources grainlumberbrick
+UserTsangwich placed a road
+UserTsangwich rolled dice_5 dice_1
+UserTsangwich built a road
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumber
+UserTsangwich got lumber
+UserTsangwich rolled dice_3 dice_3
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 lumber tile
+UserNo player to steal from
+UserTsangwich rolled dice_2 dice_1
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_6
+UserTsangwich rolled dice_6 dice_3
+UserLookaside got lumber
+UserTsangwich got lumber
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brick
+UserTsangwich rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserTsangwich moved robber robber to prob_6 grain tile
+UserNo player to steal from
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 lumber tile
+UserNo player to steal from
+UserTsangwich rolled dice_6 dice_5
+UserTsangwich got grain
+UserLookaside rolled dice_4 dice_2
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserTsangwich rolled dice_5 dice_4
+UserLookaside got lumber
+UserTsangwich got lumber
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumber
+UserTsangwich got lumber
+UserLookaside built a road
+UserTsangwich rolled dice_1 dice_2
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got wool
+UserTsangwich got wool
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserTsangwich rolled dice_2 dice_2
+UserLookaside got oreore
+UserTsangwich got ore
+UserTsangwich bought development card
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 wool tile
+UserNo player to steal from
+UserTsangwich rolled dice_1 dice_5
+UserLookaside rolled dice_2 dice_4
+UserTsangwich rolled dice_5 dice_5
+UserLookaside got grain
+UserTsangwich got grainbrick
+UserTsangwich built a road
+UserLookaside rolled dice_5 dice_3
+UserLookaside got wool
+UserTsangwich got wool
+UserTsangwich rolled dice_1 dice_3
+UserLookaside got oreore
+UserTsangwich got ore
+UserTsangwich bought development card
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 ore tile
+UserNo player to steal from
+UserTsangwich rolled dice_1 dice_1
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+UserTsangwich got lumber
+UserTsangwich rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserTsangwich moved robber robber to prob_5 brick tile
+UserTsangwich stole grain from you
+UserLookaside rolled dice_2 dice_3
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserTsangwich rolled dice_5 dice_5
+UserLookaside got grain
+UserTsangwich got grainbrick
+UserLookaside rolled dice_1 dice_5
+UserTsangwich rolled dice_4 dice_2
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 ore tile
+UserNo player to steal from
+UserTsangwich rolled dice_3 dice_6
+UserLookaside got lumber
+UserTsangwich got lumber
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 lumber tile
+UserNo player to steal from
+UserLookaside bought development card
+UserTsangwich rolled dice_1 dice_2
+UserLookaside got brick
+UserTsangwich gave bank lumberlumberlumberlumber and took wool
+UserTsangwich built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+UserLookaside got brickbrick
+UserTsangwich got ore
+UserTsangwich rolled dice_6 dice_4
+UserLookaside got grain
+UserTsangwich got grainbrickbrick
+UserLookaside rolled dice_1 dice_6
+UserLookaside discarded lumberlumberbrickbrickore
+UserLookaside moved robber robber to prob_9 lumber tile
+UserYou stole grain from Tsangwich
+UserTsangwich used Knight card knight
+UserTsangwich moved robber robber to prob_5 brick tile
+UserTsangwich stole ore from you
+UserTsangwich rolled dice_4 dice_6
+UserLookaside got grain
+UserTsangwich got grainbrickbrick
+UserTsangwich gave bank brickbrickbrickbrick and took ore
+UserTsangwich built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole grain from Tsangwich
+UserLookaside rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside built a settlement (+1 VP)
+UserTsangwich used Knight card knight
+UserTsangwich moved robber robber to prob_5 brick tile
+UserTsangwich stole grain from you
+UserTsangwich rolled dice_6 dice_5
+UserLookaside got graingrain
+UserTsangwich got grain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got oreore
+UserTsangwich got oreore
+UserLookaside built a city (+1 VP)
+UserTsangwich rolled dice_5 dice_1
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_3
+UserLookaside got oreoreore
+UserTsangwich got oreore
+UserLookaside built a city (+1 VP)
+UserTsangwich rolled dice_1 dice_4
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserTsangwich got ore
+UserTsangwich built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole ore from Tsangwich
+UserTsangwich rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserLookaside rolled dice_6 dice_6
+UserLookaside bought development card
+UserTsangwich rolled dice_2 dice_1
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from Tsangwich
+UserTsangwich rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserTsangwich rolled dice_4 dice_6
+UserLookaside got graingrain
+UserTsangwich got graingrainbrickbrickbrick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got oreoreore
+UserTsangwich got oreore
+UserLookaside bought development card
+UserTsangwich rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole grain from Tsangwich
+UserLookaside bought development card
+UserLookaside bought development card
+UserTsangwich rolled dice_4 dice_5
+UserLookaside got lumberlumber
+UserTsangwich got lumberlumber
+UserTsangwich built a road
+UserLookaside rolled dice_2 dice_4
+UserLookaside got grain
+UserLookaside built a road
+UserTsangwich rolled dice_1 dice_5
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole lumber from Tsangwich
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank wool wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside bought development card
+UserTsangwich rolled dice_1 dice_1
+UserTsangwich got grain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got brickbrickbrick
+UserTsangwich got ore
+UserTsangwich rolled dice_6 dice_1
+UserTsangwich moved robber robber to prob_6 grain tile
+UserTsangwich stole brick from you
+UserTsangwich built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole brick from Tsangwich
+UserLookaside rolled dice_1 dice_4
+UserLookaside got brickbrickbrick
+UserTsangwich got oreore
+UserTsangwich rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserLookaside rolled dice_2 dice_2
+UserLookaside got oreoreoreore
+UserTsangwich got oreore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside bought development card
+UserTsangwich rolled dice_4 dice_3
+UserTsangwich moved robber robber to prob_6 grain tile
+UserTsangwich stole ore from you
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole ore from Tsangwich
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumberlumber
+UserTsangwich got lumberlumber
+UserLookaside built a road
+UserTsangwich rolled dice_1 dice_2
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserTsangwich rolled dice_4 dice_2
+UserLookaside got graingrain
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrain
+UserTsangwich got graingrainbrickbrickbrickbrick
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a city (+1 VP)
+UserTsangwich rolled dice_6 dice_5
+UserLookaside got woolwoolgraingrain
+UserTsangwich got graingrain
+UserTsangwich gave bank brickbrickbrickbrick and took wool
+UserTsangwich built a settlement (+1 VP)
+UserTsangwich built a city (+1 VP)
+UserTsangwich built a road
+UserLookaside rolled dice_5 dice_1
+UserLookaside got graingraingraingrain
+UserTsangwich got lumberlumber
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+trophyUserLookaside won the game!trophy
+UserTsangwich has left the game
+Send a message
+Send message
+Cities and Knights Expansion
+Defeat barbarians by playing Cities & Knights with top players

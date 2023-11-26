@@ -1,0 +1,332 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestBabushka99 placed a settlement
+GuestBabushka99 placed a road
+GuestBabushka99 placed a settlement
+GuestBabushka99 placed a road
+GuestBabushka99 received starting resources brickgrainlumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolbrickgrain
+UserLookaside rolled dice_4 dice_6
+UserLookaside got wool
+GuestBabushka99 got ore
+GuestBabushka99 rolled dice_3 dice_5
+GuestBabushka99 got grainbrick
+UserLookaside rolled dice_5 dice_3
+GuestBabushka99 got grainbrick
+GuestBabushka99 rolled dice_3 dice_3
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_5
+UserLookaside got wool
+GuestBabushka99 got ore
+GuestBabushka99 rolled dice_2 dice_6
+GuestBabushka99 got grainbrick
+GuestBabushka99 wants to give brickbrickbrickbrick for wool
+GuestBabushka99 gave bank brickbrickbrickbrick and took wool
+UserLookaside rolled dice_2 dice_1
+GuestBabushka99 got lumber
+GuestBabushka99 rolled dice_1 dice_4
+UserLookaside got orebrick
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumber
+UserLookaside built a road
+GuestBabushka99 rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestBabushka99 moved robber robber to prob_9 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_6 dice_2
+GuestBabushka99 got grainbrick
+GuestBabushka99 rolled dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestBabushka99 built a road
+UserLookaside rolled dice_4 dice_4
+GuestBabushka99 got grainbrick
+UserLookaside bought development card
+UserLookaside built a road
+GuestBabushka99 rolled dice_2 dice_2
+GuestBabushka99 got grainbrick
+GuestBabushka99 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Babushka99
+UserLookaside rolled dice_1 dice_5
+UserLookaside got wool
+GuestBabushka99 got wool
+GuestBabushka99 rolled dice_6 dice_6
+GuestBabushka99 bought development card
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from Babushka99
+GuestBabushka99 rolled dice_6 dice_4
+UserLookaside got wool
+GuestBabushka99 got ore
+UserLookaside rolled dice_5 dice_6
+UserLookaside got grain
+GuestBabushka99 got lumber
+GuestBabushka99 rolled dice_4 dice_1
+UserLookaside got orebrick
+GuestBabushka99 built a road
+UserLookaside rolled dice_2 dice_3
+UserLookaside got orebrick
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+GuestBabushka99 rolled dice_1 dice_6
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole grain from you
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Babushka99
+GuestBabushka99 rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+GuestBabushka99 got brick
+UserLookaside rolled dice_2 dice_4
+UserLookaside got wool
+GuestBabushka99 got wool
+GuestBabushka99 rolled dice_3 dice_2
+UserLookaside got oreorebrick
+UserLookaside rolled dice_6 dice_5
+UserLookaside got grain
+GuestBabushka99 got lumber
+UserLookaside bought development card
+GuestBabushka99 rolled dice_1 dice_2
+GuestBabushka99 got lumber
+GuestBabushka99 built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumberlumber
+UserLookaside built a settlement (+1 VP)
+GuestBabushka99 rolled dice_3 dice_5
+GuestBabushka99 got grainbrick
+GuestBabushka99 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_2
+GuestBabushka99 got grainbrick
+GuestBabushka99 rolled dice_4 dice_6
+UserLookaside got orewoolwool
+GuestBabushka99 got oreore
+GuestBabushka99 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got oreorebrickbrick
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+GuestBabushka99 rolled dice_6 dice_4
+UserLookaside got orewoolwoolwool
+GuestBabushka99 got oreoreore
+GuestBabushka99 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+GuestBabushka99 got brickbrick
+GuestBabushka99 rolled dice_1 dice_6
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole brick from you
+UserLookaside rolled dice_3 dice_6
+UserLookaside got woollumberlumber
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestBabushka99 rolled dice_5 dice_2
+GuestBabushka99 moved robber robber to prob_11 grain tile
+GuestBabushka99 stole ore from you
+UserLookaside rolled dice_1 dice_1
+GuestBabushka99 rolled dice_4 dice_3
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole wool from you
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brick
+GuestBabushka99 got graingrainbrickbrick
+GuestBabushka99 rolled dice_1 dice_5
+UserLookaside got wool
+GuestBabushka99 got wool
+GuestBabushka99 bought development card
+GuestBabushka99 bought development card
+UserLookaside rolled dice_1 dice_3
+GuestBabushka99 got graingraingrainbrickbrick
+GuestBabushka99 rolled dice_6 dice_6
+GuestBabushka99 wants to give graingrain for lumber
+GuestBabushka99 gave bank graingrain and took lumber
+GuestBabushka99 built a road
+UserLookaside rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+GuestBabushka99 rolled dice_5 dice_4
+UserLookaside got woollumberlumberlumber
+UserLookaside rolled dice_5 dice_6
+UserLookaside got graingrain
+GuestBabushka99 got lumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+GuestBabushka99 rolled dice_2 dice_1
+UserLookaside got lumber
+GuestBabushka99 got lumberlumber
+GuestBabushka99 built a road
+GuestBabushka99 gave bank brickbrickbrickbrick and took wool
+GuestBabushka99 built a settlement (+1 VP)
+GuestBabushka99 built a road
+Guestlongest road passed from Lookaside to Babushka99 (+2 VPs)
+UserLookaside rolled dice_6 dice_5
+UserLookaside got graingraingrain
+GuestBabushka99 got lumber
+GuestBabushka99 rolled dice_5 dice_1
+UserLookaside got wool
+GuestBabushka99 got orewool
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumber
+GuestBabushka99 got grainlumberlumber
+GuestBabushka99 rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+GuestBabushka99 bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got brick
+GuestBabushka99 got graingraingrainbrickbrick
+UserLookaside gave bank brickbrickbrick and took ore
+GuestBabushka99 rolled dice_4 dice_4
+UserLookaside got brick
+GuestBabushka99 got graingrainbrickbrick
+GuestBabushka99 built a road
+GuestBabushka99 gave bank graingrain and took wool
+GuestBabushka99 built a settlement (+1 VP)
+GuestBabushka99 built a road
+UserLookaside rolled dice_6 dice_4
+UserLookaside got orewoolwoolwool
+GuestBabushka99 got oreoreore
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestBabushka99 rolled dice_5 dice_3
+UserLookaside got brick
+GuestBabushka99 got graingrainbrickbrick
+GuestBabushka99 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from Babushka99
+GuestBabushka99 used Knight card knight
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole grain from you
+GuestBabushka99 rolled dice_4 dice_5
+UserLookaside got woolwoollumberlumberlumber
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+GuestBabushka99 got graingraingraingrainbrickbrick
+UserLookaside built a road
+Userlongest road passed from Babushka99 to Lookaside (+2 VPs)
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestBabushka99 used Knight card knight
+GuestBabushka99 moved robber robber to prob_11 grain tile
+GuestBabushka99 stole wool from you
+GuestBabushka99 rolled dice_3 dice_4
+GuestBabushka99 discarded brickbrickgraingraingraingrain
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole brick from you
+GuestBabushka99 gave bank brickbrick and took lumber
+GuestBabushka99 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from Babushka99
+UserLookaside rolled dice_6 dice_3
+UserLookaside got woolwoollumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestBabushka99 used Knight card knight
+GuestBabushka99 received largest army (+2 VPs)
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole wool from you
+GuestBabushka99 rolled dice_1 dice_3
+UserLookaside got brick
+GuestBabushka99 got graingraingraingrainbrickbrick
+GuestBabushka99 gave bank graingrain and took ore
+GuestBabushka99 bought development card
+UserLookaside rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrickbrick
+GuestBabushka99 rolled dice_5 dice_6
+UserLookaside got graingraingrain
+GuestBabushka99 got lumberlumber
+GuestBabushka99 built a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded brickbrickbrickbrickbrick
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from Babushka99
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+GuestBabushka99 used Knight card knight
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole wool from you
+GuestBabushka99 rolled dice_2 dice_4
+UserLookaside got wool
+GuestBabushka99 got oreorewoolwool
+GuestBabushka99 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole brick from Babushka99
+UserLookaside rolled dice_2 dice_3
+UserLookaside got oreorebrickbrickbrick
+UserLookaside gave bank brickbrickbrick and took grain
+UserLookaside bought development card
+GuestBabushka99 used Knight card knight
+GuestBabushka99 moved robber robber to prob_5 ore tile
+GuestBabushka99 stole ore from you
+GuestBabushka99 rolled dice_6 dice_1
+GuestBabushka99 moved robber robber to prob_11 grain tile
+GuestBabushka99 stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from Babushka99
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+GuestBabushka99 got graingrainlumberlumber
+GuestBabushka99 rolled dice_5 dice_4
+UserLookaside got woolwoollumberlumberlumber
+GuestBabushka99 bought development card
+GuestBabushka99 bought development card
+GuestBabushka99 built a road
+UserLookaside rolled dice_6 dice_6
+GuestBabushka99 rolled dice_2 dice_5
+GuestBabushka99 moved robber robber to prob_11 grain tile
+GuestBabushka99 stole lumber from you
+UserLookaside rolled dice_3 dice_2
+UserLookaside got oreorebrickbrickbrick
+UserLookaside gave bank lumberlumberlumberbrickbrickbrick and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestBabushka99 rolled dice_6 dice_4
+UserLookaside got oreorewoolwoolwool
+GuestBabushka99 got oreoreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole ore from Babushka99
+UserLookaside rolled dice_1 dice_5
+UserLookaside got wool
+GuestBabushka99 got oreorewoolwool
+GuestBabushka99 rolled dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+GuestBabushka99 got brickbrick
+GuestBabushka99 used Year of Plenty card year of plenty
+GuestBabushka99 took from bank grain grain
+GuestBabushka99 built a city (+1 VP)
+trophyGuestBabushka99 won the game!trophy
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

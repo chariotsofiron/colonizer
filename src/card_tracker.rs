@@ -1,4 +1,4 @@
-use crate::{
+use crate::models::{
     hand::Hand,
     resource::{Resource, N_RESOURCES},
 };
@@ -165,7 +165,11 @@ impl CardTracker {
         {
             let total = expected.iter().sum::<f64>();
             for (j, (sure, expected)) in sure.values().zip(expected.into_iter()).enumerate() {
-                let rob_chance = if total == 0.0 { 0.0 } else { expected / total };
+                let rob_chance = if total == 0.0 {
+                    0.0_f64
+                } else {
+                    expected / total
+                };
                 table[i][j] = (sure, expected, rob_chance);
             }
         }

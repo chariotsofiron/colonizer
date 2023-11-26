@@ -1,0 +1,319 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: weird why didn't i place road
+icon_swordsKnightsWatch: why
+UserLookaside: cuz im dum
+icon_swordsKnightsWatch: lol
+icon_swordsKnightsWatch: having crazy luck with the dice
+icon_swordsKnightsWatch: biased as fk
+UserLookaside: i think they're pretty even
+UserLookaside: we'll see the stats
+icon_swordsKnightsWatch: lol so many 10s
+UserLookaside: gg
+icon_swordsKnightsWatch: 9 robber vs just 6 for you
+icon_swordsKnightsWatch: more 10s th1n 5/6/8
+icon_swordsKnightsWatch: more 9s as well
+UserLookaside: better luck next time
+Send a message
+send
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+icon_swordsKnightsWatch placed a settlement
+icon_swordsKnightsWatch placed a road
+icon_swordsKnightsWatch placed a settlement
+icon_swordsKnightsWatch placed a road
+icon_swordsKnightsWatch received starting resources lumberlumbergrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberwoolgrain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brick
+icon_swordsKnightsWatch got brick
+icon_swordsKnightsWatch rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+icon_swordsKnightsWatch moved robber robber to prob_11 wool tile
+icon_swordsNo player to steal from
+icon_swordsKnightsWatch built a road
+UserLookaside rolled dice_5 dice_4
+UserLookaside got lumber
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch rolled dice_2 dice_4
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+icon_swordsKnightsWatch got grain
+UserLookaside built a road
+icon_swordsKnightsWatch rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+icon_swordsKnightsWatch moved robber robber to prob_8 wool tile
+icon_swordsNo player to steal from
+UserLookaside rolled dice_3 dice_1
+icon_swordsKnightsWatch got orelumber
+icon_swordsKnightsWatch rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+icon_swordsKnightsWatch got brick
+UserLookaside rolled dice_5 dice_6
+UserLookaside built a settlement (+1 VP)
+icon_swordsKnightsWatch rolled dice_5 dice_5
+UserLookaside got woolwoolgrain
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolgrain
+icon_swordsKnightsWatch rolled dice_3 dice_3
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumber
+icon_swordsKnightsWatch got orelumber
+icon_swordsKnightsWatch rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+icon_swordsKnightsWatch moved robber robber to prob_10 wool tile
+icon_swordsKnightsWatch stole grain from you
+icon_swordsKnightsWatch gave bank lumberlumber and took brick
+UserLookaside rolled dice_6 dice_6
+icon_swordsKnightsWatch rolled dice_3 dice_6
+UserLookaside got lumber
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch gave bank graingraingraingrain and took wool
+UserLookaside rolled dice_6 dice_5
+icon_swordsKnightsWatch rolled dice_2 dice_2
+UserLookaside got lumber
+icon_swordsKnightsWatch got orelumber
+icon_swordsKnightsWatch built a road
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+icon_swordsKnightsWatch rolled dice_4 dice_1
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grain
+UserLookaside gave bank woolwoolwoolwool and took brick
+icon_swordsKnightsWatch rolled dice_4 dice_4
+UserLookaside got brickwool
+icon_swordsKnightsWatch got brick
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+icon_swordsKnightsWatch got lumber
+UserLookaside built a road
+UserLookaside bought development card
+icon_swordsKnightsWatch rolled dice_1 dice_1
+icon_swordsKnightsWatch built a road
+icon_swordsKnightsWatch built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brickwool
+icon_swordsKnightsWatch got brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+icon_swordsKnightsWatch rolled dice_2 dice_5
+icon_swordsKnightsWatch moved robber robber to prob_10 grain tile
+icon_swordsKnightsWatch stole lumber from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from KnightsWatch
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grain
+icon_swordsKnightsWatch rolled dice_6 dice_1
+icon_swordsKnightsWatch moved robber robber to prob_10 wool tile
+icon_swordsKnightsWatch stole ore from you
+UserLookaside rolled dice_5 dice_4
+UserLookaside got lumbergrain
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from KnightsWatch
+icon_swordsKnightsWatch rolled dice_5 dice_1
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grain
+icon_swordsKnightsWatch rolled dice_4 dice_3
+icon_swordsKnightsWatch moved robber robber to prob_10 wool tile
+icon_swordsKnightsWatch stole ore from you
+UserLookaside rolled dice_6 dice_4
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+icon_swordsKnightsWatch rolled dice_5 dice_6
+UserLookaside got wool
+icon_swordsKnightsWatch got wool
+icon_swordsKnightsWatch built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole ore from KnightsWatch
+UserLookaside gave bank graingraingraingrain and took ore
+icon_swordsKnightsWatch rolled dice_3 dice_2
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumbergrain
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch rolled dice_3 dice_3
+icon_swordsKnightsWatch got wool
+UserLookaside rolled dice_1 dice_2
+UserLookaside got ore
+icon_swordsKnightsWatch got lumberoreore
+UserLookaside built a city (+1 VP)
+icon_swordsKnightsWatch rolled dice_3 dice_6
+UserLookaside got lumbergrain
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+icon_swordsKnightsWatch got lumber
+icon_swordsKnightsWatch rolled dice_5 dice_5
+UserLookaside got woolwoolgraingraingrain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brickbrickwool
+icon_swordsKnightsWatch got brick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a settlement (+1 VP)
+icon_swordsKnightsWatch rolled dice_4 dice_2
+icon_swordsKnightsWatch got woolwool
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+icon_swordsKnightsWatch got brickwoolwool
+icon_swordsKnightsWatch rolled dice_1 dice_5
+icon_swordsKnightsWatch got woolwool
+icon_swordsKnightsWatch built a road
+icon_swordsKnightsWatch gave bank woolwoolwoolwool and took grain
+icon_swordsKnightsWatch built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grain
+icon_swordsKnightsWatch rolled dice_1 dice_6
+icon_swordsKnightsWatch moved robber robber to prob_8 wool tile
+icon_swordsKnightsWatch stole grain from you
+icon_swordsKnightsWatch bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoolgraingraingrain
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+icon_swordsKnightsWatch rolled dice_1 dice_3
+UserLookaside got lumber
+icon_swordsKnightsWatch got oreorelumber
+icon_swordsKnightsWatch used Year of Plenty card year of plenty
+icon_swordsKnightsWatch took from bank brick grain
+icon_swordsKnightsWatch bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole brick from KnightsWatch
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumbergrain
+icon_swordsKnightsWatch got grain
+UserLookaside built a road
+icon_swordsKnightsWatch rolled dice_5 dice_3
+UserLookaside got brickbrickwoolwool
+icon_swordsKnightsWatch got brick
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded woolwoolwoolgraingraingrain
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from KnightsWatch
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+icon_swordsKnightsWatch rolled dice_4 dice_5
+UserLookaside got lumbergraingrain
+icon_swordsKnightsWatch got grain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole ore from KnightsWatch
+icon_swordsKnightsWatch rolled dice_4 dice_6
+UserLookaside got woolwoolgraingraingrain
+UserLookaside rolled dice_3 dice_1
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+icon_swordsKnightsWatch got lumber
+UserLookaside bought development card
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+icon_swordsKnightsWatch rolled dice_1 dice_5
+UserLookaside got grain
+icon_swordsKnightsWatch got grainwoolwool
+icon_swordsKnightsWatch used Road Building card road building
+icon_swordsKnightsWatch placed a road
+icon_swordsKnightsWatch placed a road
+icon_swordslongest road passed from Lookaside to KnightsWatch (+2 VPs)
+icon_swordsKnightsWatch built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grain
+icon_swordsKnightsWatch got grain
+icon_swordsKnightsWatch rolled dice_2 dice_1
+UserLookaside got oreore
+icon_swordsKnightsWatch got lumberlumberoreoreore
+icon_swordsKnightsWatch built a city (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from KnightsWatch
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside built a city (+1 VP)
+icon_swordsKnightsWatch rolled dice_4 dice_4
+UserLookaside got brickbrickwoolwool
+icon_swordsKnightsWatch got brick
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+icon_swordsKnightsWatch got brickwoolwool
+icon_swordsKnightsWatch rolled dice_5 dice_4
+UserLookaside got lumberlumbergraingrain
+icon_swordsKnightsWatch got graingrain
+icon_swordsKnightsWatch built a road
+icon_swordsKnightsWatch built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_1
+UserLookaside got lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+icon_swordsKnightsWatch rolled dice_5 dice_2
+icon_swordsKnightsWatch moved robber robber to prob_10 grain tile
+icon_swordsKnightsWatch stole wool from you
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from KnightsWatch
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolwoolgraingraingraingrain
+UserLookaside gave bank woolwoolwoolgraingraingrain and took oreore
+icon_swordsKnightsWatch rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brickbrickwoolwool
+icon_swordsKnightsWatch got brick
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+icon_swordsKnightsWatch rolled dice_6 dice_5
+UserLookaside got wool
+icon_swordsKnightsWatch got brickwoolwoolwool
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumberlumbergraingrain
+icon_swordsKnightsWatch got graingrain
+icon_swordsKnightsWatch rolled dice_6 dice_5
+UserLookaside got wool
+icon_swordsKnightsWatch got brickwoolwoolwool
+icon_swordsKnightsWatch gave bank woolwoolwoolwool and took ore
+icon_swordsKnightsWatch bought development card
+UserLookaside rolled dice_2 dice_2
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+icon_swordsKnightsWatch got lumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from KnightsWatch
+UserLookaside built a road
+icon_swordsKnightsWatch rolled dice_4 dice_6
+UserLookaside got woolwoolwoolwoolgraingraingraingrain
+icon_swordsKnightsWatch gave bank lumberlumber and took ore
+icon_swordsKnightsWatch bought development card
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brickbrickwoolwoolwool
+icon_swordsKnightsWatch got brick
+UserLookaside gave bank woolwoolwoolwoolwoolwoolwoolwoolwool and took oreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+Userlongest road passed from KnightsWatch to Lookaside (+2 VPs)
+trophyUserLookaside won the game! trophy

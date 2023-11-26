@@ -1,0 +1,289 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Guestchugga: gg
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Guestchugga placed a settlement
+Guestchugga placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: woolgrainbrick
+Guestchugga placed a settlement
+Guestchugga placed a road
+Guestchugga received starting resources: grainorewool
+Guestchugga rolled: dice_4 dice_4
+UserLookaside got: wool
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: wool
+Guestchugga got: brick
+Guestchugga rolled: dice_1 dice_2
+Guestchugga got: lumber
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: wool
+Guestchugga rolled: dice_4 dice_5
+UserLookaside got: grain
+Guestchugga got: woolwool
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 lumber tile
+UserNo player to steal from
+Guestchugga rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+Guestchugga moved robber robber to Desert
+GuestNo player to steal from
+UserLookaside rolled: dice_3 dice_1
+Guestchugga got: ore
+Guestchugga rolled: dice_3 dice_3
+UserLookaside got: wool
+Guestchugga got: brick
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: bricklumber
+UserLookaside built a road
+UserLookaside gave bank: woolwoolwoolwool and took lumber
+UserLookaside built a settlement: +1 VP
+Guestchugga rolled: dice_5 dice_4
+UserLookaside got: grain
+Guestchugga got: woolwool
+Guestchugga bought development card
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: woolwool
+Guestchugga got: brick
+Guestchugga rolled: dice_3 dice_2
+UserLookaside got: bricklumber
+UserLookaside rolled: dice_1 dice_3
+Guestchugga got: ore
+UserLookaside built a road
+Guestchugga rolled: dice_2 dice_5
+chugga discarding resource cards
+Guestchugga discarded: brickwoolwoolwoolore
+robberFriendly Robber is active, tiles available to block are limited
+Guestchugga moved robber robber to prob_5 brick tile
+Guestchugga stole: grain from you
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: grain
+Guestchugga rolled: dice_5 dice_5
+UserLookaside got: grain
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: wool
+Guestchugga rolled: dice_6 dice_5
+UserLookaside got: grain
+Guestchugga got: grain
+UserLookaside rolled: dice_4 dice_1
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+Guestchugga rolled: dice_1 dice_1
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+Guestchugga rolled: dice_2 dice_1
+UserLookaside got: lumber
+Guestchugga got: lumber
+UserLookaside rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+Guestchugga rolled: dice_1 dice_3
+Guestchugga got: ore
+Guestchugga built a road
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: bricklumber
+UserLookaside built a settlement: +1 VP
+Guestchugga rolled: dice_6 dice_6
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: woolwool
+Guestchugga got: brick
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside bought development card
+Guestchugga rolled: dice_1 dice_1
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 wool tile
+UserNo player to steal from
+Guestchugga rolled: dice_1 dice_2
+UserLookaside got: lumber
+Guestchugga got: lumber
+Guestchugga built a road
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: bricklumber
+UserLookaside built a road
+Guestchugga rolled: dice_5 dice_4
+UserLookaside got: grain
+Guestchugga got: woolwool
+Guestchugga built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: woolwool
+Guestchugga got: brick
+Guestchugga rolled: dice_1 dice_5
+UserLookaside got: woolwool
+Guestchugga got: brick
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: grain
+Guestchugga got: grain
+UserLookaside gave bank: woolwoolwool and took brick
+UserLookaside built a road
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a settlement: +1 VP
+Guestchugga rolled: dice_6 dice_3
+UserLookaside got: grain
+Guestchugga got: woolwoolwool
+Guestchugga gave bank: woolwoolwoolwool and took ore
+Guestchugga built a city: +1 VP
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: brick from: chugga
+UserLookaside built a road
+Guestchugga rolled: dice_3 dice_1
+UserLookaside got: ore
+Guestchugga got: oreore
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: bricklumber
+Guestchugga rolled: dice_2 dice_6
+UserLookaside got: woolwool
+UserLookaside rolled: dice_4 dice_5
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+UserLookaside gave bank: woolwool and took ore
+Guestchugga rolled: dice_6 dice_2
+UserLookaside got: woolwool
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: grain
+Guestchugga got: grain
+UserLookaside gave bank: woolwool and took ore
+UserLookaside built a city: +1 VP
+Guestchugga rolled: dice_5 dice_6
+UserLookaside got: grain
+Guestchugga got: graingrain
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumber
+Guestchugga got: lumber
+UserLookaside built a settlement: +1 VP
+Guestchugga rolled: dice_4 dice_6
+UserLookaside got: graingrain
+Guestchugga got: grain
+Guestchugga built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brickbricklumber
+UserLookaside built a road
+UserLookaside built a road
+Guestchugga rolled: dice_4 dice_6
+UserLookaside got: graingrain
+Guestchugga got: grain
+UserLookaside rolled: dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+Guestchugga rolled: dice_4 dice_3
+Guestchugga moved robber robber to prob_8 wool tile
+Guestchugga stole: grain from you
+UserLookaside rolled: dice_1 dice_1
+Guestchugga got: wool
+Guestchugga rolled: dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+Guestchugga bought development card
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: oreore
+Guestchugga got: oreore
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside built a city: +1 VP
+Guestchugga rolled: dice_3 dice_4
+Guestchugga moved robber robber to prob_6 wool tile
+GuestNo player to steal from
+Guestchugga built a city: +1 VP
+UserLookaside rolled: dice_1 dice_5
+prob_6 wool tile is blocked by the robber. No resources produced.
+Guestchugga got: brick
+Guestchugga rolled: dice_6 dice_4
+UserLookaside got: graingrain
+Guestchugga got: graingrain
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: woolwoolwoolwool
+UserLookaside gave bank: woolwool and took ore
+UserLookaside bought development card
+Guestchugga rolled: dice_5 dice_4
+UserLookaside got: graingrain
+Guestchugga got: woolwoolwoolwoolwool
+Guestchugga gave bank: woolwoolwoolwool and took ore
+Guestchugga bought development card
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: grain from: chugga
+Guestchugga rolled: dice_6 dice_1
+Guestchugga moved robber robber to prob_8 wool tile
+Guestchugga stole: grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: brick from: chugga
+UserLookaside rolled: dice_4 dice_5
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside bought development card
+Guestchugga used Knight card knight
+Guestchugga moved robber robber to prob_8 wool tile
+Guestchugga stole: brick from you
+Guestchugga rolled: dice_2 dice_4
+UserLookaside got: woolwoolwool
+Guestchugga got: brick
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: woolwoolwool
+Guestchugga got: brick
+UserLookaside gave bank: woolwool and took ore
+UserLookaside bought development card
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: ore ore
+UserLookaside gave bank: woolwool and took grain
+UserLookaside bought development card
+Guestchugga rolled: dice_2 dice_3
+UserLookaside got: brickbricklumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: brick from: chugga
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: oreore
+Guestchugga got: oreore
+UserLookaside gave bank: brickbrickbrick and took grain
+Guestchugga rolled: dice_5 dice_3
+UserLookaside got: woolwoolwoolwool
+Guestchugga used Monopoly card monopoly
+Guestchugga stole 4: wool
+Guestchugga bought development card
+Guestchugga bought development card
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: lumberlumber
+Guestchugga got: lumberlumber
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside built a city: +1 VP
+Guestchugga rolled: dice_6 dice_6
+Guestchugga built a road
+Guestchugga built a road
+Guestchugga used Knight card knight
+Guestchugga moved robber robber to prob_8 wool tile
+Guestchugga stole: lumber from you
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: wool from: chugga
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: woolwoolwool
+Guestchugga got: brick
+Guestchugga rolled: dice_6 dice_5
+UserLookaside got: grain
+Guestchugga got: graingrain
+Guestchugga built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: brickbricklumberlumber
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+trophy Lookaside won the game! trophy
+
+Discover the random hexes that lie beneath the fog

@@ -1,0 +1,539 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestWeLikeSports placed a settlement
+GuestWeLikeSports placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+Userevan8888 placed a settlement
+Userevan8888 placed a road
+GuestNidorf#2352 placed a settlement
+GuestNidorf#2352 placed a road
+GuestNidorf#2352 placed a settlement
+GuestNidorf#2352 placed a road
+GuestNidorf#2352 received starting resources: woolbrickgrain
+Userevan8888 placed a settlement
+Userevan8888 placed a road
+Userevan8888 received starting resources: orewoollumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: bricklumberlumber
+GuestWeLikeSports placed a settlement
+GuestWeLikeSports placed a road
+GuestWeLikeSports received starting resources: grainorebrick
+GuestWeLikeSports rolled: dice_1 dice_6
+GuestWeLikeSports moved robber robber to prob_4 lumber tile
+GuestWeLikeSports stole: lumber from you
+GuestWeLikeSports built a road
+UserLookaside rolled: dice_1 dice_4
+GuestWeLikeSports got: brick
+UserLookaside got: brick
+GuestNidorf#2352 got: brick
+UserLookaside built a road
+Userevan8888 rolled: dice_2 dice_6
+GuestWeLikeSports got: lumber
+Userevan8888 got: brick
+Userevan8888 built a road
+GuestNidorf#2352 rolled: dice_2 dice_6
+GuestWeLikeSports got: lumber
+Userevan8888 got: brick
+GuestWeLikeSports rolled: dice_2 dice_1
+GuestWeLikeSports got: wool
+Userevan8888 got: wool
+UserLookaside got: lumber
+GuestWeLikeSports built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole: ore from: evan8888
+Userevan8888 rolled: dice_3 dice_4
+Userevan8888 moved robber robber to prob_5 brick tile
+Userevan8888 stole: ore from you
+GuestNidorf#2352 rolled: dice_5 dice_3
+GuestWeLikeSports got: lumber
+Userevan8888 got: brick
+GuestNidorf#2352 wants to give: brick for: lumber
+GuestNidorf#2352 traded: brick for: lumber with: WeLikeSports
+GuestNidorf#2352 built a road
+GuestWeLikeSports rolled: dice_3 dice_1
+GuestWeLikeSports got: ore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+GuestWeLikeSports built a road
+UserLookaside rolled: dice_4 dice_1
+prob_5 brick tile is blocked by the robber. No resources produced.
+Userevan8888 rolled: dice_1 dice_5
+GuestWeLikeSports got: ore
+Userevan8888 got: ore
+UserLookaside got: grain
+GuestNidorf#2352 got: ore
+Userevan8888 wants to give: brick for: grain
+Userevan8888 wants to give: brickore for: grain
+GuestNidorf#2352 rolled: dice_4 dice_5
+UserLookaside got: wool
+GuestNidorf#2352 got: wool
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_2 dice_4
+GuestWeLikeSports got: ore
+Userevan8888 got: ore
+UserLookaside got: grain
+GuestNidorf#2352 got: ore
+GuestWeLikeSports wants to give: ore for: grain
+GuestWeLikeSports wants to give: ore for: wool
+GuestWeLikeSports wants to give: ore for: brick
+GuestWeLikeSports wants to give: ore for: lumber
+UserLookaside rolled: dice_1 dice_3
+GuestWeLikeSports got: ore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+UserLookaside wants to give: lumber for: brick
+UserLookaside wants to give: grain for: brick
+UserLookaside wants to give: lumbergrain for: brick
+UserLookaside wants to give: lumberbrick for: oreoreore
+GuestWeLikeSports wants to give: Lookaside: oreoreore for: lumberbrickgrain
+UserLookaside built a road
+Userevan8888 rolled: dice_3 dice_5
+GuestWeLikeSports got: lumber
+Userevan8888 got: brick
+Userevan8888 built a road
+Userevan8888 wants to give: oreore for: grain
+GuestNidorf#2352 rolled: dice_3 dice_3
+GuestWeLikeSports got: ore
+Userevan8888 got: ore
+UserLookaside got: grain
+GuestNidorf#2352 got: ore
+GuestNidorf#2352 wants to give: ore for: grain
+GuestNidorf#2352 wants to give: ore for: lumber
+UserLookaside wants to give: Nidorf#2352: grain for: oreore
+GuestWeLikeSports rolled: dice_6 dice_1
+evan8888 discarding resource cards
+Userevan8888 discarded: brickoreoreore
+GuestWeLikeSports moved robber robber to prob_4 lumber tile
+GuestWeLikeSports stole card from: evan8888
+GuestWeLikeSports wants to give: oreoreore for: graingrain
+GuestWeLikeSports wants to give: oreore for: brickgrain
+GuestWeLikeSports wants to give: oreoreore for: brickgrain
+UserLookaside wants to give: WeLikeSports: grain for: brickoreore
+GuestWeLikeSports gave bank: oreoreoreore and took brick
+GuestWeLikeSports wants to give: ore for: grain
+UserLookaside rolled: dice_2 dice_3
+GuestWeLikeSports got: brick
+UserLookaside got: brick
+GuestNidorf#2352 got: brick
+UserLookaside wants to give: grain for: brick
+UserLookaside traded: grain for: brick with: WeLikeSports
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+Userevan8888 rolled: dice_1 dice_4
+GuestWeLikeSports got: brick
+UserLookaside got: brick
+GuestNidorf#2352 got: brick
+GuestNidorf#2352 rolled: dice_5 dice_2
+GuestBot is selecting where to place robber for Nidorf#2352
+GuestNidorf#2352 moved robber robber to prob_8 lumber tile
+GuestNidorf#2352 stole card from: WeLikeSports
+GuestNidorf#2352 wants to give: brick for: lumber
+GuestNidorf#2352 wants to give: brick for: grain
+GuestNidorf#2352 gave bank: oreoreoreore and took lumber
+GuestWeLikeSports rolled: dice_5 dice_6
+GuestWeLikeSports got: grain
+Userevan8888 got: lumber
+UserLookaside got: lumberlumber
+GuestNidorf#2352 got: grain
+GuestWeLikeSports built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_1
+GuestWeLikeSports got: oreore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+UserLookaside wants to give: lumber for: wool
+UserLookaside wants to give: lumberlumber for: wool
+Userevan8888 rolled: dice_5 dice_1
+GuestWeLikeSports got: ore
+Userevan8888 got: ore
+UserLookaside got: grain
+GuestNidorf#2352 got: ore
+Userevan8888 built a road
+GuestNidorf#2352 rolled: dice_2 dice_4
+GuestWeLikeSports got: ore
+Userevan8888 got: ore
+UserLookaside got: grain
+GuestNidorf#2352 got: ore
+GuestNidorf#2352 wants to give: brick for: grain
+GuestNidorf#2352 wants to give: brickbrick for: graingrain
+UserLookaside wants to give: Nidorf#2352: grain for: brickore
+UserLookaside wants to give: Nidorf#2352: grain for: brickore
+GuestNidorf#2352 built a settlement: +1 VP
+GuestWeLikeSports rolled: dice_2 dice_1
+GuestWeLikeSports got: wool
+Userevan8888 got: wool
+UserLookaside got: lumber
+GuestWeLikeSports wants to give: ore for: grain
+UserLookaside wants to give: WeLikeSports: grain for: oreore
+GuestWeLikeSports gave bank: oreoreore and took grain
+GuestWeLikeSports built a city: +1 VP
+UserLookaside rolled: dice_2 dice_5
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumbergraingrain
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: wool from: WeLikeSports
+UserLookaside built a settlement: +1 VP
+Userevan8888 rolled: dice_1 dice_3
+GuestWeLikeSports got: oreore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+GuestNidorf#2352 rolled: dice_3 dice_6
+UserLookaside got: woolwool
+GuestNidorf#2352 got: woolwool
+GuestNidorf#2352 wants to give: brick for: grain
+GuestNidorf#2352 wants to give: ore for: grain
+GuestWeLikeSports rolled: dice_1 dice_3
+GuestWeLikeSports got: oreore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+GuestWeLikeSports wants to give: oreore for: woolgrain
+GuestWeLikeSports gave bank: oreoreore and took grain
+UserLookaside rolled: dice_2 dice_2
+GuestWeLikeSports got: oreore
+Userevan8888 got: lumber
+UserLookaside got: lumber
+GuestNidorf#2352 got: ore
+UserLookaside wants to give: lumber for: brick
+UserLookaside wants to give: lumber for: grain
+UserLookaside wants to give: lumber for: ore
+UserLookaside wants to give: lumberlumber for: brick
+UserLookaside wants to give: lumberwool for: brick
+Userevan8888 rolled: dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+GuestNidorf#2352 rolled: dice_2 dice_5
+evan8888, Lookaside and Nidorf#2352 discarding resource cards
+UserLookaside discarded: lumberlumberlumberwool
+Userevan8888 discarded: lumberlumberlumberlumberore
+GuestNidorf#2352 discarded: brickoreoreoreore
+GuestNidorf#2352 moved robber robber to prob_8 lumber tile
+GuestNidorf#2352 stole card from: WeLikeSports
+GuestNidorf#2352 wants to give: wool for: grain
+GuestNidorf#2352 wants to give: ore for: grain
+GuestNidorf#2352 wants to give: brick for: grain
+GuestNidorf#2352 traded: brick for: grain with: Lookaside
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_5 dice_6
+GuestWeLikeSports got: grain
+Userevan8888 got: lumber
+UserLookaside got: lumberlumber
+GuestNidorf#2352 got: grain
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: woolwool
+GuestNidorf#2352 got: woolwool
+UserLookaside wants to give: lumber for: ore
+UserLookaside wants to give: wool for: ore
+UserLookaside wants to give: wool for: brick
+GuestWeLikeSports wants to give: Lookaside: ore for: lumberbrick
+UserLookaside wants to give: lumber for: brick
+GuestWeLikeSports wants to give: Lookaside: ore for: lumberwool
+UserWeLikeSports traded: ore for: lumberwool with: Lookaside
+UserLookaside built a road
+UserLookaside bought development card
+Userevan8888 rolled: dice_1 dice_1
+UserLookaside got: ore
+GuestNidorf#2352 rolled: dice_1 dice_6
+GuestNidorf#2352 moved robber robber to prob_6 grain tile
+GuestNidorf#2352 stole: lumber from you
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_1 dice_6
+GuestWeLikeSports moved robber robber to prob_4 lumber tile
+GuestWeLikeSports stole: wool from you
+GuestWeLikeSports wants to give: lumber for: ore
+GuestWeLikeSports wants to give: woolgrain for: brick
+GuestWeLikeSports bought development card
+UserLookaside rolled: dice_6 dice_5
+GuestWeLikeSports got: grain
+Userevan8888 got: lumber
+UserLookaside got: lumberlumber
+GuestNidorf#2352 got: grain
+Userevan8888 rolled: dice_3 dice_2
+GuestWeLikeSports got: brickbrick
+UserLookaside got: brick
+GuestNidorf#2352 got: brick
+GuestNidorf#2352 rolled: dice_4 dice_1
+GuestWeLikeSports got: brickbrick
+UserLookaside got: brick
+GuestNidorf#2352 got: brick
+GuestNidorf#2352 used Road Building card road building
+GuestNidorf#2352 placed a road
+GuestNidorf#2352 placed a road
+GuestNidorf#2352 built a settlement: +1 VP
+GuestWeLikeSports rolled: dice_3 dice_1
+prob_4 lumber tile is blocked by the robber. No resources produced.
+GuestWeLikeSports got: oreore
+GuestNidorf#2352 got: ore
+GuestWeLikeSports used Knight card knight
+GuestWeLikeSports moved robber robber to prob_9 wool tile
+GuestWeLikeSports stole card from: Nidorf#2352
+GuestWeLikeSports wants to give: brickbrick for: lumberlumber
+UserLookaside rolled: dice_4 dice_2
+GuestWeLikeSports got: oreore
+Userevan8888 got: ore
+UserLookaside got: graingrain
+GuestNidorf#2352 got: ore
+UserLookaside wants to give: grain for: wool
+UserLookaside wants to give: grain for: brickwool
+UserLookaside wants to give: grain for: lumberwool
+UserLookaside wants to give: grain for: woolore
+UserLookaside traded: grain for: wool with: evan8888
+UserLookaside built a road
+UserLookaside bought development card
+Userevan8888 rolled: dice_2 dice_5
+WeLikeSports and evan8888 discarding resource cards
+Userevan8888 discarded: lumberlumberlumberore
+GuestWeLikeSports discarded: brickbrickbrickbrickbrickore
+Userevan8888 moved robber robber to prob_5 brick tile
+Userevan8888 stole card from: Nidorf#2352
+GuestNidorf#2352 used Knight card knight
+GuestNidorf#2352 moved robber robber to prob_8 lumber tile
+GuestNidorf#2352 stole card from: WeLikeSports
+GuestNidorf#2352 rolled: dice_4 dice_6
+Userevan8888 got: grain
+UserLookaside got: brick
+GuestNidorf#2352 got: graingrain
+GuestNidorf#2352 bought development card
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_6 dice_1
+GuestWeLikeSports moved robber robber to prob_6 grain tile
+GuestWeLikeSports stole: lumber from you
+GuestWeLikeSports wants to give: lumber for: brick
+GuestWeLikeSports built a city: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: lumber from: WeLikeSports
+UserLookaside rolled: dice_5 dice_6
+GuestWeLikeSports got: grain
+Userevan8888 got: lumber
+UserLookaside got: lumberlumber
+GuestNidorf#2352 got: grain
+UserLookaside wants to give: brick for: wool
+UserLookaside wants to give: lumber for: ore
+UserLookaside wants to give: brick for: ore
+Userevan8888 rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+Userevan8888 got: brick
+Userevan8888 built a city: +1 VP
+GuestNidorf#2352 rolled: dice_5 dice_1
+GuestWeLikeSports got: oreore
+Userevan8888 got: ore
+UserLookaside got: graingrain
+GuestNidorf#2352 got: ore
+GuestWeLikeSports rolled: dice_6 dice_6
+GuestWeLikeSports got: graingraingrain
+GuestNidorf#2352 got: grain
+GuestWeLikeSports wants to give: grain for: brick
+GuestWeLikeSports wants to give: grain for: ore
+GuestWeLikeSports wants to give: grain for: wool
+GuestWeLikeSports wants to give: lumbergrain for: ore
+GuestWeLikeSports gave bank: graingraingrain and took wool
+GuestWeLikeSports bought development card
+UserLookaside rolled: dice_4 dice_6
+Userevan8888 got: graingrain
+UserLookaside got: brick
+GuestNidorf#2352 got: graingrain
+UserLookaside gave bank: brickbrick and took wool
+UserLookaside built a settlement: +1 VP
+Userevan8888 rolled: dice_5 dice_5
+Userevan8888 got: graingrain
+UserLookaside got: brick
+GuestNidorf#2352 got: graingrain
+Userevan8888 built a settlement: +1 VP
+GuestNidorf#2352 rolled: dice_6 dice_3
+UserLookaside got: woolwool
+GuestNidorf#2352 got: woolwool
+GuestNidorf#2352 used Year of Plenty card year of plenty
+GuestNidorf#2352 took from bank: ore ore
+GuestNidorf#2352 built a city: +1 VP
+GuestNidorf#2352 gave bank: graingraingrain and took ore
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_5 dice_6
+GuestWeLikeSports got: grain
+Userevan8888 got: lumber
+UserLookaside got: lumberlumber
+GuestNidorf#2352 got: grain
+GuestWeLikeSports wants to give: lumber for: wool
+GuestWeLikeSports wants to give: ore for: brickwool
+UserLookaside wants to give: WeLikeSports: wool for: ore
+UserLookaside wants to give: WeLikeSports: brick for: ore
+GuestWeLikeSports used Road Building card road building
+GuestWeLikeSports placed a road
+GuestWeLikeSports placed a road
+UserLookaside rolled: dice_6 dice_4
+Userevan8888 got: graingrainbrick
+UserLookaside got: brick
+GuestNidorf#2352 got: graingraingrain
+UserLookaside wants to give: wool for: grain
+UserLookaside wants to give: wool for: ore
+GuestWeLikeSports wants to give: Lookaside: ore for: brickwool
+UserLookaside wants to give: woolwool for: ore
+UserLookaside wants to give: woolwool for: grain
+UserLookaside gave bank: lumberlumber and took ore
+UserLookaside wants to give: woolwool for: grain
+UserLookaside wants to give: woolwool for: ore
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside gave bank: brickbrick and took ore
+UserLookaside bought development card
+UserLookaside bought development card
+Userevan8888 rolled: dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+Userevan8888 got: brickbrick
+Userevan8888 built a road
+Userevan8888 wants to give: grain for: wool
+Userevan8888 gave bank: graingraingraingrain and took wool
+Userevan8888 bought development card
+GuestNidorf#2352 rolled: dice_3 dice_4
+GuestBot is selecting where to place robber for Nidorf#2352
+GuestNidorf#2352 moved robber robber to prob_3 wool tile
+GuestNidorf#2352 stole card from: WeLikeSports
+GuestNidorf#2352 gave bank: graingraingrain and took ore
+GuestNidorf#2352 bought development card
+GuestWeLikeSports rolled: dice_3 dice_2
+GuestWeLikeSports got: brickbrick
+UserLookaside got: brick
+GuestNidorf#2352 got: brickbrick
+GuestWeLikeSports wants to give: brickore for: woolgrain
+GuestWeLikeSports wants to give: ore for: lumber
+UserLookaside rolled: dice_1 dice_1
+UserLookaside got: ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: brick from: Nidorf#2352
+Userevan8888 rolled: dice_2 dice_3
+GuestWeLikeSports got: brickbrick
+UserLookaside got: brick
+GuestNidorf#2352 got: brickbrick
+GuestNidorf#2352 used Knight card knight
+GuestNidorf#2352 moved robber robber to prob_6 grain tile
+GuestNidorf#2352 stole: brick from you
+GuestNidorf#2352 rolled: dice_2 dice_1
+GuestWeLikeSports got: woolwool
+Userevan8888 got: woolwool
+UserLookaside got: lumberlumber
+GuestWeLikeSports rolled: dice_4 dice_4
+GuestWeLikeSports got: lumberlumber
+Userevan8888 got: brickbrick
+GuestWeLikeSports wants to give: brick for: grain
+GuestWeLikeSports wants to give: wool for: grain
+GuestWeLikeSports wants to give: brickwool for: grain
+GuestWeLikeSports gave bank: brickbrickbrick and took grain
+GuestWeLikeSports built a settlement: +1 VP
+GuestWeLikeSports wants to give: lumberlumber for: grain
+GuestWeLikeSports wants to give: woolore for: brickbrick
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: ore from: WeLikeSports
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: brick from: Nidorf#2352
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received : +2 VPs
+trophy Lookaside won the game! trophy
+GuestWeLikeSports has left the game
+Userevan8888 has left the game
+GuestNidorf#2352 has left the game
+Userevan8888: ....
+GuestWeLikeSports: Sry just seemed like best play
+Userevan8888: not for me lol
+Userevan8888: im not blue
+GuestNidorf#2352: you are bluish:P
+Userevan8888: mystic blie
+Userevan8888: thx
+Userevan8888: only red has grain and he wont trade it
+UserLookaside: i'll trade 2 for 1
+Userevan8888: black helped you plow me on 9 10 11
+GuestWeLikeSports: Ya that was my bad wasn’t thinking
+Userevan8888: you didnt count lol
+Userevan8888: i was
+Userevan8888: thats why i didnt trad ehim
+GuestWeLikeSports: Ya fair, jus saw grain and got starry eyed
+UserLookaside: lol
+UserLookaside: you've played ur spot pre well so far black
+Userevan8888: why didnt you city 11 12?
+UserLookaside: didn't expect you to get early lead
+GuestWeLikeSports: I mean I have 3 1 so not worth it just for grain
+Userevan8888: 10 not rolling is setting me back, was thinking of building a road so you couldnt settle on 9 10 11 red .... lol
+UserLookaside: yeah its a tricky call. i got lucky
+UserLookaside: i was prepared to give the spot
+Userevan8888: 9 hasnt rolled either
+UserLookaside: jinx
+Userevan8888: ikr
+Userevan8888: i need 1 10 :(
+UserLookaside: i 1:1
+Userevan8888: they dont realize you will take road...
+GuestWeLikeSports: I realize
+UserLookaside: id prefer army over road
+UserLookaside: its my only option
+Userevan8888: we aint given you ore lol
+UserLookaside: thought i'd be able to get 6 ore but black took
+UserLookaside: what u need for setty evan
+Userevan8888: nooooo
+UserLookaside: good lord thats rough
+GuestWeLikeSports: Oh damn brutal
+Userevan8888: brick and grain :(
+GuestNidorf#2352: suggest a spot and I would go
+GuestWeLikeSports: Oops
+GuestWeLikeSports: F ed up there
+Userevan8888: i cant trade anyone if i do i help yall
+UserLookaside: i have wood and brick
+UserLookaside: no grain or wool
+Userevan8888: was looking for berick
+UserLookaside: i'll trade u
+Userevan8888: omg a 10
+GuestWeLikeSports: Me?
+GuestWeLikeSports: I think red
+UserLookaside: evan i'll give ya my brick
+Userevan8888: it ok red
+GuestNidorf#2352: returning the favor
+GuestWeLikeSports: Fair
+Userevan8888: ill manage its ok
+Userevan8888: for now
+Userevan8888: ty tho
+UserLookaside: nice
+UserLookaside: nervous about blue with 3 devs
+Userevan8888: uh oh
+Userevan8888: blue?
+GuestNidorf#2352: ?
+Userevan8888: nvm
+GuestWeLikeSports: Mkay red def gonna win tho
+Userevan8888: he out of settlements
+UserLookaside: ^
+UserLookaside: kinda stuck
+UserLookaside: cant build cities
+Userevan8888: he shouldve city instead of deving
+UserLookaside: i tried to trade for city
+UserLookaside: but i couldnt :(
+Userevan8888: you know we wouldnt feed you it
+GuestNidorf#2352: 2
+GuestWeLikeSports: He’s got wood and brick ports and almost road with. 3 devs
+Userevan8888: you have half the board red
+UserLookaside: yeah but what does that do for me lol
+GuestWeLikeSports: Like a fair bit
+Userevan8888: you dont got to worry about exapnading
+Userevan8888: black can win too... with road wrapping around the outside
+UserLookaside: gg friends
+GuestWeLikeSports: Yeah I know
+Userevan8888: road and armyand vp?
+Userevan8888: wow
+UserLookaside: phew
+Userevan8888: rematch?
+GuestNidorf#2352: yup
+UserLookaside: i gotta go but thanks for the good game
+Send a message

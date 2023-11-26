@@ -1,0 +1,260 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: ouch
+GuestKaefer: painful
+UserLookaside: yee
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestKaefer placed a settlement
+GuestKaefer placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources brickorelumber
+GuestKaefer placed a settlement
+GuestKaefer placed a road
+GuestKaefer received starting resources grainbrickgrain
+GuestKaefer rolled dice_4 dice_2
+GuestKaefer got woolgrain
+UserLookaside rolled dice_6 dice_3
+GuestKaefer got grainore
+GuestKaefer rolled dice_2 dice_1
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got grainore
+GuestKaefer rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestKaefer moved robber robber to prob_4 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_5
+GuestKaefer got grainore
+GuestKaefer rolled dice_5 dice_3
+UserLookaside got woolbrick
+GuestKaefer gave bank graingraingraingrain and took lumber
+UserLookaside rolled dice_1 dice_4
+UserLookaside got brick
+GuestKaefer got brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestKaefer rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuestKaefer moved robber robber to prob_8 wool tile
+GuestKaefer stole ore from you
+UserLookaside rolled dice_2 dice_4
+GuestKaefer got woolgrain
+GuestKaefer rolled dice_6 dice_1
+GuestKaefer discarded lumberbrickbrickwoolwool
+robberFriendly Robber is active, tiles available to block are limited
+GuestKaefer moved robber robber to prob_10 grain tile
+GuestKaefer stole ore from you
+GuestKaefer built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+GuestKaefer got grainoreore
+GuestKaefer rolled dice_2 dice_3
+UserLookaside got brick
+GuestKaefer got brick
+UserLookaside rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+GuestKaefer rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_1
+GuestKaefer rolled dice_3 dice_2
+UserLookaside got brick
+GuestKaefer got brick
+UserLookaside rolled dice_2 dice_2
+UserLookaside got grain
+GuestKaefer got graingrain
+GuestKaefer rolled dice_1 dice_5
+GuestKaefer got woolwoolgrain
+GuestKaefer built a city (+1 VP)
+UserLookaside rolled dice_3 dice_6
+GuestKaefer got graingrainoreore
+GuestKaefer rolled dice_4 dice_3
+GuestKaefer discarded brickbrickwoolgraingrain
+GuestKaefer moved robber robber to prob_8 wool tile
+GuestKaefer stole ore from you
+GuestKaefer bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+GuestKaefer got graingrain
+GuestKaefer rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+GuestKaefer got graingrain
+GuestKaefer rolled dice_1 dice_1
+UserLookaside rolled dice_5 dice_1
+GuestKaefer got woolwoolgraingrain
+GuestKaefer rolled dice_6 dice_4
+UserLookaside got grainore
+GuestKaefer bought development card
+GuestKaefer bought development card
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumberlumber
+UserLookaside gave bank brickbrickbrickbrick and took ore
+UserLookaside built a city (+1 VP)
+GuestKaefer rolled dice_5 dice_6
+UserLookaside rolled dice_5 dice_5
+UserLookaside got grainoreore
+GuestKaefer rolled dice_2 dice_2
+UserLookaside got grain
+GuestKaefer got graingrain
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+GuestKaefer got graingrain
+GuestKaefer rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserLookaside rolled dice_4 dice_6
+UserLookaside got grainoreore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+UserLookaside built a road
+GuestKaefer rolled dice_6 dice_3
+GuestKaefer got graingrainoreore
+GuestKaefer gave bank graingraingraingrain and took wool
+GuestKaefer bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole grain from Kaefer
+GuestKaefer used Knight card knight
+GuestKaefer moved robber robber to prob_8 wool tile
+GuestKaefer stole grain from you
+GuestKaefer rolled dice_1 dice_2
+UserLookaside got lumberlumberlumber
+UserLookaside rolled dice_1 dice_5
+GuestKaefer got woolwoolgraingrain
+GuestKaefer rolled dice_4 dice_1
+UserLookaside got brickbrick
+GuestKaefer got brickbrick
+GuestKaefer used Year of Plenty card year of plenty
+GuestKaefer took from bank lumber lumber
+GuestKaefer built a road
+GuestKaefer built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_2
+GuestKaefer got woolwoolgraingrain
+UserLookaside built a road
+GuestKaefer rolled dice_3 dice_4
+GuestKaefer discarded graingraingraingraingraingrain
+GuestKaefer moved robber robber to prob_8 brick tile
+GuestKaefer stole lumber from you
+GuestKaefer bought development card
+UserLookaside rolled dice_2 dice_3
+UserLookaside got brickbrick
+GuestKaefer got brickbrick
+GuestKaefer rolled dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+GuestKaefer built a road
+UserLookaside rolled dice_6 dice_5
+GuestKaefer got brick
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+GuestKaefer rolled dice_3 dice_3
+UserLookaside got wool
+GuestKaefer got woolwoolgraingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole grain from Kaefer
+UserLookaside rolled dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestKaefer got graingrain
+GuestKaefer used Knight card knight
+GuestKaefer moved robber robber to prob_8 wool tile
+GuestKaefer stole grain from you
+GuestKaefer rolled dice_4 dice_3
+GuestKaefer discarded woolwoolgraingraingraingrain
+GuestKaefer moved robber robber to prob_8 brick tile
+GuestKaefer stole brick from you
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from Kaefer
+GuestKaefer rolled dice_1 dice_2
+UserLookaside got lumberlumberlumberlumber
+UserLookaside rolled dice_2 dice_6
+UserLookaside got woolwoolwoolbrickbrick
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestKaefer rolled dice_3 dice_3
+UserLookaside got wool
+GuestKaefer got woolwoolgraingrain
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrainoreore
+GuestKaefer got ore
+UserLookaside gave bank woolwool and took ore
+UserLookaside built a city (+1 VP)
+GuestKaefer rolled dice_6 dice_1
+GuestKaefer discarded brickwoolgraingraingrain
+GuestKaefer moved robber robber to prob_8 wool tile
+GuestKaefer stole wool from you
+GuestKaefer bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole wool from Kaefer
+GuestKaefer rolled dice_6 dice_2
+UserLookaside got woolwoolwoolwoolbrickbrickbrick
+UserLookaside rolled dice_5 dice_4
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestKaefer got graingrain
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took lumberlumbergrain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestKaefer rolled dice_3 dice_1
+UserLookaside got woolgraingraingrain
+GuestKaefer got graingrain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woolwoolwoolwoolbrickbrickbrick
+UserLookaside wants to give woolwool for lumber
+UserLookaside gave bank woolwool and took lumber
+UserLookaside built a road
+GuestKaefer rolled dice_3 dice_2
+UserLookaside got brickbrickbrick
+GuestKaefer got brickbrick
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded brickbrickbrickbrickgrain
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Kaefer
+UserLookaside gave bank woolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+GuestKaefer rolled dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestKaefer got woolwool
+UserLookaside rolled dice_4 dice_1
+UserLookaside got brickbrickbrick
+GuestKaefer got brickbrick
+GuestKaefer rolled dice_5 dice_5
+UserLookaside got graingrainoreore
+GuestKaefer got ore
+GuestKaefer bought development card
+GuestKaefer gave bank brickbrickbrickbrick and took lumber
+GuestKaefer used Road Building card road building
+GuestKaefer placed a road
+GuestKaefer placed a road
+GuestKaefer built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumberlumberlumberlumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

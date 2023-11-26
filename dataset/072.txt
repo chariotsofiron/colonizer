@@ -1,0 +1,308 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestAenea4736 placed a settlement
+GuestAenea4736 placed a road
+GuestAenea4736 placed a settlement
+GuestAenea4736 placed a road
+GuestAenea4736 received starting resources: woolbricklumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: grainlumberwool
+UserLookaside rolled: dice_3 dice_1
+GuestAenea4736 got: ore
+GuestAenea4736 rolled: dice_3 dice_2
+UserLookaside got: brickwool
+GuestAenea4736 got: wool
+UserLookaside rolled: dice_2 dice_1
+GuestAenea4736 got: wool
+GuestAenea4736 rolled: dice_2 dice_6
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+UserLookaside rolled: dice_6 dice_5
+GuestAenea4736 got: grain
+GuestAenea4736 rolled: dice_1 dice_5
+UserLookaside got: grain
+UserLookaside rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+GuestAenea4736 rolled: dice_5 dice_1
+UserLookaside got: grain
+GuestAenea4736 built a road
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: lumber
+UserLookaside built a road
+GuestAenea4736 rolled: dice_4 dice_1
+UserLookaside got: brickwool
+GuestAenea4736 got: wool
+UserLookaside rolled: dice_2 dice_2
+prob_4 wool tile is blocked by the robber. No resources produced.
+GuestAenea4736 got: ore
+UserLookaside built a settlement: +1 VP
+GuestAenea4736 rolled: dice_1 dice_2
+GuestAenea4736 got: wool
+GuestAenea4736 gave bank: woolwoolwoolwool and took brick
+GuestAenea4736 built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: ore from: Aenea4736
+UserLookaside bought development card
+GuestAenea4736 rolled: dice_1 dice_6
+GuestAenea4736 moved robber robber to prob_10 ore tile
+GuestAenea4736 stole: grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: ore from: Aenea4736
+UserLookaside rolled: dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+GuestAenea4736 rolled: dice_4 dice_6
+UserLookaside got: brickore
+GuestAenea4736 got: brick
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: lumberlumber
+GuestAenea4736 rolled: dice_4 dice_2
+UserLookaside got: grain
+GuestAenea4736 got: grain
+UserLookaside rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a road
+UserLookaside built a road
+GuestAenea4736 rolled: dice_4 dice_3
+GuestAenea4736 moved robber robber to prob_9 lumber tile
+GuestAenea4736 stole: wool from you
+UserLookaside rolled: dice_1 dice_3
+GuestAenea4736 got: ore
+GuestAenea4736 rolled: dice_6 dice_2
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: brickwool
+GuestAenea4736 got: wool
+GuestAenea4736 rolled: dice_5 dice_3
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+UserLookaside rolled: dice_6 dice_6
+GuestAenea4736 rolled: dice_3 dice_3
+UserLookaside got: grain
+GuestAenea4736 got: grain
+UserLookaside rolled: dice_5 dice_6
+GuestAenea4736 got: grainbrick
+UserLookaside gave bank: graingraingrain and took lumber
+UserLookaside built a settlement: +1 VP
+GuestAenea4736 rolled: dice_2 dice_4
+UserLookaside got: grain
+GuestAenea4736 got: grain
+GuestAenea4736 bought development card
+GuestAenea4736 built a road
+GuestAenea4736 built a road
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: brickore
+GuestAenea4736 got: brick
+GuestAenea4736 rolled: dice_3 dice_5
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+GuestAenea4736 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: grain from: Aenea4736
+UserLookaside built a city: +1 VP
+GuestAenea4736 rolled: dice_3 dice_4
+GuestAenea4736 moved robber robber to prob_9 lumber tile
+GuestAenea4736 stole: grain from you
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+GuestAenea4736 rolled: dice_6 dice_5
+UserLookaside got: brick
+GuestAenea4736 got: grainbrickbrick
+GuestAenea4736 built a road
+GuestAenea4736 received longest road: +2 VPs
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brickwoolwoolwool
+GuestAenea4736 got: wool
+GuestAenea4736 rolled: dice_4 dice_5
+prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestAenea4736 got: wool
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: brickwoolwoolwool
+GuestAenea4736 got: wool
+UserLookaside gave bank: woolwoolwool and took lumber
+UserLookaside built a road
+GuestAenea4736 rolled: dice_2 dice_6
+UserLookaside got: grain
+GuestAenea4736 got: lumber
+GuestAenea4736 built a road
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: wool
+GuestAenea4736 got: ore
+UserLookaside gave bank: woolwoolwool and took lumber
+UserLookaside built a road
+GuestAenea4736 rolled: dice_3 dice_1
+UserLookaside got: wool
+GuestAenea4736 got: ore
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: wool from: Aenea4736
+GuestAenea4736 rolled: dice_3 dice_6
+UserLookaside got: lumberlumberlumber
+GuestAenea4736 got: wool
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: graingrain
+GuestAenea4736 got: grain
+UserLookaside built a road
+Userlongest road passed from: Aenea4736 to: Lookaside: +2 VPs
+UserLookaside built a settlement: +1 VP
+GuestAenea4736 rolled: dice_2 dice_3
+UserLookaside got: brickwoolwoolwool
+GuestAenea4736 got: wool
+GuestAenea4736 gave bank: woolwoolwoolwool and took ore
+GuestAenea4736 built a city: +1 VP
+UserLookaside rolled: dice_1 dice_1
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside bought development card
+UserLookaside built a road
+GuestAenea4736 rolled: dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: lumberlumberlumberwool
+GuestAenea4736 got: wool
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a road
+GuestAenea4736 rolled: dice_1 dice_2
+UserLookaside got: ore
+GuestAenea4736 got: woolwoolwool
+UserLookaside rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+GuestAenea4736 rolled: dice_6 dice_3
+UserLookaside got: lumberlumberlumberwool
+GuestAenea4736 got: wool
+UserLookaside rolled: dice_6 dice_1
+Lookaside discarding resource cards
+UserLookaside discarded: lumberlumberlumberlumberwool
+UserLookaside moved robber robber to prob_11 grain tile
+UserYou stole: wool from: Aenea4736
+UserLookaside bought development card
+GuestAenea4736 rolled: dice_1 dice_4
+UserLookaside got: brickwoolwoolwool
+GuestAenea4736 got: wool
+GuestAenea4736 gave bank: woolwoolwoolwool and took ore
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: wool from: Aenea4736
+UserLookaside gave bank: woolwoolwool and took grain
+UserLookaside built a settlement: +1 VP
+GuestAenea4736 rolled: dice_1 dice_3
+UserLookaside got: orewool
+GuestAenea4736 got: oreore
+GuestAenea4736 built a city: +1 VP
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: ore
+GuestAenea4736 got: woolwoolwool
+GuestAenea4736 rolled: dice_5 dice_6
+UserLookaside got: brick
+GuestAenea4736 got: graingrainbrickbrickbrick
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: brick
+GuestAenea4736 got: graingrainbrickbrickbrick
+GuestAenea4736 rolled: dice_3 dice_4
+Aenea4736 discarding resource cards
+GuestAenea4736 discarded: brickbrickbrickwoolgraingraingrain
+GuestAenea4736 moved robber robber to prob_9 lumber tile
+GuestAenea4736 stole: brick from you
+GuestAenea4736 gave bank: brickbrickbrickbrick and took ore
+GuestAenea4736 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: wool from: Aenea4736
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: lumberlumberlumberwool
+GuestAenea4736 got: woolwool
+UserLookaside gave bank: lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestAenea4736 rolled: dice_3 dice_2
+UserLookaside got: brickwoolwoolwool
+GuestAenea4736 got: wool
+GuestAenea4736 used Road Building card road building
+GuestAenea4736 placed a road
+GuestAenea4736 placed a road
+Guestlongest road passed from: Lookaside to: Aenea4736: +2 VPs
+UserLookaside rolled: dice_6 dice_6
+UserLookaside gave bank: woolwoolwoolwoolwoolwool and took grainore
+GuestAenea4736 rolled: dice_4 dice_5
+UserLookaside got: lumberlumberlumberwool
+GuestAenea4736 got: woolwool
+UserLookaside rolled: dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside gave bank: lumberlumberlumber and took ore
+UserLookaside built a city: +1 VP
+GuestAenea4736 rolled: dice_2 dice_5
+GuestAenea4736 moved robber robber to prob_8 grain tile
+GuestAenea4736 stole: brick from you
+GuestAenea4736 gave bank: woolwoolwoolwool and took lumber
+GuestAenea4736 built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_6 grain tile
+UserNo player to steal from
+GuestAenea4736 rolled: dice_4 dice_4
+UserLookaside got: graingraingrain
+GuestAenea4736 got: lumber
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: brickbrickwoolwoolwool
+GuestAenea4736 got: wool
+UserLookaside gave bank: brickbrickbrick and took ore
+UserLookaside bought development card
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside bought development card
+GuestAenea4736 rolled: dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestAenea4736 got: lumber
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: brickbrickwoolwoolwool
+GuestAenea4736 got: wool
+GuestAenea4736 rolled: dice_1 dice_2
+UserLookaside got: ore
+GuestAenea4736 got: woolwoolwool
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: brickoreore
+GuestAenea4736 got: brickoreore
+UserLookaside built a city: +1 VP
+GuestAenea4736 rolled: dice_3 dice_5
+UserLookaside got: graingraingrain
+GuestAenea4736 got: lumber
+GuestAenea4736 built a road
+GuestAenea4736 gave bank: woolwoolwool and took grain
+GuestAenea4736 bought development card
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: brickbrickwoolwoolwool
+GuestAenea4736 got: wool
+UserLookaside gave bank: woolwoolwool and took lumber
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+Userlongest road passed from: Aenea4736 to: Lookaside: +2 VPs
+trophy Lookaside won the game! trophy
+Send a message

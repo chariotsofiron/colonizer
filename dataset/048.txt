@@ -1,0 +1,316 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestQuuascraw placed a settlement
+GuestQuuascraw placed a road
+GuestQuuascraw placed a settlement
+GuestQuuascraw placed a road
+GuestQuuascraw received starting resources: graingrainwool
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: grainlumbergrain
+UserLookaside rolled: dice_6 dice_5
+GuestQuuascraw rolled: dice_2 dice_2
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_3
+UserLookaside got: lumber
+GuestQuuascraw got: brick
+GuestQuuascraw rolled: dice_2 dice_4
+UserLookaside got: lumber
+GuestQuuascraw got: brick
+UserLookaside rolled: dice_5 dice_5
+GuestQuuascraw got: grain
+GuestQuuascraw rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestQuuascraw moved robber robber to prob_10 ore tile
+GuestNo player to steal from
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: brick
+GuestQuuascraw got: ore
+GuestQuuascraw rolled: dice_3 dice_1
+UserLookaside got: lumber
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: grain
+GuestQuuascraw got: grain
+GuestQuuascraw rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestQuuascraw moved robber robber to prob_12 lumber tile
+GuestNo player to steal from
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: wool
+GuestQuuascraw got: wool
+UserLookaside built a road
+GuestQuuascraw rolled: dice_4 dice_4
+UserLookaside got: grain
+GuestQuuascraw got: grain
+GuestQuuascraw gave bank: graingraingraingrain and took lumber
+GuestQuuascraw built a road
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: brick
+GuestQuuascraw got: ore
+UserLookaside built a settlement: +1 VP
+GuestQuuascraw rolled: dice_3 dice_5
+UserLookaside got: graingrain
+GuestQuuascraw got: grain
+UserLookaside rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+GuestQuuascraw rolled: dice_4 dice_1
+UserLookaside got: wool
+GuestQuuascraw got: wool
+UserLookaside rolled: dice_1 dice_1
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a road
+GuestQuuascraw rolled: dice_1 dice_2
+UserLookaside got: grain
+GuestQuuascraw got: wool
+GuestQuuascraw gave bank: woolwoolwoolwool and took lumber
+UserLookaside rolled: dice_5 dice_6
+GuestQuuascraw rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestQuuascraw moved robber robber to prob_9 brick tile
+GuestQuuascraw stole: lumber from you
+UserLookaside rolled: dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestQuuascraw got: ore
+GuestQuuascraw rolled: dice_2 dice_1
+UserLookaside got: grain
+GuestQuuascraw got: wool
+GuestQuuascraw built a city: +1 VP
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: lumber
+GuestQuuascraw got: brickbrick
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a settlement: +1 VP
+GuestQuuascraw rolled: dice_4 dice_2
+UserLookaside got: lumber
+GuestQuuascraw got: brickbrick
+GuestQuuascraw gave bank: brickbrickbrickbrick and took grain
+GuestQuuascraw built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: lumber
+GuestQuuascraw got: grain
+GuestQuuascraw rolled: dice_4 dice_3
+GuestQuuascraw moved robber robber to prob_10 ore tile
+GuestQuuascraw stole: lumber from you
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: graingrain
+GuestQuuascraw got: grainlumber
+GuestQuuascraw rolled: dice_1 dice_2
+UserLookaside got: grain
+GuestQuuascraw got: woolwoolwool
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: lumber
+GuestQuuascraw got: grain
+GuestQuuascraw rolled: dice_3 dice_2
+UserLookaside got: woolwool
+GuestQuuascraw got: wool
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: brick
+GuestQuuascraw got: oreore
+UserLookaside gave bank: graingraingrain and took brick
+UserLookaside built a road
+UserLookaside built a road
+GuestQuuascraw rolled: dice_1 dice_1
+GuestQuuascraw gave bank: woolwoolwoolwool and took ore
+GuestQuuascraw built a city: +1 VP
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: Quuascraw
+GuestQuuascraw rolled: dice_2 dice_6
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrainlumber
+UserLookaside rolled: dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestQuuascraw rolled: dice_6 dice_6
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: brick
+GuestQuuascraw got: oreore
+GuestQuuascraw rolled: dice_4 dice_1
+UserLookaside got: woolwool
+GuestQuuascraw got: woolwool
+GuestQuuascraw bought development card
+GuestQuuascraw bought development card
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: ore
+GuestQuuascraw got: graingrain
+UserLookaside gave bank: woolwoolwool and took brick
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside built a settlement: +1 VP
+GuestQuuascraw rolled: dice_2 dice_3
+UserLookaside got: woolwool
+GuestQuuascraw got: woolwool
+GuestQuuascraw used Knight card knight
+GuestQuuascraw moved robber robber to prob_10 ore tile
+GuestQuuascraw stole: wool from you
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrainlumber
+UserLookaside bought development card
+GuestQuuascraw rolled: dice_1 dice_6
+Quuascraw discarding resource cards
+GuestQuuascraw discarded: lumberlumberwoolgraingraingrain
+GuestQuuascraw moved robber robber to prob_9 brick tile
+GuestQuuascraw stole: grain from you
+GuestQuuascraw used Year of Plenty card year of plenty
+GuestQuuascraw took from bank: ore ore
+GuestQuuascraw bought development card
+GuestQuuascraw bought development card
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: Quuascraw
+GuestQuuascraw used Knight card knight
+GuestQuuascraw moved robber robber to prob_10 ore tile
+GuestQuuascraw stole: lumber from you
+GuestQuuascraw rolled: dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+GuestQuuascraw got: graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: lumber from: Quuascraw
+UserLookaside rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestQuuascraw used Knight card knight
+GuestQuuascraw received largest army: +2 VPs
+GuestQuuascraw moved robber robber to prob_10 ore tile
+GuestQuuascraw stole: lumber from you
+GuestQuuascraw rolled: dice_5 dice_6
+UserLookaside got: brick
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrainlumber
+GuestQuuascraw rolled: dice_4 dice_2
+UserLookaside got: lumber
+GuestQuuascraw got: brickbrick
+GuestQuuascraw built a road
+GuestQuuascraw built a road
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: brickore
+GuestQuuascraw got: oreore
+UserLookaside gave bank: lumberlumberlumber and took ore
+GuestQuuascraw rolled: dice_1 dice_4
+UserLookaside got: woolwool
+GuestQuuascraw got: woolwool
+GuestQuuascraw bought development card
+GuestQuuascraw bought development card
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: woolwool
+GuestQuuascraw got: woolwool
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside built a city: +1 VP
+GuestQuuascraw rolled: dice_1 dice_3
+UserLookaside got: lumber
+GuestQuuascraw got: grain
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: grain
+GuestQuuascraw got: woolwoolwool
+GuestQuuascraw rolled: dice_2 dice_6
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrainlumber
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: lumber
+GuestQuuascraw got: grain
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside bought development card
+GuestQuuascraw rolled: dice_3 dice_4
+Quuascraw discarding resource cards
+GuestQuuascraw discarded: lumberwoolwoolwoolwoolgraingrain
+GuestQuuascraw moved robber robber to prob_9 brick tile
+GuestQuuascraw stole: grain from you
+GuestQuuascraw used Road Building card road building
+GuestQuuascraw placed a road
+GuestQuuascraw placed a road
+GuestQuuascraw gave bank: graingraingraingrain and took brick
+GuestQuuascraw built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: grain from: Quuascraw
+UserLookaside rolled: dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestQuuascraw rolled: dice_4 dice_4
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrainlumber
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: oregrain
+GuestQuuascraw got: graingrain
+GuestQuuascraw rolled: dice_6 dice_3
+UserLookaside got: brickbrickore
+GuestQuuascraw got: oreore
+UserLookaside rolled: dice_4 dice_3
+Lookaside discarding resource cards
+UserLookaside discarded: lumberbrickgraingraingrain
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: grain from: Quuascraw
+GuestQuuascraw rolled: dice_3 dice_6
+UserLookaside got: brickbrickore
+GuestQuuascraw got: oreore
+GuestQuuascraw built a city: +1 VP
+UserLookaside rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+GuestQuuascraw got: graingrain
+UserLookaside built a city: +1 VP
+GuestQuuascraw rolled: dice_4 dice_5
+UserLookaside got: brickbrickoreore
+GuestQuuascraw got: oreore
+GuestQuuascraw built a city: +1 VP
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: grain
+GuestQuuascraw got: woolwoolwoolwool
+UserLookaside gave bank: brickbrickbrick and took ore
+UserLookaside built a city: +1 VP
+GuestQuuascraw rolled: dice_3 dice_1
+UserLookaside got: lumberlumber
+GuestQuuascraw got: graingraingraingrain
+GuestQuuascraw gave bank: graingraingraingrain and took brick
+GuestQuuascraw built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: wool from: Quuascraw
+UserLookaside built a settlement: +1 VP
+GuestQuuascraw rolled: dice_2 dice_3
+UserLookaside got: woolwoolwool
+GuestQuuascraw got: woolwoolwoolwoolwool
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: oregraingrain
+GuestQuuascraw got: graingrain
+UserLookaside bought development card
+GuestQuuascraw rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestQuuascraw gave bank: woolwoolwool and took ore
+GuestQuuascraw bought development card
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: brickbrick
+GuestQuuascraw got: brickbrick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+GuestQuuascraw rolled: dice_5 dice_3
+UserLookaside got: graingraingrain
+GuestQuuascraw got: graingrainlumberlumber
+GuestQuuascraw gave bank: woolwoolwoolgraingraingrain and took lumberbrick
+GuestQuuascraw built a road
+GuestQuuascraw built a road
+GuestQuuascraw built a road
+Guestlongest road passed from: Lookaside to: Quuascraw: +2 VPs
+trophy Quuascraw won the game! trophy
+Send a message

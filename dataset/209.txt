@@ -1,0 +1,302 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestAndaluz100 placed a settlement
+GuestAndaluz100 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolbricklumber
+GuestAndaluz100 placed a settlement
+GuestAndaluz100 placed a road
+GuestAndaluz100 received starting resources grainwoolore
+GuestAndaluz100 rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestAndaluz100 moved robber robber to prob_3 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_5 dice_6
+GuestAndaluz100 got ore
+GuestAndaluz100 rolled dice_5 dice_5
+GuestAndaluz100 got wool
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_3
+GuestAndaluz100 got graingrain
+UserLookaside got grain
+GuestAndaluz100 rolled dice_4 dice_5
+GuestAndaluz100 got graingrain
+UserLookaside got grain
+GuestAndaluz100 bought development card
+UserLookaside rolled dice_2 dice_3
+GuestAndaluz100 got brick
+UserLookaside got brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestAndaluz100 used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+GuestAndaluz100 moved robber robber to prob_8 wool tile
+GuestAndaluz100 stole grain from you
+GuestAndaluz100 rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestAndaluz100 rolled dice_4 dice_6
+GuestAndaluz100 got wool
+UserLookaside got lumber
+GuestAndaluz100 bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestAndaluz100 rolled dice_4 dice_1
+GuestAndaluz100 got brick
+UserLookaside got brickbrick
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 grain tile
+UserNo player to steal from
+GuestAndaluz100 rolled dice_5 dice_1
+GuestAndaluz100 got lumber
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 wool tile
+UserNo player to steal from
+GuestAndaluz100 rolled dice_5 dice_3
+UserLookaside got wool
+UserLookaside rolled dice_3 dice_6
+GuestAndaluz100 got graingrain
+UserLookaside got grain
+GuestAndaluz100 rolled dice_3 dice_2
+GuestAndaluz100 got brick
+UserLookaside got brickbrick
+GuestAndaluz100 built a road
+GuestAndaluz100 gave bank graingraingraingrain and took lumber
+GuestAndaluz100 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_1
+UserLookaside got oreore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a city (+1 VP)
+GuestAndaluz100 rolled dice_1 dice_1
+UserLookaside rolled dice_5 dice_4
+GuestAndaluz100 got graingrain
+UserLookaside got graingrain
+GuestAndaluz100 rolled dice_3 dice_4
+GuestAndaluz100 moved robber robber to prob_4 ore tile
+GuestAndaluz100 stole grain from you
+UserLookaside rolled dice_2 dice_2
+prob_4 ore tile is blocked by the robber. No resources produced.
+GuestAndaluz100 rolled dice_6 dice_5
+GuestAndaluz100 got oreore
+UserLookaside got ore
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole grain from Andaluz100
+GuestAndaluz100 rolled dice_4 dice_4
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_1
+GuestAndaluz100 got brick
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_6 dice_3
+GuestAndaluz100 got graingrain
+UserLookaside got graingrain
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+GuestAndaluz100 rolled dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+UserLookaside rolled dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_5 dice_5
+GuestAndaluz100 got wool
+UserLookaside got lumberlumber
+GuestAndaluz100 bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got oreoreore
+GuestAndaluz100 used Knight card knight
+GuestAndaluz100 moved robber robber to prob_4 ore tile
+GuestAndaluz100 stole lumber from you
+GuestAndaluz100 rolled dice_1 dice_6
+GuestAndaluz100 moved robber robber to prob_6 ore tile
+GuestAndaluz100 stole wool from you
+GuestAndaluz100 built a road
+GuestAndaluz100 bought development card
+UserLookaside rolled dice_2 dice_3
+GuestAndaluz100 got brick
+UserLookaside got brickbrickbrick
+GuestAndaluz100 rolled dice_5 dice_3
+UserLookaside got woolwool
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded brickbrickbrickwoolore
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole grain from Andaluz100
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+GuestAndaluz100 used Knight card knight
+GuestAndaluz100 received largest army (+2 VPs)
+GuestAndaluz100 moved robber robber to prob_8 wool tile
+GuestAndaluz100 stole ore from you
+GuestAndaluz100 rolled dice_2 dice_2
+UserLookaside got oreoreoreore
+UserLookaside rolled dice_6 dice_5
+GuestAndaluz100 got oreore
+UserLookaside got ore
+GuestAndaluz100 rolled dice_2 dice_1
+GuestAndaluz100 got wool
+UserLookaside got lumber
+GuestAndaluz100 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_1
+GuestAndaluz100 got lumberlumber
+UserLookaside got oreore
+GuestAndaluz100 rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from Andaluz100
+UserLookaside gave bank oreoreoreore and took grain
+GuestAndaluz100 rolled dice_2 dice_5
+GuestAndaluz100 moved robber robber to prob_4 ore tile
+GuestAndaluz100 stole lumber from you
+UserLookaside rolled dice_4 dice_5
+GuestAndaluz100 got graingraingrain
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+GuestAndaluz100 rolled dice_3 dice_2
+GuestAndaluz100 got brick
+UserLookaside got brickbrickbrick
+GuestAndaluz100 built a road
+GuestAndaluz100 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+GuestAndaluz100 rolled dice_4 dice_2
+GuestAndaluz100 got lumberlumber
+UserLookaside got oreore
+GuestAndaluz100 built a road
+UserLookaside rolled dice_5 dice_6
+GuestAndaluz100 got oreoreore
+UserLookaside got ore
+UserLookaside built a road
+GuestAndaluz100 rolled dice_3 dice_6
+GuestAndaluz100 got graingraingrain
+UserLookaside got graingrain
+GuestAndaluz100 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_2
+prob_4 ore tile is blocked by the robber. No resources produced.
+UserLookaside built a city (+1 VP)
+GuestAndaluz100 rolled dice_2 dice_3
+GuestAndaluz100 got lumberbrickbrick
+UserLookaside got brickbrickbrickbrick
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole grain from Andaluz100
+UserLookaside gave bank brickbrickbrickbrick and took wool
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_6 dice_4
+GuestAndaluz100 got woolwoolwool
+UserLookaside got lumberlumber
+GuestAndaluz100 built a settlement (+1 VP)
+GuestAndaluz100 built a road
+UserLookaside rolled dice_2 dice_6
+GuestAndaluz100 got grain
+UserLookaside got woolwoolwoolwool
+UserLookaside built a settlement (+1 VP)
+GuestAndaluz100 rolled dice_4 dice_3
+GuestAndaluz100 moved robber robber to prob_4 ore tile
+GuestAndaluz100 stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole wool from Andaluz100
+UserLookaside rolled dice_1 dice_3
+UserLookaside got oreoreoreoreoreore
+UserLookaside gave bank oreoreore and took grain
+UserLookaside built a settlement (+1 VP)
+GuestAndaluz100 rolled dice_5 dice_3
+GuestAndaluz100 got grain
+UserLookaside got woolwoolwoolwoolwool
+UserLookaside rolled dice_3 dice_5
+GuestAndaluz100 got grain
+UserLookaside got woolwoolwoolwoolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_6 dice_6
+GuestAndaluz100 got grain
+GuestAndaluz100 gave bank graingraingrain and took ore
+GuestAndaluz100 bought development card
+UserLookaside rolled dice_5 dice_5
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+GuestAndaluz100 rolled dice_1 dice_5
+GuestAndaluz100 got lumberlumberlumber
+UserLookaside got oreoreore
+GuestAndaluz100 used Year of Plenty card year of plenty
+GuestAndaluz100 took from bank brick brick
+GuestAndaluz100 built a road
+GuestAndaluz100 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+GuestAndaluz100 got lumberbrickbrick
+UserLookaside got brickbrickbrickbrick
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+GuestAndaluz100 rolled dice_1 dice_4
+GuestAndaluz100 got lumberbrickbrick
+UserLookaside got brickbrickbrickbrick
+GuestAndaluz100 built a road
+GuestAndaluz100 built a road
+GuestAndaluz100 built a road
+Guestlongest road passed from Lookaside to Andaluz100 (+2 VPs)
+UserLookaside rolled dice_6 dice_2
+GuestAndaluz100 got grain
+UserLookaside got woolwoolwoolwoolwool
+UserLookaside gave bank brickbrickbrickwoolwoolwool and took lumberlumber
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from Andaluz100 to Lookaside (+2 VPs)
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_2 dice_5
+GuestAndaluz100 moved robber robber to prob_6 ore tile
+GuestAndaluz100 stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole brick from Andaluz100
+UserLookaside rolled dice_3 dice_1
+UserLookaside got oreoreoreoreoreore
+UserLookaside gave bank oreoreoreoreoreore and took woolgrain
+UserLookaside bought development card
+GuestAndaluz100 rolled dice_4 dice_4
+GuestAndaluz100 got grain
+UserLookaside got woolwoolwoolwoolwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole grain from Andaluz100
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole grain from Andaluz100
+UserLookaside gave bank woolwoolwool and took lumber
+UserLookaside built a settlement (+1 VP)
+GuestAndaluz100 rolled dice_1 dice_1
+UserLookaside used Knight card knight
+Userlargest army passed from Andaluz100 to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+GuestAndaluz100 has left the game
+No Ads

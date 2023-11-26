@@ -1,0 +1,297 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+icon_crownElSat placed a settlement
+icon_crownElSat placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: woollumberbrick
+icon_crownElSat placed a settlement
+icon_crownElSat placed a road
+icon_crownElSat received starting resources: graingrainbrick
+icon_crownElSat rolled: dice_1 dice_3
+icon_crownElSat got: grain
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: brick
+icon_crownElSat got: lumber
+icon_crownElSat rolled: dice_5 dice_6
+icon_crownElSat built a road
+UserLookaside rolled: dice_6 dice_6
+icon_crownElSat rolled: dice_4 dice_4
+UserLookaside got: brick
+icon_crownElSat got: lumber
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: orewool
+icon_crownElSat rolled: dice_3 dice_3
+icon_crownElSat got: brick
+UserLookaside rolled: dice_1 dice_1
+icon_crownElSat rolled: dice_1 dice_2
+icon_crownElSat got: grainwool
+icon_crownElSat built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_1
+icon_crownElSat got: graingrain
+icon_crownElSat rolled: dice_4 dice_2
+icon_crownElSat got: brick
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: orewool
+icon_crownElSat got: wool
+icon_crownElSat rolled: dice_5 dice_4
+UserLookaside got: wool
+UserLookaside rolled: dice_4 dice_3
+Lookaside discarding resource cards
+UserLookaside discarded: brickwoolwooloreore
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole: wool from: ElSat
+icon_crownElSat rolled: dice_6 dice_4
+UserLookaside got: lumberbrick
+icon_crownElSat got: brick
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: brick
+icon_crownElSat got: lumber
+UserLookaside built a road
+icon_crownElSat rolled: dice_2 dice_4
+icon_crownElSat got: brick
+icon_crownElSat built a road
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: brick
+icon_crownElSat got: lumber
+icon_crownElSat rolled: dice_4 dice_6
+UserLookaside got: lumberbrick
+icon_crownElSat got: brick
+icon_crownElSat gave bank: graingraingraingrain and took wool
+icon_crownElSat built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_5
+icon_crownElSat got: graingrain
+UserLookaside gave bank: brickbrickbrickbrick and took grain
+UserLookaside built a settlement: +1 VP
+icon_crownElSat rolled: dice_5 dice_3
+UserLookaside got: brick
+icon_crownElSat got: lumber
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: grain from: ElSat
+UserLookaside built a road
+icon_crownElSat rolled: dice_3 dice_6
+UserLookaside got: woolwool
+icon_crownElSat got: wool
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: grain
+icon_crownElSat got: graingrain
+icon_crownElSat rolled: dice_2 dice_3
+UserLookaside got: orewool
+icon_crownElSat got: wool
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: lumberbrick
+icon_crownElSat got: brick
+UserLookaside built a road
+UserLookaside bought development card
+icon_crownElSat rolled: dice_5 dice_6
+icon_crownElSat got: graingrain
+icon_crownElSat gave bank: graingraingraingrain and took lumber
+icon_crownElSat built a road
+icon_crownElSat built a road
+UserLookaside rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+icon_crownElSat rolled: dice_6 dice_6
+UserLookaside rolled: dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+icon_crownElSat rolled: dice_6 dice_5
+icon_crownElSat got: graingrain
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: grain
+icon_crownElSat got: graingrain
+icon_crownElSat rolled: dice_2 dice_1
+icon_crownElSat got: grainwoolwool
+icon_crownElSat gave bank: graingraingraingrain and took lumber
+icon_crownElSat built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: woolwool
+icon_crownElSat got: wool
+UserLookaside gave bank: woolwoolwoolwool and took lumber
+UserLookaside built a settlement: +1 VP
+icon_crownElSat rolled: dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: wool from: ElSat
+icon_crownElSat rolled: dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserLookaside rolled: dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+icon_crownElSat rolled: dice_4 dice_5
+UserLookaside got: orewoolwool
+icon_crownElSat got: wool
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: grain
+icon_crownElSat got: graingrain
+UserLookaside bought development card
+icon_crownElSat rolled: dice_5 dice_4
+UserLookaside got: orewoolwool
+icon_crownElSat got: wool
+icon_crownElSat gave bank: woolwoolwoolwool and took ore
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: brick
+icon_crownElSat got: lumber
+UserLookaside gave bank: woolwoolwoolwool and took lumber
+UserLookaside built a settlement: +1 VP
+icon_crownElSat rolled: dice_5 dice_5
+UserLookaside got: lumberlumberlumberbrick
+icon_crownElSat got: brick
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: lumberlumberlumberbrick
+icon_crownElSat got: brick
+UserLookaside gave bank: lumberlumberlumberlumber and took oreore
+UserLookaside gave bank: lumberlumber and took grain
+icon_crownElSat rolled: dice_1 dice_2
+icon_crownElSat got: grainwoolwool
+icon_crownElSat gave bank: brickbrick and took ore
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: grain
+icon_crownElSat got: graingrain
+UserLookaside built a city: +1 VP
+icon_crownElSat rolled: dice_5 dice_2
+ElSat discarding resource cards
+icon_crownElSat discarded: woolwoolwoolgraingraingrain
+icon_crownElSat moved robber robber to prob_10 lumber tile
+icon_crownElSat stole: brick from you
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: orewool
+icon_crownElSat got: wool
+icon_crownElSat rolled: dice_1 dice_1
+UserLookaside got: wool
+icon_crownElSat got: wool
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: oreorewoolwool
+icon_crownElSat got: wool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: grain grain
+UserLookaside built a city: +1 VP
+icon_crownElSat rolled: dice_5 dice_2
+ElSat discarding resource cards
+icon_crownElSat discarded: lumberwoolwoolwoolgrain
+icon_crownElSat moved robber robber to prob_9 ore tile
+icon_crownElSat stole: wool from you
+UserLookaside rolled: dice_2 dice_1
+icon_crownElSat got: grainwoolwool
+icon_crownElSat rolled: dice_1 dice_5
+UserLookaside got: lumberlumber
+icon_crownElSat got: brickbrick
+icon_crownElSat gave bank: brickbrick and took ore
+icon_crownElSat built a city: +1 VP
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: lumberlumberlumberlumberbrickbrick
+icon_crownElSat got: brickbrick
+UserLookaside built a road
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside built a settlement: +1 VP
+icon_crownElSat rolled: dice_5 dice_6
+icon_crownElSat got: graingrain
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: oreorewool
+icon_crownElSat got: wool
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside bought development card
+icon_crownElSat rolled: dice_5 dice_3
+UserLookaside got: brickbrick
+icon_crownElSat got: lumberlumber
+icon_crownElSat built a road
+icon_crownElSat built a road
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: oreorewool
+icon_crownElSat got: wool
+icon_crownElSat rolled: dice_2 dice_5
+icon_crownElSat moved robber robber to prob_10 lumber tile
+icon_crownElSat stole: brick from you
+icon_crownElSat gave bank: woolwoolwoolwool and took lumber
+icon_crownElSat built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumberlumber
+icon_crownElSat got: brickbrick
+UserLookaside gave bank: lumberlumber and took grain
+UserLookaside bought development card
+icon_crownElSat rolled: dice_3 dice_2
+UserLookaside got: oreorewool
+icon_crownElSat got: wool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: grain from: ElSat
+UserLookaside rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: brickbrick
+UserLookaside gave bank: brickbrickbrickbrick and took grain
+UserLookaside built a city: +1 VP
+icon_crownElSat rolled: dice_6 dice_6
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: grain
+icon_crownElSat got: grainwoolwoolwool
+UserLookaside bought development card
+icon_crownElSat rolled: dice_5 dice_5
+UserLookaside got: lumberlumberlumberlumberlumberbrickbrick
+icon_crownElSat got: brickbrick
+icon_crownElSat gave bank: brickbrickbrickbrickwoolwoolwoolwool and took oreoreore
+icon_crownElSat built a city: +1 VP
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: grain
+icon_crownElSat got: oregraingraingrain
+UserLookaside gave bank: lumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+icon_crownElSat rolled: dice_5 dice_4
+UserLookaside got: oreorewoolwoolwool
+icon_crownElSat got: wool
+icon_crownElSat bought development card
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole: grain from: ElSat
+UserLookaside bought development card
+icon_crownElSat used Knight card knight
+icon_crownElSat moved robber robber to prob_10 lumber tile
+icon_crownElSat stole: wool from you
+icon_crownElSat rolled: dice_3 dice_3
+UserLookaside got: lumberlumber
+icon_crownElSat got: brickbrickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: grain from: ElSat
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: grain
+icon_crownElSat got: oregraingraingrain
+UserLookaside bought development card
+icon_crownElSat rolled: dice_6 dice_3
+UserLookaside got: oreorewoolwoolwool
+icon_crownElSat got: wool
+icon_crownElSat bought development card
+UserLookaside rolled: dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: brickbrickbrickbrick
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+trophy Lookaside won the game! trophy
+UserLookaside: gg
+icon_crownElSat: GG
+Send a message
+
+Defeat barbarians by playing Cities & Knights with top players
