@@ -1,0 +1,420 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestHungry4Wheat placed a settlement
+GuestHungry4Wheat placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolbrickwool
+GuestHungry4Wheat placed a settlement
+GuestHungry4Wheat placed a road
+GuestHungry4Wheat received starting resources grainwoolore
+GuestHungry4Wheat rolled dice_3 dice_1
+GuestHungry4Wheat got grain
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+GuestHungry4Wheat rolled dice_6 dice_5
+GuestHungry4Wheat got ore
+UserLookaside rolled dice_2 dice_1
+GuestHungry4Wheat got ore
+GuestHungry4Wheat rolled dice_2 dice_4
+GuestHungry4Wheat got wool
+UserLookaside got wool
+GuestHungry4Wheat built a city (+1 VP)
+UserLookaside rolled dice_4 dice_5
+GuestHungry4Wheat got oreore
+UserLookaside got wool
+GuestHungry4Wheat rolled dice_2 dice_2
+GuestHungry4Wheat got graingrain
+UserLookaside rolled dice_5 dice_6
+GuestHungry4Wheat got ore
+GuestHungry4Wheat rolled dice_3 dice_6
+GuestHungry4Wheat got oreore
+UserLookaside got wool
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestHungry4Wheat moved robber robber to prob_11 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grainbrick
+GuestHungry4Wheat rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestHungry4Wheat moved robber robber to prob_10 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_6
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestHungry4Wheat rolled dice_1 dice_3
+GuestHungry4Wheat got graingrain
+GuestHungry4Wheat built a city (+1 VP)
+UserLookaside rolled dice_4 dice_1
+UserLookaside got grainbrick
+GuestHungry4Wheat rolled dice_6 dice_4
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_6 dice_6
+GuestHungry4Wheat got graingrain
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Hungry4Wheat
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole grain from you
+GuestHungry4Wheat rolled dice_5 dice_3
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_4
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+GuestHungry4Wheat rolled dice_5 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_3
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+UserLookaside built a settlement (+1 VP)
+GuestHungry4Wheat rolled dice_3 dice_2
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Hungry4Wheat
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole grain from you
+GuestHungry4Wheat rolled dice_4 dice_4
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_2
+GuestHungry4Wheat got graingrain
+GuestHungry4Wheat rolled dice_3 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_5
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_5
+GuestHungry4Wheat got oreore
+UserLookaside got wooloreore
+UserLookaside bought development card
+UserLookaside bought development card
+GuestHungry4Wheat rolled dice_4 dice_3
+GuestHungry4Wheat discarded woolwoolwoolgraingrain
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole brick from you
+GuestHungry4Wheat bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from Hungry4Wheat
+UserLookaside rolled dice_2 dice_1
+GuestHungry4Wheat got oreore
+GuestHungry4Wheat rolled dice_3 dice_4
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole lumber from you
+GuestHungry4Wheat built a road
+UserLookaside rolled dice_6 dice_6
+GuestHungry4Wheat got graingrain
+GuestHungry4Wheat rolled dice_3 dice_6
+GuestHungry4Wheat got oreore
+UserLookaside got wooloreore
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+GuestHungry4Wheat rolled dice_3 dice_1
+GuestHungry4Wheat got graingrain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_5 dice_1
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+GuestHungry4Wheat rolled dice_1 dice_3
+GuestHungry4Wheat got graingrain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Hungry4Wheat
+GuestHungry4Wheat rolled dice_1 dice_2
+GuestHungry4Wheat got oreore
+UserLookaside rolled dice_5 dice_4
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+GuestHungry4Wheat rolled dice_3 dice_3
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+GuestHungry4Wheat used Monopoly card monopoly
+GuestHungry4Wheat stole 4 wool
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumberlumber
+GuestHungry4Wheat rolled dice_5 dice_6
+GuestHungry4Wheat got oreore
+UserLookaside got wool
+GuestHungry4Wheat used Road Building card road building
+GuestHungry4Wheat placed a road
+GuestHungry4Wheat placed a road
+UserLookaside rolled dice_2 dice_4
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+UserLookaside built a road
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat received largest army (+2 VPs)
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole ore from you
+GuestHungry4Wheat rolled dice_4 dice_3
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole ore from you
+UserLookaside rolled dice_5 dice_4
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside bought development card
+GuestHungry4Wheat rolled dice_6 dice_3
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+GuestHungry4Wheat gave bank oreoreoreore and took grain
+GuestHungry4Wheat used Year of Plenty card year of plenty
+GuestHungry4Wheat took from bank lumber brick
+GuestHungry4Wheat built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Hungry4Wheat
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumberlumber
+UserLookaside gave bank lumberlumberlumberoreoreore and took graingrain
+UserLookaside built a city (+1 VP)
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole lumber from you
+GuestHungry4Wheat rolled dice_1 dice_5
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwool
+UserLookaside rolled dice_6 dice_4
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+GuestHungry4Wheat used Year of Plenty card year of plenty
+GuestHungry4Wheat took from bank grain grain
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_5 dice_3
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+GuestHungry4Wheat rolled dice_1 dice_3
+GuestHungry4Wheat got graingraingrain
+GuestHungry4Wheat used Road Building card road building
+GuestHungry4Wheat placed a road
+GuestHungry4Wheat received longest road (+2 VPs)
+GuestHungry4Wheat placed a road
+GuestHungry4Wheat bought development card
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from Hungry4Wheat to Lookaside (+2 VPs)
+GuestHungry4Wheat rolled dice_3 dice_4
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole ore from you
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole wool from you
+UserLookaside rolled dice_4 dice_5
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+GuestHungry4Wheat rolled dice_1 dice_1
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_3
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwoolwool
+UserLookaside gave bank woolwoolwool and took grain
+GuestHungry4Wheat rolled dice_3 dice_5
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+GuestHungry4Wheat used Monopoly card monopoly
+GuestHungry4Wheat stole 3 lumber
+GuestHungry4Wheat gave bank lumberlumberlumberlumber and took brick
+GuestHungry4Wheat built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_4
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+GuestHungry4Wheat rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_1 dice_2
+GuestHungry4Wheat got oreore
+UserLookaside got wool
+UserLookaside bought development card
+GuestHungry4Wheat rolled dice_6 dice_1
+GuestHungry4Wheat discarded lumberlumberwooloreore
+GuestHungry4Wheat moved robber robber to prob_5 brick tile
+GuestHungry4Wheat stole ore from you
+GuestHungry4Wheat gave bank oreoreore and took grain
+GuestHungry4Wheat bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Hungry4Wheat
+UserLookaside rolled dice_5 dice_1
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwoolwool
+UserLookaside gave bank brickbrickbrickwoolwoolwool and took grainore
+UserLookaside bought development card
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole wool from you
+GuestHungry4Wheat rolled dice_6 dice_2
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took grain
+GuestHungry4Wheat rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberlumberlumberlumberlumber
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Hungry4Wheat
+UserLookaside gave bank lumberlumberlumber and took wool
+UserLookaside bought development card
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole lumber from you
+GuestHungry4Wheat rolled dice_5 dice_3
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Hungry4Wheat
+UserLookaside rolled dice_1 dice_2
+GuestHungry4Wheat got oreore
+UserLookaside got wool
+GuestHungry4Wheat rolled dice_4 dice_1
+UserLookaside got graingrainbrick
+GuestHungry4Wheat gave bank lumberlumberlumber and took grain
+GuestHungry4Wheat bought development card
+UserLookaside rolled dice_5 dice_1
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwoolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole grain from you
+GuestHungry4Wheat rolled dice_5 dice_4
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+GuestHungry4Wheat bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Hungry4Wheat
+UserLookaside rolled dice_3 dice_3
+GuestHungry4Wheat got woolwool
+UserLookaside got brickwoolwool
+UserLookaside gave bank brickbrickbrickwoolwoolwool and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestHungry4Wheat used Knight card knight
+GuestHungry4Wheat moved robber robber to prob_5 grain tile
+GuestHungry4Wheat stole lumber from you
+GuestHungry4Wheat rolled dice_1 dice_6
+GuestHungry4Wheat moved robber robber to prob_9 wool tile
+GuestHungry4Wheat stole lumber from you
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Hungry4Wheat
+GuestHungry4Wheat rolled dice_4 dice_4
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_3
+GuestHungry4Wheat got oreore
+UserLookaside got woolwooloreore
+GuestHungry4Wheat rolled dice_2 dice_6
+GuestHungry4Wheat got lumber
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_5
+GuestHungry4Wheat got oreoreore
+UserLookaside got woolwool
+UserLookaside gave bank lumberlumberlumberwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+GuestHungry4Wheat rolled dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+GuestHungry4Wheat got grain
+GuestHungry4Wheat gave bank oreoreore and took brick
+GuestHungry4Wheat built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_4
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took brick
+UserLookaside built a road
+GuestHungry4Wheat rolled dice_2 dice_1
+GuestHungry4Wheat got oreorewool
+UserLookaside got wool
+GuestHungry4Wheat gave bank oreoreore and took brick
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Hungry4Wheat
+GuestHungry4Wheat rolled dice_1 dice_3
+prob_4 grain tile is blocked by the robber. No resources produced.
+GuestHungry4Wheat got graingrain
+GuestHungry4Wheat gave bank woolwoolwool and took brick
+UserLookaside rolled dice_3 dice_6
+GuestHungry4Wheat got oreore
+UserLookaside got woolwoolwooloreore
+UserLookaside gave bank woolwoolwooloreoreore and took brickgrain
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+GuestHungry4Wheat has left the game
+UserLookaside: glhf
+UserLookaside: tricky board
+GuestHungry4Wheat: very
+UserLookaside: lol hate it when these strats work
+GuestHungry4Wheat: hopefully it works
+GuestHungry4Wheat: luck of the draw
+UserLookaside: ahhhh
+GuestHungry4Wheat: gg
+UserLookaside: yeah 4 vps
+GuestHungry4Wheat: lol
+UserLookaside: luck of the draw
+GuestHungry4Wheat: exactly
+GuestHungry4Wheat: lemme help u win
+GuestHungry4Wheat: what u need
+GuestHungry4Wheat: ill trade\
+UserLookaside: lol can just resign
+UserLookaside: or give me ur whole hand
+GuestHungry4Wheat: nag
+UserLookaside: gg friend
+Send a message
+Send message
+No Ads

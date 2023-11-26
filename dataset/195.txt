@@ -1,0 +1,332 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: wp
+Send a message
+send
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Guestchubz placed a settlement
+Guestchubz placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberwoolbrick
+Guestchubz placed a settlement
+Guestchubz placed a road
+Guestchubz received starting resources grainoreore
+Guestchubz rolled dice_2 dice_4
+UserLookaside rolled dice_3 dice_6
+Guestchubz got brickgrain
+UserLookaside built a road
+Guestchubz rolled dice_1 dice_2
+Guestchubz got ore
+UserLookaside got ore
+UserLookaside rolled dice_5 dice_4
+Guestchubz got brickgrain
+Guestchubz rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Guestchubz moved robber robber to prob_5 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_1
+Guestchubz got ore
+UserLookaside got ore
+Guestchubz rolled dice_2 dice_6
+UserLookaside got brickbrick
+Guestchubz built a city (+1 VP)
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumber
+Guestchubz rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+Guestchubz moved robber robber to prob_2 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brickbrick
+Guestchubz rolled dice_6 dice_4
+Guestchubz got woolwool
+UserLookaside got woolgrain
+Guestchubz bought development card
+UserLookaside rolled dice_2 dice_3
+Guestchubz got lumberlumber
+UserLookaside built a settlement (+1 VP)
+Guestchubz rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_6
+Guestchubz got ore
+Guestchubz rolled dice_5 dice_3
+UserLookaside got brickbrick
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole lumber from chubz
+UserLookaside built a road
+Guestchubz used Knight card knight
+Guestchubz moved robber robber to prob_4 lumber tile
+Guestchubz stole brick from you
+Guestchubz rolled dice_5 dice_5
+Guestchubz got woolwool
+UserLookaside got woolgraingrain
+UserLookaside rolled dice_6 dice_3
+Guestchubz got brickbrickgrain
+UserLookaside got grain
+UserLookaside bought development card
+Guestchubz rolled dice_1 dice_4
+Guestchubz got lumberlumber
+UserLookaside got wool
+Guestchubz built a road
+Guestchubz built a settlement (+1 VP)
+Guestchubz gave bank brickbrick and took grain
+Guestchubz bought development card
+Guestchubz built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole wool from chubz
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumber
+UserLookaside bought development card
+Guestchubz rolled dice_4 dice_2
+UserLookaside rolled dice_4 dice_5
+prob_9 brick tile is blocked by the robber. No resources produced.
+Guestchubz got grain
+UserLookaside got grain
+Guestchubz rolled dice_2 dice_5
+Guestchubz moved robber robber to prob_4 lumber tile
+Guestchubz stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole grain from chubz
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole grain from chubz
+Guestchubz rolled dice_2 dice_4
+UserLookaside rolled dice_2 dice_3
+prob_5 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside built a road
+Guestchubz rolled dice_6 dice_5
+Guestchubz got ore
+UserLookaside rolled dice_5 dice_6
+Guestchubz got ore
+Guestchubz rolled dice_1 dice_5
+UserLookaside rolled dice_2 dice_1
+Guestchubz got ore
+UserLookaside got ore
+UserLookaside bought development card
+Guestchubz rolled dice_4 dice_2
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from chubz
+Guestchubz rolled dice_5 dice_3
+UserLookaside got brickbrick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+Guestchubz rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+Guestchubz got grain
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_4
+Guestchubz got lumberlumber
+UserLookaside got wool
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole ore from chubz
+UserLookaside bought development card
+Guestchubz rolled dice_3 dice_3
+UserLookaside rolled dice_5 dice_5
+Guestchubz got woolwoolwool
+UserLookaside got woolgraingrain
+UserLookaside bought development card
+Guestchubz rolled dice_6 dice_2
+UserLookaside got brickbrick
+Guestchubz bought development card
+UserLookaside rolled dice_6 dice_3
+Guestchubz got brickbrickgrain
+UserLookaside got grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+Guestchubz rolled dice_3 dice_4
+Guestchubz moved robber robber to prob_4 lumber tile
+Guestchubz stole brick from you
+Guestchubz used Road Building card road building
+Guestchubz placed a road
+Guestchubz placed a road
+Guestchubz built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole brick from chubz
+Guestchubz rolled dice_5 dice_1
+Guestchubz got grain
+UserLookaside got grain
+Guestchubz built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+Guestchubz rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+Guestchubz got grain
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_6
+Guestchubz got woolwoolwool
+UserLookaside got woolgraingrain
+UserLookaside wants to give graingraingraingrain for ore
+UserLookaside gave bank graingraingrain and took ore
+Guestchubz rolled dice_6 dice_6
+Guestchubz gave bank woolwool and took ore
+Guestchubz bought development card
+UserLookaside rolled dice_4 dice_1
+Guestchubz got lumberlumberlumber
+UserLookaside got wool
+Guestchubz used Knight card knight
+Guestchubz moved robber robber to prob_8 brick tile
+Guestchubz stole grain from you
+Guestchubz rolled dice_2 dice_5
+Guestchubz moved robber robber to prob_10 grain tile
+Guestchubz stole wool from you
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brickbrickbrick
+Guestchubz rolled dice_4 dice_5
+Guestchubz got brickbrickbrickgrain
+UserLookaside got grain
+Guestchubz built a road
+Guestchubz built a road
+Guestchubz built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+Guestchubz got woolwoolwool
+UserLookaside got wool
+UserLookaside gave bank brickbrickbrick and took ore
+Guestchubz rolled dice_1 dice_1
+Guestchubz got wool
+Guestchubz gave bank woolwool and took ore
+Guestchubz bought development card
+UserLookaside rolled dice_4 dice_1
+Guestchubz got lumberlumberlumber
+UserLookaside got wool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+Guestchubz rolled dice_5 dice_1
+Guestchubz got grain
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumberlumber
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+Guestchubz rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_2
+Guestchubz got ore
+UserLookaside got wooloreore
+UserLookaside bought development card
+Guestchubz rolled dice_6 dice_1
+Guestchubz moved robber robber to prob_8 brick tile
+Guestchubz stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole lumber from chubz
+UserLookaside rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+Guestchubz got graingrain
+UserLookaside got grain
+Guestchubz used Knight card knight
+Guestchubz moved robber robber to prob_10 grain tile
+Guestchubz stole lumber from you
+Guestchubz rolled dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+Guestchubz got woolwoolwool
+UserLookaside got woolwool
+Guestchubz bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumberlumberlumber
+UserLookaside bought development card
+Guestchubz rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+Guestchubz got woolwoolwool
+UserLookaside got woolwool
+Guestchubz gave bank woolwoolwoolwoolwoolwool and took oreoreore
+Guestchubz built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole lumber from chubz
+UserLookaside rolled dice_2 dice_1
+Guestchubz got oreore
+UserLookaside got wooloreore
+UserLookaside gave bank lumberlumberlumberlumberlumberlumberwoolwoolwool and took graingrainore
+UserLookaside built a city (+1 VP)
+Guestchubz used Knight card knight
+Guestchubz moved robber robber to prob_8 brick tile
+Guestchubz stole wool from you
+Guestchubz rolled dice_2 dice_3
+Guestchubz got lumberlumberlumber
+UserLookaside got wool
+Guestchubz bought development card
+UserLookaside rolled dice_6 dice_3
+Guestchubz got brickbrickbrickgraingraingrain
+UserLookaside got grain
+Guestchubz rolled dice_1 dice_4
+Guestchubz got lumberlumberlumber
+UserLookaside got wool
+Guestchubz built a road
+Guestchubz built a road
+Guestlongest road passed from Lookaside to chubz (+2 VPs)
+Guestchubz gave bank lumberlumberlumberlumber and took wool
+Guestchubz built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+Guestchubz got grain
+UserLookaside got graingrain
+Guestchubz rolled dice_3 dice_4
+Guestchubz moved robber robber to prob_10 grain tile
+Guestchubz stole wool from you
+Guestchubz bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brickbrickbrickbrick
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+Guestchubz rolled dice_3 dice_5
+UserLookaside got brickbrickbrickbrick
+UserLookaside rolled dice_5 dice_4
+Guestchubz got brickbrickbrickgraingraingrain
+UserLookaside got grain
+UserLookaside gave bank brickbrickbrick and took lumber
+UserLookaside built a road
+Guestchubz rolled dice_3 dice_3
+Guestchubz got grain
+UserLookaside got graingrain
+Guestchubz built a road
+UserLookaside rolled dice_1 dice_5
+Guestchubz got grain
+UserLookaside got graingrain
+UserLookaside gave bank graingraingrain and took ore
+Guestchubz rolled dice_1 dice_2
+Guestchubz got oreore
+UserLookaside got wooloreoreore
+Guestchubz gave bank graingraingraingrain and took ore
+Guestchubz built a city (+1 VP)
+UserLookaside rolled dice_2 dice_1
+Guestchubz got oreore
+UserLookaside got wooloreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside built a city (+1 VP)
+Guestchubz rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+Guestchubz got woolwoolwool
+UserLookaside got woolwool
+Guestchubz bought development card
+Guestchubz used Knight card knight
+Guestchubz moved robber robber to prob_8 brick tile
+Guestchubz stole ore from you
+UserLookaside rolled dice_1 dice_4
+Guestchubz got woolwoollumberlumberlumber
+UserLookaside got woolwool
+Guestchubz used Knight card knight
+Guestlargest army passed from Lookaside to chubz (+2 VPs)
+trophyGuestchubz won the game! trophy
+Guestchubz has left the game

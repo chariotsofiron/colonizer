@@ -1,0 +1,300 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+GuestCarajillos: ouch
+GuestCarajillos: thats unfortunate
+UserLookaside: it happens
+GuestCarajillos: true
+GuestCarajillos: : )
+GuestCarajillos: ggs probably
+GuestCarajillos: yump
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestCarajillos placed a settlement
+GuestCarajillos placed a road
+GuestCarajillos placed a settlement
+GuestCarajillos placed a road
+GuestCarajillos received starting resources: brickwoollumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberwoollumber
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 ore tile
+UserNo player to steal from
+GuestCarajillos rolled: dice_6 dice_3
+GuestCarajillos got: orewool
+UserLookaside rolled: dice_3 dice_2
+GuestCarajillos got: grain
+UserLookaside got: woolgrain
+GuestCarajillos rolled: dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestCarajillos rolled: dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_1 dice_4
+GuestCarajillos got: grain
+UserLookaside got: woolgrain
+GuestCarajillos rolled: dice_2 dice_2
+UserLookaside got: brick
+GuestCarajillos bought development card
+UserLookaside rolled: dice_4 dice_6
+GuestCarajillos got: grainlumber
+UserLookaside got: lumber
+UserLookaside built a road
+GuestCarajillos rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestCarajillos moved robber robber to prob_4 ore tile
+GuestNo player to steal from
+UserLookaside rolled: dice_3 dice_3
+GuestCarajillos rolled: dice_3 dice_5
+UserLookaside got: lumbergrain
+UserLookaside rolled: dice_5 dice_5
+GuestCarajillos got: grainlumber
+UserLookaside got: lumber
+GuestCarajillos rolled: dice_6 dice_2
+UserLookaside got: lumbergrain
+UserLookaside rolled: dice_4 dice_5
+GuestCarajillos got: orewool
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a settlement: +1 VP
+GuestCarajillos rolled: dice_2 dice_3
+GuestCarajillos got: grain
+UserLookaside got: woolgrain
+GuestCarajillos bought development card
+UserLookaside rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 ore tile
+UserNo player to steal from
+GuestCarajillos rolled: dice_1 dice_1
+UserLookaside rolled: dice_5 dice_6
+GuestCarajillos got: brick
+GuestCarajillos rolled: dice_2 dice_6
+UserLookaside got: lumberlumbergrain
+GuestCarajillos built a road
+UserLookaside rolled: dice_5 dice_4
+GuestCarajillos got: orewool
+UserLookaside gave bank: graingraingraingrain and took brick
+UserLookaside built a road
+GuestCarajillos rolled: dice_4 dice_4
+UserLookaside got: lumberlumbergrain
+GuestCarajillos bought development card
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: brick
+UserLookaside built a settlement: +1 VP
+GuestCarajillos rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: wool from you
+GuestCarajillos built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_4
+GuestCarajillos got: grainlumber
+UserLookaside got: grainlumber
+UserLookaside gave bank: lumberlumber and took ore
+UserLookaside bought development card
+GuestCarajillos rolled: dice_1 dice_5
+GuestCarajillos got: ore
+GuestCarajillos bought development card
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: orebrick
+UserLookaside built a road
+GuestCarajillos rolled: dice_4 dice_6
+GuestCarajillos got: grainlumber
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_5 dice_1
+GuestCarajillos got: ore
+GuestCarajillos rolled: dice_6 dice_5
+GuestCarajillos got: brickbrick
+GuestCarajillos built a road
+UserLookaside rolled: dice_3 dice_2
+GuestCarajillos got: graingrain
+UserLookaside got: woolgrain
+GuestCarajillos rolled: dice_1 dice_1
+UserLookaside rolled: dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside bought development card
+GuestCarajillos rolled: dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+GuestCarajillos used Year of Plenty card year of plenty
+GuestCarajillos took from bank: brick wool
+GuestCarajillos built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: grain from: Carajillos
+UserLookaside rolled: dice_5 dice_6
+GuestCarajillos got: brickbrick
+UserLookaside gave bank: graingraingraingrain and took brick
+UserLookaside built a road
+GuestCarajillos used Knight card knight
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: grain from you
+GuestCarajillos rolled: dice_6 dice_6
+UserLookaside rolled: dice_2 dice_3
+GuestCarajillos got: graingrain
+UserLookaside got: woolgrain
+GuestCarajillos rolled: dice_5 dice_5
+GuestCarajillos got: grainlumber
+UserLookaside got: grainlumber
+GuestCarajillos gave bank: graingraingraingrain and took wool
+GuestCarajillos built a road
+GuestCarajillos built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: brick
+UserLookaside built a settlement: +1 VP
+GuestCarajillos rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingrain
+UserLookaside rolled: dice_5 dice_4
+GuestCarajillos got: oreorewoolwool
+GuestCarajillos rolled: dice_3 dice_1
+UserLookaside got: orebrick
+GuestCarajillos bought development card
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole: brick from: Carajillos
+GuestCarajillos used Knight card knight
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: grain from you
+GuestCarajillos rolled: dice_5 dice_2
+GuestCarajillos moved robber robber to prob_8 grain tile
+GuestCarajillos stole: grain from you
+GuestCarajillos bought development card
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole: grain from: Carajillos
+GuestCarajillos used Knight card knight
+GuestCarajillos received largest army: +2 VPs
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: brick from you
+GuestCarajillos rolled: dice_2 dice_2
+UserLookaside got: orebrick
+UserLookaside rolled: dice_3 dice_6
+GuestCarajillos got: oreorewoolwool
+GuestCarajillos rolled: dice_4 dice_1
+GuestCarajillos got: graingrain
+UserLookaside got: woolgrain
+GuestCarajillos built a city: +1 VP
+UserLookaside rolled: dice_1 dice_4
+GuestCarajillos got: graingraingrain
+UserLookaside got: woolgrain
+UserLookaside gave bank: graingraingraingrain and took ore
+UserLookaside built a city: +1 VP
+GuestCarajillos rolled: dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingraingrain
+UserLookaside rolled: dice_5 dice_1
+GuestCarajillos got: lumberoreoreore
+UserLookaside got: ore
+UserLookaside bought development card
+GuestCarajillos rolled: dice_3 dice_3
+GuestCarajillos got: lumberoreoreore
+UserLookaside got: ore
+GuestCarajillos built a city: +1 VP
+GuestCarajillos bought development card
+UserLookaside rolled: dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: graingraingrain
+UserLookaside bought development card
+GuestCarajillos rolled: dice_2 dice_3
+GuestCarajillos got: graingraingrain
+UserLookaside got: woolgraingrain
+GuestCarajillos bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: grain from: Carajillos
+UserLookaside rolled: dice_2 dice_5
+Lookaside discarding resource cards
+UserLookaside discarded: graingraingraingraingrain
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole: lumber from: Carajillos
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+GuestCarajillos used Knight card knight
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: brick from you
+GuestCarajillos rolled: dice_5 dice_2
+GuestCarajillos moved robber robber to prob_8 grain tile
+GuestCarajillos stole: grain from you
+GuestCarajillos built a road
+UserLookaside rolled: dice_6 dice_6
+GuestCarajillos got: lumber
+GuestCarajillos rolled: dice_6 dice_4
+GuestCarajillos got: grainlumber
+UserLookaside got: grainlumber
+GuestCarajillos built a road
+UserLookaside rolled: dice_1 dice_5
+GuestCarajillos got: lumberlumberoreoreore
+UserLookaside got: ore
+UserLookaside bought development card
+GuestCarajillos rolled: dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestCarajillos built a city: +1 VP
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: orebrickbrick
+UserLookaside built a road
+GuestCarajillos rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole: grain from: Carajillos
+UserLookaside gave bank: lumberlumber and took wool
+UserLookaside built a settlement: +1 VP
+GuestCarajillos used Knight card knight
+GuestCarajillos moved robber robber to prob_8 grain tile
+GuestCarajillos stole: grain from you
+GuestCarajillos rolled: dice_1 dice_2
+UserLookaside got: brickbrick
+UserLookaside rolled: dice_1 dice_1
+GuestCarajillos got: woolwool
+GuestCarajillos rolled: dice_4 dice_6
+GuestCarajillos got: graingrainlumber
+UserLookaside got: grainlumber
+GuestCarajillos bought development card
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: brickbrick
+UserLookaside built a road
+GuestCarajillos rolled: dice_6 dice_5
+GuestCarajillos got: brickbrickbrick
+UserLookaside got: grain
+GuestCarajillos built a settlement: +1 VP
+GuestCarajillos used Road Building card road building
+GuestCarajillos placed a road
+GuestCarajillos placed a road
+GuestCarajillos built a road
+Guestlongest road passed from: Lookaside to: Carajillos: +2 VPs
+UserLookaside rolled: dice_5 dice_4
+GuestCarajillos got: oreoreorewoolwoolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 3: ore
+UserLookaside built a city: +1 VP
+GuestCarajillos rolled: dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumberlumber
+GuestCarajillos built a road
+UserLookaside rolled: dice_3 dice_6
+GuestCarajillos got: oreoreorewoolwoolwool
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+GuestCarajillos rolled: dice_4 dice_3
+Carajillos discarding resource cards
+GuestCarajillos discarded: woolwoolwoolwoolwool
+GuestCarajillos moved robber robber to prob_8 lumber tile
+GuestCarajillos stole: lumber from you
+GuestCarajillos gave bank: oreore and took brick
+GuestCarajillos built a settlement: +1 VP
+trophy Carajillos won the game! trophy

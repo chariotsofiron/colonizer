@@ -1,0 +1,298 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+GuestBigSHLED: Lol
+Send a message
+send
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestBigSHLED placed a settlement
+GuestBigSHLED placed a road
+GuestBigSHLED placed a settlement
+GuestBigSHLED placed a road
+GuestBigSHLED received starting resources brickgrainlumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources grainwoolbrick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+GuestBigSHLED got grain
+GuestBigSHLED rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestBigSHLED moved robber robber to prob_10 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_2
+GuestBigSHLED got woolgrain
+GuestBigSHLED rolled dice_6 dice_4
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_6
+GuestBigSHLED rolled dice_3 dice_6
+UserLookaside got orewool
+UserLookaside rolled dice_2 dice_2
+UserLookaside got grain
+GuestBigSHLED got grain
+GuestBigSHLED rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestBigSHLED moved robber robber to Desert
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_4
+GuestBigSHLED rolled dice_6 dice_2
+UserLookaside rolled dice_5 dice_5
+UserLookaside got grain
+UserLookaside bought development card
+GuestBigSHLED rolled dice_2 dice_3
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_1
+GuestBigSHLED got orelumber
+UserLookaside built a road
+GuestBigSHLED rolled dice_3 dice_2
+UserLookaside got lumber
+GuestBigSHLED built a road
+UserLookaside rolled dice_2 dice_4
+GuestBigSHLED got orelumber
+GuestBigSHLED rolled dice_5 dice_6
+UserLookaside got brick
+GuestBigSHLED got brick
+GuestBigSHLED built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+GuestBigSHLED rolled dice_1 dice_5
+GuestBigSHLED got orelumber
+GuestBigSHLED built a city (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole lumber from BigSHLED
+GuestBigSHLED rolled dice_3 dice_5
+GuestBigSHLED got brick
+GuestBigSHLED built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got orewoolwool
+GuestBigSHLED rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_1
+UserLookaside got grain
+GuestBigSHLED got woolwoolwoolgrain
+UserLookaside bought development card
+GuestBigSHLED rolled dice_1 dice_1
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole wool from BigSHLED
+GuestBigSHLED rolled dice_6 dice_5
+UserLookaside got brick
+GuestBigSHLED got brick
+UserLookaside rolled dice_6 dice_2
+GuestBigSHLED got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from BigSHLED
+UserLookaside built a road
+GuestBigSHLED rolled dice_2 dice_3
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole brick from BigSHLED
+GuestBigSHLED rolled dice_5 dice_5
+UserLookaside got grainwool
+UserLookaside rolled dice_4 dice_5
+UserLookaside got orewoolwool
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestBigSHLED rolled dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_4
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestBigSHLED rolled dice_5 dice_1
+GuestBigSHLED got oreorelumber
+GuestBigSHLED bought development card
+UserLookaside rolled dice_3 dice_3
+GuestBigSHLED got oreorelumber
+GuestBigSHLED rolled dice_3 dice_2
+UserLookaside got lumber
+GuestBigSHLED built a road
+GuestBigSHLED used Knight card knight
+GuestBigSHLED moved robber robber to prob_9 ore tile
+GuestBigSHLED stole ore from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from BigSHLED
+UserLookaside rolled dice_4 dice_6
+UserLookaside got grainwool
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a road
+GuestBigSHLED rolled dice_3 dice_5
+UserLookaside got lumber
+GuestBigSHLED got brick
+UserLookaside rolled dice_6 dice_4
+UserLookaside got grainwool
+GuestBigSHLED rolled dice_5 dice_4
+UserLookaside got orewoolwool
+UserLookaside rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestBigSHLED got lumber
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+GuestBigSHLED rolled dice_5 dice_6
+UserLookaside got brick
+GuestBigSHLED got brick
+GuestBigSHLED built a road
+GuestBigSHLED built a road
+GuestBigSHLED received longest road (+2 VPs)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole ore from BigSHLED
+GuestBigSHLED rolled dice_1 dice_3
+UserLookaside got lumbergrain
+GuestBigSHLED got graingrain
+GuestBigSHLED built a city (+1 VP)
+UserLookaside rolled dice_6 dice_6
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestBigSHLED has disconnected. Bot will wait until next turn to give BigSHLED a chance to reconnect.
+botBigSHLED has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+GuestBigSHLED has reconnected
+GuestBigSHLED rolled dice_1 dice_2
+UserLookaside got graingrain
+GuestBigSHLED got woolwoolwoolgraingrain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumbergrain
+GuestBigSHLED got graingrain
+UserLookaside built a road
+GuestBigSHLED rolled dice_6 dice_1
+GuestBigSHLED moved robber robber to prob_9 ore tile
+GuestBigSHLED stole lumber from you
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from BigSHLED
+GuestBigSHLED rolled dice_5 dice_6
+UserLookaside got brick
+GuestBigSHLED got brickbrick
+GuestBigSHLED built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumbergrain
+GuestBigSHLED got graingrain
+UserLookaside built a road
+GuestBigSHLED rolled dice_5 dice_4
+UserLookaside got oreorewoolwool
+GuestBigSHLED got wool
+UserLookaside rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestBigSHLED got lumberlumber
+UserLookaside bought development card
+UserLookaside bought development card
+GuestBigSHLED rolled dice_5 dice_2
+GuestBigSHLED discarded woolwoolgraingraingrain
+GuestBigSHLED moved robber robber to prob_9 ore tile
+GuestBigSHLED stole grain from you
+GuestBigSHLED built a road
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from BigSHLED
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberlumber
+GuestBigSHLED got grain
+GuestBigSHLED rolled dice_3 dice_5
+UserLookaside got lumberlumber
+GuestBigSHLED got brick
+GuestBigSHLED built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole grain from BigSHLED
+GuestBigSHLED rolled dice_3 dice_2
+UserLookaside got lumberlumber
+GuestBigSHLED got grain
+UserLookaside rolled dice_5 dice_3
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took brickwool
+UserLookaside built a settlement (+1 VP)
+GuestBigSHLED rolled dice_4 dice_5
+UserLookaside got oreorewoolwool
+GuestBigSHLED got wool
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+GuestBigSHLED got woolwoolwoolgraingrain
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestBigSHLED rolled dice_5 dice_5
+UserLookaside got graingrainwoolwool
+UserLookaside rolled dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestBigSHLED rolled dice_6 dice_3
+UserLookaside got oreorewoolwool
+GuestBigSHLED got wool
+GuestBigSHLED gave bank woolwoolwoolwool and took brick
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumberlumber
+GuestBigSHLED got oreorelumberlumber
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestBigSHLED rolled dice_6 dice_2
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumberlumber
+GuestBigSHLED built a settlement (+1 VP)
+GuestBigSHLED bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumberlumber
+GuestBigSHLED got oreorelumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestBigSHLED rolled dice_1 dice_1
+GuestBigSHLED got brick
+GuestBigSHLED built a city (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got graingraingrain
+GuestBigSHLED got woolwoolwoolgraingrain
+UserLookaside gave bank woolwoolwoolwoolgraingraingraingrain and took lumberbrick
+UserLookaside built a settlement (+1 VP)
+GuestBigSHLED rolled dice_4 dice_6
+UserLookaside got graingrainwoolwool
+GuestBigSHLED gave bank lumberlumberlumber and took ore
+GuestBigSHLED bought development card
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrainwoolwool
+GuestBigSHLED used Knight card knight
+GuestBigSHLED moved robber robber to prob_9 ore tile
+GuestBigSHLED stole grain from you
+GuestBigSHLED rolled dice_6 dice_6
+UserLookaside got oreore
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberlumberlumberlumber
+GuestBigSHLED got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from BigSHLED
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestBigSHLED rolled dice_1 dice_2
+UserLookaside got graingraingrain
+GuestBigSHLED got woolwoolwoolgraingrain
+GuestBigSHLED gave bank graingraingrain and took ore
+GuestBigSHLED bought development card
+UserLookaside rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumberlumberlumber
+GuestBigSHLED got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took oreore
+UserLookaside bought development card
+trophyUserLookaside won the game!trophy
+GuestBigSHLED has left the game

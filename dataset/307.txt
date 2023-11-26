@@ -1,0 +1,373 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestCaitlin6925 placed a settlement
+GuestCaitlin6925 placed a road
+GuestCaitlin6925 placed a settlement
+GuestCaitlin6925 placed a road
+GuestCaitlin6925 received starting resources orebricklumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources grainwoolbrick
+UserLookaside rolled dice_3 dice_1
+GuestCaitlin6925 got woolbrick
+UserLookaside got brick
+GuestCaitlin6925 rolled dice_6 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+GuestCaitlin6925 rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestCaitlin6925 moved robber robber to prob_8 brick tile
+GuestNo player to steal from
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+GuestCaitlin6925 rolled dice_1 dice_3
+GuestCaitlin6925 got woolbrick
+UserLookaside got brick
+UserLookaside rolled dice_2 dice_4
+GuestCaitlin6925 got grain
+GuestCaitlin6925 rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestCaitlin6925 moved robber robber to prob_10 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_5 dice_1
+GuestCaitlin6925 got grain
+GuestCaitlin6925 rolled dice_1 dice_2
+GuestCaitlin6925 got grain
+UserLookaside got wool
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_4 dice_1
+GuestCaitlin6925 got lumber
+UserLookaside got wool
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_5 dice_6
+GuestCaitlin6925 got ore
+GuestCaitlin6925 built a road
+GuestCaitlin6925 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+GuestCaitlin6925 rolled dice_5 dice_3
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole grain from Caitlin6925
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestCaitlin6925 used Knight card knight
+GuestCaitlin6925 moved robber robber to prob_5 wool tile
+GuestCaitlin6925 stole wool from you
+GuestCaitlin6925 rolled dice_4 dice_6
+GuestCaitlin6925 got ore
+UserLookaside got lumberore
+UserLookaside rolled dice_1 dice_4
+prob_5 wool tile is blocked by the robber. No resources produced.
+GuestCaitlin6925 got lumber
+GuestCaitlin6925 rolled dice_2 dice_5
+GuestCaitlin6925 moved robber robber to prob_8 brick tile
+GuestCaitlin6925 stole brick from you
+UserLookaside rolled dice_5 dice_4
+GuestCaitlin6925 got grain
+UserLookaside got grain
+GuestCaitlin6925 rolled dice_4 dice_2
+GuestCaitlin6925 got grain
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_2 dice_2
+GuestCaitlin6925 got woolbrick
+UserLookaside got brickbrick
+GuestCaitlin6925 rolled dice_5 dice_2
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole grain from you
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_6 dice_6
+GuestCaitlin6925 rolled dice_2 dice_1
+GuestCaitlin6925 got grain
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Caitlin6925
+UserLookaside bought development card
+GuestCaitlin6925 used Knight card knight
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole lumber from you
+GuestCaitlin6925 rolled dice_5 dice_5
+GuestCaitlin6925 got ore
+UserLookaside got lumberore
+GuestCaitlin6925 built a road
+GuestCaitlin6925 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from Caitlin6925
+UserLookaside rolled dice_5 dice_4
+GuestCaitlin6925 got grain
+UserLookaside got grain
+UserLookaside built a road
+GuestCaitlin6925 used Knight card knight
+GuestCaitlin6925 received largest army (+2 VPs)
+GuestCaitlin6925 moved robber robber to prob_5 wool tile
+GuestCaitlin6925 stole grain from you
+GuestCaitlin6925 rolled dice_2 dice_4
+GuestCaitlin6925 got grain
+UserLookaside rolled dice_6 dice_3
+GuestCaitlin6925 got grain
+UserLookaside got grain
+GuestCaitlin6925 rolled dice_6 dice_5
+GuestCaitlin6925 got oreore
+GuestCaitlin6925 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got bricklumber
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_3 dice_3
+GuestCaitlin6925 got grain
+UserLookaside rolled dice_1 dice_2
+GuestCaitlin6925 got grain
+UserLookaside got wool
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+GuestCaitlin6925 got lumber
+UserLookaside rolled dice_1 dice_4
+prob_5 wool tile is blocked by the robber. No resources produced.
+GuestCaitlin6925 got lumber
+GuestCaitlin6925 rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_1
+GuestCaitlin6925 got grain
+UserLookaside got wool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 6 grain
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+GuestCaitlin6925 rolled dice_3 dice_1
+GuestCaitlin6925 got woolbrick
+UserLookaside got brickbrick
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from Caitlin6925
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_5 dice_6
+GuestCaitlin6925 got oreoreore
+UserLookaside rolled dice_5 dice_3
+UserLookaside got bricklumber
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_1
+GuestCaitlin6925 got lumber
+UserLookaside got wool
+UserLookaside built a settlement (+1 VP)
+GuestCaitlin6925 rolled dice_4 dice_4
+UserLookaside got bricklumberlumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got bricklumberlumber
+UserLookaside gave bank lumberlumber and took ore
+GuestCaitlin6925 rolled dice_1 dice_3
+GuestCaitlin6925 got woolbrick
+UserLookaside got brickbrick
+GuestCaitlin6925 built a road
+GuestCaitlin6925 received longest road (+2 VPs)
+UserLookaside rolled dice_4 dice_2
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside gave bank lumberlumberbrickbrickbrickbrick and took oreore
+UserLookaside built a city (+1 VP)
+GuestCaitlin6925 rolled dice_3 dice_6
+GuestCaitlin6925 got graingrain
+UserLookaside got graingrain
+GuestCaitlin6925 built a settlement (+1 VP)
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole ore from Caitlin6925
+GuestCaitlin6925 used Knight card knight
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole grain from you
+GuestCaitlin6925 rolled dice_5 dice_2
+GuestCaitlin6925 moved robber robber to prob_5 wool tile
+GuestCaitlin6925 stole grain from you
+UserLookaside rolled dice_1 dice_1
+UserLookaside got brick
+GuestCaitlin6925 rolled dice_3 dice_5
+UserLookaside got bricklumberlumberlumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got bricklumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumberlumberlumberbrickbrickbrickbrick and took graingrainoreore
+UserLookaside built a city (+1 VP)
+GuestCaitlin6925 rolled dice_4 dice_1
+prob_5 wool tile is blocked by the robber. No resources produced.
+GuestCaitlin6925 got lumberlumber
+UserLookaside rolled dice_2 dice_1
+GuestCaitlin6925 got grain
+UserLookaside got wool
+GuestCaitlin6925 rolled dice_3 dice_3
+GuestCaitlin6925 got grain
+UserLookaside got lumberlumber
+UserLookaside rolled dice_4 dice_2
+GuestCaitlin6925 got grain
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_1 dice_3
+GuestCaitlin6925 got woolbrick
+UserLookaside got brickbrick
+GuestCaitlin6925 built a road
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_5 dice_3
+UserLookaside got bricklumberlumberlumber
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_5 dice_5
+GuestCaitlin6925 got lumberoreore
+UserLookaside got lumberoreore
+GuestCaitlin6925 used Year of Plenty card year of plenty
+GuestCaitlin6925 took from bank wool ore
+GuestCaitlin6925 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_2
+GuestCaitlin6925 got graingrain
+UserLookaside got wool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from Caitlin6925
+GuestCaitlin6925 rolled dice_1 dice_6
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole ore from you
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_4 dice_5
+GuestCaitlin6925 got oregraingrain
+UserLookaside got graingraingrain
+GuestCaitlin6925 rolled dice_3 dice_1
+GuestCaitlin6925 got woolwoolbrick
+UserLookaside got brickbrick
+GuestCaitlin6925 built a settlement (+1 VP)
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_6 dice_6
+GuestCaitlin6925 got grain
+GuestCaitlin6925 rolled dice_2 dice_3
+GuestCaitlin6925 got lumberlumber
+UserLookaside got woolwool
+GuestCaitlin6925 used Road Building card road building
+GuestCaitlin6925 placed a road
+GuestCaitlin6925 placed a road
+UserLookaside rolled dice_6 dice_5
+GuestCaitlin6925 got oreoreore
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_2 dice_5
+GuestCaitlin6925 moved robber robber to prob_6 lumber tile
+GuestCaitlin6925 stole grain from you
+GuestCaitlin6925 built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from Caitlin6925
+UserLookaside rolled dice_4 dice_4
+UserLookaside got bricklumberlumberlumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from Caitlin6925 to Lookaside (+2 VPs)
+GuestCaitlin6925 used Knight card knight
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole wool from you
+GuestCaitlin6925 rolled dice_2 dice_4
+GuestCaitlin6925 got graingrain
+UserLookaside got lumberlumberlumber
+GuestCaitlin6925 gave bank graingrain and took ore
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_5 dice_4
+GuestCaitlin6925 got oreoreoregraingrain
+UserLookaside got graingraingrain
+UserLookaside gave bank lumberlumbergraingraingraingrain and took woolore
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_3 dice_2
+GuestCaitlin6925 got lumberlumberlumber
+UserLookaside got woolwool
+GuestCaitlin6925 built a city (+1 VP)
+UserLookaside rolled dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_6 dice_5
+GuestCaitlin6925 got oreoreoreore
+GuestCaitlin6925 gave bank lumberlumberlumberlumber and took brick
+GuestCaitlin6925 built a road
+UserLookaside rolled dice_4 dice_6
+GuestCaitlin6925 got lumberlumberoreore
+UserLookaside got lumberoreore
+UserLookaside bought development card
+GuestCaitlin6925 rolled dice_3 dice_6
+GuestCaitlin6925 got oreoreoregraingrain
+UserLookaside got graingraingrain
+GuestCaitlin6925 gave bank oreoreoreoreoreoreoreore and took brickwool
+GuestCaitlin6925 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+GuestCaitlin6925 got woolwoolbrickbrick
+UserLookaside got brickbrick
+UserLookaside built a settlement (+1 VP)
+GuestCaitlin6925 rolled dice_1 dice_6
+GuestCaitlin6925 moved robber robber to prob_6 lumber tile
+GuestCaitlin6925 stole ore from you
+GuestCaitlin6925 built a road
+GuestCaitlin6925 built a road
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got bricklumberlumberlumberlumber
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_1 dice_1
+UserLookaside got brickbrick
+UserLookaside rolled dice_6 dice_6
+GuestCaitlin6925 got graingrain
+GuestCaitlin6925 rolled dice_5 dice_6
+GuestCaitlin6925 got oreoreoreore
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_3 dice_1
+GuestCaitlin6925 got woolwoolbrickbrick
+UserLookaside got brickbrick
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestCaitlin6925 rolled dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestCaitlin6925 got graingraingrain
+GuestCaitlin6925 used Year of Plenty card year of plenty
+GuestCaitlin6925 took from bank lumber lumber
+GuestCaitlin6925 built a settlement (+1 VP)
+GuestCaitlin6925 built a road
+UserLookaside rolled dice_6 dice_3
+GuestCaitlin6925 got oreoreoregraingrain
+UserLookaside got graingraingrain
+GuestCaitlin6925 rolled dice_4 dice_3
+UserLookaside discarded brickbrickbrickgrainore
+GuestCaitlin6925 moved robber robber to prob_8 lumber tile
+GuestCaitlin6925 stole brick from you
+GuestCaitlin6925 bought development card
+GuestCaitlin6925 gave bank graingrain and took wool
+GuestCaitlin6925 bought development card
+UserLookaside rolled dice_3 dice_2
+GuestCaitlin6925 got lumberlumberlumberlumberlumber
+UserLookaside got woolwool
+GuestCaitlin6925 rolled dice_5 dice_4
+GuestCaitlin6925 got oreoreoregraingrain
+UserLookaside got graingraingrain
+GuestCaitlin6925 built a road
+GuestCaitlin6925 gave bank graingrain and took brick
+GuestCaitlin6925 built a road
+Guestlongest road passed from Lookaside to Caitlin6925 (+2 VPs)
+trophyGuestCaitlin6925 won the game!trophy
+GuestCaitlin6925 has left the game
+UserLookaside: noooo
+Send a message
+Send message
+No Ads

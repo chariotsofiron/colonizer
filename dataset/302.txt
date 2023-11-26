@@ -1,0 +1,331 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestScrapbrain placed a settlement
+GuestScrapbrain placed a road
+GuestScrapbrain placed a settlement
+GuestScrapbrain placed a road
+GuestScrapbrain received starting resources lumberbrickore
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolbricklumber
+UserLookaside rolled dice_6 dice_5
+GuestScrapbrain got grain
+GuestScrapbrain rolled dice_2 dice_2
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got brick
+GuestScrapbrain got grain
+GuestScrapbrain rolled dice_3 dice_3
+UserLookaside got wool
+GuestScrapbrain got ore
+UserLookaside rolled dice_6 dice_2
+GuestScrapbrain rolled dice_4 dice_5
+UserLookaside got ore
+GuestScrapbrain got brick
+UserLookaside rolled dice_3 dice_2
+UserLookaside got grain
+GuestScrapbrain got lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestScrapbrain rolled dice_4 dice_1
+UserLookaside got grainlumber
+GuestScrapbrain got lumber
+GuestScrapbrain built a road
+GuestScrapbrain built a road
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 wool tile
+UserNo player to steal from
+UserLookaside bought development card
+GuestScrapbrain rolled dice_5 dice_3
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+GuestScrapbrain got wool
+GuestScrapbrain rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestScrapbrain moved robber robber to prob_5 grain tile
+GuestScrapbrain stole wool from you
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumberlumber
+GuestScrapbrain rolled dice_4 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_2
+UserLookaside got wool
+GuestScrapbrain got ore
+GuestScrapbrain rolled dice_1 dice_3
+UserLookaside got lumberlumber
+GuestScrapbrain bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got wool
+GuestScrapbrain got ore
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside bought development card
+GuestScrapbrain rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole lumber from you
+UserLookaside rolled dice_2 dice_3
+UserLookaside got grainlumber
+GuestScrapbrain got lumber
+GuestScrapbrain rolled dice_3 dice_6
+UserLookaside got ore
+GuestScrapbrain got brick
+GuestScrapbrain built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from Scrapbrain
+UserLookaside rolled dice_3 dice_5
+UserLookaside got ore
+UserLookaside bought development card
+GuestScrapbrain used Knight card knight
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole ore from you
+GuestScrapbrain rolled dice_6 dice_6
+UserLookaside rolled dice_6 dice_3
+UserLookaside got ore
+GuestScrapbrain got brickore
+GuestScrapbrain rolled dice_2 dice_5
+GuestScrapbrain moved robber robber to prob_5 grain tile
+GuestScrapbrain stole ore from you
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole brick from Scrapbrain
+UserLookaside built a road
+GuestScrapbrain rolled dice_2 dice_6
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole ore from Scrapbrain
+GuestScrapbrain rolled dice_2 dice_3
+UserLookaside got grainlumber
+GuestScrapbrain got lumber
+UserLookaside rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside bought development card
+GuestScrapbrain rolled dice_2 dice_1
+UserLookaside got brick
+GuestScrapbrain got grain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got wool
+GuestScrapbrain got wool
+GuestScrapbrain rolled dice_4 dice_6
+UserLookaside got wool
+GuestScrapbrain got wool
+GuestScrapbrain bought development card
+UserLookaside rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestScrapbrain used Knight card knight
+GuestScrapbrain moved robber robber to prob_5 grain tile
+GuestScrapbrain stole ore from you
+GuestScrapbrain rolled dice_4 dice_4
+UserLookaside got ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from Scrapbrain
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumber
+GuestScrapbrain got lumber
+UserLookaside built a road
+GuestScrapbrain rolled dice_6 dice_3
+prob_9 brick tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+GuestScrapbrain got ore
+UserLookaside rolled dice_4 dice_1
+UserLookaside got grainlumber
+GuestScrapbrain got lumber
+UserLookaside gave bank oreoreoreore and took brick
+UserLookaside built a settlement (+1 VP)
+GuestScrapbrain rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+GuestScrapbrain got ore
+GuestScrapbrain gave bank oreoreoreore and took brick
+GuestScrapbrain built a road
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grainlumber
+GuestScrapbrain got lumber
+UserLookaside bought development card
+GuestScrapbrain rolled dice_3 dice_6
+prob_9 brick tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+GuestScrapbrain got ore
+UserLookaside rolled dice_1 dice_1
+UserLookaside got grain
+UserLookaside gave bank oreoreoreore and took brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+GuestScrapbrain rolled dice_4 dice_3
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole lumber from you
+UserLookaside rolled dice_4 dice_5
+UserLookaside got oreore
+GuestScrapbrain got brickore
+GuestScrapbrain rolled dice_6 dice_4
+UserLookaside got lumberwool
+GuestScrapbrain got wool
+GuestScrapbrain built a road
+GuestScrapbrain gave bank lumberlumberlumberlumber and took grain
+GuestScrapbrain bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got brick
+GuestScrapbrain got grain
+GuestScrapbrain rolled dice_5 dice_2
+GuestScrapbrain moved robber robber to prob_5 grain tile
+GuestScrapbrain stole lumber from you
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwool
+GuestScrapbrain got ore
+GuestScrapbrain rolled dice_5 dice_6
+GuestScrapbrain got graingrain
+GuestScrapbrain built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumber
+GuestScrapbrain got lumber
+UserLookaside gave bank lumberlumberlumber and took grain
+GuestScrapbrain rolled dice_5 dice_5
+UserLookaside got lumberwool
+GuestScrapbrain got woolwool
+UserLookaside rolled dice_5 dice_3
+UserLookaside got oreore
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestScrapbrain rolled dice_2 dice_2
+UserLookaside got lumberlumber
+GuestScrapbrain got lumber
+UserLookaside rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestScrapbrain got lumber
+GuestScrapbrain rolled dice_2 dice_5
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole ore from you
+GuestScrapbrain bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumberlumber
+GuestScrapbrain got lumber
+GuestScrapbrain rolled dice_6 dice_5
+GuestScrapbrain got graingraingrain
+GuestScrapbrain gave bank lumberlumberlumberlumber and took brick
+GuestScrapbrain built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestScrapbrain got oreore
+GuestScrapbrain rolled dice_6 dice_4
+UserLookaside got lumberwool
+GuestScrapbrain got woolwool
+GuestScrapbrain bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from Scrapbrain
+GuestScrapbrain used Knight card knight
+GuestScrapbrain received largest army (+2 VPs)
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole lumber from you
+GuestScrapbrain rolled dice_1 dice_6
+GuestScrapbrain moved robber robber to prob_5 grain tile
+GuestScrapbrain stole lumber from you
+GuestScrapbrain bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got brick
+GuestScrapbrain got graingraingrain
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+GuestScrapbrain rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestScrapbrain got lumber
+UserLookaside rolled dice_5 dice_4
+UserLookaside got oreoreore
+GuestScrapbrain got brickore
+GuestScrapbrain rolled dice_6 dice_3
+UserLookaside got oreoreore
+GuestScrapbrain got brickore
+GuestScrapbrain gave bank lumberlumberlumberlumber and took ore
+GuestScrapbrain built a city (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got brick
+GuestScrapbrain got graingraingrain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestScrapbrain rolled dice_5 dice_6
+GuestScrapbrain got woolgraingraingrain
+GuestScrapbrain gave bank graingraingraingrain and took lumber
+GuestScrapbrain built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from Scrapbrain
+GuestScrapbrain used Knight card knight
+GuestScrapbrain moved robber robber to prob_6 wool tile
+GuestScrapbrain stole wool from you
+GuestScrapbrain rolled dice_2 dice_4
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestScrapbrain got oreoreore
+GuestScrapbrain built a city (+1 VP)
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brickoreore
+UserLookaside gave bank oreoreore and took grain
+GuestScrapbrain rolled dice_6 dice_6
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberwoolwool
+GuestScrapbrain got lumberwoolwool
+UserLookaside gave bank woolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestScrapbrain rolled dice_4 dice_1
+UserLookaside got graingrainlumber
+GuestScrapbrain got lumberlumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole lumber from Scrapbrain
+GuestScrapbrain rolled dice_5 dice_4
+UserLookaside got oreoreoreore
+GuestScrapbrain got brickbrickbrickoreore
+GuestScrapbrain built a road
+GuestScrapbrain built a road
+UserLookaside rolled dice_3 dice_2
+UserLookaside got graingrainlumber
+GuestScrapbrain got lumberlumber
+UserLookaside gave bank oreoreore and took wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a city (+1 VP)
+GuestScrapbrain rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+GuestScrapbrain gave bank woolwool and took grain
+GuestScrapbrain built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwool
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestScrapbrain rolled dice_4 dice_5
+UserLookaside got oreoreoreore
+GuestScrapbrain got brickbrickbrickoreore
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumberlumberlumber
+GuestScrapbrain got lumberlumberlumber
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+Send a message
+Send message
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

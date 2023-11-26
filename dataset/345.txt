@@ -1,0 +1,243 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestLevins7839 placed a settlement
+GuestLevins7839 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources grainwoollumber
+GuestLevins7839 placed a settlement
+GuestLevins7839 placed a road
+GuestLevins7839 received starting resources woolbrickgrain
+GuestLevins7839 rolled dice_3 dice_3
+GuestLevins7839 got oregrain
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_3
+GuestLevins7839 got ore
+GuestLevins7839 rolled dice_5 dice_4
+GuestLevins7839 got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_6
+GuestLevins7839 got lumber
+UserLookaside got lumber
+GuestLevins7839 rolled dice_4 dice_2
+GuestLevins7839 got oregrain
+UserLookaside got grain
+GuestLevins7839 built a city (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserLookaside got brick
+GuestLevins7839 rolled dice_5 dice_6
+GuestLevins7839 got brick
+GuestLevins7839 built a road
+GuestLevins7839 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+GuestLevins7839 rolled dice_4 dice_6
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got woolwool
+GuestLevins7839 rolled dice_1 dice_2
+GuestLevins7839 got grainwool
+UserLookaside rolled dice_2 dice_6
+GuestLevins7839 got brick
+UserLookaside got brick
+UserLookaside built a settlement (+1 VP)
+GuestLevins7839 rolled dice_1 dice_5
+GuestLevins7839 got oreoregrain
+UserLookaside got grain
+GuestLevins7839 bought development card
+UserLookaside rolled dice_5 dice_1
+GuestLevins7839 got oreoregrain
+UserLookaside got grain
+GuestLevins7839 rolled dice_4 dice_5
+GuestLevins7839 got lumberlumber
+UserLookaside got lumber
+GuestLevins7839 built a city (+1 VP)
+GuestLevins7839 built a road
+UserLookaside rolled dice_6 dice_5
+GuestLevins7839 got brickbrick
+UserLookaside got brick
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a road
+UserLookaside built a road
+GuestLevins7839 rolled dice_5 dice_2
+GuestLevins7839 moved robber robber to prob_5 wool tile
+GuestLevins7839 stole wool from you
+UserLookaside rolled dice_5 dice_3
+GuestLevins7839 got brick
+UserLookaside got brick
+GuestLevins7839 rolled dice_6 dice_1
+GuestLevins7839 moved robber robber to prob_9 lumber tile
+GuestLevins7839 stole grain from you
+GuestLevins7839 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_5
+GuestLevins7839 got ore
+UserLookaside got grain
+GuestLevins7839 rolled dice_3 dice_5
+GuestLevins7839 got bricklumber
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from Levins7839
+GuestLevins7839 used Knight card knight
+GuestLevins7839 moved robber robber to prob_5 wool tile
+GuestLevins7839 stole brick from you
+GuestLevins7839 rolled dice_2 dice_2
+GuestLevins7839 got oreoreore
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_3
+GuestLevins7839 got lumberlumber
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+GuestLevins7839 rolled dice_6 dice_5
+GuestLevins7839 got brickbrick
+UserLookaside got brickbrick
+GuestLevins7839 built a road
+GuestLevins7839 built a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from Levins7839
+GuestLevins7839 rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestLevins7839 got graingrain
+UserLookaside got grain
+GuestLevins7839 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got woolwoolwool
+GuestLevins7839 rolled dice_5 dice_5
+GuestLevins7839 got oreore
+UserLookaside got grainore
+UserLookaside rolled dice_4 dice_6
+GuestLevins7839 got oreore
+UserLookaside got grainore
+UserLookaside built a city (+1 VP)
+GuestLevins7839 rolled dice_3 dice_6
+GuestLevins7839 got lumberlumber
+UserLookaside got lumberlumberlumber
+GuestLevins7839 built a road
+UserLookaside rolled dice_2 dice_2
+GuestLevins7839 got oreoreore
+UserLookaside got ore
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestLevins7839 rolled dice_1 dice_3
+GuestLevins7839 got oreoreore
+UserLookaside got ore
+GuestLevins7839 gave bank oreoreoreoreoreoreoreore and took woolgrain
+GuestLevins7839 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole ore from Levins7839
+GuestLevins7839 rolled dice_4 dice_4
+prob_8 lumber tile is blocked by the robber. No resources produced.
+GuestLevins7839 got brick
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_2
+prob_8 lumber tile is blocked by the robber. No resources produced.
+GuestLevins7839 got brick
+UserLookaside got brick
+GuestLevins7839 rolled dice_1 dice_1
+UserLookaside got grain
+UserLookaside rolled dice_6 dice_4
+GuestLevins7839 got oreore
+UserLookaside got grainoreore
+UserLookaside built a city (+1 VP)
+GuestLevins7839 rolled dice_4 dice_2
+GuestLevins7839 got oreoregraingrain
+UserLookaside got graingrain
+GuestLevins7839 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole ore from Levins7839
+UserLookaside built a city (+1 VP)
+GuestLevins7839 rolled dice_3 dice_4
+GuestLevins7839 moved robber robber to prob_5 wool tile
+GuestLevins7839 stole brick from you
+UserLookaside rolled dice_3 dice_1
+GuestLevins7839 got oreoreoreore
+UserLookaside got ore
+GuestLevins7839 rolled dice_6 dice_3
+GuestLevins7839 got lumberlumber
+UserLookaside got lumberlumberlumberlumber
+GuestLevins7839 gave bank lumberlumberlumberoreoreore and took woolgrain
+GuestLevins7839 bought development card
+UserLookaside rolled dice_5 dice_3
+GuestLevins7839 got brickbricklumberlumberlumber
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestLevins7839 rolled dice_3 dice_3
+GuestLevins7839 got oreoregraingrain
+UserLookaside got graingrain
+GuestLevins7839 gave bank brickbrickbrick and took wool
+GuestLevins7839 built a settlement (+1 VP)
+GuestLevins7839 gave bank oreore and took wool
+GuestLevins7839 bought development card
+UserLookaside rolled dice_4 dice_5
+GuestLevins7839 got lumberlumber
+UserLookaside got lumberlumberlumberlumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+GuestLevins7839 rolled dice_1 dice_6
+GuestLevins7839 moved robber robber to prob_10 grain tile
+GuestLevins7839 stole lumber from you
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole lumber from Levins7839
+GuestLevins7839 used Knight card knight
+GuestLevins7839 moved robber robber to prob_5 wool tile
+GuestLevins7839 stole lumber from you
+GuestLevins7839 rolled dice_1 dice_1
+UserLookaside got grain
+GuestLevins7839 built a road
+UserLookaside rolled dice_6 dice_6
+GuestLevins7839 rolled dice_6 dice_5
+GuestLevins7839 got brickbrick
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_3 dice_6
+GuestLevins7839 got lumberlumber
+UserLookaside got lumberlumberlumberlumber
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumber and took wool
+UserLookaside built a settlement (+1 VP)
+GuestLevins7839 rolled dice_1 dice_3
+GuestLevins7839 got oreoreoreore
+UserLookaside got ore
+GuestLevins7839 gave bank lumberlumberlumberoreore and took woolgrain
+GuestLevins7839 built a road
+GuestLevins7839 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_2
+GuestLevins7839 got brickbricklumberlumberlumber
+UserLookaside got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took woolgrain
+UserLookaside bought development card
+GuestLevins7839 rolled dice_6 dice_3
+GuestLevins7839 got lumberlumber
+UserLookaside got lumberlumberlumberlumberlumber
+GuestLevins7839 used Knight card knight
+GuestLevins7839 received largest army (+2 VPs)
+GuestLevins7839 moved robber robber to prob_10 grain tile
+GuestLevins7839 stole lumber from you
+GuestLevins7839 built a road
+GuestLevins7839 built a road
+GuestLevins7839 gave bank oreore and took brick
+GuestLevins7839 built a road
+Guestlongest road passed from Lookaside to Levins7839 (+2 VPs)
+trophyGuestLevins7839 won the game!trophy
+GuestLevins7839: g
+Send a message
+Send message
+7/8 player expansion
+Use special build phases to try to win against 7 other players

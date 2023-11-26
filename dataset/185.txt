@@ -1,0 +1,277 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+SettlerKeevy placed a settlement
+SettlerKeevy placed a road
+SettlerKeevy placed a settlement
+SettlerKeevy placed a road
+SettlerKeevy received starting resources: brickwoolgrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: wooloreore
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: wool
+SettlerKeevy rolled: dice_3 dice_5
+UserLookaside got: grain
+SettlerKeevy got: grainore
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: brick
+SettlerKeevy got: wool
+SettlerKeevy rolled: dice_6 dice_4
+UserLookaside got: brick
+SettlerKeevy got: wool
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+SettlerKeevy rolled: dice_4 dice_5
+UserLookaside got: wool
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: lumber
+UserLookaside bought development card
+SettlerKeevy rolled: dice_5 dice_3
+UserLookaside got: grain
+SettlerKeevy got: grainore
+UserLookaside rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 grain tile
+UserNo player to steal from
+SettlerKeevy has disconnected.
+SettlerBot will wait until next turn to give Keevy a chance to reconnect
+botKeevy has left the game, giving them 2 minutes to reconnect.
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+SettlerKeevy has reconnected
+SettlerKeevy rolled: dice_1 dice_2
+UserLookaside got: ore
+SettlerKeevy got: wool
+SettlerKeevy bought development card
+UserLookaside rolled: dice_5 dice_6
+SettlerKeevy rolled: dice_3 dice_1
+SettlerKeevy got: bricklumber
+SettlerKeevy built a road
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: ore
+SettlerKeevy got: wool
+SettlerKeevy rolled: dice_1 dice_4
+UserLookaside got: lumber
+UserLookaside rolled: dice_3 dice_3
+UserLookaside got: ore
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+SettlerKeevy rolled: dice_4 dice_2
+UserLookaside got: ore
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: lumber
+SettlerKeevy rolled: dice_4 dice_4
+UserLookaside got: grain
+SettlerKeevy got: grainore
+SettlerKeevy bought development card
+SettlerKeevy used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+SettlerKeevy moved robber robber to prob_6 ore tile
+SettlerKeevy stole: ore from you
+UserLookaside used Knight card knight
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+UserLookaside rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to Desert
+UserNo player to steal from
+SettlerKeevy rolled: dice_2 dice_6
+UserLookaside got: grain
+SettlerKeevy got: grainore
+SettlerKeevy built a city: +1 VP
+UserLookaside rolled: dice_6 dice_6
+UserLookaside built a city: +1 VP
+SettlerKeevy rolled: dice_3 dice_4
+SettlerKeevy moved robber robber to prob_5 lumber tile
+SettlerKeevy stole: wool from you
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: ore
+SettlerKeevy rolled: dice_6 dice_5
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_4 lumber tile
+UserYou stole: grain from: Keevy
+SettlerKeevy used Knight card knight
+SettlerKeevy moved robber robber to prob_5 lumber tile
+SettlerKeevy stole: ore from you
+SettlerKeevy rolled: dice_6 dice_4
+UserLookaside got: brickbrick
+SettlerKeevy got: woolwool
+UserLookaside rolled: dice_2 dice_2
+SettlerKeevy got: bricklumberlumber
+SettlerKeevy rolled: dice_3 dice_2
+prob_5 lumber tile is blocked by the robber. No resources produced.
+SettlerKeevy built a road
+SettlerKeevy gave bank: woolwoolwoolwool and took grain
+SettlerKeevy built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: ore
+SettlerKeevy rolled: dice_2 dice_6
+UserLookaside got: graingrain
+SettlerKeevy got: graingrainoreore
+SettlerKeevy built a city: +1 VP
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: wool
+UserLookaside built a road
+SettlerKeevy rolled: dice_5 dice_2
+SettlerKeevy moved robber robber to prob_10 brick tile
+SettlerKeevy stole: brick from you
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: graingrain
+SettlerKeevy got: graingraingrainoreore
+UserLookaside gave bank: graingraingrain and took ore
+UserLookaside built a city: +1 VP
+SettlerKeevy rolled: dice_5 dice_6
+SettlerKeevy bought development card
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: oreoreore
+SettlerKeevy got: woolwool
+SettlerKeevy rolled: dice_5 dice_1
+UserLookaside got: oreore
+SettlerKeevy bought development card
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: graingrain
+SettlerKeevy got: graingraingrainoreore
+UserLookaside bought development card
+SettlerKeevy rolled: dice_6 dice_3
+UserLookaside got: woolwool
+SettlerKeevy bought development card
+UserLookaside rolled: dice_6 dice_5
+SettlerKeevy rolled: dice_3 dice_3
+UserLookaside got: oreore
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_4 brick tile
+UserYou stole: grain from: Keevy
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank: oreoreoreoreoreore and took lumberbrick
+UserLookaside built a settlement: +1 VP
+SettlerKeevy used Knight card knight
+SettlerKeevy received largest army: +2 VPs
+SettlerKeevy moved robber robber to prob_5 lumber tile
+SettlerKeevy stole: wool from you
+SettlerKeevy rolled: dice_5 dice_3
+UserLookaside got: graingrain
+SettlerKeevy got: graingraingrainoreore
+SettlerKeevy bought development card
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: oreore
+SettlerKeevy used Knight card knight
+SettlerKeevy moved robber robber to prob_6 ore tile
+SettlerKeevy stole: grain from you
+SettlerKeevy rolled: dice_4 dice_1
+UserLookaside got: lumberlumber
+SettlerKeevy gave bank: graingraingrain and took wool
+SettlerKeevy bought development card
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: lumberlumber
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+SettlerKeevy rolled: dice_1 dice_3
+UserLookaside got: lumber
+SettlerKeevy got: brickbricklumberlumber
+SettlerKeevy built a road
+SettlerKeevy built a road
+SettlerKeevy used Year of Plenty card year of plenty
+SettlerKeevy took from bank: lumber wool
+SettlerKeevy built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: brickbrick
+SettlerKeevy got: woolwoolwool
+UserLookaside built a road
+SettlerKeevy rolled: dice_3 dice_6
+UserLookaside got: woolwoolwool
+SettlerKeevy got: grain
+SettlerKeevy bought development card
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole: wool from: Keevy
+UserLookaside gave bank: woolwoolwool and took lumber
+UserLookaside built a settlement: +1 VP
+SettlerKeevy used Knight card knight
+SettlerKeevy moved robber robber to prob_6 ore tile
+SettlerKeevy stole: ore from you
+SettlerKeevy rolled: dice_4 dice_4
+UserLookaside got: graingrain
+SettlerKeevy got: graingraingrainoreore
+SettlerKeevy bought development card
+UserLookaside rolled: dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+UserLookaside bought development card
+SettlerKeevy rolled: dice_3 dice_2
+UserLookaside got: lumberlumberlumber
+SettlerKeevy got: lumber
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: woolwoolwool
+SettlerKeevy got: grain
+SettlerKeevy rolled: dice_3 dice_5
+UserLookaside got: graingrain
+SettlerKeevy got: graingraingrainoreore
+SettlerKeevy built a city: +1 VP
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: oreoreore
+SettlerKeevy got: woolwool
+UserLookaside built a city: +1 VP
+SettlerKeevy rolled: dice_1 dice_3
+UserLookaside got: lumber
+SettlerKeevy got: brickbricklumberlumber
+SettlerKeevy built a road
+SettlerKeevy built a settlement: +1 VP
+SettlerKeevy bought development card
+UserLookaside rolled: dice_1 dice_1
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a settlement: +1 VP
+SettlerKeevy rolled: dice_5 dice_2
+SettlerKeevy moved robber robber to prob_10 brick tile
+SettlerKeevy stole: wool from you
+SettlerKeevy used Knight card knight
+SettlerKeevy moved robber robber to prob_6 ore tile
+SettlerKeevy stole: grain from you
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: lumberlumberlumber
+SettlerKeevy rolled: dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: woolwool
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: lumber
+SettlerKeevy got: brickbricklumberlumber
+UserLookaside gave bank: lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+SettlerKeevy rolled: dice_4 dice_5
+UserLookaside got: woolwoolwool
+SettlerKeevy got: graingrain
+SettlerKeevy built a road
+SettlerKeevy built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole: grain from: Keevy
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: brickbrick
+SettlerKeevy got: woolwoolwoolwool
+UserLookaside gave bank: woolwoolwool and took ore
+UserLookaside bought development card
+SettlerKeevy rolled: dice_1 dice_6
+SettlerKeevy moved robber robber to prob_10 brick tile
+SettlerKeevy stole: brick from you
+SettlerKeevy built a road
+SettlerKeevy gave bank: woolwoolwoolgraingrain and took lumberbrick
+SettlerKeevy built a road
+Settlerlongest road passed from: Lookaside to: Keevy: +2 VPs
+trophy Keevy won the game! trophy
+SettlerKeevy has left the game

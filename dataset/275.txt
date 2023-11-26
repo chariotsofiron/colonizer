@@ -1,0 +1,310 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestBiddy placed a settlement
+GuestBiddy placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberwoolgrain
+GuestBiddy placed a settlement
+GuestBiddy placed a road
+GuestBiddy received starting resources grainbrickgrain
+GuestBiddy rolled dice_1 dice_4
+GuestBiddy got wool
+UserLookaside got lumberwool
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 grain tile
+UserNo player to steal from
+GuestBiddy rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuestBiddy moved robber robber to prob_11 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_6 dice_3
+UserLookaside got grain
+GuestBiddy rolled dice_1 dice_2
+GuestBiddy got brick
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+GuestBiddy rolled dice_6 dice_2
+GuestBiddy got grainlumber
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_5
+GuestBiddy got brick
+UserLookaside got wool
+GuestBiddy rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestBiddy moved robber robber to prob_12 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 ore tile
+UserNo player to steal from
+GuestBiddy rolled dice_2 dice_3
+GuestBiddy got wool
+UserLookaside got lumberwool
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brick
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a road
+UserLookaside built a road
+GuestBiddy rolled dice_6 dice_6
+GuestBiddy built a road
+UserLookaside rolled dice_3 dice_2
+GuestBiddy got wool
+UserLookaside got lumberwool
+GuestBiddy rolled dice_6 dice_4
+GuestBiddy got brick
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_2
+GuestBiddy got grain
+GuestBiddy rolled dice_2 dice_1
+prob_3 ore tile is blocked by the robber. No resources produced.
+GuestBiddy got brick
+UserLookaside rolled dice_6 dice_5
+GuestBiddy rolled dice_4 dice_6
+GuestBiddy got brick
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_6
+GuestBiddy rolled dice_6 dice_1
+GuestBiddy discarded brickbrickwoolwoolgraingrain
+robberFriendly Robber is active, tiles available to block are limited
+GuestBiddy moved robber robber to prob_12 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+GuestBiddy rolled dice_2 dice_6
+GuestBiddy got grainlumber
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_4
+GuestBiddy got grainlumber
+UserLookaside got grain
+GuestBiddy rolled dice_3 dice_1
+GuestBiddy got grain
+UserLookaside got ore
+GuestBiddy built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+GuestBiddy got wool
+UserLookaside got lumberwoolwool
+UserLookaside bought development card
+GuestBiddy rolled dice_4 dice_5
+UserLookaside got grain
+GuestBiddy built a road
+UserLookaside rolled dice_1 dice_1
+GuestBiddy rolled dice_5 dice_6
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_4
+GuestBiddy got wool
+UserLookaside got lumberwoolwool
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+GuestBiddy rolled dice_4 dice_4
+GuestBiddy got grainlumberlumber
+UserLookaside got grain
+GuestBiddy gave bank graingraingraingrain and took brick
+GuestBiddy built a road
+GuestBiddy built a road
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole wool from Biddy
+GuestBiddy rolled dice_5 dice_2
+GuestBiddy moved robber robber to prob_6 brick tile
+GuestBiddy stole grain from you
+UserLookaside rolled dice_2 dice_6
+GuestBiddy got grainlumberlumber
+UserLookaside got grain
+GuestBiddy rolled dice_5 dice_4
+UserLookaside got grain
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+GuestBiddy rolled dice_4 dice_6
+GuestBiddy got brick
+UserLookaside got wool
+GuestBiddy built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestBiddy rolled dice_3 dice_2
+GuestBiddy got wool
+UserLookaside got lumberwoolwool
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded lumberlumberwoolwoolgraingrain
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole lumber from Biddy
+GuestBiddy rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_2
+GuestBiddy got grainore
+UserLookaside got ore
+UserLookaside bought development card
+GuestBiddy rolled dice_2 dice_5
+GuestBiddy moved robber robber to prob_6 brick tile
+GuestBiddy stole lumber from you
+UserLookaside rolled dice_1 dice_3
+GuestBiddy got grainore
+UserLookaside got ore
+GuestBiddy rolled dice_3 dice_5
+GuestBiddy got grainlumberlumber
+UserLookaside got grain
+GuestBiddy bought development card
+UserLookaside rolled dice_6 dice_2
+GuestBiddy got grainlumberlumber
+UserLookaside got grain
+GuestBiddy rolled dice_5 dice_5
+GuestBiddy got brickbrick
+UserLookaside got wool
+GuestBiddy built a road
+GuestBiddy gave bank lumberlumberlumber and took wool
+GuestBiddy built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole grain from Biddy
+GuestBiddy used Knight card knight
+GuestBiddy moved robber robber to prob_5 lumber tile
+GuestBiddy stole lumber from you
+GuestBiddy rolled dice_4 dice_2
+GuestBiddy got brick
+UserLookaside got brickbrick
+UserLookaside rolled dice_2 dice_4
+GuestBiddy got brick
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside bought development card
+GuestBiddy rolled dice_1 dice_2
+GuestBiddy got orebrick
+UserLookaside got brick
+GuestBiddy gave bank brickbrickbrick and took ore
+GuestBiddy built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole grain from Biddy
+UserLookaside rolled dice_4 dice_6
+GuestBiddy got brickbrick
+UserLookaside got wool
+GuestBiddy rolled dice_1 dice_6
+UserLookaside discarded brickbrickgraingraingrain
+GuestBiddy moved robber robber to prob_5 lumber tile
+GuestBiddy stole wool from you
+UserLookaside rolled dice_1 dice_5
+GuestBiddy got brick
+UserLookaside got brickbrick
+GuestBiddy rolled dice_6 dice_5
+GuestBiddy got grain
+UserLookaside got lumberlumber
+UserLookaside rolled dice_3 dice_5
+GuestBiddy got grainlumberlumberlumber
+UserLookaside got grain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+GuestBiddy rolled dice_3 dice_1
+GuestBiddy got grainoreore
+UserLookaside got ore
+GuestBiddy built a road
+GuestBiddy built a road
+Guestlongest road passed from Lookaside to Biddy (+2 VPs)
+GuestBiddy built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+prob_5 lumber tile is blocked by the robber. No resources produced.
+GuestBiddy got wool
+UserLookaside got woolwool
+UserLookaside bought development card
+GuestBiddy rolled dice_5 dice_2
+GuestBiddy moved robber robber to prob_10 wool tile
+GuestBiddy stole wool from you
+GuestBiddy bought development card
+GuestBiddy bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole lumber from Biddy
+UserLookaside rolled dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+GuestBiddy got grain
+UserLookaside got grain
+UserLookaside built a road
+GuestBiddy rolled dice_1 dice_4
+GuestBiddy got wool
+UserLookaside got lumberwoolwool
+UserLookaside rolled dice_2 dice_3
+GuestBiddy got wool
+UserLookaside got lumberwoolwool
+UserLookaside built a road
+Userlongest road passed from Biddy to Lookaside (+2 VPs)
+GuestBiddy rolled dice_5 dice_5
+GuestBiddy got brickbrick
+UserLookaside got woolwool
+UserLookaside rolled dice_2 dice_2
+GuestBiddy got grainoreoreore
+UserLookaside got ore
+UserLookaside bought development card
+GuestBiddy rolled dice_5 dice_6
+GuestBiddy got grain
+UserLookaside got lumberlumberlumber
+GuestBiddy bought development card
+GuestBiddy bought development card
+UserLookaside rolled dice_6 dice_3
+GuestBiddy got grainore
+UserLookaside got grainore
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 2 ore
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+GuestBiddy used Knight card knight
+GuestBiddy moved robber robber to prob_11 lumber tile
+GuestBiddy stole lumber from you
+GuestBiddy rolled dice_3 dice_2
+GuestBiddy got wool
+UserLookaside got lumberwoolwoolwool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole brick from Biddy
+GuestBiddy rolled dice_3 dice_4
+GuestBiddy moved robber robber to prob_11 lumber tile
+GuestBiddy stole wool from you
+GuestBiddy used Year of Plenty card year of plenty
+GuestBiddy took from bank ore ore
+GuestBiddy bought development card
+GuestBiddy bought development card
+UserLookaside rolled dice_5 dice_1
+GuestBiddy got brick
+UserLookaside got brickbrickbrick
+UserLookaside built a road
+GuestBiddy rolled dice_2 dice_6
+GuestBiddy got grainlumberlumberlumber
+UserLookaside got grain
+GuestBiddy built a road
+GuestBiddy built a road
+UserLookaside rolled dice_4 dice_4
+GuestBiddy got grainlumberlumberlumber
+UserLookaside got grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestBiddy rolled dice_1 dice_2
+GuestBiddy got oreorebrick
+UserLookaside got brick
+GuestBiddy used Knight card knight
+GuestBiddy received largest army (+2 VPs)
+GuestBiddy moved robber robber to prob_10 wool tile
+GuestBiddy stole brick from you
+GuestBiddy gave bank lumberlumberlumber and took ore
+GuestBiddy built a city (+1 VP)
+GuestBiddy built a road
+GuestBiddy built a road
+Guestlongest road passed from Lookaside to Biddy (+2 VPs)
+trophyGuestBiddy won the game!trophy
+UserLookaside: gg
+Send a message
+Send message

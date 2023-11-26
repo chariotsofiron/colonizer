@@ -1,0 +1,295 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestSacredPlanet placed a settlement
+GuestSacredPlanet placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources orebricklumber
+GuestSacredPlanet placed a settlement
+GuestSacredPlanet placed a road
+GuestSacredPlanet received starting resources lumberbrickwool
+GuestSacredPlanet rolled dice_1 dice_4
+GuestSacredPlanet got wool
+GuestSacredPlanet built a road
+UserLookaside rolled dice_2 dice_1
+GuestSacredPlanet got lumber
+GuestSacredPlanet rolled dice_4 dice_6
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_3
+GuestSacredPlanet got wool
+GuestSacredPlanet rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestSacredPlanet moved robber robber to prob_9 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_1
+GuestSacredPlanet rolled dice_5 dice_1
+UserLookaside got brick
+GuestSacredPlanet got brick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grainbrick
+GuestSacredPlanet got grain
+GuestSacredPlanet rolled dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+GuestSacredPlanet got grain
+UserLookaside built a road
+UserLookaside built a road
+GuestSacredPlanet rolled dice_1 dice_2
+GuestSacredPlanet got lumber
+GuestSacredPlanet built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole wool from SacredPlanet
+GuestSacredPlanet rolled dice_6 dice_5
+UserLookaside got ore
+GuestSacredPlanet got ore
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+GuestSacredPlanet rolled dice_5 dice_4
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brick
+GuestSacredPlanet got brickbrick
+GuestSacredPlanet rolled dice_2 dice_2
+UserLookaside got grainbrick
+GuestSacredPlanet got grain
+GuestSacredPlanet built a road
+UserLookaside rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside built a road
+GuestSacredPlanet rolled dice_1 dice_6
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole ore from you
+UserLookaside rolled dice_5 dice_6
+UserLookaside got ore
+GuestSacredPlanet got ore
+GuestSacredPlanet rolled dice_3 dice_6
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_4
+UserLookaside got brick
+GuestSacredPlanet got brickbrick
+GuestSacredPlanet rolled dice_5 dice_5
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grainbrick
+GuestSacredPlanet got grain
+UserLookaside built a city (+1 VP)
+GuestSacredPlanet rolled dice_2 dice_5
+GuestSacredPlanet moved robber robber to prob_11 ore tile
+GuestSacredPlanet stole brick from you
+GuestSacredPlanet gave bank brickbrickbrickbrick and took ore
+GuestSacredPlanet built a city (+1 VP)
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+GuestSacredPlanet got grain
+GuestSacredPlanet rolled dice_1 dice_5
+UserLookaside got brickbrick
+GuestSacredPlanet got brickbrickbrick
+UserLookaside rolled dice_3 dice_2
+UserLookaside got wool
+GuestSacredPlanet got woolwool
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestSacredPlanet rolled dice_2 dice_6
+UserLookaside got lumber
+GuestSacredPlanet got grain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+GuestSacredPlanet got woolwool
+GuestSacredPlanet rolled dice_3 dice_3
+UserLookaside got brickbrick
+GuestSacredPlanet got brickbrickbrick
+GuestSacredPlanet gave bank brickbrickbrickbrick and took lumber
+GuestSacredPlanet built a road
+UserLookaside rolled dice_6 dice_6
+GuestSacredPlanet got lumberlumber
+GuestSacredPlanet rolled dice_4 dice_1
+UserLookaside got wool
+GuestSacredPlanet got woolwool
+GuestSacredPlanet built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole wool from SacredPlanet
+UserLookaside built a road
+GuestSacredPlanet used Knight card knight
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet rolled dice_1 dice_1
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumber
+GuestSacredPlanet got lumber
+GuestSacredPlanet rolled dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+GuestSacredPlanet got lumber
+UserLookaside built a road
+GuestSacredPlanet rolled dice_3 dice_1
+UserLookaside got graingrainbrick
+GuestSacredPlanet got grain
+GuestSacredPlanet gave bank woolwoolwoolwool and took ore
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got oreore
+GuestSacredPlanet got ore
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a settlement (+1 VP)
+GuestSacredPlanet rolled dice_6 dice_1
+GuestSacredPlanet moved robber robber to prob_4 brick tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumber
+GuestSacredPlanet got grain
+GuestSacredPlanet rolled dice_5 dice_5
+UserLookaside got oreore
+UserLookaside rolled dice_2 dice_4
+UserLookaside got woolbrickbrick
+GuestSacredPlanet got brickbrickbrick
+GuestSacredPlanet rolled dice_1 dice_3
+prob_4 brick tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestSacredPlanet got grain
+GuestSacredPlanet built a road
+GuestSacredPlanet built a road
+UserLookaside rolled dice_5 dice_2
+UserLookaside discarded lumberbrickbrickbrickwool
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from SacredPlanet
+UserLookaside built a city (+1 VP)
+GuestSacredPlanet used Knight card knight
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole ore from you
+GuestSacredPlanet rolled dice_1 dice_2
+UserLookaside got wool
+GuestSacredPlanet got lumberlumber
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole grain from SacredPlanet
+GuestSacredPlanet used Knight card knight
+GuestSacredPlanet received largest army (+2 VPs)
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet rolled dice_6 dice_3
+UserLookaside got lumberlumberwool
+GuestSacredPlanet got lumber
+GuestSacredPlanet built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolwoolwool
+GuestSacredPlanet got woolwool
+GuestSacredPlanet rolled dice_6 dice_2
+UserLookaside got lumber
+GuestSacredPlanet got graingrain
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_5 dice_5
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestSacredPlanet rolled dice_4 dice_4
+UserLookaside got lumber
+GuestSacredPlanet got graingrain
+GuestSacredPlanet gave bank graingrain and took ore
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside discarded lumberlumberlumberlumberwool
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from SacredPlanet
+GuestSacredPlanet used Knight card knight
+GuestSacredPlanet moved robber robber to prob_4 brick tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet rolled dice_5 dice_6
+UserLookaside got oreoreore
+GuestSacredPlanet got ore
+UserLookaside rolled dice_1 dice_3
+prob_4 brick tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestSacredPlanet got grain
+UserLookaside built a city (+1 VP)
+GuestSacredPlanet rolled dice_4 dice_5
+UserLookaside got lumberlumberwoolwool
+GuestSacredPlanet got lumber
+GuestSacredPlanet bought development card
+UserLookaside rolled dice_4 dice_1
+UserLookaside got woolwoolwool
+GuestSacredPlanet got woolwool
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a settlement (+1 VP)
+GuestSacredPlanet rolled dice_2 dice_1
+UserLookaside got woolwoolwool
+GuestSacredPlanet got lumberlumber
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumberlumberwoolwool
+GuestSacredPlanet got lumber
+UserLookaside gave bank woolwoolwoolwool and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+GuestSacredPlanet rolled dice_1 dice_4
+UserLookaside got woolwoolwool
+GuestSacredPlanet got woolwool
+UserLookaside rolled dice_4 dice_6
+UserLookaside got oreoreore
+UserLookaside gave bank woolwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+GuestSacredPlanet rolled dice_3 dice_4
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet gave bank woolwoolwoolwool and took ore
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole wool from SacredPlanet
+GuestSacredPlanet used Knight card knight
+GuestSacredPlanet moved robber robber to prob_10 ore tile
+GuestSacredPlanet stole wool from you
+GuestSacredPlanet rolled dice_6 dice_6
+GuestSacredPlanet got lumberlumber
+GuestSacredPlanet gave bank lumberlumberlumberlumber and took ore
+UserLookaside rolled dice_6 dice_5
+UserLookaside got oreoreore
+GuestSacredPlanet got ore
+GuestSacredPlanet rolled dice_2 dice_3
+UserLookaside got woolwoolwool
+GuestSacredPlanet got woolwool
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumberlumberlumber
+GuestSacredPlanet got graingrain
+UserLookaside gave bank lumberlumberlumberlumberwoolwool and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestSacredPlanet rolled dice_3 dice_1
+UserLookaside got graingrainbrickbrickbrick
+GuestSacredPlanet got grain
+GuestSacredPlanet used Monopoly card monopoly
+GuestSacredPlanet stole 3 brick
+GuestSacredPlanet built a city (+1 VP)
+GuestSacredPlanet built a road
+GuestSacredPlanet built a road
+GuestSacredPlanet built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwoolbrickbrick
+GuestSacredPlanet got brickbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside bought development card
+trophyUserLookaside won the game!trophy
+GuestSacredPlanet: zzz
+UserLookaside: gg
+Send a message
+Send message
+7/8 player expansion
+Use special build phases to try to win against 7 other players

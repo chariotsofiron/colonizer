@@ -1,0 +1,270 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestUzial6108 placed a settlement
+GuestUzial6108 placed a road
+GuestUzial6108 placed a settlement
+GuestUzial6108 placed a road
+GuestUzial6108 received starting resources: grainorelumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: brickbricklumber
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: brickwool
+UserLookaside built a road
+GuestUzial6108 rolled: dice_6 dice_3
+GuestUzial6108 got: lumber
+UserLookaside rolled: dice_4 dice_1
+GuestUzial6108 got: graingrain
+GuestUzial6108 rolled: dice_6 dice_2
+GuestUzial6108 got: brick
+UserLookaside got: lumberbrick
+UserLookaside rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 ore tile
+UserNo player to steal from
+GuestUzial6108 rolled: dice_1 dice_5
+GuestUzial6108 got: ore
+UserLookaside rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 brick tile
+UserNo player to steal from
+GuestUzial6108 rolled: dice_4 dice_4
+GuestUzial6108 got: brick
+UserLookaside got: lumberbrick
+UserLookaside rolled: dice_6 dice_6
+GuestUzial6108 rolled: dice_5 dice_6
+prob_11 brick tile is blocked by the robber. No resources produced.
+GuestUzial6108 built a road
+UserLookaside rolled: dice_4 dice_2
+GuestUzial6108 got: ore
+GuestUzial6108 rolled: dice_6 dice_5
+prob_11 brick tile is blocked by the robber. No resources produced.
+GuestUzial6108 built a city: +1 VP
+UserLookaside rolled: dice_2 dice_3
+GuestUzial6108 got: graingraingrain
+GuestUzial6108 rolled: dice_3 dice_6
+GuestUzial6108 got: lumberlumber
+UserLookaside rolled: dice_2 dice_4
+GuestUzial6108 got: oreore
+GuestUzial6108 rolled: dice_5 dice_3
+GuestUzial6108 got: brick
+UserLookaside got: lumberbrick
+GuestUzial6108 gave bank: graingraingraingrain and took wool
+UserLookaside rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 lumber tile
+UserYou stole: ore from: Uzial6108
+UserLookaside gave bank: brickbrickbrickbrick and took grain
+UserLookaside built a settlement: +1 VP
+GuestUzial6108 rolled: dice_5 dice_5
+GuestUzial6108 got: grain
+UserLookaside got: oregrain
+GuestUzial6108 built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_2
+GuestUzial6108 got: graingraingraingrain
+GuestUzial6108 rolled: dice_1 dice_2
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_2 dice_2
+GuestUzial6108 got: wool
+UserLookaside got: brickwool
+UserLookaside built a road
+GuestUzial6108 rolled: dice_5 dice_4
+prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestUzial6108 built a road
+UserLookaside rolled: dice_5 dice_1
+GuestUzial6108 got: oreore
+GuestUzial6108 rolled: dice_2 dice_1
+UserLookaside got: lumberlumber
+GuestUzial6108 built a city: +1 VP
+UserLookaside rolled: dice_2 dice_3
+GuestUzial6108 got: graingraingraingraingrain
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a settlement: +1 VP
+GuestUzial6108 rolled: dice_6 dice_5
+GuestUzial6108 got: grain
+UserLookaside got: grain
+GuestUzial6108 gave bank: graingraingraingrain and took lumber
+UserLookaside rolled: dice_4 dice_2
+GuestUzial6108 got: oreore
+GuestUzial6108 rolled: dice_4 dice_3
+GuestUzial6108 moved robber robber to prob_10 ore tile
+GuestUzial6108 stole: ore from you
+GuestUzial6108 built a city: +1 VP
+UserLookaside rolled: dice_4 dice_4
+GuestUzial6108 got: brickbrick
+UserLookaside got: lumberbrick
+UserLookaside built a road
+GuestUzial6108 rolled: dice_3 dice_2
+GuestUzial6108 got: graingraingraingraingraingrain
+UserLookaside got: grain
+GuestUzial6108 built a road
+GuestUzial6108 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_5
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestUzial6108 got: graingrain
+UserLookaside got: grain
+GuestUzial6108 rolled: dice_3 dice_5
+GuestUzial6108 got: brickbrick
+UserLookaside got: lumberbrick
+UserLookaside rolled: dice_4 dice_6
+prob_10 ore tile is blocked by the robber. No resources produced.
+GuestUzial6108 got: graingrain
+UserLookaside got: grain
+UserLookaside built a road
+GuestUzial6108 rolled: dice_1 dice_1
+GuestUzial6108 gave bank: graingraingraingraingraingraingraingrain and took lumberlumber
+GuestUzial6108 built a road
+GuestUzial6108 received longest road: +2 VPs
+GuestUzial6108 built a road
+UserLookaside rolled: dice_6 dice_3
+GuestUzial6108 got: lumberlumber
+GuestUzial6108 rolled: dice_1 dice_5
+GuestUzial6108 got: oreoreore
+GuestUzial6108 built a city: +1 VP
+UserLookaside rolled: dice_5 dice_4
+GuestUzial6108 got: lumberlumber
+GuestUzial6108 rolled: dice_2 dice_5
+GuestUzial6108 moved robber robber to prob_4 brick tile
+GuestUzial6108 stole: grain from you
+UserLookaside rolled: dice_2 dice_6
+GuestUzial6108 got: brickbrick
+UserLookaside got: lumberbrick
+GuestUzial6108 rolled: dice_3 dice_1
+prob_4 brick tile is blocked by the robber. No resources produced.
+GuestUzial6108 got: woolwool
+UserLookaside got: wool
+GuestUzial6108 built a settlement: +1 VP
+GuestUzial6108 built a road
+UserLookaside rolled: dice_4 dice_1
+GuestUzial6108 got: graingraingraingraingraingrain
+UserLookaside got: grain
+UserLookaside built a settlement: +1 VP
+GuestUzial6108 rolled: dice_2 dice_1
+GuestUzial6108 got: wool
+UserLookaside got: lumberlumber
+GuestUzial6108 gave bank: graingraingraingrain and took brick
+GuestUzial6108 built a road
+UserLookaside rolled: dice_6 dice_4
+GuestUzial6108 got: graingrain
+UserLookaside got: oreoregrain
+UserLookaside built a city: +1 VP
+GuestUzial6108 rolled: dice_3 dice_3
+GuestUzial6108 got: oreoreoreore
+GuestUzial6108 gave bank: oreoreoreore and took brick
+GuestUzial6108 built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_6
+GuestUzial6108 got: brickbrickgraingrain
+UserLookaside got: brickgrain
+GuestUzial6108 rolled: dice_1 dice_2
+GuestUzial6108 got: wool
+UserLookaside got: lumberlumber
+GuestUzial6108 gave bank: graingraingraingrain and took lumber
+GuestUzial6108 built a road
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: grain from: Uzial6108
+GuestUzial6108 rolled: dice_6 dice_2
+GuestUzial6108 got: brickbrick
+UserLookaside got: lumberlumberbrick
+UserLookaside rolled: dice_4 dice_6
+GuestUzial6108 got: graingrain
+UserLookaside got: oreoreoregrain
+UserLookaside built a city: +1 VP
+UserLookaside built a road
+UserLookaside built a road
+GuestUzial6108 rolled: dice_1 dice_1
+GuestUzial6108 got: wool
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_9 lumber tile
+UserYou stole: wool from: Uzial6108
+GuestUzial6108 rolled: dice_2 dice_1
+GuestUzial6108 got: wool
+UserLookaside got: lumberlumberlumber
+UserLookaside rolled: dice_6 dice_4
+GuestUzial6108 got: graingrain
+UserLookaside got: oreoreoregrain
+UserLookaside built a city: +1 VP
+UserLookaside gave bank: lumberlumberlumberlumber and took brick
+UserLookaside built a settlement: +1 VP
+GuestUzial6108 rolled: dice_1 dice_4
+GuestUzial6108 got: graingraingraingraingraingrain
+UserLookaside got: grain
+GuestUzial6108 gave bank: graingraingraingrain and took lumber
+GuestUzial6108 gave bank: graingraingraingrain and took lumber
+GuestUzial6108 built a road
+GuestUzial6108 built a road
+UserLookaside rolled: dice_6 dice_3
+prob_9 lumber tile is blocked by the robber. No resources produced.
+GuestUzial6108 got: lumberlumber
+UserLookaside got: lumber
+GuestUzial6108 rolled: dice_3 dice_1
+GuestUzial6108 got: woolwoolwool
+UserLookaside got: brickbrickbrickwoolwool
+GuestUzial6108 built a road
+GuestUzial6108 gave bank: woolwoolwoolwool and took ore
+GuestUzial6108 bought development card
+UserLookaside rolled: dice_1 dice_3
+GuestUzial6108 got: woolwoolwool
+UserLookaside got: brickbrickbrickwoolwool
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+UserLookaside gave bank: brickbrick and took ore
+UserLookaside bought development card
+GuestUzial6108 rolled: dice_3 dice_3
+GuestUzial6108 got: wooloreoreoreore
+GuestUzial6108 bought development card
+GuestUzial6108 bought development card
+GuestUzial6108 used Knight card knight
+GuestUzial6108 moved robber robber to prob_10 ore tile
+GuestUzial6108 stole: brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: brick from: Uzial6108
+UserLookaside rolled: dice_6 dice_5
+GuestUzial6108 got: brickbrickgraingrain
+UserLookaside got: brickgraingrain
+UserLookaside gave bank: brickbrick and took ore
+UserLookaside bought development card
+GuestUzial6108 rolled: dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestUzial6108 got: wool
+GuestUzial6108 built a road
+GuestUzial6108 used Knight card knight
+GuestUzial6108 moved robber robber to prob_10 ore tile
+GuestUzial6108 stole: grain from you
+GuestUzial6108 bought development card
+GuestUzial6108 bought development card
+UserLookaside rolled: dice_5 dice_4
+GuestUzial6108 got: lumberlumberlumberlumber
+UserLookaside got: lumber
+GuestUzial6108 rolled: dice_5 dice_3
+GuestUzial6108 got: brickbrick
+UserLookaside got: lumberlumberlumberbrickbrick
+GuestUzial6108 built a road
+GuestUzial6108 built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: brick from: Uzial6108
+UserLookaside gave bank: brickbrick and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement: +1 VP
+GuestUzial6108 used Knight card knight
+GuestUzial6108 received largest army: +2 VPs
+trophy Uzial6108 won the game! trophy
+Send a message
+
+Discover the random hexes that lie beneath the fog

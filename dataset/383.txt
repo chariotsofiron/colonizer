@@ -1,0 +1,302 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserKo8078 placed a settlement
+UserKo8078 placed a road
+UserKo8078 placed a settlement
+UserKo8078 received starting resources bricklumberwool
+UserKo8078 placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources grainlumberbrick
+UserLookaside placed a road
+UserLookaside rolled dice_5 dice_1
+UserKo8078 got wool
+UserKo8078 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserKo8078 moved robber robber to prob_4 wool tile
+UserNo player to steal from
+UserKo8078 built a road
+UserLookaside rolled dice_3 dice_3
+UserKo8078 got wool
+UserKo8078 rolled dice_6 dice_3
+UserKo8078 got brick
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_6
+UserLookaside got grainlumber
+UserKo8078 rolled dice_5 dice_3
+UserLookaside got ore
+UserLookaside rolled dice_5 dice_6
+UserKo8078 got grain
+UserLookaside got grain
+UserKo8078 rolled dice_6 dice_4
+UserLookaside got grainlumber
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+UserLookaside built a road
+UserKo8078 rolled dice_2 dice_3
+UserKo8078 got ore
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_1
+UserKo8078 got lumber
+UserKo8078 rolled dice_5 dice_4
+UserKo8078 got brick
+UserLookaside got brick
+UserKo8078 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserKo8078 got wool
+UserKo8078 rolled dice_4 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_3
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserKo8078 got grain
+UserKo8078 rolled dice_2 dice_4
+UserKo8078 got wool
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from Ko8078
+UserLookaside built a city (+1 VP)
+UserKo8078 rolled dice_3 dice_4
+UserKo8078 moved robber robber to prob_8 ore tile
+UserKo8078 stole grain from you
+UserKo8078 bought development card
+UserLookaside rolled dice_1 dice_4
+UserKo8078 got woolore
+UserLookaside got ore
+UserLookaside built a road
+UserKo8078 rolled dice_2 dice_1
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Ko8078
+UserKo8078 used Knight card knight
+UserKo8078 moved robber robber to prob_8 ore tile
+UserKo8078 stole grain from you
+UserKo8078 rolled dice_3 dice_1
+UserKo8078 got grain
+UserKo8078 bought development card
+UserLookaside rolled dice_2 dice_2
+UserKo8078 got grain
+UserKo8078 rolled dice_3 dice_2
+UserKo8078 got woolore
+UserLookaside got ore
+UserKo8078 bought development card
+UserLookaside rolled dice_6 dice_4
+UserKo8078 got lumber
+UserLookaside got grainlumberlumber
+UserLookaside built a settlement (+1 VP)
+UserKo8078 rolled dice_1 dice_5
+UserKo8078 got wool
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_4
+UserKo8078 got woolore
+UserLookaside got oreore
+UserLookaside gave bank oreoreoreore and took brick
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserKo8078 rolled dice_3 dice_3
+UserKo8078 got wool
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_1
+UserKo8078 got woolore
+UserLookaside got oreore
+UserKo8078 rolled dice_4 dice_2
+UserKo8078 got wool
+UserLookaside got ore
+UserKo8078 used Monopoly card monopoly
+UserKo8078 stole 5 ore
+UserKo8078 built a city (+1 VP)
+UserKo8078 gave bank woolwoolwoolwool and took grain
+UserKo8078 bought development card
+UserLookaside rolled dice_6 dice_5
+UserKo8078 got graingrain
+UserLookaside got graingrain
+UserKo8078 rolled dice_2 dice_1
+UserKo8078 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_1
+UserKo8078 got graingrain
+UserKo8078 rolled dice_5 dice_4
+UserKo8078 got brickbrick
+UserLookaside got lumberbrickbrick
+UserKo8078 built a road
+UserLookaside rolled dice_5 dice_3
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserKo8078 rolled dice_4 dice_3
+UserKo8078 moved robber robber to prob_6 ore tile
+UserKo8078 stole brick from you
+UserLookaside rolled dice_2 dice_3
+UserKo8078 got wooloreore
+UserLookaside got oreore
+UserKo8078 rolled dice_1 dice_3
+UserKo8078 got graingrain
+UserKo8078 bought development card
+UserKo8078 bought development card
+UserLookaside rolled dice_3 dice_6
+UserKo8078 got brickbrick
+UserLookaside got lumberbrickbrick
+UserKo8078 rolled dice_6 dice_3
+UserKo8078 got brickbrick
+UserLookaside got lumberbrickbrick
+UserKo8078 gave bank brickbrickbrickbrick and took lumber
+UserKo8078 used Road Building card road building
+UserKo8078 placed a road
+UserKo8078 placed a road
+UserKo8078 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+UserKo8078 got graingrain
+UserLookaside got graingrain
+UserLookaside gave bank brickbrickbrickbrick and took wool
+UserLookaside built a settlement (+1 VP)
+UserKo8078 rolled dice_2 dice_5
+UserKo8078 moved robber robber to prob_8 ore tile
+UserKo8078 stole grain from you
+UserLookaside rolled dice_3 dice_2
+UserKo8078 got wooloreore
+UserLookaside got oreore
+UserLookaside built a city (+1 VP)
+UserKo8078 rolled dice_1 dice_2
+UserKo8078 got wool
+UserLookaside got wool
+UserKo8078 bought development card
+UserLookaside rolled dice_6 dice_2
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserKo8078 got lumber
+UserKo8078 rolled dice_1 dice_1
+UserKo8078 got lumberlumberlumber
+UserKo8078 built a road
+Userlongest road passed from Lookaside to Ko8078 (+2 VPs)
+UserLookaside rolled dice_2 dice_4
+UserKo8078 got woolwool
+UserLookaside got oreoreore
+UserKo8078 rolled dice_1 dice_6
+UserKo8078 discarded lumberlumberwoolwoolgrain
+UserKo8078 moved robber robber to prob_6 ore tile
+UserKo8078 stole ore from you
+UserLookaside rolled dice_2 dice_2
+UserKo8078 got graingrain
+UserKo8078 rolled dice_6 dice_5
+UserKo8078 got graingrain
+UserLookaside got graingraingrain
+UserKo8078 bought development card
+UserLookaside rolled dice_3 dice_5
+UserKo8078 got lumber
+UserLookaside got ore
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+UserKo8078 rolled dice_1 dice_3
+UserKo8078 got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from Ko8078
+UserLookaside rolled dice_4 dice_6
+UserKo8078 got lumberlumber
+UserLookaside got graingrainlumberlumber
+UserKo8078 used Knight card knight
+UserKo8078 moved robber robber to prob_6 ore tile
+UserKo8078 stole grain from you
+UserKo8078 rolled dice_1 dice_1
+UserKo8078 got lumberlumberlumber
+UserKo8078 gave bank lumberlumberlumberlumbergraingraingraingrain and took brickwool
+UserKo8078 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_2
+UserKo8078 got brickwool
+UserLookaside got wool
+UserKo8078 rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserKo8078 got woolwool
+UserKo8078 used Road Building card road building
+UserKo8078 placed a road
+UserKo8078 placed a road
+UserKo8078 built a settlement (+1 VP)
+UserKo8078 bought development card
+UserLookaside rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserKo8078 got woolwool
+UserKo8078 rolled dice_5 dice_5
+UserKo8078 got lumberlumber
+UserLookaside got graingrainlumberlumber
+UserLookaside rolled dice_5 dice_4
+UserKo8078 got brickbrickbrick
+UserLookaside got lumberlumberbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+UserKo8078 rolled dice_4 dice_3
+UserKo8078 moved robber robber to prob_10 grain tile
+UserKo8078 stole grain from you
+UserKo8078 built a road
+UserKo8078 built a road
+UserKo8078 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserKo8078 got lumberlumberore
+UserLookaside got oreore
+UserKo8078 rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserKo8078 got lumberlumber
+UserLookaside got lumberlumber
+UserKo8078 gave bank lumberlumberlumber and took grain
+UserKo8078 bought development card
+UserLookaside rolled dice_2 dice_1
+UserKo8078 got brickwool
+UserLookaside got woolwool
+UserLookaside bought development card
+UserLookaside bought development card
+UserKo8078 rolled dice_5 dice_3
+UserKo8078 got lumberlumberore
+UserLookaside got oreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from Ko8078
+UserLookaside rolled dice_4 dice_5
+UserKo8078 got brickbrickbrick
+UserLookaside got lumberlumberbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserKo8078 used Knight card knight
+UserKo8078 received largest army (+2 VPs)
+UserKo8078 moved robber robber to prob_6 ore tile
+UserKo8078 stole ore from you
+UserKo8078 rolled dice_2 dice_5
+UserKo8078 discarded lumberbrickbrickwoolore
+UserKo8078 moved robber robber to prob_9 lumber tile
+UserKo8078 stole ore from you
+UserKo8078 built a road
+UserKo8078 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from Ko8078
+UserLookaside rolled dice_6 dice_6
+UserKo8078 used Knight card knight
+UserKo8078 moved robber robber to prob_6 ore tile
+UserKo8078 stole wool from you
+UserKo8078 rolled dice_4 dice_1
+UserKo8078 got wooloreore
+UserLookaside got oreoreoreore
+UserLookaside rolled dice_5 dice_6
+UserKo8078 got graingrain
+UserLookaside got brickgraingraingrain
+UserLookaside built a city (+1 VP)
+UserKo8078 used Year of Plenty card year of plenty
+UserKo8078 took from bank lumber brick
+UserKo8078 rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserKo8078 got woolwool
+UserKo8078 built a road
+UserKo8078 built a city (+1 VP)
+trophyUserKo8078 won the game!trophy
+UserKo8078: why dont u make road?
+UserLookaside: wanted to bait u
+UserLookaside: wp
+Send a message
+Send message
+No Ads

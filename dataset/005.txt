@@ -1,0 +1,447 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Inactive. Leavers will not receive a karma penalty
+botThier placed a settlement
+botThier placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+botMinna placed a settlement
+botMinna placed a road
+botLayman placed a settlement
+botLayman placed a road
+botLayman placed a settlement
+botLayman placed a road
+botLayman received starting resources: woolgrainwool
+botMinna placed a settlement
+botMinna placed a road
+botMinna received starting resources: lumberoregrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberwoolore
+botThier placed a settlement
+botThier placed a road
+botThier received starting resources: graingrain
+botThier rolled: dice_1 dice_5
+botLayman got: wool
+botThier got: ore
+botMinna got: ore
+botThier wants to give: grain for: wool
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: grain
+botLayman got: wool
+botThier got: grain
+botMinna got: wool
+botMinna rolled: dice_1 dice_4
+UserLookaside got: brick
+botThier got: brick
+botMinna got: lumber
+botMinna wants to give: lumber for: brick
+botLayman rolled: dice_5 dice_6
+UserLookaside got: wool
+botMinna got: lumber
+botLayman wants to give: wool for: ore
+botThier rolled: dice_6 dice_1
+botThier moved robber robber to prob_8 wool tile
+botThier stole card from: Minna
+botThier wants to give: grain for: lumber
+botThier traded: grain for: lumber with: Minna
+botThier built a road
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: ore
+botLayman got: ore
+botThier got: grain
+UserLookaside built a road
+botMinna rolled: dice_2 dice_1
+botLayman got: grain
+botMinna got: grain
+botMinna wants to give: wool for: ore
+botMinna bought development card
+botLayman rolled: dice_1 dice_3
+UserLookaside got: ore
+botLayman got: wool
+botLayman bought development card
+botLayman wants to give: wool for: ore
+botLayman traded: wool for: ore with: Thier
+botThier rolled: dice_2 dice_5
+botThier moved robber robber to prob_9 ore tile
+botThier stole: ore from you
+UserLookaside rolled: dice_6 dice_6
+botMinna rolled: dice_4 dice_6
+UserLookaside got: lumber
+botThier got: grain
+botMinna got: lumber
+botMinna wants to give: lumber for: wool
+botMinna traded: lumber for: wool with: Lookaside
+botLayman rolled: dice_1 dice_1
+botLayman got: lumber
+botLayman wants to give: wool for: grain
+UserLookaside wants to give: Layman: grain for: brick
+botThier rolled: dice_6 dice_5
+UserLookaside got: wool
+botMinna got: lumber
+botThier bought development card
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole: wool from: Layman
+UserLookaside bought development card
+botMinna rolled: dice_4 dice_2
+botLayman got: wool
+botThier got: ore
+botMinna got: ore
+botMinna wants to give: lumber for: grain
+botMinna bought development card
+botLayman rolled: dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+botThier got: grain
+botLayman wants to give: wool for: grain
+botThier rolled: dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+botThier got: grain
+botThier gave bank: graingraingraingrain and took wool
+botThier used Knight card knight
+botThier moved robber robber to prob_9 ore tile
+botThier stole: grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole: ore from: Layman
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: brick
+botThier got: brick
+botMinna got: lumber
+UserLookaside wants to give: woolore for: brick
+UserLookaside wants to give: oreore for: brick
+UserLookaside traded: oreore for: brick with: Thier
+UserLookaside built a road
+UserLookaside built a road
+botMinna used Knight card knight
+botMinna moved robber robber to prob_8 grain tile
+botMinna stole card from: Thier
+botMinna rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+botLayman got: wool
+botMinna got: wool
+botMinna gave bank: lumberlumberlumberlumber and took grain
+botLayman rolled: dice_5 dice_5
+UserLookaside got: lumber
+botThier got: grain
+botMinna got: lumber
+botLayman wants to give: wool for: ore
+botThier rolled: dice_3 dice_4
+botThier moved robber robber to prob_8 wool tile
+botThier stole card from: Layman
+botThier built a city: +1 VP
+botThier wants to give: grain for: ore
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: grain from: Thier
+UserLookaside wants to give: wool for: ore
+UserLookaside wants to give: grain for: ore
+botMinna rolled: dice_4 dice_5
+UserLookaside got: ore
+botLayman got: ore
+botThier got: graingrain
+botMinna wants to give: wool for: ore
+botLayman rolled: dice_2 dice_2
+UserLookaside got: ore
+botLayman got: wool
+botLayman gave bank: woolwoolwoolwool and took brick
+botLayman built a road
+botThier rolled: dice_5 dice_6
+UserLookaside got: wool
+botMinna got: lumber
+botThier wants to give: grain for: ore
+UserLookaside rolled: dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+botLayman got: wool
+UserLookaside wants to give: grainore for: woolwool
+UserLookaside wants to give: oreore for: woolwool
+UserLookaside bought development card
+UserLookaside bought development card
+botMinna rolled: dice_4 dice_3
+botMinna moved robber robber to prob_8 grain tile
+botMinna stole card from: Thier
+botMinna wants to give: grain for: ore
+botMinna bought development card
+botLayman rolled: dice_3 dice_3
+botLayman got: wool
+botThier got: oreore
+botMinna got: ore
+botLayman wants to give: wool for: grain
+botLayman traded: wool for: grain with: Minna
+botThier rolled: dice_1 dice_4
+UserLookaside got: brick
+botThier got: brickbrick
+botMinna got: lumber
+botThier wants to give: wool for: ore
+botThier bought development card
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: brick from: Thier
+UserLookaside wants to give: brick for: grain
+UserLookaside traded: brick for: grain with: Minna
+UserLookaside built a settlement: +1 VP
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+botMinna used Knight card knight
+botMinna moved robber robber to prob_8 grain tile
+botMinna stole card from: Thier
+botMinna rolled: dice_1 dice_2
+botLayman got: grain
+botMinna got: grain
+botMinna built a road
+botLayman rolled: dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+botLayman got: wool
+botMinna got: wool
+botThier used Knight card knight
+botThier moved robber robber to prob_6 wool tile
+botThier stole card from: Layman
+botThier rolled: dice_4 dice_6
+UserLookaside got: lumber
+botThier got: grain
+botMinna got: lumber
+UserLookaside rolled: dice_6 dice_1
+Minna discarding resource cards
+botBot is selecting cards to discard for Minna
+botMinna discarded: oreorewoollumber
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: grain from: Minna
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: brick wool
+UserLookaside built a settlement: +1 VP
+botMinna rolled: dice_4 dice_1
+UserLookaside got: brick
+botThier got: brickbrick
+botMinna got: lumber
+botLayman rolled: dice_3 dice_1
+UserLookaside got: oreore
+botLayman got: wool
+botThier rolled: dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+botLayman got: wool
+UserLookaside rolled: dice_1 dice_1
+botLayman got: lumber
+botMinna rolled: dice_6 dice_3
+UserLookaside got: oreore
+botLayman got: ore
+botThier got: graingrain
+botLayman rolled: dice_5 dice_3
+UserLookaside got: grain
+botLayman got: wool
+botThier got: grain
+botMinna got: wool
+botLayman bought development card
+botLayman gave bank: woolwoolwoolwool and took brick
+botLayman wants to give: ore for: grain
+botLayman traded: ore for: grain with: Thier
+botLayman built a settlement: +1 VP
+botThier rolled: dice_5 dice_2
+Thier discarding resource cards
+botBot is selecting cards to discard for Thier
+botThier discarded: brickgraingraingrain
+botThier moved robber robber to prob_6 wool tile
+botThier stole: ore from you
+botThier wants to give: brick for: ore
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: lumber
+botThier got: grain
+botMinna got: lumber
+UserLookaside built a settlement: +1 VP
+botMinna rolled: dice_6 dice_5
+UserLookaside got: wool
+botMinna got: lumber
+botMinna gave bank: lumberlumberlumberlumber and took brick
+botMinna built a road
+botLayman used Knight card knight
+botLayman moved robber robber to prob_8 grain tile
+botLayman stole: wool from you
+botLayman rolled: dice_3 dice_2
+UserLookaside got: brick
+botThier got: brickbrick
+botMinna got: lumber
+botThier rolled: dice_2 dice_4
+UserLookaside got: wool
+botLayman got: wool
+botThier got: oreore
+botMinna got: ore
+botThier built a city: +1 VP
+botThier wants to give: brick for: lumber
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: wool
+botLayman got: wool
+botThier got: oreore
+botMinna got: ore
+UserLookaside gave bank: oreore and took grain
+UserLookaside bought development card
+botMinna rolled: dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+botLayman got: woolwool
+botMinna got: wool
+botMinna wants to give: wool for: brick
+botMinna traded: wool for: brick with: Thier
+botLayman rolled: dice_1 dice_3
+UserLookaside got: oreore
+botLayman got: wool
+botThier rolled: dice_2 dice_5
+Thier discarding resource cards
+botBot is selecting cards to discard for Thier
+botThier discarded: brickbrickbrickwool
+botThier moved robber robber to prob_6 wool tile
+botThier stole: wool from you
+botThier wants to give: ore for: lumber
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: grainoreore
+botLayman got: ore
+botThier got: graingrain
+UserLookaside wants to give: brick for: wool
+UserLookaside wants to give: brick for: grain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: wool grain
+UserLookaside built a city: +1 VP
+botMinna rolled: dice_4 dice_5
+UserLookaside got: grainoreore
+botLayman got: ore
+botThier got: graingrain
+botMinna wants to give: wool for: grain
+botMinna traded: wool for: grain with: Lookaside
+botMinna built a settlement: +1 VP
+botLayman rolled: dice_6 dice_2
+UserLookaside got: graingrain
+botLayman got: woolwool
+botThier got: graingrain
+botMinna got: wool
+botLayman gave bank: woolwoolwoolwool and took grain
+botLayman bought development card
+botLayman wants to give: wool for: grain
+botThier rolled: dice_6 dice_5
+UserLookaside got: wool
+botMinna got: lumber
+botThier bought development card
+botThier gave bank: graingraingraingrain and took wool
+botThier wants to give: wool for: ore
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: graingrain
+botLayman got: woolwool
+botThier got: graingrain
+botMinna got: wool
+UserLookaside wants to give: wool for: ore
+UserLookaside wants to give: grain for: ore
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside bought development card
+botMinna rolled: dice_2 dice_1
+botLayman got: grain
+botMinna got: grain
+botMinna wants to give: ore for: brick
+botLayman rolled: dice_1 dice_6
+botLayman moved robber robber to prob_8 grain tile
+botLayman stole: grain from you
+botLayman bought development card
+botLayman wants to give: wool for: ore
+botThier rolled: dice_6 dice_4
+UserLookaside got: grainlumber
+botThier got: graingrain
+botMinna got: lumber
+botThier gave bank: graingraingraingrain and took ore
+botThier used Monopoly card monopoly
+botThier stole 6: wool
+botThier bought development card
+botThier bought development card
+botThier gave bank: woolwool and took grain
+UserLookaside rolled: dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+botLayman got: woolwool
+botMinna got: wool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: wool from: Thier
+UserLookaside built a road
+botMinna rolled: dice_1 dice_1
+botLayman got: lumber
+botMinna wants to give: lumber for: grain
+botLayman rolled: dice_3 dice_2
+UserLookaside got: brickbrick
+botThier got: brickbrick
+botMinna got: lumberlumber
+botLayman wants to give: grain for: brick
+botLayman used Knight card knight
+botLayman moved robber robber to prob_8 grain tile
+botLayman stole: wool from you
+botThier used Knight card knight
+botThier received largest army: +2 VPs
+botThier moved robber robber to prob_6 wool tile
+botThier stole: brick from you
+botThier rolled: dice_4 dice_6
+UserLookaside got: grainlumber
+botThier got: graingrain
+botMinna got: lumber
+botThier bought development card
+botThier wants to give: brick for: lumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: brick from: Thier
+UserLookaside rolled: dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+botLayman got: wool
+UserLookaside built a road
+UserLookaside received : +2 VPs
+botMinna rolled: dice_5 dice_6
+UserLookaside got: wool
+botMinna got: lumber
+botMinna gave bank: lumberlumberlumber and took brick
+botMinna built a road
+botMinna wants to give: ore for: brick
+botLayman rolled: dice_1 dice_2
+botLayman got: grain
+botMinna got: grain
+botLayman gave bank: woolwoolwoolwool and took brick
+botLayman built a road
+botThier used Knight card knight
+botThier moved robber robber to prob_6 wool tile
+botThier stole: wool from you
+botThier rolled: dice_6 dice_6
+botThier wants to give: wool for: lumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole: grain from: Thier
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brickbrick
+botThier got: brickbrick
+botMinna got: lumberlumber
+UserLookaside gave bank: brickbrickbrick and took ore
+UserLookaside bought development card
+botMinna rolled: dice_4 dice_3
+Minna discarding resource cards
+botBot is selecting cards to discard for Minna
+botMinna discarded: woollumberlumberlumber
+botMinna moved robber robber to prob_6 wool tile
+botMinna stole: grain from you
+botMinna wants to give: ore for: brick
+botLayman rolled: dice_4 dice_2
+prob_6 wool tile is blocked by the robber. No resources produced.
+botThier got: oreore
+botMinna got: ore
+botThier rolled: dice_3 dice_3
+prob_6 wool tile is blocked by the robber. No resources produced.
+botThier got: oreore
+botMinna got: ore
+botThier gave bank: woolwool and took lumber
+botThier gave bank: oreoreoreore and took wool
+botThier built a settlement: +1 VP
+botThier wants to give: brick for: lumber
+UserLookaside used Knight card knight
+Userlargest army passed from: Thier to: Lookaside: +2 VPs
+trophy Lookaside won the game! trophy
+Send a message

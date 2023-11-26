@@ -1,0 +1,377 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestKevinVandy placed a settlement
+GuestKevinVandy placed a road
+GuestKevinVandy placed a settlement
+GuestKevinVandy placed a road
+GuestKevinVandy received starting resources lumbergrainbrick
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources grainwoolbrick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumber
+GuestKevinVandy got brick
+UserLookaside built a road
+GuestKevinVandy rolled dice_4 dice_4
+UserLookaside got brickwool
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumber
+GuestKevinVandy got brick
+GuestKevinVandy rolled dice_4 dice_1
+GuestKevinVandy got grain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolbrick
+GuestKevinVandy got wool
+UserLookaside built a settlement (+1 VP)
+GuestKevinVandy rolled dice_4 dice_6
+UserLookaside got woolbrick
+GuestKevinVandy got wool
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+GuestKevinVandy rolled dice_2 dice_3
+GuestKevinVandy got grain
+GuestKevinVandy built a road
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 lumber tile
+UserNo player to steal from
+GuestKevinVandy rolled dice_2 dice_6
+UserLookaside got brickwool
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 ore tile
+UserNo player to steal from
+GuestKevinVandy rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_4
+GuestKevinVandy got lumber
+GuestKevinVandy rolled dice_5 dice_1
+GuestKevinVandy got lumber
+GuestKevinVandy built a settlement (+1 VP)
+GuestKevinVandy built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+GuestKevinVandy got grain
+UserLookaside gave bank woolwoolwoolwool and took lumber
+GuestKevinVandy rolled dice_3 dice_4
+GuestKevinVandy moved robber robber to prob_4 lumber tile
+GuestKevinVandy stole wool from you
+UserLookaside rolled dice_3 dice_3
+GuestKevinVandy got lumber
+GuestKevinVandy rolled dice_6 dice_3
+UserLookaside got grain
+GuestKevinVandy got grain
+GuestKevinVandy gave bank graingraingrain and took brick
+GuestKevinVandy built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 brick tile
+UserYou stole wool from KevinVandy
+GuestKevinVandy rolled dice_6 dice_2
+UserLookaside got brickwool
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brickwool
+UserLookaside built a road
+GuestKevinVandy rolled dice_4 dice_2
+GuestKevinVandy got lumber
+UserLookaside rolled dice_1 dice_4
+GuestKevinVandy got grain
+GuestKevinVandy rolled dice_5 dice_6
+UserLookaside got wool
+GuestKevinVandy got lumber
+UserLookaside rolled dice_1 dice_5
+GuestKevinVandy got lumber
+UserLookaside gave bank woolwoolwoolwool and took lumber
+UserLookaside built a road
+GuestKevinVandy rolled dice_2 dice_3
+GuestKevinVandy got grain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brickwool
+GuestKevinVandy rolled dice_3 dice_1
+prob_4 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+GuestKevinVandy got grain
+UserLookaside built a settlement (+1 VP)
+GuestKevinVandy rolled dice_6 dice_2
+UserLookaside got brickwool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brickwool
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+UserLookaside built a road
+GuestKevinVandy rolled dice_1 dice_1
+GuestKevinVandy got ore
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole grain from KevinVandy
+GuestKevinVandy rolled dice_4 dice_4
+UserLookaside got brickwool
+UserLookaside rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+GuestKevinVandy rolled dice_3 dice_3
+UserLookaside got lumber
+GuestKevinVandy got lumber
+GuestKevinVandy gave bank lumberlumberlumber and took wool
+GuestKevinVandy bought development card
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grain
+GuestKevinVandy got graingrain
+GuestKevinVandy used Knight card knight
+GuestKevinVandy moved robber robber to prob_8 wool tile
+GuestKevinVandy stole grain from you
+GuestKevinVandy rolled dice_2 dice_1
+UserLookaside got oregraingrain
+GuestKevinVandy got grain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolbrick
+GuestKevinVandy got wool
+UserLookaside bought development card
+GuestKevinVandy rolled dice_1 dice_6
+GuestKevinVandy moved robber robber to prob_3 ore tile
+GuestKevinVandy stole lumber from you
+GuestKevinVandy gave bank graingraingrain and took ore
+GuestKevinVandy bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 brick tile
+UserYou stole grain from KevinVandy
+UserLookaside rolled dice_5 dice_6
+UserLookaside got woolwool
+GuestKevinVandy got lumber
+GuestKevinVandy used Knight card knight
+GuestKevinVandy moved robber robber to prob_8 wool tile
+GuestKevinVandy stole grain from you
+GuestKevinVandy rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+GuestKevinVandy got lumber
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+GuestKevinVandy rolled dice_6 dice_4
+UserLookaside got woolbrick
+GuestKevinVandy got wool
+GuestKevinVandy gave bank lumberlumberlumber and took ore
+GuestKevinVandy bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole lumber from KevinVandy
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+GuestKevinVandy got graingrain
+GuestKevinVandy used Knight card knight
+GuestKevinVandy received largest army (+2 VPs)
+GuestKevinVandy moved robber robber to prob_8 wool tile
+GuestKevinVandy stole grain from you
+GuestKevinVandy rolled dice_1 dice_3
+UserLookaside got lumber
+GuestKevinVandy got brickbrick
+UserLookaside rolled dice_6 dice_5
+UserLookaside got woolwool
+GuestKevinVandy got lumber
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a road
+GuestKevinVandy rolled dice_6 dice_6
+GuestKevinVandy built a road
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+GuestKevinVandy got lumber
+GuestKevinVandy rolled dice_3 dice_1
+UserLookaside got lumber
+GuestKevinVandy got brickbrick
+UserLookaside rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+GuestKevinVandy rolled dice_4 dice_3
+GuestKevinVandy moved robber robber to prob_3 ore tile
+GuestKevinVandy stole grain from you
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole lumber from KevinVandy
+GuestKevinVandy rolled dice_1 dice_1
+GuestKevinVandy got ore
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+GuestKevinVandy got lumber
+GuestKevinVandy rolled dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestKevinVandy built a road
+UserLookaside rolled dice_5 dice_6
+UserLookaside got woolwool
+GuestKevinVandy got lumber
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestKevinVandy rolled dice_4 dice_6
+UserLookaside got woolwoolbrick
+GuestKevinVandy got wool
+GuestKevinVandy built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brickbrickwoolwool
+UserLookaside gave bank brickbrick and took grain
+UserLookaside built a settlement (+1 VP)
+GuestKevinVandy rolled dice_4 dice_5
+UserLookaside got woolgrain
+GuestKevinVandy got graingrain
+UserLookaside rolled dice_2 dice_6
+UserLookaside got brickbrickwoolwool
+UserLookaside gave bank brickbrickwoolwoolwoolwool and took oreore
+GuestKevinVandy rolled dice_1 dice_6
+GuestKevinVandy moved robber robber to prob_8 wool tile
+GuestKevinVandy stole wool from you
+GuestKevinVandy bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoolbrickbrick
+GuestKevinVandy got wool
+UserLookaside gave bank brickbrick and took ore
+GuestKevinVandy rolled dice_1 dice_4
+UserLookaside got lumberlumber
+GuestKevinVandy got grain
+GuestKevinVandy gave bank graingraingrain and took ore
+GuestKevinVandy bought development card
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberlumber
+GuestKevinVandy got grain
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a city (+1 VP)
+GuestKevinVandy rolled dice_2 dice_4
+UserLookaside got lumber
+GuestKevinVandy got orelumber
+GuestKevinVandy used Year of Plenty card year of plenty
+GuestKevinVandy took from bank ore ore
+GuestKevinVandy built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got woolwoolgrain
+GuestKevinVandy got graingraingrain
+GuestKevinVandy rolled dice_4 dice_2
+UserLookaside got lumber
+GuestKevinVandy got orelumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got oregraingraingrain
+GuestKevinVandy got grain
+UserLookaside bought development card
+GuestKevinVandy rolled dice_3 dice_6
+UserLookaside got woolwoolgrain
+GuestKevinVandy got graingraingrain
+GuestKevinVandy gave bank graingraingraingraingraingrain and took brickwool
+GuestKevinVandy built a road
+GuestKevinVandy built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumber
+GuestKevinVandy got brickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from KevinVandy
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside gave bank woolwoolwoolwool and took brick
+UserLookaside built a road
+GuestKevinVandy rolled dice_5 dice_2
+GuestKevinVandy moved robber robber to prob_8 wool tile
+GuestKevinVandy stole grain from you
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+GuestKevinVandy got oreorelumber
+GuestKevinVandy rolled dice_4 dice_5
+UserLookaside got woolwoolgrain
+GuestKevinVandy got graingraingrain
+GuestKevinVandy built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberwoolwoolgraingrain
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from KevinVandy
+GuestKevinVandy rolled dice_3 dice_6
+UserLookaside got woolwoolgrain
+GuestKevinVandy got graingraingrain
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberlumberlumber
+GuestKevinVandy got graingrain
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+GuestKevinVandy rolled dice_2 dice_3
+UserLookaside got lumberlumberlumber
+GuestKevinVandy got graingrain
+GuestKevinVandy gave bank graingraingrain and took ore
+UserLookaside rolled dice_3 dice_3
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestKevinVandy got lumberlumber
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestKevinVandy rolled dice_4 dice_3
+GuestKevinVandy discarded lumbergraingraingraingrain
+GuestKevinVandy moved robber robber to prob_8 brick tile
+GuestKevinVandy stole grain from you
+UserLookaside used Knight card knight
+Userlargest army passed from KevinVandy to Lookaside (+2 VPs)
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole grain from KevinVandy
+UserLookaside rolled dice_3 dice_5
+UserLookaside got brickbrickbrickwoolwool
+UserLookaside gave bank brickbrick and took ore
+UserLookaside bought development card
+GuestKevinVandy rolled dice_1 dice_1
+GuestKevinVandy got oreore
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumber
+GuestKevinVandy got brickbrickbrick
+GuestKevinVandy rolled dice_5 dice_1
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestKevinVandy got lumberlumber
+GuestKevinVandy gave bank lumberlumberlumber and took grain
+GuestKevinVandy built a city (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got oregraingraingrain
+GuestKevinVandy got oreoregraingrain
+UserLookaside gave bank lumberlumberlumberwoolwoolwool and took oreore
+UserLookaside built a city (+1 VP)
+GuestKevinVandy rolled dice_1 dice_6
+GuestKevinVandy moved robber robber to prob_8 brick tile
+GuestKevinVandy stole brick from you
+GuestKevinVandy gave bank brickbrickbrick and took wool
+GuestKevinVandy bought development card
+GuestKevinVandy built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from KevinVandy
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumber
+GuestKevinVandy got brickbrickbrick
+UserLookaside built a road
+GuestKevinVandy rolled dice_1 dice_2
+UserLookaside got oregraingraingrain
+GuestKevinVandy got oreoregraingrain
+GuestKevinVandy used Year of Plenty card year of plenty
+GuestKevinVandy took from bank wool wool
+GuestKevinVandy bought development card
+GuestKevinVandy bought development card
+GuestKevinVandy gave bank brickbrickbrick and took wool
+GuestKevinVandy bought development card
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwoolbrickbrickbrickbrick
+GuestKevinVandy got woolwool
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+GuestKevinVandy has left the game
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

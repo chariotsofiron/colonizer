@@ -1,0 +1,278 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: i got so lucky with sevens this game
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestAltynOrda placed a settlement
+GuestAltynOrda placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberbricklumber
+GuestAltynOrda placed a settlement
+GuestAltynOrda placed a road
+GuestAltynOrda received starting resources: lumberoreore
+GuestAltynOrda rolled: dice_5 dice_1
+UserLookaside got: lumber
+UserLookaside rolled: dice_4 dice_4
+GuestAltynOrda got: brick
+UserLookaside built a road
+GuestAltynOrda rolled: dice_6 dice_6
+GuestAltynOrda got: ore
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: wool
+GuestAltynOrda got: wool
+GuestAltynOrda rolled: dice_3 dice_5
+GuestAltynOrda got: brick
+GuestAltynOrda built a road
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: lumber
+GuestAltynOrda rolled: dice_6 dice_5
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: lumber
+GuestAltynOrda rolled: dice_2 dice_2
+UserLookaside got: brickgrain
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 wool tile
+UserNo player to steal from
+UserLookaside built a settlement: +1 VP
+GuestAltynOrda rolled: dice_1 dice_2
+UserLookaside got: lumber
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: woolwool
+GuestAltynOrda got: wool
+GuestAltynOrda rolled: dice_4 dice_5
+UserLookaside got: ore
+GuestAltynOrda got: ore
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 grain tile
+UserNo player to steal from
+GuestAltynOrda rolled: dice_1 dice_4
+UserLookaside got: lumber
+GuestAltynOrda got: grainlumber
+GuestAltynOrda built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole: wool from: AltynOrda
+UserLookaside wants to give: lumberlumberlumberlumber for: brick
+UserLookaside gave bank: lumberlumberlumber and took brick
+UserLookaside built a road
+GuestAltynOrda rolled: dice_1 dice_1
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: ore
+GuestAltynOrda got: ore
+GuestAltynOrda rolled: dice_5 dice_6
+GuestAltynOrda got: wool
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole: ore from: AltynOrda
+GuestAltynOrda rolled: dice_3 dice_1
+UserLookaside got: brickgrain
+UserLookaside rolled: dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestAltynOrda got: lumberlumber
+UserLookaside built a settlement: +1 VP
+GuestAltynOrda rolled: dice_6 dice_2
+UserLookaside got: brick
+GuestAltynOrda got: brick
+GuestAltynOrda built a road
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: woolwool
+GuestAltynOrda got: wool
+UserLookaside built a road
+GuestAltynOrda rolled: dice_6 dice_6
+GuestAltynOrda got: ore
+UserLookaside rolled: dice_5 dice_6
+GuestAltynOrda got: wool
+GuestAltynOrda rolled: dice_6 dice_2
+UserLookaside got: brick
+GuestAltynOrda got: brick
+GuestAltynOrda gave bank: oreoreoreore and took grain
+GuestAltynOrda built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: lumber
+GuestAltynOrda got: lumber
+UserLookaside gave bank: woolwoolwool and took grain
+GuestAltynOrda rolled: dice_6 dice_3
+UserLookaside got: ore
+GuestAltynOrda got: oregrain
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: ore
+GuestAltynOrda got: oregrain
+UserLookaside built a road
+GuestAltynOrda rolled: dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+GuestAltynOrda got: lumberlumber
+GuestAltynOrda built a city: +1 VP
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: woolwool
+GuestAltynOrda got: woolwoolwool
+UserLookaside gave bank: woolwoolwool and took grain
+UserLookaside built a city: +1 VP
+GuestAltynOrda rolled: dice_1 dice_1
+GuestAltynOrda got: brick
+GuestAltynOrda built a road
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumber
+GuestAltynOrda rolled: dice_2 dice_4
+UserLookaside got: lumber
+GuestAltynOrda got: lumber
+UserLookaside rolled: dice_6 dice_5
+GuestAltynOrda got: wool
+GuestAltynOrda rolled: dice_2 dice_2
+UserLookaside got: brickgraingrain
+UserLookaside rolled: dice_2 dice_3
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestAltynOrda got: lumberlumber
+UserLookaside gave bank: lumberlumberlumber and took ore
+UserLookaside built a city: +1 VP
+GuestAltynOrda rolled: dice_3 dice_6
+UserLookaside got: ore
+GuestAltynOrda got: oregrain
+GuestAltynOrda bought development card
+GuestAltynOrda gave bank: lumberlumberlumberlumberwoolwoolwoolwool and took brickgrain
+GuestAltynOrda built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumberlumber
+GuestAltynOrda got: lumberlumber
+GuestAltynOrda rolled: dice_5 dice_3
+UserLookaside got: brick
+GuestAltynOrda got: brickbrick
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: brickbrickgraingrain
+UserLookaside gave bank: lumberlumberlumber and took wool
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+GuestAltynOrda rolled: dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+GuestAltynOrda got: lumberlumber
+GuestAltynOrda built a road
+GuestAltynOrda built a road
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: lumber from: AltynOrda
+GuestAltynOrda rolled: dice_6 dice_1
+GuestAltynOrda moved robber robber to prob_4 brick tile
+GuestAltynOrda stole: grain from you
+GuestAltynOrda used Year of Plenty card year of plenty
+GuestAltynOrda took from bank: brick wool
+GuestAltynOrda built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_10 wool tile
+UserNo player to steal from
+UserLookaside built a road
+GuestAltynOrda rolled: dice_5 dice_1
+UserLookaside got: lumberlumber
+GuestAltynOrda got: grainlumberlumber
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole: grain from: AltynOrda
+UserLookaside gave bank: lumberlumberlumber and took wool
+UserLookaside built a settlement: +1 VP
+GuestAltynOrda rolled: dice_6 dice_5
+UserLookaside got: wool
+GuestAltynOrda got: orewool
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: lumber from: AltynOrda
+GuestAltynOrda rolled: dice_6 dice_4
+prob_10 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: woolwoolwool
+UserLookaside rolled: dice_6 dice_6
+GuestAltynOrda got: oreore
+UserLookaside gave bank: woolwoolwool and took grain
+UserLookaside bought development card
+GuestAltynOrda rolled: dice_1 dice_3
+UserLookaside got: brickbrickgraingraingraingrain
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: woolbrick
+GuestAltynOrda got: brickbrick
+UserLookaside built a road
+GuestAltynOrda rolled: dice_3 dice_4
+GuestAltynOrda moved robber robber to prob_4 grain tile
+GuestAltynOrda stole: grain from you
+GuestAltynOrda bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: brick from: AltynOrda
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: lumberlumber
+GuestAltynOrda got: graingrainlumberlumber
+UserLookaside gave bank: brickbrickbrick and took ore
+UserLookaside bought development card
+GuestAltynOrda used Knight card knight
+GuestAltynOrda moved robber robber to prob_4 grain tile
+GuestAltynOrda stole: lumber from you
+GuestAltynOrda rolled: dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: brickbrick
+GuestAltynOrda gave bank: lumberlumberlumberlumber and took ore
+GuestAltynOrda built a city: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: brick from: AltynOrda
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_5 grain tile
+UserNo player to steal from
+UserLookaside built a road
+GuestAltynOrda rolled: dice_5 dice_4
+UserLookaside got: oregrain
+GuestAltynOrda got: oreoregraingrain
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumberlumberlumber
+GuestAltynOrda got: lumber
+UserLookaside gave bank: lumberlumberlumber and took wool
+UserLookaside built a settlement: +1 VP
+GuestAltynOrda rolled: dice_2 dice_6
+UserLookaside got: woolbrick
+GuestAltynOrda got: brickbrick
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumberlumber
+GuestAltynOrda got: grainlumberlumber
+UserLookaside built a road
+UserLookaside built a road
+GuestAltynOrda rolled: dice_5 dice_6
+UserLookaside got: wool
+GuestAltynOrda got: orewool
+GuestAltynOrda built a city: +1 VP
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: lumber from: AltynOrda
+UserLookaside bought development card
+GuestAltynOrda rolled: dice_3 dice_6
+UserLookaside got: oreoregrain
+GuestAltynOrda got: oreoregraingrain
+GuestAltynOrda bought development card
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole: lumber from: AltynOrda
+UserLookaside bought development card
+GuestAltynOrda rolled: dice_4 dice_5
+UserLookaside got: oreoregrain
+GuestAltynOrda got: oreoregraingrain
+GuestAltynOrda built a city: +1 VP
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole: grain from: AltynOrda
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: woolbrick
+GuestAltynOrda got: brickbrick
+UserLookaside built a city: +1 VP
+trophy Lookaside won the game! trophy

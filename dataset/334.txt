@@ -1,0 +1,205 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestRibena1108 placed a settlement
+GuestRibena1108 placed a road
+GuestRibena1108 placed a settlement
+GuestRibena1108 placed a road
+GuestRibena1108 received starting resources brickgrainlumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberorebrick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got ore
+GuestRibena1108 got ore
+GuestRibena1108 rolled dice_6 dice_5
+UserLookaside rolled dice_6 dice_4
+UserLookaside got oregrain
+GuestRibena1108 rolled dice_3 dice_3
+UserLookaside rolled dice_4 dice_5
+GuestRibena1108 got lumber
+GuestRibena1108 rolled dice_6 dice_6
+UserLookaside rolled dice_6 dice_3
+GuestRibena1108 got lumber
+GuestRibena1108 rolled dice_3 dice_2
+UserLookaside got lumberlumber
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brick
+GuestRibena1108 got grainbrick
+UserLookaside built a road
+GuestRibena1108 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+GuestRibena1108 moved robber robber to prob_6 wool tile
+GuestNo player to steal from
+GuestRibena1108 built a road
+GuestRibena1108 built a road
+UserLookaside rolled dice_3 dice_5
+UserLookaside got ore
+GuestRibena1108 got ore
+UserLookaside gave bank oreoreoreore and took wool
+UserLookaside built a settlement (+1 VP)
+GuestRibena1108 rolled dice_3 dice_6
+GuestRibena1108 got lumber
+UserLookaside rolled dice_5 dice_3
+UserLookaside got ore
+GuestRibena1108 got ore
+GuestRibena1108 rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestRibena1108 moved robber robber to prob_10 grain tile
+GuestRibena1108 stole lumber from you
+UserLookaside rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+GuestRibena1108 rolled dice_2 dice_2
+UserLookaside got brick
+GuestRibena1108 got grainbrick
+GuestRibena1108 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberlumberlumber
+UserLookaside built a road
+GuestRibena1108 rolled dice_4 dice_2
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from Ribena1108
+GuestRibena1108 rolled dice_5 dice_5
+UserLookaside got oregrain
+GuestRibena1108 built a road
+UserLookaside rolled dice_2 dice_4
+UserLookaside got wool
+GuestRibena1108 rolled dice_3 dice_1
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+GuestRibena1108 got brick
+UserLookaside rolled dice_2 dice_1
+GuestRibena1108 got grainbrickbrick
+UserLookaside built a settlement (+1 VP)
+GuestRibena1108 rolled dice_1 dice_1
+UserLookaside rolled dice_6 dice_6
+GuestRibena1108 rolled dice_5 dice_2
+GuestRibena1108 moved robber robber to prob_10 grain tile
+GuestRibena1108 stole ore from you
+UserLookaside rolled dice_1 dice_1
+GuestRibena1108 rolled dice_2 dice_5
+GuestRibena1108 moved robber robber to prob_5 lumber tile
+GuestRibena1108 stole lumber from you
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+GuestRibena1108 got graingrainbrick
+GuestRibena1108 rolled dice_6 dice_2
+UserLookaside got ore
+GuestRibena1108 got oreore
+GuestRibena1108 built a city (+1 VP)
+GuestRibena1108 gave bank brickbrickbrickbrick and took wool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got ore
+GuestRibena1108 got oreore
+GuestRibena1108 rolled dice_4 dice_3
+GuestRibena1108 moved robber robber to prob_10 grain tile
+GuestRibena1108 stole ore from you
+UserLookaside rolled dice_2 dice_4
+UserLookaside got wool
+GuestRibena1108 rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_3
+GuestRibena1108 got lumberlumber
+GuestRibena1108 rolled dice_6 dice_5
+UserLookaside got graingrain
+UserLookaside rolled dice_2 dice_1
+UserLookaside got brick
+GuestRibena1108 got graingrainbrickbrick
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestRibena1108 rolled dice_3 dice_6
+GuestRibena1108 got lumberlumber
+GuestRibena1108 built a settlement (+1 VP)
+GuestRibena1108 gave bank lumberlumberlumberlumber and took wool
+GuestRibena1108 built a settlement (+1 VP)
+GuestRibena1108 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwool
+GuestRibena1108 rolled dice_6 dice_1
+GuestRibena1108 moved robber robber to prob_5 lumber tile
+GuestRibena1108 stole wool from you
+UserLookaside rolled dice_5 dice_6
+UserLookaside got graingraingrain
+UserLookaside bought development card
+GuestRibena1108 rolled dice_1 dice_6
+GuestRibena1108 moved robber robber to prob_10 grain tile
+GuestRibena1108 stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole wool from Ribena1108
+UserLookaside rolled dice_4 dice_2
+UserLookaside got woolwool
+GuestRibena1108 rolled dice_3 dice_2
+UserLookaside got lumberlumberlumberlumber
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestRibena1108 rolled dice_6 dice_4
+UserLookaside got oregraingrain
+GuestRibena1108 got oreore
+UserLookaside rolled dice_5 dice_5
+UserLookaside got oregraingrain
+GuestRibena1108 got oreore
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestRibena1108 rolled dice_3 dice_1
+UserLookaside got brick
+GuestRibena1108 got graingrainbrickbrick
+GuestRibena1108 gave bank oreore and took wool
+GuestRibena1108 bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got graingraingrain
+GuestRibena1108 rolled dice_2 dice_3
+UserLookaside got lumberlumberlumberlumberlumber
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwool
+UserLookaside gave bank lumberlumberlumberlumber and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestRibena1108 rolled dice_4 dice_6
+UserLookaside got oregraingraingrain
+GuestRibena1108 got oreore
+GuestRibena1108 gave bank oreore and took wool
+GuestRibena1108 bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwoolgraingraingraingrain and took oreore
+UserLookaside built a city (+1 VP)
+GuestRibena1108 used Knight card knight
+GuestRibena1108 moved robber robber to prob_10 grain tile
+GuestRibena1108 stole wool from you
+GuestRibena1108 rolled dice_3 dice_2
+UserLookaside got lumberlumberlumberlumberlumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole wool from Ribena1108
+UserLookaside rolled dice_4 dice_4
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside got oreoreore
+GuestRibena1108 got oreore
+GuestRibena1108 Resigned
+trophyUserLookaside won the game!trophy
+GuestRibena1108 has left the game
+UserLookaside: gg
+Send a message
+Send message
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

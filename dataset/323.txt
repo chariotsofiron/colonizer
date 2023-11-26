@@ -1,0 +1,309 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestPersonita placed a settlement
+GuestPersonita placed a road
+GuestPersonita placed a settlement
+GuestPersonita placed a road
+GuestPersonita received starting resources bricklumbergrain
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources graingrainore
+UserLookaside rolled dice_1 dice_1
+GuestPersonita rolled dice_5 dice_6
+UserLookaside rolled dice_3 dice_6
+GuestPersonita got wool
+UserLookaside got brick
+GuestPersonita rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestPersonita moved robber robber to prob_6 grain tile
+GuestNo player to steal from
+UserLookaside rolled dice_5 dice_5
+GuestPersonita got grain
+UserLookaside got lumbergrain
+GuestPersonita rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestPersonita moved robber robber to prob_11 lumber tile
+GuestNo player to steal from
+UserLookaside rolled dice_2 dice_6
+UserLookaside got grain
+GuestPersonita rolled dice_5 dice_1
+GuestPersonita got lumber
+GuestPersonita built a road
+UserLookaside rolled dice_6 dice_4
+GuestPersonita got grain
+UserLookaside got lumbergrain
+UserLookaside built a road
+GuestPersonita rolled dice_2 dice_1
+GuestPersonita got grain
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_1
+GuestPersonita got wool
+UserLookaside got brick
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuestPersonita rolled dice_2 dice_3
+GuestPersonita got wool
+UserLookaside got brick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got grain
+GuestPersonita rolled dice_3 dice_3
+GuestPersonita got lumber
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 lumber tile
+UserNo player to steal from
+GuestPersonita rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_2
+GuestPersonita got grain
+UserLookaside got oreore
+UserLookaside built a city (+1 VP)
+GuestPersonita rolled dice_2 dice_4
+GuestPersonita got lumber
+UserLookaside got grain
+GuestPersonita gave bank graingraingraingrain and took brick
+GuestPersonita built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+GuestPersonita got woolwool
+UserLookaside got brick
+GuestPersonita rolled dice_3 dice_2
+GuestPersonita got wool
+UserLookaside got brick
+UserLookaside rolled dice_2 dice_2
+GuestPersonita got brick
+UserLookaside got wool
+UserLookaside bought development card
+GuestPersonita rolled dice_3 dice_5
+UserLookaside got graingrain
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole lumber from Personita
+UserLookaside built a road
+GuestPersonita rolled dice_1 dice_3
+GuestPersonita got brick
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_5
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+GuestPersonita rolled dice_1 dice_1
+UserLookaside rolled dice_1 dice_5
+GuestPersonita got lumber
+UserLookaside got grain
+GuestPersonita rolled dice_5 dice_6
+GuestPersonita got lumber
+GuestPersonita built a road
+GuestPersonita built a road
+UserLookaside rolled dice_5 dice_3
+UserLookaside got graingrain
+GuestPersonita rolled dice_4 dice_1
+GuestPersonita got wool
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got graingrain
+UserLookaside gave bank graingraingraingrain and took lumber
+GuestPersonita rolled dice_1 dice_2
+GuestPersonita got grainore
+UserLookaside got oreoreore
+GuestPersonita gave bank woolwoolwoolwool and took brick
+GuestPersonita built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_6
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestPersonita rolled dice_4 dice_2
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+GuestPersonita bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from Personita
+UserLookaside built a settlement (+1 VP)
+GuestPersonita used Knight card knight
+GuestPersonita moved robber robber to prob_8 grain tile
+GuestPersonita stole grain from you
+GuestPersonita rolled dice_6 dice_5
+GuestPersonita got lumberlumber
+UserLookaside rolled dice_6 dice_4
+GuestPersonita got grain
+UserLookaside got lumbergraingrain
+UserLookaside built a road
+GuestPersonita rolled dice_2 dice_4
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+UserLookaside rolled dice_5 dice_1
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+GuestPersonita rolled dice_5 dice_5
+GuestPersonita got grain
+UserLookaside got lumbergraingrain
+UserLookaside rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside gave bank graingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuestPersonita rolled dice_5 dice_2
+GuestPersonita moved robber robber to prob_3 ore tile
+GuestPersonita stole grain from you
+GuestPersonita gave bank graingraingraingrain and took brick
+GuestPersonita built a road
+GuestPersonita received longest road (+2 VPs)
+UserLookaside rolled dice_5 dice_4
+GuestPersonita got woolwool
+UserLookaside got brick
+GuestPersonita rolled dice_2 dice_2
+GuestPersonita got brick
+UserLookaside got woolwoolwool
+GuestPersonita built a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole grain from Personita
+GuestPersonita rolled dice_4 dice_6
+GuestPersonita got grain
+UserLookaside got lumberlumbergraingrain
+UserLookaside rolled dice_2 dice_1
+GuestPersonita got grainore
+UserLookaside got oreoreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+GuestPersonita rolled dice_2 dice_3
+GuestPersonita got woolbrick
+UserLookaside got brickbrick
+GuestPersonita built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+UserLookaside built a road
+GuestPersonita rolled dice_3 dice_3
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+UserLookaside rolled dice_6 dice_5
+GuestPersonita got lumberlumber
+UserLookaside gave bank graingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+GuestPersonita rolled dice_4 dice_3
+GuestPersonita discarded lumberlumberlumberlumbergrain
+GuestPersonita moved robber robber to prob_8 grain tile
+GuestPersonita stole wool from you
+GuestPersonita bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole grain from Personita
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woolgraingraingrain
+UserLookaside gave bank graingrain and took ore
+UserLookaside bought development card
+GuestPersonita used Knight card knight
+GuestPersonita moved robber robber to prob_8 grain tile
+GuestPersonita stole grain from you
+GuestPersonita rolled dice_5 dice_6
+GuestPersonita got lumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole lumber from Personita
+UserLookaside rolled dice_2 dice_3
+GuestPersonita got woolwoolbrick
+UserLookaside got brickbrick
+UserLookaside built a road
+GuestPersonita rolled dice_2 dice_5
+GuestPersonita moved robber robber to prob_8 grain tile
+GuestPersonita stole brick from you
+UserLookaside rolled dice_4 dice_2
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+GuestPersonita rolled dice_3 dice_2
+GuestPersonita got woolwoolbrick
+UserLookaside got brickbrick
+GuestPersonita gave bank woolwoolwoolwoolwoolwool and took oreoreore
+GuestPersonita built a city (+1 VP)
+GuestPersonita built a road
+GuestPersonita built a road
+UserLookaside rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestPersonita rolled dice_1 dice_3
+GuestPersonita got brick
+UserLookaside got woolwoolwool
+UserLookaside rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside bought development card
+GuestPersonita rolled dice_6 dice_3
+GuestPersonita got woolwoolwool
+UserLookaside got brickbrick
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole brick from Personita
+UserLookaside rolled dice_5 dice_1
+GuestPersonita got lumbergrain
+UserLookaside got graingrain
+UserLookaside gave bank brickbrickbrick and took lumber
+UserLookaside built a road
+GuestPersonita rolled dice_3 dice_4
+GuestPersonita moved robber robber to prob_8 grain tile
+GuestPersonita stole grain from you
+GuestPersonita gave bank woolwool and took ore
+GuestPersonita bought development card
+GuestPersonita built a road
+UserLookaside rolled dice_2 dice_1
+GuestPersonita got grainore
+UserLookaside got oreoreoreore
+UserLookaside gave bank oreoreore and took lumber
+UserLookaside built a settlement (+1 VP)
+GuestPersonita rolled dice_1 dice_6
+GuestPersonita moved robber robber to prob_6 grain tile
+GuestPersonita stole ore from you
+UserLookaside rolled dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestPersonita got lumber
+GuestPersonita rolled dice_6 dice_4
+GuestPersonita got graingrain
+UserLookaside got lumberlumberlumberlumbergraingrain
+UserLookaside rolled dice_4 dice_1
+GuestPersonita got woolwoolwoolbrick
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside gave bank graingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuestPersonita rolled dice_3 dice_6
+GuestPersonita got woolwoolwool
+UserLookaside got brickbrick
+GuestPersonita gave bank woolwool and took ore
+GuestPersonita built a city (+1 VP)
+GuestPersonita used Road Building card road building
+GuestPersonita placed a road
+GuestPersonita placed a road
+GuestPersonita gave bank woolwool and took ore
+GuestPersonita bought development card
+GuestPersonita built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+GuestPersonita got woolwoolwool
+UserLookaside got brickbrick
+GuestPersonita rolled dice_6 dice_2
+UserLookaside got woolwoolgraingraingrain
+GuestPersonita used Year of Plenty card year of plenty
+GuestPersonita took from bank grain ore
+GuestPersonita bought development card
+UserLookaside rolled dice_1 dice_3
+GuestPersonita got brick
+UserLookaside got woolwoolwool
+UserLookaside gave bank lumberlumberbrickbrickbrickwoolwoolwool and took oreoreore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+GuestPersonita has left the game
+Send a message
+Send message
+No Ads

@@ -1,0 +1,414 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestMarji8948 placed a settlement
+GuestMarji8948 placed a road
+GuestMarji8948 placed a settlement
+GuestMarji8948 placed a road
+GuestMarji8948 received starting resources orebricklumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberlumberore
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+GuestMarji8948 rolled dice_5 dice_6
+GuestMarji8948 built a road
+UserLookaside rolled dice_5 dice_4
+UserLookaside got wool
+GuestMarji8948 rolled dice_4 dice_2
+GuestMarji8948 got woolbrick
+UserLookaside rolled dice_6 dice_5
+GuestMarji8948 rolled dice_1 dice_3
+GuestMarji8948 got ore
+UserLookaside rolled dice_2 dice_2
+GuestMarji8948 got ore
+GuestMarji8948 rolled dice_2 dice_3
+GuestMarji8948 got lumber
+UserLookaside got bricklumber
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+GuestMarji8948 rolled dice_6 dice_4
+GuestMarji8948 got ore
+UserLookaside got grain
+GuestMarji8948 gave bank oreoreoreore and took grain
+GuestMarji8948 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+GuestMarji8948 got lumber
+UserLookaside got lumber
+UserLookaside built a road
+GuestMarji8948 rolled dice_4 dice_1
+GuestMarji8948 got lumber
+UserLookaside got bricklumber
+UserLookaside rolled dice_3 dice_3
+GuestMarji8948 got woolbrick
+UserLookaside built a settlement (+1 VP)
+GuestMarji8948 rolled dice_5 dice_3
+GuestMarji8948 got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_4
+GuestMarji8948 got woolbrick
+GuestMarji8948 rolled dice_1 dice_1
+GuestMarji8948 got grain
+GuestMarji8948 built a road
+GuestMarji8948 built a road
+UserLookaside rolled dice_4 dice_6
+GuestMarji8948 got oreore
+UserLookaside got grain
+GuestMarji8948 rolled dice_6 dice_1
+GuestMarji8948 moved robber robber to prob_10 grain tile
+GuestMarji8948 stole lumber from you
+UserLookaside rolled dice_5 dice_1
+GuestMarji8948 got woolbrick
+GuestMarji8948 rolled dice_6 dice_3
+UserLookaside got wool
+GuestMarji8948 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Marji8948
+UserLookaside bought development card
+GuestMarji8948 rolled dice_1 dice_4
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumber
+UserLookaside rolled dice_1 dice_2
+UserLookaside got ore
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a road
+GuestMarji8948 rolled dice_6 dice_2
+GuestMarji8948 got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_4
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumber
+GuestMarji8948 rolled dice_5 dice_6
+UserLookaside rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestMarji8948 got wool
+GuestMarji8948 rolled dice_3 dice_5
+GuestMarji8948 got lumber
+UserLookaside got lumber
+GuestMarji8948 gave bank lumberlumberlumberlumber and took grain
+GuestMarji8948 bought development card
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole wool from Marji8948
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_10 grain tile
+GuestMarji8948 stole lumber from you
+GuestMarji8948 rolled dice_1 dice_6
+GuestMarji8948 moved robber robber to prob_5 brick tile
+GuestMarji8948 stole wool from you
+UserLookaside rolled dice_4 dice_5
+GuestMarji8948 got brick
+UserLookaside got wool
+GuestMarji8948 rolled dice_3 dice_3
+GuestMarji8948 got woolbrickbrick
+UserLookaside rolled dice_6 dice_3
+GuestMarji8948 got brick
+UserLookaside got wool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 brick
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a settlement (+1 VP)
+GuestMarji8948 rolled dice_1 dice_3
+GuestMarji8948 got ore
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole ore from Marji8948
+GuestMarji8948 rolled dice_3 dice_1
+GuestMarji8948 got ore
+UserLookaside got ore
+UserLookaside rolled dice_6 dice_4
+GuestMarji8948 got oreore
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+GuestMarji8948 rolled dice_1 dice_1
+GuestMarji8948 got grain
+GuestMarji8948 gave bank woolwool and took grain
+GuestMarji8948 built a city (+1 VP)
+UserLookaside rolled dice_2 dice_4
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestMarji8948 got woolwool
+GuestMarji8948 rolled dice_2 dice_5
+GuestMarji8948 moved robber robber to prob_10 grain tile
+GuestMarji8948 stole wool from you
+GuestMarji8948 gave bank woolwool and took grain
+GuestMarji8948 bought development card
+UserLookaside rolled dice_3 dice_6
+GuestMarji8948 got brick
+UserLookaside got wool
+GuestMarji8948 rolled dice_2 dice_2
+GuestMarji8948 got oreore
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_6
+GuestMarji8948 got lumber
+UserLookaside got woolwoollumber
+GuestMarji8948 rolled dice_5 dice_3
+GuestMarji8948 got lumber
+UserLookaside got woolwoollumber
+UserLookaside rolled dice_3 dice_2
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumber
+UserLookaside gave bank lumberlumberlumberlumberwoolwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestMarji8948 rolled dice_5 dice_4
+GuestMarji8948 got brick
+UserLookaside got wool
+GuestMarji8948 built a road
+GuestMarji8948 built a road
+UserLookaside rolled dice_5 dice_1
+GuestMarji8948 got woolwoolbrickbrick
+GuestMarji8948 rolled dice_6 dice_5
+UserLookaside got graingrain
+UserLookaside rolled dice_4 dice_2
+GuestMarji8948 got woolwoolbrickbrick
+GuestMarji8948 rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestMarji8948 got oreore
+GuestMarji8948 gave bank woolwool and took grain
+GuestMarji8948 built a settlement (+1 VP)
+GuestMarji8948 built a road
+UserLookaside rolled dice_2 dice_1
+UserLookaside got oreore
+UserLookaside bought development card
+UserLookaside bought development card
+GuestMarji8948 rolled dice_6 dice_2
+GuestMarji8948 got lumber
+UserLookaside got woolwoollumberlumber
+GuestMarji8948 built a road
+GuestMarji8948 received longest road (+2 VPs)
+GuestMarji8948 gave bank oreoreoreore and took grain
+GuestMarji8948 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_2
+GuestMarji8948 got lumber
+UserLookaside got oreore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestMarji8948 rolled dice_5 dice_4
+GuestMarji8948 got brickwool
+UserLookaside got wool
+UserLookaside rolled dice_1 dice_1
+GuestMarji8948 got graingrain
+GuestMarji8948 rolled dice_2 dice_3
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumberlumber
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from Marji8948
+UserLookaside built a road
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_10 grain tile
+GuestMarji8948 stole wool from you
+GuestMarji8948 rolled dice_6 dice_6
+GuestMarji8948 got grain
+UserLookaside rolled dice_2 dice_4
+GuestMarji8948 got woolwoolbrickbrickbrick
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 brick
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestMarji8948 rolled dice_1 dice_3
+GuestMarji8948 got oreore
+UserLookaside got ore
+GuestMarji8948 bought development card
+GuestMarji8948 bought development card
+UserLookaside rolled dice_3 dice_1
+GuestMarji8948 got oreore
+UserLookaside got ore
+GuestMarji8948 rolled dice_3 dice_5
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoollumberlumber
+GuestMarji8948 bought development card
+UserLookaside rolled dice_3 dice_2
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+GuestMarji8948 rolled dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestMarji8948 got oreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from Marji8948
+UserLookaside rolled dice_4 dice_5
+GuestMarji8948 got brickwool
+UserLookaside got wool
+GuestMarji8948 used Knight card knight
+GuestMarji8948 received largest army (+2 VPs)
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole brick from you
+GuestMarji8948 rolled dice_6 dice_3
+GuestMarji8948 got brickwool
+UserLookaside got wool
+GuestMarji8948 gave bank woolwool and took grain
+GuestMarji8948 bought development card
+GuestMarji8948 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from Marji8948
+UserLookaside rolled dice_2 dice_2
+GuestMarji8948 got oreore
+UserLookaside got ore
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole wool from you
+GuestMarji8948 rolled dice_4 dice_4
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoollumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from Marji8948
+UserLookaside rolled dice_5 dice_6
+GuestMarji8948 got grain
+UserLookaside got graingrain
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserLookaside built a road
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole wool from you
+GuestMarji8948 rolled dice_4 dice_6
+GuestMarji8948 got oreore
+UserLookaside got graingraingraingrain
+GuestMarji8948 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole brick from Marji8948
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from Marji8948
+UserLookaside bought development card
+UserLookaside built a road
+Userlongest road passed from Marji8948 to Lookaside (+2 VPs)
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole grain from you
+GuestMarji8948 rolled dice_5 dice_3
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoollumberlumber
+GuestMarji8948 bought development card
+GuestMarji8948 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from Marji8948
+UserLookaside rolled dice_5 dice_1
+prob_6 wool tile is blocked by the robber. No resources produced.
+GuestMarji8948 got brickbrickbrick
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestMarji8948 used Knight card knight
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole wool from you
+GuestMarji8948 rolled dice_5 dice_6
+GuestMarji8948 got grain
+UserLookaside got graingrain
+GuestMarji8948 bought development card
+UserLookaside rolled dice_2 dice_2
+GuestMarji8948 got oreore
+UserLookaside got ore
+UserLookaside bought development card
+GuestMarji8948 rolled dice_1 dice_2
+GuestMarji8948 got lumber
+UserLookaside got oreore
+GuestMarji8948 used Road Building card road building
+GuestMarji8948 placed a road
+Guestlongest road passed from Lookaside to Marji8948 (+2 VPs)
+GuestMarji8948 placed a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole brick from Marji8948
+UserLookaside rolled dice_5 dice_4
+GuestMarji8948 got brickwool
+UserLookaside got wool
+UserLookaside bought development card
+GuestMarji8948 rolled dice_3 dice_5
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoollumberlumber
+UserLookaside rolled dice_3 dice_6
+GuestMarji8948 got brickwool
+UserLookaside got wool
+UserLookaside bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from Marji8948
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+GuestMarji8948 rolled dice_4 dice_1
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumberlumber
+GuestMarji8948 gave bank brickbrickbrickbrick and took grain
+GuestMarji8948 bought development card
+UserLookaside rolled dice_6 dice_2
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoollumberlumber
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank lumberlumber and took ore
+GuestMarji8948 rolled dice_6 dice_1
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole lumber from you
+UserLookaside rolled dice_3 dice_3
+GuestMarji8948 got woolwoolbrickbrickbrick
+GuestMarji8948 rolled dice_1 dice_6
+GuestMarji8948 discarded lumberlumberlumberlumberbrickbrick
+GuestMarji8948 moved robber robber to prob_10 grain tile
+GuestMarji8948 stole ore from you
+GuestMarji8948 gave bank woolwool and took grain
+UserLookaside rolled dice_2 dice_1
+GuestMarji8948 got lumber
+UserLookaside got oreore
+UserLookaside gave bank woolwoolwool and took ore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain grain
+UserLookaside built a city (+1 VP)
+GuestMarji8948 rolled dice_2 dice_3
+GuestMarji8948 got lumber
+UserLookaside got bricklumberlumberlumberlumber
+UserLookaside rolled dice_4 dice_5
+GuestMarji8948 got brickwool
+UserLookaside got wool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+GuestMarji8948 rolled dice_1 dice_1
+GuestMarji8948 got graingrain
+GuestMarji8948 gave bank woolwool and took ore
+GuestMarji8948 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_3
+GuestMarji8948 got lumber
+UserLookaside got woolwoolwoolwoollumberlumber
+UserLookaside gave bank woolwoolwool and took ore
+GuestMarji8948 rolled dice_2 dice_5
+GuestMarji8948 moved robber robber to prob_5 lumber tile
+GuestMarji8948 stole lumber from you
+GuestMarji8948 gave bank lumberlumberlumberlumber and took wool
+GuestMarji8948 built a settlement (+1 VP)
+trophyGuestMarji8948 won the game!trophy
+UserLookaside: not looking so hot for me
+GuestMarji8948: Oof
+UserLookaside: not enough
+UserLookaside: gg
+GuestMarji8948: I need any roll
+Send a message
+Send message
+No Ads

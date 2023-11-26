@@ -1,0 +1,347 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+GuestJimmyB1987: Gg
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestJimmyB1987 placed a settlement
+GuestJimmyB1987 placed a road
+GuestJimmyB1987 placed a settlement
+GuestJimmyB1987 placed a road
+GuestJimmyB1987 received starting resources brickgrainlumber
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolwoolbrick
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumber
+GuestJimmyB1987 got grain
+GuestJimmyB1987 rolled dice_3 dice_3
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got ore
+GuestJimmyB1987 rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_5
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 rolled dice_1 dice_3
+GuestJimmyB1987 got ore
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 brick tile
+UserNo player to steal from
+GuestJimmyB1987 rolled dice_5 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_5
+UserLookaside got wool
+GuestJimmyB1987 got wool
+GuestJimmyB1987 rolled dice_6 dice_4
+UserLookaside got lumber
+GuestJimmyB1987 got grain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got grainbrick
+GuestJimmyB1987 got brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestJimmyB1987 rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestJimmyB1987 moved robber robber to prob_6 brick tile
+GuestJimmyB1987 stole ore from you
+GuestJimmyB1987 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+GuestJimmyB1987 rolled dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumber
+GuestJimmyB1987 got ore
+GuestJimmyB1987 rolled dice_6 dice_5
+GuestJimmyB1987 got wool
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole wool from JimmyB1987
+GuestJimmyB1987 used Knight card knight
+GuestJimmyB1987 moved robber robber to prob_4 lumber tile
+GuestJimmyB1987 stole wool from you
+GuestJimmyB1987 rolled dice_1 dice_6
+GuestJimmyB1987 moved robber robber to prob_6 brick tile
+GuestJimmyB1987 stole wool from you
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumber
+GuestJimmyB1987 got graingrain
+GuestJimmyB1987 rolled dice_1 dice_4
+UserLookaside got grainbrick
+GuestJimmyB1987 got brick
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+UserLookaside built a road
+UserLookaside bought development card
+GuestJimmyB1987 rolled dice_3 dice_6
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumber
+GuestJimmyB1987 got ore
+GuestJimmyB1987 rolled dice_5 dice_3
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole wool from JimmyB1987
+GuestJimmyB1987 rolled dice_6 dice_4
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_1
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+GuestJimmyB1987 rolled dice_2 dice_6
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+UserLookaside rolled dice_6 dice_5
+GuestJimmyB1987 got wool
+UserLookaside bought development card
+GuestJimmyB1987 rolled dice_4 dice_2
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got ore
+GuestJimmyB1987 rolled dice_2 dice_2
+UserLookaside got lumber
+GuestJimmyB1987 got ore
+UserLookaside rolled dice_5 dice_6
+GuestJimmyB1987 got wool
+GuestJimmyB1987 rolled dice_2 dice_5
+GuestJimmyB1987 discarded woolwoolwoolwoolwool
+GuestJimmyB1987 moved robber robber to prob_9 ore tile
+GuestJimmyB1987 stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole wool from JimmyB1987
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole lumber from JimmyB1987
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+GuestJimmyB1987 rolled dice_6 dice_6
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 rolled dice_2 dice_3
+UserLookaside got grainbrick
+GuestJimmyB1987 got brick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+UserLookaside bought development card
+GuestJimmyB1987 rolled dice_5 dice_4
+UserLookaside got oreore
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumber
+GuestJimmyB1987 got graingrain
+GuestJimmyB1987 rolled dice_1 dice_4
+UserLookaside got grainbrick
+GuestJimmyB1987 got brick
+GuestJimmyB1987 built a settlement (+1 VP)
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 rolled dice_4 dice_5
+UserLookaside got oreore
+GuestJimmyB1987 used Knight card knight
+GuestJimmyB1987 moved robber robber to prob_9 ore tile
+GuestJimmyB1987 stole ore from you
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded lumberbrickbrickbrickbrick
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole ore from JimmyB1987
+GuestJimmyB1987 rolled dice_2 dice_4
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from JimmyB1987
+GuestJimmyB1987 rolled dice_6 dice_2
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+UserLookaside bought development card
+GuestJimmyB1987 rolled dice_3 dice_3
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumber
+GuestJimmyB1987 got graingrain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole grain from JimmyB1987
+UserLookaside built a road
+GuestJimmyB1987 rolled dice_2 dice_1
+UserLookaside got woolwool
+GuestJimmyB1987 got brick
+GuestJimmyB1987 built a road
+GuestJimmyB1987 built a road
+UserLookaside rolled dice_4 dice_4
+UserLookaside got wool
+GuestJimmyB1987 got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a city (+1 VP)
+GuestJimmyB1987 rolled dice_1 dice_2
+UserLookaside got woolwool
+GuestJimmyB1987 got brick
+UserLookaside rolled dice_1 dice_6
+GuestJimmyB1987 discarded lumberwoolwoolwoolwool
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole wool from JimmyB1987
+GuestJimmyB1987 rolled dice_5 dice_6
+GuestJimmyB1987 got lumberwool
+UserLookaside rolled dice_4 dice_2
+UserLookaside got brick
+GuestJimmyB1987 got lumber
+GuestJimmyB1987 rolled dice_5 dice_2
+GuestJimmyB1987 moved robber robber to prob_9 ore tile
+GuestJimmyB1987 stole wool from you
+GuestJimmyB1987 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_10 grain tile
+UserYou stole lumber from JimmyB1987
+UserLookaside rolled dice_3 dice_6
+UserLookaside got oreoreore
+UserLookaside built a road
+GuestJimmyB1987 rolled dice_2 dice_3
+UserLookaside got graingrainbrick
+GuestJimmyB1987 got brick
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a city (+1 VP)
+GuestJimmyB1987 rolled dice_1 dice_3
+UserLookaside got lumberlumber
+GuestJimmyB1987 got oreore
+UserLookaside rolled dice_1 dice_1
+UserLookaside got ore
+GuestJimmyB1987 rolled dice_2 dice_4
+UserLookaside got brick
+GuestJimmyB1987 got lumberlumber
+GuestJimmyB1987 gave bank lumberlumberlumber and took grain
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_5 dice_3
+UserLookaside got woolwool
+GuestJimmyB1987 got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestJimmyB1987 rolled dice_2 dice_5
+GuestJimmyB1987 moved robber robber to prob_9 ore tile
+GuestJimmyB1987 stole brick from you
+UserLookaside rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestJimmyB1987 rolled dice_4 dice_1
+UserLookaside got graingrainbrickbrick
+GuestJimmyB1987 got brick
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumberlumber
+GuestJimmyB1987 got oreore
+GuestJimmyB1987 rolled dice_4 dice_3
+GuestJimmyB1987 moved robber robber to prob_5 grain tile
+GuestJimmyB1987 stole brick from you
+GuestJimmyB1987 used Monopoly card monopoly
+GuestJimmyB1987 stole 2 grain
+GuestJimmyB1987 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_2
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+GuestJimmyB1987 got brick
+GuestJimmyB1987 rolled dice_2 dice_6
+UserLookaside got woolwool
+GuestJimmyB1987 got woolwoolwool
+GuestJimmyB1987 built a road
+GuestJimmyB1987 received longest road (+2 VPs)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brick
+GuestJimmyB1987 got lumberlumber
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a settlement (+1 VP)
+GuestJimmyB1987 rolled dice_6 dice_6
+GuestJimmyB1987 gave bank woolwoolwool and took grain
+GuestJimmyB1987 built a road
+GuestJimmyB1987 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+GuestJimmyB1987 got lumberwoolwoolwool
+GuestJimmyB1987 rolled dice_3 dice_4
+GuestJimmyB1987 moved robber robber to prob_3 wool tile
+GuestJimmyB1987 stole wool from you
+UserLookaside rolled dice_4 dice_5
+UserLookaside got oreoreore
+GuestJimmyB1987 got ore
+GuestJimmyB1987 rolled dice_5 dice_6
+GuestJimmyB1987 got lumberwoolwoolwool
+GuestJimmyB1987 gave bank woolwoolwool and took grain
+GuestJimmyB1987 bought development card
+GuestJimmyB1987 built a road
+GuestJimmyB1987 built a road
+UserLookaside rolled dice_1 dice_1
+UserLookaside got ore
+GuestJimmyB1987 rolled dice_6 dice_4
+UserLookaside got lumberlumber
+GuestJimmyB1987 got graingrain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woolwoolwool
+GuestJimmyB1987 got woolwoolwool
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+GuestJimmyB1987 rolled dice_2 dice_3
+UserLookaside got graingrainbrickbrick
+GuestJimmyB1987 got brick
+GuestJimmyB1987 gave bank woolwoolwool and took ore
+GuestJimmyB1987 bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside discarded lumberlumberbrickbrickore
+UserLookaside moved robber robber to prob_4 ore tile
+UserYou stole brick from JimmyB1987
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestJimmyB1987 rolled dice_5 dice_4
+UserLookaside got oreoreore
+GuestJimmyB1987 got ore
+GuestJimmyB1987 used Monopoly card monopoly
+GuestJimmyB1987 stole 3 ore
+GuestJimmyB1987 gave bank woolwoolwool and took grain
+GuestJimmyB1987 built a city (+1 VP)
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingrainbrickbrick
+GuestJimmyB1987 got brickbrick
+GuestJimmyB1987 rolled dice_2 dice_1
+UserLookaside got woolwoolwoolwoolwool
+GuestJimmyB1987 got brickbrick
+UserLookaside rolled dice_5 dice_3
+UserLookaside got woolwoolwool
+GuestJimmyB1987 got woolwoolwool
+UserLookaside gave bank woolwoolwoolwool and took lumberlumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userlongest road passed from JimmyB1987 to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+GuestJimmyB1987 has left the game
+No Ads

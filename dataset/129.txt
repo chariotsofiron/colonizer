@@ -1,0 +1,297 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: bruh
+UserTheVerge: gg
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserTheVerge placed a settlement
+UserTheVerge placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: lumberorebrick
+UserTheVerge placed a settlement
+UserTheVerge placed a road
+UserTheVerge received starting resources: grainlumbergrain
+UserTheVerge rolled: dice_6 dice_4
+UserLookaside got: lumberlumber
+UserTheVerge got: lumber
+UserLookaside rolled: dice_2 dice_4
+UserTheVerge got: wool
+UserTheVerge rolled: dice_1 dice_3
+UserTheVerge got: grain
+UserLookaside rolled: dice_5 dice_3
+UserTheVerge got: grain
+UserTheVerge rolled: dice_4 dice_6
+UserLookaside got: lumberlumber
+UserTheVerge got: lumber
+UserLookaside rolled: dice_4 dice_2
+UserTheVerge got: wool
+UserTheVerge rolled: dice_4 dice_5
+UserLookaside got: grainbrick
+UserTheVerge got: brick
+UserTheVerge built a road
+UserLookaside rolled: dice_3 dice_5
+UserTheVerge got: grain
+UserLookaside built a road
+UserTheVerge rolled: dice_2 dice_2
+UserTheVerge got: grain
+UserTheVerge gave bank: graingraingraingrain and took brick
+UserTheVerge built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_4
+UserTheVerge got: grain
+UserTheVerge rolled: dice_5 dice_1
+UserTheVerge got: woolwool
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: wool from: TheVerge
+UserLookaside built a settlement: +1 VP
+UserTheVerge rolled: dice_1 dice_1
+UserTheVerge got: ore
+UserTheVerge bought development card
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: ore
+UserTheVerge rolled: dice_5 dice_5
+UserLookaside got: lumberlumberlumber
+UserTheVerge got: lumber
+UserTheVerge used Monopoly card monopoly
+UserTheVerge stole 6: lumber
+UserTheVerge gave bank: lumberlumberlumberlumber and took ore
+UserTheVerge bought development card
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: wool
+UserTheVerge got: grain
+UserTheVerge rolled: dice_3 dice_4
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: ore from you
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: wool
+UserTheVerge rolled: dice_4 dice_3
+UserTheVerge moved robber robber to prob_9 grain tile
+UserTheVerge stole: wool from you
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: wool
+UserTheVerge got: grain
+UserTheVerge rolled: dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: brick
+UserTheVerge got: brick
+UserTheVerge used Road Building card road building
+UserTheVerge placed a road
+UserTheVerge placed a road
+UserTheVerge built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumber
+UserTheVerge got: ore
+UserTheVerge rolled: dice_2 dice_3
+UserLookaside got: wool
+UserTheVerge got: wool
+UserTheVerge bought development card
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: lumber from: TheVerge
+UserLookaside built a road
+UserTheVerge used Knight card knight
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: lumber from you
+UserTheVerge rolled: dice_6 dice_4
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserTheVerge got: lumber
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: lumber from: TheVerge
+UserTheVerge rolled: dice_4 dice_5
+UserLookaside got: grainbrick
+UserTheVerge got: brick
+UserTheVerge built a road
+UserLookaside rolled: dice_2 dice_3
+UserLookaside got: wool
+UserTheVerge got: wool
+UserLookaside built a settlement: +1 VP
+UserTheVerge rolled: dice_2 dice_5
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: wool from you
+UserLookaside rolled: dice_3 dice_5
+UserLookaside got: wool
+UserTheVerge got: grain
+UserTheVerge rolled: dice_4 dice_2
+UserLookaside got: grain
+UserTheVerge got: woolwool
+UserTheVerge bought development card
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: grainbrick
+UserTheVerge got: brick
+UserLookaside built a road
+UserLookaside bought development card
+UserTheVerge rolled: dice_2 dice_6
+UserLookaside got: wool
+UserTheVerge got: grain
+UserTheVerge used Road Building card road building
+UserTheVerge placed a road
+UserTheVerge received longest road: +2 VPs
+UserTheVerge placed a road
+UserTheVerge built a settlement: +1 VP
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: wool from: TheVerge
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: grainbrick
+UserTheVerge got: brick
+UserTheVerge rolled: dice_5 dice_6
+UserLookaside got: oreore
+UserTheVerge got: ore
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumber
+UserTheVerge got: ore
+UserLookaside built a settlement: +1 VP
+UserLookaside bought development card
+UserTheVerge rolled: dice_1 dice_4
+UserLookaside got: wool
+UserTheVerge got: woolwool
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: wool
+UserTheVerge got: woolwool
+UserLookaside gave bank: woolwool and took grain
+UserLookaside bought development card
+UserTheVerge rolled: dice_5 dice_2
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: wool from you
+UserTheVerge gave bank: woolwoolwoolwool and took grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: brick from: TheVerge
+UserLookaside rolled: dice_2 dice_2
+UserTheVerge got: graingrain
+UserTheVerge rolled: dice_6 dice_3
+UserLookaside got: graingrainbrick
+UserTheVerge got: brick
+UserLookaside rolled: dice_6 dice_6
+UserLookaside got: brick
+UserTheVerge got: brick
+UserTheVerge rolled: dice_5 dice_3
+UserLookaside got: wool
+UserTheVerge got: grain
+UserTheVerge gave bank: graingrain and took ore
+UserTheVerge built a city: +1 VP
+UserLookaside rolled: dice_1 dice_3
+UserTheVerge got: graingrain
+UserLookaside built a road
+UserTheVerge rolled: dice_1 dice_6
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: grain from you
+UserTheVerge built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: brick from: TheVerge
+UserTheVerge rolled: dice_1 dice_1
+UserTheVerge got: ore
+UserTheVerge bought development card
+UserLookaside rolled: dice_2 dice_4
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+UserTheVerge got: grain
+UserTheVerge used Knight card knight
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: brick from you
+UserTheVerge rolled: dice_4 dice_3
+UserTheVerge moved robber robber to prob_9 grain tile
+UserTheVerge stole: grain from you
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: oreore
+UserTheVerge got: ore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: grain ore
+UserLookaside built a city: +1 VP
+UserTheVerge rolled: dice_2 dice_2
+UserTheVerge got: graingrain
+UserTheVerge gave bank: graingrain and took wool
+UserTheVerge bought development card
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: graingrain
+UserTheVerge got: woolwoolwoolgrain
+UserTheVerge rolled: dice_2 dice_5
+UserTheVerge moved robber robber to prob_10 lumber tile
+UserTheVerge stole: brick from you
+UserLookaside rolled: dice_1 dice_5
+UserLookaside got: graingrain
+UserTheVerge got: woolwoolwoolgrain
+UserTheVerge rolled: dice_1 dice_2
+UserLookaside got: lumberlumberlumber
+UserTheVerge got: oreoreore
+UserTheVerge built a city: +1 VP
+UserTheVerge gave bank: woolwoolwoolwool and took ore
+UserTheVerge bought development card
+UserLookaside rolled: dice_6 dice_3
+UserLookaside got: graingrainbrick
+UserTheVerge got: brickbrick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+UserTheVerge rolled: dice_5 dice_3
+UserLookaside got: woolwool
+UserTheVerge got: graingrain
+UserTheVerge used Knight card knight
+UserTheVerge received largest army: +2 VPs
+UserTheVerge moved robber robber to prob_8 wool tile
+UserTheVerge stole: grain from you
+UserTheVerge gave bank: graingrain and took ore
+UserTheVerge bought development card
+UserLookaside rolled: dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserTheVerge got: graingrain
+UserTheVerge rolled: dice_4 dice_1
+UserLookaside got: wool
+UserTheVerge got: woolwoolwool
+UserTheVerge gave bank: graingrain and took lumber
+UserTheVerge built a road
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: grain from: TheVerge
+UserLookaside gave bank: woolwool and took ore
+UserLookaside bought development card
+UserTheVerge used Knight card knight
+UserTheVerge moved robber robber to prob_8 wool tile
+UserTheVerge stole: lumber from you
+UserTheVerge rolled: dice_2 dice_3
+UserLookaside got: wool
+UserTheVerge got: woolwoolwool
+UserTheVerge built a road
+UserTheVerge gave bank: woolwoolwoolwool and took lumber
+UserTheVerge built a road
+UserLookaside rolled: dice_1 dice_1
+UserTheVerge got: ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: brick from: TheVerge
+UserTheVerge rolled: dice_3 dice_4
+UserTheVerge moved robber robber to prob_8 wool tile
+UserTheVerge stole: brick from you
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberlumberlumber
+UserTheVerge got: oreoreore
+UserLookaside gave bank: lumberlumber and took ore
+UserLookaside bought development card
+UserTheVerge rolled: dice_6 dice_1
+UserTheVerge moved robber robber to prob_9 grain tile
+UserTheVerge stole: grain from you
+UserTheVerge bought development card
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: woolwool
+UserTheVerge got: graingrain
+UserTheVerge rolled: dice_1 dice_3
+UserLookaside got: lumber
+UserTheVerge got: graingraingrain
+UserTheVerge built a city: +1 VP
+UserTheVerge gave bank: graingrain and took lumber
+UserTheVerge built a settlement: +1 VP
+trophy TheVerge won the game! trophy

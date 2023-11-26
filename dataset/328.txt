@@ -1,0 +1,427 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Guestyttaf placed a settlement
+Guestyttaf placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources woolbrickgrain
+Guestyttaf placed a settlement
+Guestyttaf placed a road
+Guestyttaf received starting resources lumberwoolbrick
+Guestyttaf rolled dice_3 dice_2
+UserLookaside got wool
+Guestyttaf got wool
+Guestyttaf built a road
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 ore tile
+UserNo player to steal from
+Guestyttaf rolled dice_6 dice_5
+UserLookaside got brick
+Guestyttaf got lumber
+UserLookaside rolled dice_4 dice_5
+Guestyttaf got wool
+Guestyttaf rolled dice_1 dice_3
+UserLookaside got lumberbrick
+Guestyttaf got brick
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 lumber tile
+UserNo player to steal from
+UserLookaside built a road
+Guestyttaf rolled dice_2 dice_1
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_1
+UserLookaside got grain
+Guestyttaf rolled dice_3 dice_5
+Guestyttaf got wool
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 ore tile
+UserNo player to steal from
+Guestyttaf rolled dice_3 dice_3
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Guestyttaf got wool
+Guestyttaf rolled dice_6 dice_3
+Guestyttaf got wool
+UserLookaside rolled dice_4 dice_6
+Guestyttaf got grain
+Guestyttaf rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+Guestyttaf moved robber robber to prob_8 ore tile
+GuestNo player to steal from
+Guestyttaf built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_1
+Guestyttaf got lumber
+Guestyttaf rolled dice_4 dice_2
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_4
+UserLookaside got wool
+Guestyttaf got orewool
+UserLookaside gave bank graingraingraingrain and took lumber
+UserLookaside built a settlement (+1 VP)
+Guestyttaf rolled dice_2 dice_6
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestyttaf got wool
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+Guestyttaf rolled dice_3 dice_4
+Guestyttaf moved robber robber to prob_4 lumber tile
+Guestyttaf stole wool from you
+Guestyttaf gave bank woolwoolwoolwool and took grain
+Guestyttaf bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got grain
+Guestyttaf rolled dice_6 dice_4
+Guestyttaf got grain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside bought development card
+Guestyttaf rolled dice_2 dice_3
+UserLookaside got wool
+Guestyttaf got orewool
+Guestyttaf bought development card
+UserLookaside rolled dice_3 dice_5
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 5 wool
+UserLookaside gave bank woolwoolwoolwool and took ore
+Guestyttaf rolled dice_1 dice_2
+UserLookaside got graingrain
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded woolwoolgraingraingrain
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from yttaf
+UserLookaside built a road
+UserLookaside bought development card
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole ore from you
+Guestyttaf rolled dice_3 dice_1
+UserLookaside got lumberlumberbrick
+Guestyttaf got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from yttaf
+UserLookaside rolled dice_4 dice_5
+Guestyttaf got woolwool
+UserLookaside built a road
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole lumber from you
+Guestyttaf rolled dice_2 dice_4
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_1
+Guestyttaf got lumber
+Guestyttaf rolled dice_3 dice_2
+UserLookaside got wool
+Guestyttaf got orewool
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from yttaf
+UserLookaside bought development card
+Guestyttaf rolled dice_1 dice_5
+UserLookaside got grain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brick
+Guestyttaf got lumber
+Guestyttaf rolled dice_5 dice_3
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside rolled dice_4 dice_6
+Guestyttaf got grain
+Guestyttaf rolled dice_2 dice_1
+UserLookaside got graingrain
+Guestyttaf built a road
+UserLookaside rolled dice_4 dice_4
+UserLookaside got ore
+Guestyttaf got wool
+Guestyttaf rolled dice_3 dice_4
+Guestyttaf moved robber robber to prob_4 lumber tile
+Guestyttaf stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from yttaf
+UserLookaside rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Guestyttaf got wool
+Guestyttaf rolled dice_4 dice_1
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+Guestyttaf got wool
+Guestyttaf gave bank woolwoolwoolwool and took brick
+Guestyttaf built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_3
+Guestyttaf got woolwool
+Guestyttaf rolled dice_5 dice_6
+UserLookaside got brick
+Guestyttaf got lumber
+Guestyttaf bought development card
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumberbrick
+Guestyttaf got brickbrick
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside bought development card
+Guestyttaf used Knight card knight
+Guestyttaf received largest army (+2 VPs)
+Guestyttaf moved robber robber to prob_4 lumber tile
+Guestyttaf stole ore from you
+Guestyttaf rolled dice_5 dice_1
+UserLookaside got grain
+Guestyttaf got brick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from yttaf
+UserLookaside rolled dice_2 dice_6
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside built a settlement (+1 VP)
+Guestyttaf rolled dice_5 dice_4
+UserLookaside got wool
+Guestyttaf got woolwool
+UserLookaside rolled dice_5 dice_6
+UserLookaside got bricklumber
+Guestyttaf got lumber
+UserLookaside built a road
+Guestyttaf rolled dice_3 dice_5
+UserLookaside got ore
+Guestyttaf got wool
+Guestyttaf built a road
+Guestyttaf built a road
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumberbrick
+Guestyttaf got brickbrick
+Guestyttaf rolled dice_3 dice_6
+UserLookaside got wool
+Guestyttaf got woolwool
+Guestyttaf gave bank woolwoolwoolwool and took grain
+Guestyttaf bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got graingrain
+Guestyttaf got brick
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_6 grain tile
+Guestyttaf stole lumber from you
+Guestyttaf rolled dice_2 dice_1
+UserLookaside got graingraingraingrain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumber
+Guestyttaf got grain
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside built a city (+1 VP)
+Guestyttaf rolled dice_2 dice_6
+UserLookaside got ore
+Guestyttaf got wool
+Guestyttaf built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+UserLookaside got bricklumber
+Guestyttaf got lumber
+Guestyttaf rolled dice_5 dice_3
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from yttaf
+Guestyttaf rolled dice_5 dice_1
+UserLookaside got graingrain
+Guestyttaf got brickbrick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got ore
+Guestyttaf got wool
+UserLookaside built a city (+1 VP)
+Guestyttaf rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+Guestyttaf got wool
+Guestyttaf built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+Guestyttaf got woolwool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside built a settlement (+1 VP)
+Guestyttaf rolled dice_1 dice_1
+Guestyttaf got lumberlumber
+Guestyttaf built a road
+Guestyttaf built a road
+Guestlongest road passed from Lookaside to yttaf (+2 VPs)
+UserLookaside rolled dice_2 dice_4
+UserLookaside got graingrain
+Guestyttaf got brickbrick
+Guestyttaf rolled dice_2 dice_5
+Guestyttaf discarded brickbrickwoolwoolwool
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole grain from you
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from yttaf
+Guestyttaf rolled dice_1 dice_6
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole grain from you
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolwool
+Guestyttaf got orewool
+UserLookaside built a road
+Guestyttaf rolled dice_2 dice_2
+UserLookaside got lumberlumberlumberbrickbrick
+Guestyttaf got brickbrick
+Guestyttaf bought development card
+UserLookaside rolled dice_3 dice_3
+UserLookaside got graingrain
+Guestyttaf got brickbrick
+UserLookaside built a settlement (+1 VP)
+Guestyttaf rolled dice_6 dice_2
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestyttaf got wool
+UserLookaside rolled dice_1 dice_1
+Guestyttaf got lumberlumber
+Guestyttaf rolled dice_5 dice_1
+UserLookaside got graingrain
+Guestyttaf got brickbrick
+Guestyttaf built a road
+Guestyttaf built a road
+Guestyttaf gave bank brickbrickbrickbrick and took ore
+Guestyttaf bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumber
+Guestyttaf got grain
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+Guestyttaf rolled dice_4 dice_6
+UserLookaside got lumberlumberlumber
+Guestyttaf got grain
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from yttaf
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside built a road
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole wool from you
+Guestyttaf rolled dice_4 dice_1
+UserLookaside got orewoolwool
+Guestyttaf got orewool
+Guestyttaf bought development card
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside rolled dice_5 dice_4
+UserLookaside got wool
+Guestyttaf got woolwool
+Guestyttaf rolled dice_1 dice_5
+UserLookaside got graingrain
+Guestyttaf got brickbrick
+Guestyttaf gave bank woolwoolwoolwool and took ore
+Guestyttaf bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestyttaf got wool
+UserLookaside bought development card
+Guestyttaf rolled dice_3 dice_4
+Guestyttaf moved robber robber to prob_6 grain tile
+Guestyttaf stole grain from you
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from yttaf
+UserLookaside rolled dice_6 dice_6
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_8 ore tile
+Guestyttaf stole wool from you
+Guestyttaf rolled dice_1 dice_3
+UserLookaside got lumberlumberlumberbrickbrick
+Guestyttaf got brickbrick
+Guestyttaf gave bank brickbrickbrickbrick and took ore
+Guestyttaf bought development card
+UserLookaside rolled dice_2 dice_1
+UserLookaside got graingraingraingraingraingrain
+Guestyttaf got grain
+UserLookaside built a road
+Userlongest road passed from yttaf to Lookaside (+2 VPs)
+UserLookaside gave bank lumberlumberlumberlumbergraingraingraingrain and took oreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+Guestyttaf rolled dice_3 dice_5
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestyttaf got wool
+Guestyttaf used Year of Plenty card year of plenty
+Guestyttaf took from bank ore ore
+Guestyttaf bought development card
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from yttaf
+Guestyttaf used Knight card knight
+Guestyttaf moved robber robber to prob_6 grain tile
+Guestyttaf stole brick from you
+Guestyttaf rolled dice_5 dice_3
+UserLookaside got oreoreore
+Guestyttaf got wool
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wool
+Guestyttaf got woolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 wool
+UserLookaside gave bank woolwoolwoolwool and took grain
+UserLookaside bought development card
+Guestyttaf rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+Guestyttaf got brickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from yttaf
+UserLookaside rolled dice_4 dice_2
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+UserLookaside bought development card
+Guestyttaf rolled dice_5 dice_6
+UserLookaside got brickbricklumber
+Guestyttaf got lumber
+UserLookaside rolled dice_2 dice_6
+UserLookaside got oreoreore
+Guestyttaf got wool
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+Guestyttaf rolled dice_1 dice_4
+UserLookaside got orewoolwool
+Guestyttaf got orewool
+UserLookaside rolled dice_2 dice_3
+UserLookaside got orewoolwool
+Guestyttaf got orewool
+Guestyttaf rolled dice_2 dice_6
+UserLookaside got oreoreore
+Guestyttaf got wool
+UserLookaside rolled dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside bought development card
+trophyUserLookaside won the game!trophy
+Guestyttaf has left the game
+UserLookaside: gg
+Send a message
+Send message

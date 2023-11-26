@@ -1,0 +1,456 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Lookaside has started spectating!
+GuestBenjster212 placed a settlement
+GuestBenjster212 placed a road
+Guestaj2000bc has disconnected.
+GuestBot will wait until next turn to give aj2000bc a chance to reconnect
+Guestaj2000bc has reconnected
+Guestaj2000bc has disconnected.
+GuestBot will wait until next turn to give aj2000bc a chance to reconnect
+Guestaj2000bc has reconnected
+GuestFabio2109 placed a settlement
+GuestFabio2109 placed a road
+GuestDerse placed a settlement
+GuestDerse placed a road
+Guestaj2000bc has disconnected.
+GuestBot will wait until next turn to give aj2000bc a chance to reconnect
+GuestDerse placed a settlement
+Guestaj2000bc has reconnected
+GuestDerse placed a road
+GuestDerse received starting resources: woolbricklumber
+GuestFabio2109 placed a settlement
+GuestFabio2109 placed a road
+GuestFabio2109 received starting resources: lumberbrick
+Guestaj2000bc has disconnected.
+GuestBot will wait until next turn to give aj2000bc a chance to reconnect
+Guestaj2000bc has reconnected
+GuestBenjster212 placed a settlement
+GuestBenjster212 placed a road
+GuestBenjster212 received starting resources: lumberlumbergrain
+Guestaj2000bc placed a settlement
+Guestaj2000bc placed a road
+Guestaj2000bc received starting resources: woolorewool
+Guestaj2000bc rolled: dice_2 dice_1
+GuestDerse got: ore
+GuestFabio2109 got: ore
+GuestBenjster212 rolled: dice_6 dice_3
+GuestDerse got: wool
+GuestBenjster212 got: grain
+Guestaj2000bc got: wool
+GuestFabio2109 rolled: dice_4 dice_2
+GuestBenjster212 got: brick
+GuestFabio2109 got: grainbrick
+GuestFabio2109 built a road
+GuestDerse rolled: dice_1 dice_1
+Guestaj2000bc got: ore
+GuestDerse built a road
+Guestaj2000bc rolled: dice_5 dice_4
+GuestDerse got: wool
+GuestBenjster212 got: grain
+Guestaj2000bc got: wool
+Guestaj2000bc wants to give: wool for: grain
+GuestFabio2109 wants to give: aj2000bc: grain for: lumber
+Guestaj2000bc traded: wool for: grain with: Benjster212
+Guestaj2000bc bought development card
+GuestBenjster212 rolled: dice_5 dice_5
+GuestDerse got: lumber
+GuestBenjster212 got: lumberbrick
+Guestaj2000bc got: brick
+GuestBenjster212 wants to give: grain for: brick
+GuestBenjster212 built a road
+GuestBenjster212 built a settlement: +1 VP
+GuestFabio2109 rolled: dice_6 dice_2
+GuestBenjster212 got: grain
+Guestaj2000bc got: wool
+GuestDerse rolled: dice_2 dice_3
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestDerse built a road
+Guestaj2000bc rolled: dice_5 dice_3
+GuestBenjster212 got: grain
+Guestaj2000bc got: wool
+Guestaj2000bc wants to give: wool for: brick
+Guestaj2000bc wants to give: ore for: brick
+Guestaj2000bc wants to give: woolore for: brick
+Guestaj2000bc used Road Building card road building
+Guestaj2000bc placed a road
+Guestaj2000bc placed a road
+Guestaj2000bc gave bank: woolwoolwoolwool and took grain
+Guestaj2000bc wants to give: ore for: wool
+GuestDerse wants to give: aj2000bc: wool for: grainore
+GuestBenjster212 rolled: dice_3 dice_6
+GuestDerse got: wool
+GuestBenjster212 got: graingrain
+Guestaj2000bc got: wool
+GuestBenjster212 gave bank: graingraingrain and took wool
+GuestFabio2109 rolled: dice_3 dice_4
+GuestFabio2109 moved robber robber to prob_9 grain tile
+GuestFabio2109 stole card from: Benjster212
+GuestFabio2109 built a road
+GuestDerse rolled: dice_5 dice_2
+GuestDerse moved robber robber to prob_6 brick tile
+GuestDerse stole card from: Benjster212
+Guestaj2000bc rolled: dice_1 dice_3
+GuestDerse got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+Guestaj2000bc built a settlement: +1 VP
+GuestBenjster212 rolled: dice_6 dice_3
+GuestDerse got: wool
+GuestBenjster212 got: graingrain
+Guestaj2000bc got: wool
+GuestFabio2109 rolled: dice_1 dice_3
+GuestDerse got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+GuestDerse rolled: dice_4 dice_1
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestDerse wants to give: wool for: ore
+GuestFabio2109 wants to give: Derse: ore for: brick
+GuestDerse built a settlement: +1 VP
+GuestDerse bought development card
+Guestaj2000bc rolled: dice_6 dice_4
+GuestDerse got: lumber
+GuestBenjster212 got: lumberbrick
+Guestaj2000bc got: brickbrick
+Guestaj2000bc built a road
+Guestaj2000bc wants to give: woolwoolore for: lumbergrain
+GuestBenjster212 rolled: dice_1 dice_4
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestBenjster212 built a road
+GuestFabio2109 rolled: dice_6 dice_1
+GuestFabio2109 moved robber robber to prob_9 grain tile
+GuestFabio2109 stole card from: Benjster212
+GuestFabio2109 wants to give: lumberwool for: brick
+GuestFabio2109 bought development card
+GuestDerse rolled: dice_2 dice_6
+GuestBenjster212 got: grain
+Guestaj2000bc got: wool
+GuestDerse built a road
+Guestaj2000bc rolled: dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+GuestDerse got: wool
+Guestaj2000bc got: wool
+Guestaj2000bc gave bank: woolwoolwoolwool and took grain
+Guestaj2000bc built a settlement: +1 VP
+GuestBenjster212 rolled: dice_6 dice_1
+GuestBot is selecting where to place robber for Benjster212
+GuestBenjster212 moved robber robber to prob_6 grain tile
+GuestBenjster212 stole card from: aj2000bc
+GuestFabio2109 rolled: dice_4 dice_5
+GuestDerse got: wool
+GuestBenjster212 got: graingrain
+Guestaj2000bc got: wool
+GuestDerse rolled: dice_5 dice_4
+GuestDerse got: wool
+GuestBenjster212 got: graingrain
+Guestaj2000bc got: wool
+GuestDerse gave bank: woolwoolwoolwool and took ore
+Guestaj2000bc rolled: dice_3 dice_1
+GuestDerse got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+GuestBenjster212 rolled: dice_3 dice_2
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestBenjster212 gave bank: graingraingraingraingraingrain and took oreore
+GuestBenjster212 built a city: +1 VP
+GuestFabio2109 rolled: dice_4 dice_6
+GuestDerse got: lumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+GuestFabio2109 used Knight card knight
+GuestFabio2109 moved robber robber to prob_10 brick tile
+GuestFabio2109 stole card from: aj2000bc
+GuestFabio2109 wants to give: woolwool for: brick
+GuestFabio2109 wants to give: lumberwool for: brick
+GuestFabio2109 wants to give: lumberwoolwool for: brick
+GuestFabio2109 traded: lumberwoolwool for: brick with: aj2000bc
+GuestFabio2109 built a settlement: +1 VP
+GuestDerse rolled: dice_5 dice_5
+prob_10 brick tile is blocked by the robber. No resources produced.
+GuestDerse got: lumber
+GuestBenjster212 got: lumberlumber
+GuestDerse wants to give: wool for: brick
+GuestDerse wants to give: wool for: grain
+GuestDerse built a settlement: +1 VP
+Guestaj2000bc rolled: dice_4 dice_4
+GuestBenjster212 got: graingrain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+Guestaj2000bc built a road
+Guestaj2000bc gave bank: woolwool and took brick
+Guestaj2000bc built a road
+Guestaj2000bc received : +2 VPs
+GuestBenjster212 rolled: dice_1 dice_5
+GuestBenjster212 got: brick
+GuestFabio2109 got: grainbrick
+Guestaj2000bc got: grain
+GuestBenjster212 wants to give: lumber for: wool
+GuestBenjster212 traded: lumber for: wool with: Fabio2109
+GuestBenjster212 built a settlement: +1 VP
+GuestFabio2109 rolled: dice_4 dice_6
+prob_10 brick tile is blocked by the robber. No resources produced.
+GuestDerse got: lumber
+GuestBenjster212 got: lumberlumber
+GuestFabio2109 built a road
+GuestDerse rolled: dice_5 dice_1
+GuestBenjster212 got: brick
+GuestFabio2109 got: grainbrick
+Guestaj2000bc got: grain
+GuestDerse wants to give: lumber for: brick
+Guestaj2000bc rolled: dice_2 dice_2
+GuestDerse got: graingrain
+GuestBenjster212 got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+Guestaj2000bc wants to give: grain for: lumber
+Guestaj2000bc wants to give: grain for: brick
+Guestaj2000bc wants to give: woolgrain for: lumber
+Guestaj2000bc wants to give: woolgrain for: brick
+Guestaj2000bc gave bank: woolwool and took ore
+Guestaj2000bc bought development card
+GuestBenjster212 rolled: dice_5 dice_4
+GuestDerse got: wool
+GuestBenjster212 got: graingrain
+Guestaj2000bc got: wool
+GuestBenjster212 wants to give: lumber for: wool
+GuestBenjster212 traded: lumber for: wool with: Fabio2109
+GuestBenjster212 gave bank: graingraingrain and took brick
+GuestBenjster212 built a road
+GuestBenjster212 built a road
+GuestBenjster212 built a settlement: +1 VP
+GuestFabio2109 rolled: dice_4 dice_6
+prob_10 brick tile is blocked by the robber. No resources produced.
+GuestDerse got: lumber
+GuestBenjster212 got: lumberlumber
+GuestFabio2109 built a road
+GuestFabio2109 wants to give: grain for: brick
+GuestDerse rolled: dice_2 dice_5
+Derse discarding resource cards
+GuestDerse discarded: lumberlumberwoolgrain
+GuestDerse moved robber robber to prob_8 grain tile
+GuestDerse stole card from: Benjster212
+GuestDerse bought development card
+Guestaj2000bc rolled: dice_4 dice_1
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestBenjster212 rolled: dice_2 dice_5
+GuestBenjster212 moved robber robber to prob_6 grain tile
+GuestBenjster212 stole card from: aj2000bc
+GuestFabio2109 rolled: dice_6 dice_3
+GuestDerse got: wool
+GuestBenjster212 got: graingrainwool
+Guestaj2000bc got: wool
+GuestFabio2109 wants to give: lumbergrain for: brick
+GuestDerse rolled: dice_6 dice_4
+GuestDerse got: lumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+GuestDerse wants to give: lumber for: brick
+GuestDerse wants to give: lumber for: grain
+GuestFabio2109 wants to give: Derse: grain for: brick
+GuestDerse used Year of Plenty card year of plenty
+GuestDerse took from bank: brick grain
+GuestDerse built a road
+GuestDerse built a settlement: +1 VP
+Guestaj2000bc rolled: dice_1 dice_1
+Guestaj2000bc got: ore
+Guestaj2000bc used Knight card knight
+Guestaj2000bc moved robber robber to prob_11 lumber tile
+Guestaj2000bc stole card from: Benjster212
+Guestaj2000bc built a road
+Guestaj2000bc gave bank: woolwool and took lumber
+Guestaj2000bc built a settlement: +1 VP
+GuestBenjster212 rolled: dice_5 dice_2
+GuestBenjster212 moved robber robber to prob_6 grain tile
+GuestBenjster212 stole card from: aj2000bc
+GuestBenjster212 wants to give: brick for: ore
+GuestBenjster212 gave bank: lumberlumberlumber and took ore
+GuestFabio2109 rolled: dice_6 dice_2
+GuestBenjster212 got: graingraingrain
+GuestFabio2109 got: wool
+Guestaj2000bc got: woolwool
+GuestDerse rolled: dice_5 dice_5
+GuestDerse got: lumberlumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+Guestaj2000bc rolled: dice_4 dice_3
+Benjster212 discarding resource cards
+GuestBenjster212 discarded: lumberlumberbrickbrickwoolgrain
+Guestaj2000bc moved robber robber to prob_10 lumber tile
+Guestaj2000bc stole card from: Benjster212
+GuestBenjster212 rolled: dice_2 dice_3
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+GuestBenjster212 gave bank: graingraingrain and took ore
+GuestFabio2109 rolled: dice_1 dice_3
+GuestDerse got: graingrain
+GuestBenjster212 got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+GuestFabio2109 wants to give: graingrain for: brick
+GuestDerse wants to give: Fabio2109: brick for: oreoreore
+GuestFabio2109 traded: graingrain for: brick with: aj2000bc
+GuestFabio2109 built a road
+GuestFabio2109 wants to give: woolwool for: brick
+GuestDerse used Knight card knight
+GuestDerse moved robber robber to prob_10 brick tile
+GuestDerse stole card from: aj2000bc
+GuestDerse rolled: dice_2 dice_4
+GuestBenjster212 got: brick
+GuestFabio2109 got: grainbrick
+Guestaj2000bc got: grain
+GuestDerse gave bank: lumberlumberlumber and took ore
+Guestaj2000bc rolled: dice_3 dice_2
+GuestDerse got: brick
+GuestFabio2109 got: lumber
+Guestaj2000bc got: lumber
+Guestaj2000bc bought development card
+Guestaj2000bc built a road
+GuestBenjster212 rolled: dice_4 dice_3
+Fabio2109 discarding resource cards
+GuestFabio2109 discarded: woolwoolwoolgrain
+GuestBenjster212 moved robber robber to prob_5 lumber tile
+GuestBenjster212 stole card from: aj2000bc
+GuestBenjster212 wants to give: lumberbrick for: ore
+GuestBenjster212 built a road
+GuestFabio2109 rolled: dice_5 dice_2
+GuestFabio2109 moved robber robber to prob_3 ore tile
+GuestFabio2109 stole card from: Derse
+GuestFabio2109 built a road
+GuestDerse rolled: dice_6 dice_4
+GuestDerse got: lumberlumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+GuestDerse bought development card
+GuestDerse built a road
+GuestDerse built a road
+Guestaj2000bc rolled: dice_5 dice_2
+Guestaj2000bc moved robber robber to prob_11 lumber tile
+Guestaj2000bc stole card from: Benjster212
+Guestaj2000bc built a road
+Guestaj2000bc used Knight card knight
+Guestaj2000bc moved robber robber to prob_10 lumber tile
+Guestaj2000bc stole card from: Benjster212
+Guestaj2000bc bought development card
+GuestBenjster212 rolled: dice_6 dice_6
+GuestDerse got: wool
+GuestBenjster212 built a road
+GuestFabio2109 rolled: dice_4 dice_5
+GuestDerse got: wool
+GuestBenjster212 got: graingrainwool
+Guestaj2000bc got: wool
+GuestFabio2109 wants to give: lumberlumber for: wool
+GuestFabio2109 traded: lumberlumber for: wool with: aj2000bc
+GuestDerse rolled: dice_1 dice_3
+GuestDerse got: graingrain
+GuestBenjster212 got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+Guestaj2000bc rolled: dice_1 dice_1
+Guestaj2000bc got: ore
+Guestaj2000bc bought development card
+GuestBenjster212 rolled: dice_4 dice_3
+GuestBenjster212 moved robber robber to prob_5 lumber tile
+GuestBenjster212 stole card from: aj2000bc
+GuestBenjster212 bought development card
+GuestBenjster212 gave bank: graingraingrain and took ore
+GuestFabio2109 rolled: dice_6 dice_3
+GuestDerse got: wool
+GuestBenjster212 got: graingrainwool
+Guestaj2000bc got: wool
+GuestDerse rolled: dice_5 dice_2
+GuestDerse moved robber robber to prob_8 wool tile
+GuestDerse stole card from: aj2000bc
+GuestDerse gave bank: woolwoolwool and took ore
+Guestaj2000bc rolled: dice_2 dice_2
+GuestDerse got: graingrain
+GuestBenjster212 got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+GuestBenjster212 rolled: dice_3 dice_3
+GuestBenjster212 got: brick
+GuestFabio2109 got: grainbrick
+Guestaj2000bc got: grain
+GuestBenjster212 built a road
+GuestBenjster212 bought development card
+GuestFabio2109 rolled: dice_6 dice_3
+GuestDerse got: wool
+GuestBenjster212 got: graingrainwool
+Guestaj2000bc got: wool
+GuestFabio2109 wants to give: brickwoolwoolwool for: grain
+GuestFabio2109 traded: brickwoolwoolwool for: grain with: aj2000bc
+GuestDerse rolled: dice_4 dice_6
+GuestDerse got: lumberlumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+GuestDerse wants to give: wool for: lumber
+GuestDerse wants to give: woolwool for: ore
+GuestDerse wants to give: wool for: grain
+GuestDerse wants to give: lumber for: wool
+GuestDerse gave bank: graingraingrain and took ore
+GuestDerse bought development card
+Guestaj2000bc rolled: dice_6 dice_4
+GuestDerse got: lumberlumber
+GuestBenjster212 got: lumberlumberbrick
+Guestaj2000bc got: brickbrick
+Guestaj2000bc gave bank: brickbrickbrickbrick and took ore
+Guestaj2000bc gave bank: woolwool and took grain
+Guestaj2000bc bought development card
+Guestaj2000bc built a road
+Guestaj2000bc gave bank: woolwool and took lumber
+Guestaj2000bc built a road
+GuestBenjster212 rolled: dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestBenjster212 got: graingraingrain
+GuestBenjster212 built a settlement: +1 VP
+GuestBenjster212 used Knight card knight
+GuestBenjster212 moved robber robber to prob_5 lumber tile
+GuestBenjster212 stole card from: Fabio2109
+GuestBenjster212 gave bank: lumberlumberlumbergraingraingrain and took woolore
+GuestBenjster212 bought development card
+GuestFabio2109 rolled: dice_5 dice_3
+GuestBenjster212 got: graingraingrain
+GuestFabio2109 got: wool
+Guestaj2000bc got: woolwool
+GuestDerse rolled: dice_1 dice_3
+GuestDerse got: graingrain
+GuestBenjster212 got: grain
+GuestFabio2109 got: wool
+Guestaj2000bc got: wool
+GuestDerse wants to give: wool for: ore
+GuestDerse wants to give: lumberwool for: ore
+GuestDerse gave bank: lumberlumberlumber and took ore
+GuestDerse used Knight card knight
+GuestDerse moved robber robber to prob_8 wool tile
+GuestDerse stole card from: aj2000bc
+GuestDerse bought development card
+Guestaj2000bc rolled: dice_6 dice_6
+GuestDerse got: wool
+GuestBenjster212 got: wool
+Guestaj2000bc used Knight card knight
+Guestaj2000bc received largest army: +2 VPs
+trophy aj2000bc won the game! trophy
+GuestDerse has left the game
+GuestFabio2109 has left the game
+Guestaj2000bc has left the game
+GuestBenjster212 has left the game
+Instant PlayCommand only available while playing in game
+Send a message
+
+Use special build phases to try to win against 7 other players

@@ -1,0 +1,314 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+icon_mummyOptora: Play pls
+UserLookaside: shhh
+UserLookaside: i'm thinking
+UserLookaside: gg
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+icon_mummyOptora placed a settlement
+icon_mummyOptora placed a road
+icon_mummyOptora placed a settlement
+icon_mummyOptora placed a road
+icon_mummyOptora received starting resources: woollumberbrick
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: bricklumbergrain
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: brick
+icon_mummyOptora got: brickbrick
+icon_mummyOptora rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+icon_mummyOptora moved robber robber to prob_8 brick tile
+icon_mummyNo player to steal from
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: grain
+icon_mummyOptora rolled: dice_5 dice_5
+UserLookaside got: grain
+icon_mummyOptora built a road
+UserLookaside rolled: dice_3 dice_5
+prob_8 brick tile is blocked by the robber. No resources produced.
+icon_mummyOptora got: grain
+icon_mummyOptora rolled: dice_1 dice_1
+icon_mummyOptora got: wool
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: wool
+UserLookaside built a road
+icon_mummyOptora rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+icon_mummyOptora moved robber robber to Desert
+icon_mummyNo player to steal from
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: grain
+icon_mummyOptora rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+icon_mummyOptora moved robber robber to prob_8 brick tile
+icon_mummyNo player to steal from
+UserLookaside rolled: dice_5 dice_1
+UserLookaside got: lumber
+icon_mummyOptora got: lumber
+UserLookaside built a settlement: +1 VP
+icon_mummyOptora rolled: dice_6 dice_6
+icon_mummyOptora built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+icon_mummyOptora got: grain
+icon_mummyOptora rolled: dice_3 dice_3
+UserLookaside got: lumber
+icon_mummyOptora got: lumber
+icon_mummyOptora built a road
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole: wool from: Optora
+icon_mummyOptora rolled: dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: lumber
+icon_mummyOptora rolled: dice_6 dice_5
+icon_mummyOptora got: oreore
+UserLookaside rolled: dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+icon_mummyOptora rolled: dice_3 dice_6
+UserLookaside got: wool
+icon_mummyOptora got: grain
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside built a road
+icon_mummyOptora rolled: dice_5 dice_3
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+icon_mummyOptora rolled: dice_3 dice_2
+UserLookaside got: graingrain
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: wool
+icon_mummyOptora got: grain
+icon_mummyOptora rolled: dice_2 dice_2
+UserLookaside got: brick
+icon_mummyOptora got: brickbrick
+icon_mummyOptora gave bank: graingraingraingrain and took ore
+icon_mummyOptora built a city: +1 VP
+UserLookaside rolled: dice_5 dice_5
+UserLookaside got: graingrain
+icon_mummyOptora got: woolwool
+UserLookaside gave bank: graingraingraingrain and took brick
+icon_mummyOptora rolled: dice_5 dice_3
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside rolled: dice_5 dice_6
+icon_mummyOptora got: oreoreore
+icon_mummyOptora rolled: dice_3 dice_2
+UserLookaside got: graingrain
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got: lumberlumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside built a settlement: +1 VP
+icon_mummyOptora used Knight card knight
+icon_mummyOptora moved robber robber to prob_6 lumber tile
+icon_mummyOptora stole: grain from you
+icon_mummyOptora rolled: dice_5 dice_2
+icon_mummyOptora moved robber robber to prob_8 brick tile
+icon_mummyOptora stole: grain from you
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberoreore
+UserLookaside bought development card
+icon_mummyOptora rolled: dice_6 dice_4
+UserLookaside got: graingrain
+icon_mummyOptora got: woolwool
+icon_mummyOptora bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 wool tile
+UserYou stole: brick from: Optora
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: wool
+icon_mummyOptora got: graingrain
+UserLookaside built a road
+icon_mummyOptora used Knight card knight
+icon_mummyOptora moved robber robber to prob_3 ore tile
+icon_mummyOptora stole: wool from you
+icon_mummyOptora rolled: dice_4 dice_1
+UserLookaside got: graingrain
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumberlumber
+icon_mummyOptora got: lumber
+icon_mummyOptora rolled: dice_4 dice_3
+icon_mummyOptora moved robber robber to prob_6 lumber tile
+icon_mummyOptora stole: lumber from you
+icon_mummyOptora built a road
+UserLookaside rolled: dice_3 dice_1
+UserLookaside got: brickbrick
+icon_mummyOptora got: brickbrick
+icon_mummyOptora rolled: dice_4 dice_6
+UserLookaside got: graingrain
+icon_mummyOptora got: woolwool
+icon_mummyOptora built a settlement: +1 VP
+icon_mummyOptora used Year of Plenty card year of plenty
+icon_mummyOptora took from bank: ore ore
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_1 dice_1
+icon_mummyOptora got: woolwool
+UserLookaside gave bank: graingraingraingrain and took ore
+icon_mummyOptora rolled: dice_6 dice_6
+UserLookaside got: lumber
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: wool from: Optora
+UserLookaside built a road
+icon_mummyOptora rolled: dice_6 dice_2
+UserLookaside got: brick
+icon_mummyOptora got: grain
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_6 dice_3
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: wool
+icon_mummyOptora used Road Building card road building
+icon_mummyOptora placed a road
+icon_mummyOptora placed a road
+icon_mummyOptora rolled: dice_2 dice_6
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: ore
+icon_mummyOptora got: oreoreore
+UserLookaside built a city: +1 VP
+icon_mummyOptora used Knight card knight
+icon_mummyOptora received largest army: +2 VPs
+icon_mummyOptora moved robber robber to prob_3 ore tile
+icon_mummyOptora stole: brick from you
+icon_mummyOptora rolled: dice_3 dice_3
+UserLookaside got: lumberlumber
+icon_mummyOptora got: lumber
+icon_mummyOptora built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: graingrain
+icon_mummyOptora got: wool
+UserLookaside built a settlement: +1 VP
+icon_mummyOptora rolled: dice_1 dice_1
+icon_mummyOptora got: woolwool
+icon_mummyOptora gave bank: woolwool and took grain
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_1 dice_2
+prob_3 ore tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+icon_mummyOptora rolled: dice_3 dice_6
+UserLookaside got: wool
+icon_mummyOptora got: graingraingrain
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: brickbrickbrick
+icon_mummyOptora got: brickbrickbrick
+UserLookaside gave bank: brickbrick and took ore
+UserLookaside bought development card
+icon_mummyOptora rolled: dice_4 dice_4
+UserLookaside got: brick
+icon_mummyOptora got: grain
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: brick from: Optora
+UserLookaside gave bank: brickbrickbrickbrick and took grainore
+UserLookaside bought development card
+icon_mummyOptora used Knight card knight
+icon_mummyOptora moved robber robber to prob_3 ore tile
+icon_mummyOptora stole: lumber from you
+icon_mummyOptora rolled: dice_5 dice_6
+UserLookaside got: oreoreore
+icon_mummyOptora got: oreoreore
+icon_mummyOptora built a city: +1 VP
+icon_mummyOptora built a road
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: graingrain
+icon_mummyOptora got: wool
+UserLookaside built a city: +1 VP
+icon_mummyOptora rolled: dice_3 dice_4
+icon_mummyOptora moved robber robber to prob_6 lumber tile
+icon_mummyOptora stole: lumber from you
+icon_mummyOptora bought development card
+icon_mummyOptora built a road
+UserLookaside rolled: dice_6 dice_2
+UserLookaside got: brick
+icon_mummyOptora got: graingrain
+icon_mummyOptora rolled: dice_2 dice_4
+prob_6 lumber tile is blocked by the robber. No resources produced.
+icon_mummyOptora got: lumber
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: lumberoreoreore
+icon_mummyOptora rolled: dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+icon_mummyOptora got: lumber
+icon_mummyOptora used Knight card knight
+icon_mummyOptora moved robber robber to prob_3 ore tile
+icon_mummyOptora stole: brick from you
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumberlumberlumber
+icon_mummyOptora got: lumber
+icon_mummyOptora rolled: dice_6 dice_6
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: brickbrickbrick
+icon_mummyOptora got: brickbrickbrickbrick
+UserLookaside gave bank: lumberlumberlumberlumberbrickbrick and took graingrain
+UserLookaside built a city: +1 VP
+icon_mummyOptora rolled: dice_3 dice_1
+UserLookaside got: brickbrickbrick
+icon_mummyOptora got: brickbrickbrickbrick
+icon_mummyOptora gave bank: brickbrickbrickbrick and took wool
+icon_mummyOptora built a settlement: +1 VP
+icon_mummyOptora built a road
+icon_mummyOptora built a road
+UserLookaside rolled: dice_1 dice_6
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: grain from: Optora
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank: brickbrick and took wool
+UserLookaside built a settlement: +1 VP
+UserLookaside built a road
+icon_mummyOptora rolled: dice_2 dice_3
+UserLookaside got: graingraingrain
+icon_mummyOptora got: wool
+UserLookaside rolled: dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got: woolwool
+icon_mummyOptora rolled: dice_6 dice_5
+UserLookaside got: oreoreore
+icon_mummyOptora got: oreoreoreore
+icon_mummyOptora gave bank: oreoreore and took lumber
+icon_mummyOptora built a road
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_6 lumber tile
+UserYou stole: brick from: Optora
+UserLookaside built a road
+UserLookaside built a city: +1 VP
+icon_mummyOptora rolled: dice_3 dice_5
+UserLookaside got: brickbrick
+icon_mummyOptora got: graingrain
+icon_mummyOptora bought development card
+UserLookaside rolled: dice_1 dice_1
+icon_mummyOptora got: woolwool
+UserLookaside gave bank: brickbrick and took ore
+UserLookaside bought development card
+trophy Lookaside won the game! trophy
+icon_mummyOptora has left the game

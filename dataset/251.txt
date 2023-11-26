@@ -1,0 +1,280 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: always
+GuestCROcatan: i know
+GuestCROcatan: but you have knight
+UserLookaside: i came prepared this time
+GuestCROcatan: and got ore
+GuestCROcatan: brutal
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestCROcatan placed a settlement
+GuestCROcatan placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources brickwoollumber
+GuestCROcatan placed a settlement
+GuestCROcatan placed a road
+GuestCROcatan received starting resources lumberoregrain
+GuestCROcatan rolled dice_1 dice_1
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+GuestCROcatan got grain
+GuestCROcatan rolled dice_4 dice_2
+UserLookaside got wool
+GuestCROcatan got brick
+GuestCROcatan built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got grain
+GuestCROcatan got grain
+GuestCROcatan rolled dice_5 dice_4
+UserLookaside got grain
+GuestCROcatan got grain
+UserLookaside rolled dice_5 dice_1
+UserLookaside got wool
+GuestCROcatan got brick
+GuestCROcatan rolled dice_3 dice_2
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_6
+UserLookaside built a road
+GuestCROcatan rolled dice_4 dice_1
+UserLookaside got lumber
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumber
+GuestCROcatan got grain
+GuestCROcatan rolled dice_4 dice_6
+UserLookaside got ore
+GuestCROcatan got ore
+UserLookaside rolled dice_4 dice_4
+GuestCROcatan got lumber
+UserLookaside bought development card
+GuestCROcatan rolled dice_5 dice_3
+GuestCROcatan got lumber
+GuestCROcatan gave bank graingraingraingrain and took wool
+GuestCROcatan built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got brick
+GuestCROcatan got wool
+UserLookaside built a settlement (+1 VP)
+GuestCROcatan rolled dice_1 dice_6
+GuestCROcatan moved robber robber to prob_9 grain tile
+GuestCROcatan stole lumber from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole ore from CROcatan
+UserLookaside rolled dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+GuestCROcatan rolled dice_6 dice_5
+GuestCROcatan got grain
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from CROcatan
+GuestCROcatan rolled dice_4 dice_3
+GuestCROcatan moved robber robber to prob_9 grain tile
+GuestCROcatan stole wool from you
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumber
+GuestCROcatan got lumber
+UserLookaside bought development card
+GuestCROcatan rolled dice_6 dice_6
+UserLookaside got brick
+GuestCROcatan bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumber
+GuestCROcatan got graingrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank brick grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestCROcatan rolled dice_2 dice_6
+UserLookaside got ore
+GuestCROcatan got lumber
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from CROcatan
+GuestCROcatan used Knight card knight
+GuestCROcatan moved robber robber to prob_9 grain tile
+GuestCROcatan stole lumber from you
+GuestCROcatan rolled dice_4 dice_6
+UserLookaside got woolore
+GuestCROcatan got ore
+GuestCROcatan bought development card
+UserLookaside rolled dice_5 dice_6
+GuestCROcatan got grain
+GuestCROcatan rolled dice_2 dice_6
+UserLookaside got ore
+GuestCROcatan got lumber
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole lumber from CROcatan
+GuestCROcatan rolled dice_5 dice_3
+UserLookaside got ore
+GuestCROcatan got lumber
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grain
+GuestCROcatan got grain
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a city (+1 VP)
+GuestCROcatan rolled dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoolore
+GuestCROcatan got ore
+GuestCROcatan rolled dice_4 dice_1
+UserLookaside got lumberlumber
+GuestCROcatan got lumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from CROcatan
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside bought development card
+GuestCROcatan rolled dice_1 dice_2
+UserLookaside got brickbrickbrick
+GuestCROcatan got wool
+GuestCROcatan used Road Building card road building
+GuestCROcatan placed a road
+GuestCROcatan placed a road
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumber
+GuestCROcatan got lumber
+UserLookaside built a road
+GuestCROcatan rolled dice_4 dice_5
+UserLookaside got grain
+GuestCROcatan got grain
+GuestCROcatan bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole grain from CROcatan
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+GuestCROcatan rolled dice_4 dice_2
+UserLookaside got woolwool
+GuestCROcatan got brick
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolore
+GuestCROcatan got ore
+GuestCROcatan rolled dice_3 dice_5
+UserLookaside got oreoreore
+GuestCROcatan got lumber
+GuestCROcatan used Monopoly card monopoly
+GuestCROcatan stole 4 ore
+GuestCROcatan built a city (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserLookaside got oreoreore
+GuestCROcatan got lumberlumber
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 8 lumber
+UserLookaside gave bank lumberlumberlumberlumberlumberlumber and took graingrain
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+GuestCROcatan rolled dice_1 dice_4
+UserLookaside got lumberlumberlumber
+GuestCROcatan got lumber
+UserLookaside rolled dice_1 dice_1
+UserLookaside gave bank woolwoolwool and took brick
+UserLookaside built a road
+GuestCROcatan rolled dice_6 dice_5
+GuestCROcatan got grain
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole lumber from CROcatan
+GuestCROcatan rolled dice_4 dice_3
+GuestCROcatan moved robber robber to prob_8 ore tile
+GuestCROcatan stole wool from you
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwool
+GuestCROcatan got brick
+GuestCROcatan rolled dice_2 dice_6
+prob_8 ore tile is blocked by the robber. No resources produced.
+GuestCROcatan got lumberlumber
+GuestCROcatan built a settlement (+1 VP)
+GuestCROcatan built a road
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwooloreore
+GuestCROcatan got oreore
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestCROcatan rolled dice_3 dice_6
+UserLookaside got graingrain
+GuestCROcatan got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole ore from CROcatan
+UserLookaside rolled dice_3 dice_5
+UserLookaside got oreoreore
+GuestCROcatan got lumberlumber
+UserLookaside built a city (+1 VP)
+GuestCROcatan rolled dice_3 dice_4
+GuestCROcatan moved robber robber to prob_8 ore tile
+GuestCROcatan stole wool from you
+GuestCROcatan gave bank lumberlumber and took grain
+GuestCROcatan built a city (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole wool from CROcatan
+GuestCROcatan rolled dice_1 dice_4
+UserLookaside got lumberlumberlumberlumber
+GuestCROcatan got lumber
+UserLookaside rolled dice_2 dice_2
+prob_4 grain tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserLookaside gave bank lumberlumberlumberlumberlumberlumber and took brickgrain
+UserLookaside built a settlement (+1 VP)
+GuestCROcatan rolled dice_1 dice_2
+UserLookaside got brickbrickbrick
+GuestCROcatan got woolwool
+UserLookaside rolled dice_5 dice_3
+UserLookaside got oreoreore
+GuestCROcatan got lumberlumber
+UserLookaside gave bank brickbrickbrick and took grain
+UserLookaside bought development card
+GuestCROcatan rolled dice_2 dice_4
+UserLookaside got woolwoolwool
+GuestCROcatan got brickbrickbrick
+GuestCROcatan built a road
+GuestCROcatan built a road
+UserLookaside rolled dice_3 dice_3
+UserLookaside got woolwoolwool
+GuestCROcatan got brickbrickbrick
+UserLookaside gave bank woolwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+GuestCROcatan rolled dice_1 dice_6
+GuestCROcatan moved robber robber to prob_8 ore tile
+GuestCROcatan stole wool from you
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole brick from CROcatan
+GuestCROcatan rolled dice_4 dice_1
+UserLookaside got lumberlumberlumberlumber
+GuestCROcatan got lumber
+UserLookaside rolled dice_6 dice_5
+GuestCROcatan got grain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestCROcatan rolled dice_6 dice_3
+UserLookaside got graingrain
+GuestCROcatan got graingrain
+GuestCROcatan built a settlement (+1 VP)
+GuestCROcatan built a road
+UserLookaside rolled dice_6 dice_6
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+trophyUserLookaside won the game!trophy
+7/8 player expansion
+Use special build phases to try to win against 7 other players

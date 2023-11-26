@@ -1,0 +1,130 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestLinus2743 placed a settlement
+GuestLinus2743 placed a road
+GuestLinus2743 placed a settlement
+GuestLinus2743 placed a road
+GuestLinus2743 received starting resources: grainwoolbrick
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: woollumberwool
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 wool tile
+UserNo player to steal from
+GuestLinus2743 rolled: dice_6 dice_3
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: brick
+GuestLinus2743 got: ore
+GuestLinus2743 rolled: dice_5 dice_5
+UserLookaside got: brick
+GuestLinus2743 got: bricklumber
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: brick
+GuestLinus2743 got: ore
+UserLookaside built a road
+GuestLinus2743 rolled: dice_5 dice_6
+UserLookaside rolled: dice_1 dice_3
+UserLookaside got: wool
+GuestLinus2743 got: wool
+GuestLinus2743 rolled: dice_2 dice_3
+UserLookaside got: brick
+GuestLinus2743 got: ore
+GuestLinus2743 built a road
+UserLookaside rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to Desert
+UserNo player to steal from
+GuestLinus2743 rolled: dice_5 dice_1
+UserLookaside rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 wool tile
+UserNo player to steal from
+GuestLinus2743 rolled: dice_4 dice_4
+GuestLinus2743 got: lumbergrain
+GuestLinus2743 built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_6
+GuestLinus2743 got: lumbergraingrain
+UserLookaside built a settlement: +1 VP
+GuestLinus2743 rolled: dice_6 dice_4
+UserLookaside got: brick
+GuestLinus2743 got: bricklumber
+GuestLinus2743 built a city: +1 VP
+GuestLinus2743 built a road
+UserLookaside rolled: dice_1 dice_5
+GuestLinus2743 rolled: dice_4 dice_5
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: woolwool
+GuestLinus2743 got: wool
+GuestLinus2743 rolled: dice_3 dice_2
+UserLookaside got: brickbrick
+GuestLinus2743 got: oreore
+UserLookaside rolled: dice_6 dice_2
+GuestLinus2743 got: lumberlumbergraingrain
+UserLookaside gave bank: woolwoolwoolwool and took lumber
+GuestLinus2743 rolled: dice_6 dice_6
+GuestLinus2743 gave bank: lumberlumberlumber and took ore
+GuestLinus2743 built a city: +1 VP
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: lumber
+GuestLinus2743 rolled: dice_5 dice_4
+UserLookaside got: grainlumber
+UserLookaside rolled: dice_5 dice_2
+Lookaside discarding resource cards
+UserLookaside discarded: lumberbrickbrickbrickgrain
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole: grain from: Linus2743
+GuestLinus2743 rolled: dice_1 dice_2
+UserLookaside got: wool
+GuestLinus2743 got: wool
+UserLookaside rolled: dice_1 dice_1
+GuestLinus2743 rolled: dice_2 dice_4
+UserLookaside rolled: dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+GuestLinus2743 got: lumberlumber
+GuestLinus2743 rolled: dice_1 dice_4
+UserLookaside got: brickbrick
+GuestLinus2743 got: oreore
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: brickbrick
+GuestLinus2743 got: oreore
+UserLookaside wants to give: brickbrick for: lumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestLinus2743 rolled: dice_5 dice_6
+UserLookaside got: lumberlumber
+UserLookaside rolled: dice_2 dice_2
+UserLookaside got: woolwool
+GuestLinus2743 got: woolwool
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside built a road
+GuestLinus2743 rolled: dice_5 dice_4
+UserLookaside got: grainlumber
+GuestLinus2743 gave bank: woolwoolwool and took grain
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole: grain from: Linus2743
+UserLookaside built a settlement: +1 VP
+GuestLinus2743 rolled: dice_6 dice_6
+GuestLinus2743 Resigned
+trophy Lookaside won the game! trophy
+GuestLinus2743 has left the game
+GuestLinus2743: gg
+Send a message
+
+Discover the random hexes that lie beneath the fog

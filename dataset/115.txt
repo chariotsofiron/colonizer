@@ -1,0 +1,327 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserBradH placed a settlement
+UserBradH placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: grainorelumber
+UserBradH placed a settlement
+UserBradH placed a road
+UserBradH received starting resources: orewoolgrain
+UserBradH rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserBradH moved robber robber to prob_3 ore tile
+UserNo player to steal from
+UserLookaside rolled: dice_4 dice_6
+UserBradH got: lumber
+UserLookaside got: wool
+UserBradH rolled: dice_4 dice_1
+UserBradH got: brick
+UserLookaside got: grain
+UserLookaside rolled: dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+UserBradH rolled: dice_6 dice_3
+UserBradH got: lumbergrain
+UserLookaside rolled: dice_2 dice_2
+UserBradH got: ore
+UserLookaside got: ore
+UserBradH rolled: dice_6 dice_5
+UserBradH got: wool
+UserBradH bought development card
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: brick
+UserBradH rolled: dice_5 dice_5
+UserBradH got: lumber
+UserLookaside got: wool
+UserLookaside rolled: dice_3 dice_3
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserLookaside bought development card
+UserBradH rolled: dice_3 dice_2
+UserBradH got: brick
+UserLookaside got: grain
+UserBradH built a road
+UserBradH built a settlement: +1 VP
+UserLookaside rolled: dice_6 dice_4
+UserBradH got: lumber
+UserLookaside got: wool
+UserLookaside bought development card
+UserBradH rolled: dice_2 dice_1
+UserLookaside got: grain
+UserLookaside rolled: dice_1 dice_5
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: lumber
+UserBradH rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserBradH moved robber robber to prob_3 ore tile
+UserNo player to steal from
+UserLookaside rolled: dice_5 dice_3
+UserBradH got: brick
+UserLookaside got: brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+UserBradH rolled: dice_1 dice_3
+UserBradH got: oreore
+UserLookaside got: ore
+UserBradH built a road
+UserLookaside rolled: dice_4 dice_2
+UserLookaside got: lumber
+UserBradH rolled: dice_4 dice_5
+UserBradH got: lumbergrain
+UserLookaside rolled: dice_1 dice_1
+UserBradH rolled: dice_2 dice_6
+UserBradH got: brick
+UserLookaside got: brickbrick
+UserLookaside rolled: dice_6 dice_6
+UserLookaside built a road
+UserBradH rolled: dice_1 dice_4
+UserBradH got: brickbrick
+UserLookaside got: grain
+UserBradH built a road
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: grain from: BradH
+UserBradH rolled: dice_4 dice_5
+UserBradH got: lumbergrain
+UserLookaside rolled: dice_6 dice_3
+UserBradH got: lumbergrain
+UserBradH rolled: dice_3 dice_1
+UserBradH got: oreore
+UserLookaside got: ore
+UserBradH built a city: +1 VP
+UserLookaside rolled: dice_3 dice_2
+prob_5 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: grain
+UserBradH rolled: dice_6 dice_6
+UserLookaside rolled: dice_6 dice_4
+UserBradH got: lumber
+UserLookaside got: wool
+UserLookaside built a settlement: +1 VP
+UserBradH rolled: dice_5 dice_1
+UserLookaside got: lumber
+UserLookaside rolled: dice_6 dice_1
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole: lumber from: BradH
+UserBradH rolled: dice_3 dice_4
+UserBradH moved robber robber to prob_6 lumber tile
+UserBradH stole: lumber from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: lumber from: BradH
+UserLookaside rolled: dice_1 dice_3
+UserBradH got: oreoreore
+UserLookaside got: woolore
+UserLookaside built a city: +1 VP
+UserBradH rolled: dice_1 dice_6
+BradH discarding resource cards
+UserBradH discarded: lumberlumberbrickoreore
+UserBradH moved robber robber to prob_5 grain tile
+UserBradH stole: wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: ore from: BradH
+UserLookaside rolled: dice_4 dice_4
+UserBradH got: brickbrick
+UserLookaside got: brickbrickbrickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserBradH rolled: dice_1 dice_2
+UserLookaside got: graingrainore
+UserBradH used Monopoly card monopoly
+UserBradH stole 3: grain
+UserBradH built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_4
+UserLookaside got: lumber
+UserBradH rolled: dice_4 dice_2
+UserLookaside got: lumber
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole: brick from: BradH
+UserBradH rolled: dice_2 dice_5
+UserBradH moved robber robber to prob_5 grain tile
+UserBradH stole: brick from you
+UserLookaside rolled: dice_5 dice_4
+UserBradH got: lumbergrain
+UserBradH rolled: dice_2 dice_6
+UserBradH got: brickbrickbrick
+UserLookaside got: brickbrickbrickbrick
+UserBradH gave bank: brickbrickbrickbrick and took wool
+UserBradH built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_3
+UserBradH got: wool
+UserLookaside got: lumber
+UserLookaside gave bank: brickbrickbrickbrick and took grain
+UserBradH rolled: dice_3 dice_6
+UserBradH got: lumbergrain
+UserBradH bought development card
+UserLookaside rolled: dice_6 dice_5
+UserBradH got: woolwool
+UserLookaside built a road
+UserBradH rolled: dice_5 dice_5
+UserBradH got: lumberlumber
+UserLookaside got: woolwool
+UserLookaside rolled: dice_2 dice_2
+UserBradH got: oreoreore
+UserLookaside got: woolore
+UserLookaside built a settlement: +1 VP
+UserBradH rolled: dice_1 dice_6
+BradH discarding resource cards
+UserBradH discarded: lumberlumberwoolwoolore
+UserBradH moved robber robber to prob_8 brick tile
+UserBradH stole: lumber from you
+UserBradH built a city: +1 VP
+UserLookaside rolled: dice_2 dice_4
+UserBradH got: wool
+UserLookaside got: lumberlumber
+UserBradH rolled: dice_4 dice_1
+UserBradH got: brickbrickbrickbrickbrick
+UserLookaside got: graingrain
+UserBradH built a road
+UserBradH built a road
+UserLookaside rolled: dice_3 dice_3
+UserBradH got: wool
+UserLookaside got: lumberlumber
+UserLookaside built a city: +1 VP
+UserBradH rolled: dice_5 dice_3
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserBradH got: brickbrickbrick
+UserLookaside got: brick
+UserLookaside rolled: dice_5 dice_6
+UserBradH got: woolwool
+UserLookaside built a road
+UserBradH rolled: dice_3 dice_2
+UserBradH got: brickbrickbrickbrickbrick
+UserLookaside got: graingrain
+UserBradH gave bank: brickbrickbrickbrickbrickbrickbrickbrick and took lumbergrain
+UserBradH built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_4
+UserBradH got: lumberlumberlumbergrain
+UserLookaside got: grain
+UserBradH rolled: dice_6 dice_3
+UserBradH got: lumberlumberlumbergrain
+UserLookaside got: grain
+UserBradH built a road
+UserBradH built a settlement: +1 VP
+UserBradH gave bank: lumberlumber and took ore
+UserBradH bought development card
+UserLookaside rolled: dice_3 dice_6
+UserBradH got: lumberlumberlumbergrain
+UserLookaside got: grain
+UserLookaside gave bank: graingraingraingrain and took brick
+UserLookaside built a settlement: +1 VP
+UserBradH rolled: dice_5 dice_5
+UserBradH got: lumberlumberlumberlumber
+UserLookaside got: woolwool
+UserBradH gave bank: lumberlumberlumberlumberlumberlumberlumberlumber and took grainoreoreore
+UserBradH built a city: +1 VP
+UserLookaside rolled: dice_5 dice_1
+UserBradH got: wool
+UserLookaside got: lumberlumberlumber
+UserBradH rolled: dice_3 dice_1
+UserBradH got: oreoreoreore
+UserLookaside got: woolwooloreore
+UserLookaside rolled: dice_3 dice_5
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserBradH got: brickbrickbrick
+UserLookaside got: brick
+UserLookaside gave bank: lumberlumberlumberlumber and took grain
+UserLookaside built a road
+UserLookaside received longest road: +2 VPs
+UserLookaside bought development card
+UserBradH rolled: dice_2 dice_5
+BradH discarding resource cards
+UserBradH discarded: brickbrickwooloreore
+UserBradH moved robber robber to prob_6 lumber tile
+UserBradH stole: ore from you
+UserBradH built a road
+UserLookaside used Knight card knight
+UserLookaside received largest army: +2 VPs
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: wool from: BradH
+UserLookaside rolled: dice_4 dice_2
+UserBradH got: wool
+UserLookaside got: lumberlumberlumber
+UserLookaside gave bank: woolwoolwoolwool and took brickbrick
+UserLookaside built a road
+UserLookaside built a road
+UserBradH used Knight card knight
+UserBradH moved robber robber to prob_8 brick tile
+UserBradH stole: wool from you
+UserBradH rolled: dice_1 dice_2
+UserLookaside got: graingraingrainore
+UserLookaside rolled: dice_4 dice_5
+UserBradH got: lumberlumberlumbergraingrain
+UserLookaside got: grain
+UserBradH rolled: dice_4 dice_3
+BradH discarding resource cards
+UserBradH discarded: lumberlumberwoolgraingrain
+UserBradH moved robber robber to prob_6 lumber tile
+UserBradH stole: ore from you
+UserBradH used Monopoly card monopoly
+UserBradH stole 4: grain
+UserBradH built a city: +1 VP
+UserBradH bought development card
+UserLookaside rolled: dice_1 dice_4
+UserBradH got: brickbrickbrickbrickbrickbrick
+UserLookaside got: graingrain
+UserBradH rolled: dice_2 dice_2
+UserBradH got: oreoreoreore
+UserLookaside got: woolwooloreore
+UserBradH built a road
+UserBradH gave bank: brickbrickbrickbrickoreoreoreore and took lumberwool
+UserBradH built a settlement: +1 VP
+UserBradH used Road Building card road building
+UserBradH placed a road
+UserBradH placed a road
+Userlongest road passed from: Lookaside to: BradH: +2 VPs
+UserLookaside rolled: dice_2 dice_1
+UserLookaside got: graingraingrainore
+UserLookaside gave bank: graingraingraingrain and took brick
+UserLookaside built a road
+Userlongest road passed from: BradH to: Lookaside: +2 VPs
+UserLookaside gave bank: woolwool and took grain
+UserLookaside built a city: +1 VP
+UserBradH rolled: dice_2 dice_6
+UserBradH got: brickbrickbrick
+UserLookaside got: brickbrickbrickbrickbrick
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_5 brick tile
+UserYou stole: brick from: BradH
+UserBradH rolled: dice_5 dice_3
+UserBradH got: brickbrickbrick
+UserLookaside got: brickbrickbrickbrickbrick
+UserLookaside rolled: dice_4 dice_3
+Lookaside discarding resource cards
+UserLookaside discarded: brickbrickbrickbrickbrick
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole: brick from: BradH
+UserBradH rolled: dice_6 dice_3
+UserBradH got: lumberlumberlumberlumbergraingrain
+UserLookaside got: grain
+UserBradH built a road
+UserBradH built a road
+UserBradH built a road
+Userlongest road passed from: Lookaside to: BradH: +2 VPs
+UserLookaside rolled: dice_3 dice_2
+UserBradH got: brickbrickbrickbrickbrickbrick
+UserLookaside got: graingrain
+UserBradH rolled: dice_4 dice_4
+: Not enough cards in bank to distribute.
+UserBradH gave bank: brickbrickbrickbrick and took wool
+UserBradH built a settlement: +1 VP
+trophy BradH won the game! trophy
+UserBradH has left the game
+2w 1b 0s 2w 0o

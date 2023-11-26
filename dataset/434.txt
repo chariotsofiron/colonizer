@@ -1,0 +1,359 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserAlphaaTangoo placed a settlement
+UserAlphaaTangoo placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources lumberbrickwool
+UserLookaside placed a road
+UserAlphaaTangoo placed a settlement
+UserAlphaaTangoo received starting resources brickgraingrain
+UserAlphaaTangoo placed a road
+UserAlphaaTangoo rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserAlphaaTangoo moved robber robber to prob_2 lumber tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grain
+UserAlphaaTangoo got lumber
+UserAlphaaTangoo rolled dice_3 dice_2
+UserLookaside got ore
+UserAlphaaTangoo got brick
+UserAlphaaTangoo built a road
+UserLookaside rolled dice_2 dice_3
+UserLookaside got ore
+UserAlphaaTangoo got brick
+UserAlphaaTangoo rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserAlphaaTangoo moved robber robber to Desert
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brick
+UserAlphaaTangoo got grain
+UserAlphaaTangoo rolled dice_5 dice_6
+UserAlphaaTangoo got grain
+UserLookaside rolled dice_6 dice_4
+UserLookaside got brick
+UserAlphaaTangoo got ore
+UserLookaside built a road
+UserAlphaaTangoo rolled dice_6 dice_3
+UserLookaside got wool
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+UserAlphaaTangoo rolled dice_5 dice_3
+UserLookaside got graingrain
+UserAlphaaTangoo got lumber
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 lumber tile
+UserNo player to steal from
+UserAlphaaTangoo rolled dice_3 dice_1
+UserLookaside got wool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+UserAlphaaTangoo rolled dice_6 dice_5
+prob_11 lumber tile is blocked by the robber. No resources produced.
+UserAlphaaTangoo got grain
+UserLookaside rolled dice_4 dice_4
+UserLookaside got graingrain
+UserAlphaaTangoo got lumber
+UserLookaside bought development card
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_6 dice_6
+UserAlphaaTangoo built a road
+UserLookaside rolled dice_1 dice_3
+UserLookaside got wool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo rolled dice_1 dice_5
+UserLookaside got brick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wool
+UserAlphaaTangoo rolled dice_6 dice_2
+UserLookaside got graingrain
+UserAlphaaTangoo got lumber
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumberore
+UserAlphaaTangoo got ore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank lumber ore
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_2 dice_4
+UserLookaside got brick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo gave bank graingraingraingrain and took wool
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo rolled dice_3 dice_6
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from AlphaaTangoo
+UserAlphaaTangoo used Knight card knight
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole grain from you
+UserAlphaaTangoo rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserAlphaaTangoo got lumber
+UserAlphaaTangoo bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from AlphaaTangoo
+UserLookaside rolled dice_5 dice_6
+UserLookaside got grain
+UserAlphaaTangoo got lumbergrain
+UserAlphaaTangoo rolled dice_1 dice_4
+UserLookaside got ore
+UserAlphaaTangoo got brick
+UserLookaside rolled dice_5 dice_5
+UserLookaside got brickbrick
+UserAlphaaTangoo got ore
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_6 dice_1
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole brick from you
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo rolled dice_3 dice_2
+UserLookaside got ore
+UserAlphaaTangoo got brick
+UserAlphaaTangoo gave bank graingraingraingrain and took wool
+UserAlphaaTangoo built a settlement (+1 VP)
+UserAlphaaTangoo built a road
+UserAlphaaTangoo built a road
+UserLookaside rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserAlphaaTangoo got lumber
+UserAlphaaTangoo rolled dice_5 dice_1
+UserLookaside got brick
+UserAlphaaTangoo got graingrain
+UserLookaside rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserAlphaaTangoo got lumber
+UserAlphaaTangoo rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_2
+UserLookaside got lumberoreore
+UserAlphaaTangoo got ore
+UserLookaside built a city (+1 VP)
+UserAlphaaTangoo rolled dice_4 dice_1
+UserLookaside got ore
+UserAlphaaTangoo got brickbrick
+UserLookaside rolled dice_4 dice_5
+UserLookaside got woolwool
+UserAlphaaTangoo got wool
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+UserAlphaaTangoo rolled dice_4 dice_2
+UserLookaside got brickbrick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo built a road
+UserAlphaaTangoo received longest road (+2 VPs)
+UserAlphaaTangoo built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from AlphaaTangoo
+UserAlphaaTangoo rolled dice_6 dice_3
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_6 dice_4
+UserLookaside got brickbrick
+UserAlphaaTangoo got oreore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_5 dice_3
+UserLookaside got graingrain
+UserAlphaaTangoo got lumber
+UserLookaside rolled dice_6 dice_5
+UserLookaside got graingrain
+UserAlphaaTangoo got lumbergrain
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_2 dice_2
+UserLookaside got woolwool
+UserAlphaaTangoo got woolwool
+UserAlphaaTangoo gave bank woolwool and took ore
+UserAlphaaTangoo built a city (+1 VP)
+UserLookaside rolled dice_1 dice_1
+UserAlphaaTangoo rolled dice_4 dice_5
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserLookaside rolled dice_6 dice_4
+UserLookaside got brickbrick
+UserAlphaaTangoo got oreoreore
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole ore from AlphaaTangoo
+UserAlphaaTangoo used Knight card knight
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole grain from you
+UserAlphaaTangoo rolled dice_6 dice_2
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserAlphaaTangoo got lumberlumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from AlphaaTangoo
+UserLookaside rolled dice_4 dice_4
+UserLookaside got graingrain
+UserAlphaaTangoo got lumberlumber
+UserLookaside built a road
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_6 dice_1
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole wool from you
+UserAlphaaTangoo bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from AlphaaTangoo
+UserLookaside rolled dice_4 dice_1
+UserLookaside got ore
+UserAlphaaTangoo got brickbrick
+UserLookaside built a road
+UserAlphaaTangoo used Knight card knight
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole brick from you
+UserAlphaaTangoo rolled dice_3 dice_3
+UserLookaside got brickbrick
+UserAlphaaTangoo got graingrain
+UserAlphaaTangoo built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from AlphaaTangoo
+UserLookaside rolled dice_5 dice_4
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserAlphaaTangoo rolled dice_2 dice_5
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole brick from you
+UserAlphaaTangoo built a settlement (+1 VP)
+UserAlphaaTangoo built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from AlphaaTangoo
+UserLookaside rolled dice_6 dice_6
+UserAlphaaTangoo rolled dice_2 dice_6
+UserLookaside got graingrainlumber
+UserAlphaaTangoo got lumberlumber
+UserLookaside rolled dice_5 dice_3
+UserLookaside got graingrainlumber
+UserAlphaaTangoo got lumberlumber
+UserLookaside gave bank graingraingrain and took brick
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from AlphaaTangoo to Lookaside (+2 VPs)
+UserAlphaaTangoo rolled dice_3 dice_5
+UserLookaside got graingrainlumber
+UserAlphaaTangoo got lumberlumber
+UserAlphaaTangoo built a road
+UserLookaside rolled dice_2 dice_2
+UserLookaside got woolwool
+UserAlphaaTangoo got woolwoolwool
+UserLookaside gave bank woolwoolwool and took ore
+UserAlphaaTangoo rolled dice_3 dice_6
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo used Monopoly card monopoly
+UserAlphaaTangoo stole 3 wool
+UserAlphaaTangoo gave bank woolwoolwoolwool and took brickbrick
+UserAlphaaTangoo built a road
+UserAlphaaTangoo built a road
+Userlongest road passed from Lookaside to AlphaaTangoo (+2 VPs)
+UserAlphaaTangoo gave bank woolwool and took ore
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_2 dice_3
+UserLookaside got ore
+UserAlphaaTangoo got brickbrick
+UserAlphaaTangoo rolled dice_5 dice_5
+UserLookaside got brickbrick
+UserAlphaaTangoo got oreoreore
+UserAlphaaTangoo built a road
+UserAlphaaTangoo built a road
+UserLookaside rolled dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside built a city (+1 VP)
+UserLookaside built a road
+UserAlphaaTangoo rolled dice_4 dice_3
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole grain from you
+UserLookaside rolled dice_4 dice_6
+UserLookaside got brickbrickbrick
+UserAlphaaTangoo got oreoreore
+UserAlphaaTangoo rolled dice_6 dice_3
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got graingrain
+UserAlphaaTangoo got lumberlumbergrain
+UserLookaside gave bank woolwoolwool and took lumber
+UserLookaside built a road
+UserAlphaaTangoo rolled dice_5 dice_6
+UserLookaside got graingrain
+UserAlphaaTangoo got lumberlumbergrain
+UserAlphaaTangoo built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserAlphaaTangoo got graingraingrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+UserAlphaaTangoo rolled dice_1 dice_6
+UserAlphaaTangoo discarded lumberlumberlumberlumbergrain
+UserAlphaaTangoo moved robber robber to prob_9 wool tile
+UserAlphaaTangoo stole grain from you
+UserAlphaaTangoo used Year of Plenty card year of plenty
+UserAlphaaTangoo took from bank wool wool
+UserAlphaaTangoo bought development card
+UserAlphaaTangoo bought development card
+UserLookaside rolled dice_2 dice_2
+UserLookaside got woolwool
+UserAlphaaTangoo got woolwoolwool
+UserAlphaaTangoo used Knight card knight
+UserAlphaaTangoo moved robber robber to prob_8 grain tile
+UserAlphaaTangoo stole brick from you
+UserAlphaaTangoo rolled dice_6 dice_3
+UserLookaside got woolwoolwool
+UserAlphaaTangoo got wool
+UserAlphaaTangoo built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from AlphaaTangoo
+UserLookaside gave bank woolwoolwool and took lumber
+UserLookaside built a road
+Userlongest road passed from AlphaaTangoo to Lookaside (+2 VPs)
+trophyUserLookaside won the game!trophy
+UserAlphaaTangoo has left the game
+Send a message
+Send message
+No Ads

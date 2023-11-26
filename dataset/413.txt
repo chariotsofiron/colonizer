@@ -1,0 +1,306 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserSCHNAUZER placed a settlement
+UserSCHNAUZER placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources brickgrainlumber
+UserLookaside placed a road
+UserSCHNAUZER placed a settlement
+UserSCHNAUZER received starting resources lumberlumberbrick
+UserSCHNAUZER placed a road
+UserSCHNAUZER rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserSCHNAUZER moved robber robber to prob_11 lumber tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_5
+UserSCHNAUZER got lumber
+UserLookaside got lumber
+UserSCHNAUZER rolled dice_6 dice_4
+UserSCHNAUZER got grain
+UserLookaside got grain
+UserLookaside rolled dice_5 dice_1
+UserLookaside got wool
+UserSCHNAUZER rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserSCHNAUZER moved robber robber to Desert
+UserNo player to steal from
+UserLookaside rolled dice_5 dice_6
+UserSCHNAUZER rolled dice_4 dice_4
+UserSCHNAUZER got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_1 dice_4
+UserSCHNAUZER got woolbrick
+UserLookaside got brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserSCHNAUZER rolled dice_4 dice_2
+UserLookaside got wool
+UserSCHNAUZER built a road
+UserSCHNAUZER built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 ore tile
+UserYou stole lumber from SCHNAUZER
+UserSCHNAUZER rolled dice_5 dice_4
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_2 dice_1
+UserSCHNAUZER got lumberlumber
+UserLookaside got grain
+UserSCHNAUZER rolled dice_6 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_3
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserSCHNAUZER rolled dice_2 dice_3
+UserSCHNAUZER got woolbrick
+UserLookaside got brickbrick
+UserLookaside rolled dice_5 dice_3
+UserSCHNAUZER got lumber
+UserLookaside got lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserSCHNAUZER rolled dice_2 dice_2
+UserSCHNAUZER got ore
+UserLookaside got brickore
+UserLookaside rolled dice_1 dice_5
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserLookaside bought development card
+UserSCHNAUZER rolled dice_6 dice_2
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumber
+UserSCHNAUZER built a road
+UserLookaside rolled dice_2 dice_4
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserLookaside built a road
+UserSCHNAUZER rolled dice_2 dice_6
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumber
+UserSCHNAUZER gave bank lumberlumberlumberlumber and took grain
+UserLookaside rolled dice_6 dice_6
+UserSCHNAUZER rolled dice_4 dice_1
+UserSCHNAUZER got woolbrick
+UserLookaside got brickbrick
+UserSCHNAUZER built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_5
+UserSCHNAUZER got grain
+UserLookaside got graingrain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserSCHNAUZER rolled dice_5 dice_5
+UserSCHNAUZER got grain
+UserLookaside got graingrain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_2 dice_6
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumber
+UserSCHNAUZER rolled dice_3 dice_3
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_3
+UserSCHNAUZER got woolbrick
+UserLookaside got brickbrick
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a road
+UserLookaside gave bank graingrain and took ore
+UserLookaside bought development card
+UserSCHNAUZER rolled dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_6 dice_3
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserSCHNAUZER rolled dice_1 dice_2
+UserSCHNAUZER got lumberlumber
+UserLookaside got graingrain
+UserSCHNAUZER built a road
+UserLookaside rolled dice_1 dice_5
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserSCHNAUZER rolled dice_1 dice_3
+UserSCHNAUZER got oreore
+UserLookaside got brickore
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole wool from SCHNAUZER
+UserLookaside bought development card
+UserSCHNAUZER rolled dice_4 dice_6
+UserSCHNAUZER got grain
+UserLookaside got graingrain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_2 dice_2
+UserSCHNAUZER got oreore
+UserLookaside got brickore
+UserLookaside gave bank graingrain and took ore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 wool tile
+UserYou stole ore from SCHNAUZER
+UserSCHNAUZER used Knight card knight
+UserSCHNAUZER moved robber robber to prob_8 lumber tile
+UserSCHNAUZER stole brick from you
+UserSCHNAUZER rolled dice_5 dice_1
+UserSCHNAUZER got wool
+UserLookaside got wool
+UserSCHNAUZER built a road
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded lumberlumberlumberbrickwool
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from SCHNAUZER
+UserSCHNAUZER rolled dice_3 dice_4
+UserSCHNAUZER moved robber robber to prob_8 lumber tile
+UserSCHNAUZER stole ore from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole wool from SCHNAUZER
+UserLookaside rolled dice_2 dice_1
+UserSCHNAUZER got lumberlumber
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+UserSCHNAUZER rolled dice_1 dice_4
+UserSCHNAUZER got woolbrick
+UserLookaside got brickbrick
+UserLookaside rolled dice_4 dice_2
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserSCHNAUZER rolled dice_5 dice_6
+UserLookaside got lumberlumberlumber
+UserSCHNAUZER used Monopoly card monopoly
+UserSCHNAUZER stole 3 lumber
+UserSCHNAUZER gave bank lumberlumberlumberlumber and took grain
+UserSCHNAUZER built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserSCHNAUZER rolled dice_6 dice_4
+UserSCHNAUZER got grain
+UserLookaside got graingraingrain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_2 dice_4
+prob_6 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserSCHNAUZER rolled dice_3 dice_2
+UserSCHNAUZER got woolbrick
+UserLookaside got brickbrick
+UserLookaside rolled dice_1 dice_1
+UserSCHNAUZER got woolwool
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserSCHNAUZER rolled dice_4 dice_4
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumberlumber
+UserLookaside rolled dice_6 dice_2
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside built a road
+UserLookaside built a road
+UserSCHNAUZER rolled dice_1 dice_3
+UserSCHNAUZER got oreore
+UserLookaside got brickore
+UserSCHNAUZER gave bank woolwool and took grain
+UserSCHNAUZER gave bank woolwool and took grain
+UserSCHNAUZER gave bank lumberlumberlumberlumber and took ore
+UserSCHNAUZER built a city (+1 VP)
+UserLookaside rolled dice_3 dice_1
+UserSCHNAUZER got oreore
+UserLookaside got brickore
+UserLookaside built a city (+1 VP)
+UserSCHNAUZER rolled dice_6 dice_6
+UserLookaside rolled dice_6 dice_3
+UserSCHNAUZER got oreoreore
+UserLookaside got oreore
+UserSCHNAUZER rolled dice_3 dice_2
+UserSCHNAUZER got woolwoolbrick
+UserLookaside got brickbrickbrick
+UserSCHNAUZER gave bank woolwool and took grain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_4 dice_5
+UserSCHNAUZER got oreoreore
+UserLookaside got oreore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside built a city (+1 VP)
+UserSCHNAUZER used Knight card knight
+UserSCHNAUZER moved robber robber to prob_8 lumber tile
+UserSCHNAUZER stole ore from you
+UserSCHNAUZER rolled dice_3 dice_6
+UserSCHNAUZER got oreoreore
+UserLookaside got oreore
+UserSCHNAUZER gave bank oreoreoreore and took grain
+UserSCHNAUZER gave bank oreoreoreore and took grain
+UserSCHNAUZER built a city (+1 VP)
+UserLookaside rolled dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserSCHNAUZER got lumber
+UserLookaside got lumber
+UserSCHNAUZER rolled dice_2 dice_4
+UserSCHNAUZER got woolwoolwool
+UserLookaside got woolwool
+UserLookaside rolled dice_2 dice_2
+UserSCHNAUZER got oreoreore
+UserLookaside got brickbrickore
+UserLookaside gave bank brickbrickbrickbrick and took grain
+UserLookaside bought development card
+UserSCHNAUZER rolled dice_2 dice_1
+UserSCHNAUZER got lumberlumberlumber
+UserLookaside got graingraingraingrain
+UserSCHNAUZER gave bank woolwool and took grain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_6 dice_4
+UserSCHNAUZER got graingrain
+UserLookaside got graingraingraingrain
+UserLookaside gave bank graingrain and took brick
+UserSCHNAUZER has disconnected. Bot will wait until next turn to give SCHNAUZER a chance to reconnect.
+botSCHNAUZER has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+UserLookaside built a settlement (+1 VP)
+UserSCHNAUZER has reconnected
+UserLookaside built a city (+1 VP)
+UserSCHNAUZER rolled dice_4 dice_1
+UserSCHNAUZER got woolwoolbrick
+UserLookaside got brickbrickbrickbrick
+UserSCHNAUZER used Knight card knight
+UserSCHNAUZER received largest army (+2 VPs)
+UserSCHNAUZER moved robber robber to prob_6 wool tile
+UserSCHNAUZER stole brick from you
+UserSCHNAUZER built a road
+UserSCHNAUZER built a road
+UserSCHNAUZER built a settlement (+1 VP)
+UserSCHNAUZER built a road
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_5 dice_4
+UserSCHNAUZER got oreoreore
+UserLookaside got brickoreore
+UserSCHNAUZER rolled dice_2 dice_3
+UserSCHNAUZER got woolwoolwoolbrick
+UserLookaside got brickbrickbrickbrick
+UserSCHNAUZER used Year of Plenty card year of plenty
+UserSCHNAUZER took from bank grain grain
+UserSCHNAUZER bought development card
+UserLookaside rolled dice_3 dice_5
+UserSCHNAUZER got lumber
+UserLookaside got lumberlumberlumberlumber
+UserLookaside gave bank graingrain and took wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside gave bank lumberlumberbrickbrickbrickbrick and took woolgrain
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+UserSCHNAUZER has left the game
+Send a message
+Send message
+Seafarers scenario map
+Discover the random hexes that lie beneath the fog

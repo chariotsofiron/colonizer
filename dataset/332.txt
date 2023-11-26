@@ -1,0 +1,352 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestGranFodder placed a settlement
+GuestGranFodder placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources bricklumberlumber
+GuestGranFodder placed a settlement
+GuestGranFodder placed a road
+GuestGranFodder received starting resources woollumberbrick
+GuestGranFodder rolled dice_1 dice_2
+UserLookaside got brick
+GuestGranFodder got brick
+GuestGranFodder built a road
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 ore tile
+UserNo player to steal from
+GuestGranFodder rolled dice_1 dice_1
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+GuestGranFodder rolled dice_4 dice_4
+UserLookaside got lumberwool
+UserLookaside rolled dice_5 dice_5
+UserLookaside got grainlumber
+GuestGranFodder got grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestGranFodder rolled dice_4 dice_1
+GuestGranFodder got ore
+UserLookaside rolled dice_2 dice_4
+GuestGranFodder got wool
+GuestGranFodder rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder got brick
+UserLookaside rolled dice_2 dice_3
+GuestGranFodder got ore
+GuestGranFodder rolled dice_5 dice_4
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder got brick
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 wool tile
+UserNo player to steal from
+GuestGranFodder rolled dice_4 dice_6
+UserLookaside got grainlumber
+GuestGranFodder got grain
+GuestGranFodder bought development card
+UserLookaside rolled dice_6 dice_3
+UserLookaside got ore
+GuestGranFodder got brick
+GuestGranFodder rolled dice_6 dice_2
+UserLookaside got lumberwool
+UserLookaside rolled dice_4 dice_2
+GuestGranFodder got wool
+UserLookaside bought development card
+GuestGranFodder rolled dice_3 dice_6
+UserLookaside got ore
+GuestGranFodder got brick
+GuestGranFodder gave bank brickbrickbrickbrick and took lumber
+GuestGranFodder built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+GuestGranFodder got lumberlumber
+GuestGranFodder rolled dice_5 dice_3
+UserLookaside got lumberwool
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole ore from GranFodder
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_8 wool tile
+GuestGranFodder stole lumber from you
+GuestGranFodder rolled dice_6 dice_4
+UserLookaside got grainlumber
+GuestGranFodder got grainlumber
+UserLookaside rolled dice_3 dice_3
+GuestGranFodder got wool
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestGranFodder rolled dice_6 dice_1
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole lumber from you
+UserLookaside rolled dice_5 dice_1
+GuestGranFodder got wool
+GuestGranFodder rolled dice_2 dice_5
+GuestGranFodder moved robber robber to prob_8 wool tile
+GuestGranFodder stole wool from you
+GuestGranFodder gave bank lumberlumberlumberlumber and took brick
+GuestGranFodder built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got oreore
+GuestGranFodder got brickore
+GuestGranFodder rolled dice_1 dice_1
+UserLookaside rolled dice_2 dice_4
+GuestGranFodder got wool
+GuestGranFodder rolled dice_5 dice_2
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole ore from you
+GuestGranFodder gave bank woolwoolwoolwool and took lumber
+GuestGranFodder built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserLookaside got graingraingrain
+GuestGranFodder got grain
+GuestGranFodder rolled dice_3 dice_2
+GuestGranFodder got oreore
+UserLookaside rolled dice_4 dice_6
+UserLookaside got grainlumber
+GuestGranFodder got grainlumber
+GuestGranFodder rolled dice_3 dice_5
+UserLookaside got lumberwool
+GuestGranFodder built a city (+1 VP)
+UserLookaside rolled dice_1 dice_4
+GuestGranFodder got oreoreore
+UserLookaside bought development card
+GuestGranFodder rolled dice_2 dice_2
+UserLookaside got graingraingrain
+GuestGranFodder got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from GranFodder
+UserLookaside rolled dice_5 dice_4
+UserLookaside got oreore
+GuestGranFodder got brickbrickore
+UserLookaside gave bank graingraingraingrain and took ore
+UserLookaside built a city (+1 VP)
+GuestGranFodder rolled dice_4 dice_3
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole lumber from you
+GuestGranFodder built a road
+UserLookaside rolled dice_4 dice_2
+GuestGranFodder got wool
+GuestGranFodder rolled dice_2 dice_3
+GuestGranFodder got oreoreore
+GuestGranFodder bought development card
+GuestGranFodder gave bank oreoreoreore and took lumber
+GuestGranFodder built a road
+UserLookaside rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder got brickbrick
+GuestGranFodder rolled dice_1 dice_5
+GuestGranFodder got wool
+UserLookaside rolled dice_6 dice_6
+GuestGranFodder rolled dice_5 dice_5
+UserLookaside got graingrainlumber
+GuestGranFodder got graingrainlumber
+GuestGranFodder built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got graingrainbrick
+GuestGranFodder got brick
+UserLookaside built a road
+GuestGranFodder rolled dice_1 dice_6
+GuestGranFodder moved robber robber to prob_8 wool tile
+GuestGranFodder stole lumber from you
+GuestGranFodder built a road
+GuestGranFodder received longest road (+2 VPs)
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from GranFodder
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole grain from you
+GuestGranFodder rolled dice_5 dice_3
+UserLookaside got lumberwoolwool
+UserLookaside rolled dice_5 dice_6
+GuestGranFodder got bricklumberlumberlumber
+UserLookaside bought development card
+GuestGranFodder rolled dice_2 dice_3
+GuestGranFodder got oreoreore
+GuestGranFodder built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from GranFodder
+UserLookaside rolled dice_2 dice_2
+UserLookaside got graingraingraingrain
+GuestGranFodder got woolwoolgrain
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a road
+GuestGranFodder rolled dice_5 dice_4
+UserLookaside got oreore
+GuestGranFodder got brickbrickore
+GuestGranFodder bought development card
+GuestGranFodder gave bank brickbrickbrickbrick and took grain
+GuestGranFodder bought development card
+UserLookaside rolled dice_3 dice_6
+UserLookaside got oreore
+GuestGranFodder got brickbrickore
+UserLookaside bought development card
+GuestGranFodder used Knight card knight
+GuestGranFodder received largest army (+2 VPs)
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole ore from you
+GuestGranFodder rolled dice_4 dice_6
+UserLookaside got graingrainlumber
+GuestGranFodder got graingrainlumber
+GuestGranFodder built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from GranFodder
+UserLookaside rolled dice_5 dice_5
+UserLookaside got graingrainlumber
+GuestGranFodder got graingrainlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestGranFodder rolled dice_6 dice_6
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole grain from GranFodder
+GuestGranFodder rolled dice_6 dice_5
+GuestGranFodder got brickbricklumberlumberlumberlumber
+GuestGranFodder used Year of Plenty card year of plenty
+GuestGranFodder took from bank ore ore
+GuestGranFodder gave bank lumberlumberlumberlumberlumberlumberlumberlumberbrickbrickbrickbrick and took woolwoolgrain
+GuestGranFodder bought development card
+GuestGranFodder bought development card
+UserLookaside rolled dice_1 dice_1
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole grain from you
+GuestGranFodder rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder got brickbrick
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from GranFodder
+GuestGranFodder rolled dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_6 dice_4
+UserLookaside got graingrainlumberlumber
+GuestGranFodder got graingrainlumberlumber
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuestGranFodder rolled dice_1 dice_3
+UserLookaside got graingraingraingrain
+GuestGranFodder got woolwoolgrain
+GuestGranFodder built a road
+UserLookaside rolled dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder rolled dice_3 dice_5
+UserLookaside got lumberlumberwoolwool
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumberlumberwoolwool
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+GuestGranFodder rolled dice_6 dice_2
+UserLookaside got lumberlumberwoolwool
+UserLookaside rolled dice_4 dice_2
+UserLookaside got ore
+GuestGranFodder got woolwoolwool
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+GuestGranFodder rolled dice_6 dice_3
+UserLookaside got oreoreore
+GuestGranFodder got brickbrickoreore
+GuestGranFodder used Monopoly card monopoly
+GuestGranFodder stole 3 ore
+GuestGranFodder bought development card
+GuestGranFodder bought development card
+GuestGranFodder bought development card
+GuestGranFodder bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 wool tile
+UserYou stole lumber from GranFodder
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole lumber from you
+GuestGranFodder rolled dice_1 dice_6
+GuestGranFodder moved robber robber to prob_8 wool tile
+GuestGranFodder stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from GranFodder
+UserLookaside rolled dice_5 dice_1
+UserLookaside got ore
+GuestGranFodder got woolwoolwool
+UserLookaside bought development card
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole wool from you
+GuestGranFodder rolled dice_1 dice_6
+GuestGranFodder moved robber robber to prob_8 wool tile
+GuestGranFodder stole brick from you
+GuestGranFodder gave bank woolwoolwoolwool and took grain
+GuestGranFodder built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole brick from GranFodder
+UserLookaside rolled dice_2 dice_3
+prob_5 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder used Knight card knight
+GuestGranFodder moved robber robber to prob_9 ore tile
+GuestGranFodder stole brick from you
+GuestGranFodder rolled dice_1 dice_4
+GuestGranFodder got oreoreoreore
+UserLookaside rolled dice_5 dice_1
+UserLookaside got ore
+GuestGranFodder got woolwoolwoolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 5 ore
+GuestGranFodder rolled dice_2 dice_2
+UserLookaside got graingraingraingrain
+GuestGranFodder got woolwoolgrain
+GuestGranFodder used Road Building card road building
+GuestGranFodder placed a road
+GuestGranFodder placed a road
+UserLookaside rolled dice_4 dice_5
+prob_9 ore tile is blocked by the robber. No resources produced.
+GuestGranFodder got brickbrick
+UserLookaside gave bank oreoreoreore and took wool
+UserLookaside bought development card
+GuestGranFodder rolled dice_6 dice_5
+GuestGranFodder got brickbricklumberlumberlumberlumber
+GuestGranFodder built a road
+GuestGranFodder built a road
+GuestGranFodder built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got graingrainbrickbrick
+GuestGranFodder got brick
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside bought development card
+GuestGranFodder rolled dice_1 dice_3
+UserLookaside got graingraingraingrain
+GuestGranFodder got woolwoolgrain
+GuestGranFodder gave bank woolwoolwoolwoolwoolwoolwoolwool and took oreore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from GranFodder
+UserLookaside rolled dice_6 dice_3
+UserLookaside got oreoreore
+GuestGranFodder got brickbrickbrickoreore
+UserLookaside built a city (+1 VP)
+GuestGranFodder rolled dice_6 dice_2
+UserLookaside got lumberlumberwoolwool
+GuestGranFodder gave bank brickbrickbrickbrick and took grain
+GuestGranFodder built a city (+1 VP)
+trophyGuestGranFodder won the game!trophy
+GuestGranFodder has left the game
+UserLookaside: :(
+UserLookaside: gg
+GuestGranFodder: gg
+Send a message
+Send message

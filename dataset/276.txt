@@ -1,0 +1,309 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestJancii placed a settlement
+GuestJancii placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources orelumberbrick
+GuestJancii placed a settlement
+GuestJancii placed a road
+GuestJancii received starting resources bricklumberlumber
+GuestJancii rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestJancii moved robber robber to prob_8 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_5 dice_4
+GuestJancii got wool
+GuestJancii rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+GuestJancii moved robber robber to prob_9 grain tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_4
+GuestJancii got lumber
+UserLookaside got brick
+GuestJancii rolled dice_6 dice_4
+UserLookaside got wool
+UserLookaside rolled dice_6 dice_6
+GuestJancii rolled dice_2 dice_6
+UserLookaside got grain
+UserLookaside rolled dice_1 dice_3
+GuestJancii got lumber
+UserLookaside got ore
+GuestJancii rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestJancii moved robber robber to prob_8 wool tile
+GuestNo player to steal from
+UserLookaside rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+GuestJancii rolled dice_3 dice_6
+GuestJancii got wool
+UserLookaside rolled dice_1 dice_5
+GuestJancii got grain
+UserLookaside got brick
+GuestJancii rolled dice_1 dice_1
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_11 ore tile
+UserNo player to steal from
+GuestJancii rolled dice_6 dice_5
+prob_11 ore tile is blocked by the robber. No resources produced.
+GuestJancii got brick
+GuestJancii built a road
+GuestJancii built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+GuestJancii got grain
+UserLookaside got brick
+UserLookaside built a road
+GuestJancii rolled dice_3 dice_1
+GuestJancii got lumberore
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_5
+UserLookaside got grain
+UserLookaside built a city (+1 VP)
+GuestJancii rolled dice_1 dice_6
+GuestJancii moved robber robber to prob_6 brick tile
+GuestJancii stole brick from you
+UserLookaside rolled dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestJancii got grain
+GuestJancii rolled dice_5 dice_5
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from Jancii
+GuestJancii rolled dice_5 dice_3
+UserLookaside got grain
+UserLookaside rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+GuestJancii rolled dice_1 dice_6
+GuestJancii moved robber robber to prob_6 brick tile
+GuestJancii stole wool from you
+UserLookaside rolled dice_5 dice_3
+UserLookaside got grain
+GuestJancii rolled dice_1 dice_1
+UserLookaside rolled dice_6 dice_4
+UserLookaside got wool
+GuestJancii rolled dice_5 dice_6
+GuestJancii got brickore
+GuestJancii built a road
+GuestJancii built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+GuestJancii got lumberlumber
+UserLookaside got brick
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+UserLookaside built a road
+GuestJancii rolled dice_1 dice_3
+GuestJancii got lumberore
+UserLookaside got oreore
+UserLookaside rolled dice_3 dice_1
+GuestJancii got lumberore
+UserLookaside got oreore
+UserLookaside built a city (+1 VP)
+GuestJancii rolled dice_3 dice_4
+GuestJancii discarded lumberlumberlumberlumberore
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole wool from you
+UserLookaside rolled dice_6 dice_3
+GuestJancii got wool
+UserLookaside bought development card
+GuestJancii rolled dice_2 dice_4
+GuestJancii got graingrain
+UserLookaside got brickbrick
+GuestJancii bought development card
+GuestJancii bought development card
+UserLookaside rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank lumber wool
+UserLookaside built a settlement (+1 VP)
+GuestJancii rolled dice_2 dice_2
+GuestJancii got lumberore
+UserLookaside got oreore
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from Jancii
+GuestJancii used Knight card knight
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole brick from you
+GuestJancii rolled dice_6 dice_1
+GuestJancii moved robber robber to prob_6 brick tile
+GuestJancii stole ore from you
+UserLookaside rolled dice_2 dice_1
+GuestJancii got lumberlumber
+UserLookaside got lumberlumber
+GuestJancii rolled dice_1 dice_4
+GuestJancii got lumberlumber
+UserLookaside got brickbrick
+GuestJancii built a road
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoolwool
+UserLookaside built a road
+UserLookaside built a road
+GuestJancii rolled dice_3 dice_6
+GuestJancii got wool
+UserLookaside got grain
+GuestJancii gave bank lumberlumberlumberlumber and took grain
+GuestJancii bought development card
+UserLookaside rolled dice_2 dice_6
+UserLookaside got graingrain
+UserLookaside bought development card
+GuestJancii rolled dice_5 dice_2
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole grain from you
+GuestJancii bought development card
+UserLookaside rolled dice_1 dice_2
+GuestJancii got lumberlumber
+UserLookaside got lumberlumber
+GuestJancii rolled dice_6 dice_5
+GuestJancii got brickoreore
+UserLookaside got ore
+UserLookaside rolled dice_2 dice_3
+GuestJancii got lumberlumber
+UserLookaside got brickbrick
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestJancii rolled dice_2 dice_5
+GuestJancii moved robber robber to prob_6 brick tile
+GuestJancii stole lumber from you
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolwoolwoolwool
+GuestJancii rolled dice_4 dice_4
+UserLookaside got graingrainwool
+UserLookaside rolled dice_3 dice_6
+GuestJancii got wool
+UserLookaside got grain
+UserLookaside bought development card
+GuestJancii rolled dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestJancii got graingrain
+GuestJancii built a city (+1 VP)
+UserLookaside rolled dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+GuestJancii got graingraingrain
+GuestJancii rolled dice_4 dice_6
+UserLookaside got woolwoolwoolwool
+GuestJancii built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_5
+GuestJancii got brickbrickoreore
+UserLookaside got ore
+UserLookaside bought development card
+GuestJancii rolled dice_6 dice_3
+GuestJancii got woolwool
+UserLookaside got grain
+GuestJancii bought development card
+GuestJancii bought development card
+GuestJancii built a road
+GuestJancii built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole lumber from Jancii
+UserLookaside rolled dice_1 dice_4
+GuestJancii got lumberlumberlumber
+UserLookaside got brickbricklumber
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+GuestJancii used Knight card knight
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole wool from you
+GuestJancii rolled dice_3 dice_1
+GuestJancii got lumberore
+UserLookaside got oreore
+UserLookaside rolled dice_1 dice_1
+GuestJancii rolled dice_2 dice_4
+GuestJancii got graingraingraingrain
+UserLookaside got brickbrick
+GuestJancii bought development card
+UserLookaside rolled dice_1 dice_2
+GuestJancii got lumberlumber
+UserLookaside got lumberlumber
+UserLookaside gave bank woolwool and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+GuestJancii rolled dice_3 dice_2
+GuestJancii got lumberlumberlumber
+UserLookaside got brickbricklumber
+GuestJancii used Monopoly card monopoly
+GuestJancii stole 3 brick
+GuestJancii gave bank lumberlumberlumberlumber and took wool
+GuestJancii built a settlement (+1 VP)
+GuestJancii gave bank lumberlumberlumber and took wool
+UserLookaside rolled dice_6 dice_4
+UserLookaside got woolwoolwoolwoolwool
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+GuestJancii rolled dice_6 dice_6
+GuestJancii got ore
+GuestJancii bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Jancii
+UserLookaside rolled dice_4 dice_5
+GuestJancii got woolwool
+UserLookaside got woolgrain
+UserLookaside gave bank woolwool and took brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestJancii used Knight card knight
+GuestJancii received largest army (+2 VPs)
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole ore from you
+GuestJancii rolled dice_2 dice_3
+GuestJancii got lumberlumberlumber
+UserLookaside got brickbricklumber
+GuestJancii bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Jancii
+GuestJancii used Knight card knight
+GuestJancii moved robber robber to prob_8 grain tile
+GuestJancii stole brick from you
+GuestJancii rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+GuestJancii built a road
+GuestJancii built a road
+Guestlongest road passed from Lookaside to Jancii (+2 VPs)
+UserLookaside rolled dice_4 dice_2
+GuestJancii got graingraingraingrain
+UserLookaside got brickbrick
+UserLookaside gave bank woolwool and took lumber
+UserLookaside built a road
+UserLookaside built a road
+GuestJancii rolled dice_3 dice_4
+GuestJancii moved robber robber to prob_10 wool tile
+GuestJancii stole wool from you
+UserLookaside rolled dice_5 dice_6
+GuestJancii got brickbrickoreore
+UserLookaside got ore
+GuestJancii rolled dice_5 dice_4
+GuestJancii got woolwool
+UserLookaside got woolgrain
+GuestJancii built a road
+GuestJancii used Year of Plenty card year of plenty
+GuestJancii took from bank ore ore
+GuestJancii built a city (+1 VP)
+GuestJancii built a settlement (+1 VP)
+trophyGuestJancii won the game!trophy
+GuestJancii has left the game
+UserLookaside: gg
+GuestJancii: gg
+Send a message
+Send message

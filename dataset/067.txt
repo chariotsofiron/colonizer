@@ -1,0 +1,304 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestArcturis placed a settlement
+GuestArcturis placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: oregrainbrick
+GuestArcturis placed a settlement
+GuestArcturis placed a road
+GuestArcturis received starting resources: orelumberlumber
+GuestArcturis rolled: dice_2 dice_3
+GuestArcturis got: grain
+UserLookaside got: grain
+UserLookaside rolled: dice_4 dice_2
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestArcturis moved robber robber to prob_11 brick tile
+GuestNo player to steal from
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: ore
+GuestArcturis rolled: dice_6 dice_4
+GuestArcturis got: ore
+UserLookaside got: lumber
+UserLookaside rolled: dice_1 dice_3
+GuestArcturis got: lumber
+UserLookaside got: brick
+GuestArcturis rolled: dice_5 dice_6
+prob_11 brick tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_2 dice_4
+GuestArcturis got: ore
+UserLookaside got: grain
+UserLookaside built a road
+GuestArcturis rolled: dice_5 dice_1
+GuestArcturis got: ore
+UserLookaside got: grain
+UserLookaside rolled: dice_4 dice_4
+GuestArcturis rolled: dice_2 dice_1
+UserLookaside got: ore
+UserLookaside rolled: dice_6 dice_5
+prob_11 brick tile is blocked by the robber. No resources produced.
+UserLookaside built a city: +1 VP
+GuestArcturis rolled: dice_6 dice_6
+UserLookaside rolled: dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 grain tile
+UserNo player to steal from
+GuestArcturis rolled: dice_3 dice_5
+UserLookaside rolled: dice_6 dice_2
+GuestArcturis rolled: dice_4 dice_5
+GuestArcturis got: wool
+UserLookaside got: woolwool
+GuestArcturis bought development card
+UserLookaside rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to Desert
+UserNo player to steal from
+GuestArcturis rolled: dice_3 dice_6
+GuestArcturis got: wool
+UserLookaside got: woolwool
+UserLookaside rolled: dice_4 dice_1
+GuestArcturis got: grain
+UserLookaside got: graingrain
+UserLookaside gave bank: graingraingraingrain and took lumber
+UserLookaside built a settlement: +1 VP
+GuestArcturis rolled: dice_4 dice_6
+GuestArcturis got: ore
+UserLookaside got: lumberlumberlumber
+GuestArcturis bought development card
+UserLookaside rolled: dice_3 dice_3
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis rolled: dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestArcturis moved robber robber to prob_10 lumber tile
+GuestArcturis stole: lumber from you
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: wool
+GuestArcturis rolled: dice_1 dice_5
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis gave bank: oreoreoreore and took grain
+UserLookaside rolled: dice_3 dice_1
+GuestArcturis got: lumber
+UserLookaside got: brick
+UserLookaside built a road
+GuestArcturis rolled: dice_4 dice_1
+GuestArcturis got: grain
+UserLookaside got: graingrain
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: wool
+UserLookaside gave bank: woolwoolwoolwool and took ore
+UserLookaside bought development card
+GuestArcturis rolled: dice_6 dice_4
+prob_10 lumber tile is blocked by the robber. No resources produced.
+GuestArcturis got: ore
+GuestArcturis built a city: +1 VP
+UserLookaside rolled: dice_5 dice_5
+prob_10 lumber tile is blocked by the robber. No resources produced.
+GuestArcturis got: oreore
+GuestArcturis rolled: dice_4 dice_6
+prob_10 lumber tile is blocked by the robber. No resources produced.
+GuestArcturis got: oreore
+UserLookaside rolled: dice_2 dice_6
+UserLookaside got: wool
+GuestArcturis rolled: dice_1 dice_1
+GuestArcturis got: lumber
+GuestArcturis gave bank: oreoreoreore and took brick
+UserLookaside rolled: dice_3 dice_3
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis rolled: dice_6 dice_2
+UserLookaside got: wool
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole: lumber from: Arcturis
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: brick brick
+UserLookaside built a road
+UserLookaside built a settlement: +1 VP
+GuestArcturis used Knight card knight
+GuestArcturis moved robber robber to prob_9 wool tile
+GuestArcturis stole: grain from you
+GuestArcturis rolled: dice_2 dice_5
+GuestArcturis moved robber robber to prob_8 wool tile
+GuestArcturis stole: grain from you
+GuestArcturis built a road
+UserLookaside rolled: dice_1 dice_4
+GuestArcturis got: graingrain
+UserLookaside got: graingrain
+GuestArcturis rolled: dice_5 dice_6
+UserLookaside got: brick
+GuestArcturis used Year of Plenty card year of plenty
+GuestArcturis took from bank: brick wool
+GuestArcturis built a settlement: +1 VP
+UserLookaside rolled: dice_2 dice_4
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis rolled: dice_6 dice_6
+UserLookaside rolled: dice_1 dice_3
+GuestArcturis got: lumber
+UserLookaside got: brick
+GuestArcturis rolled: dice_4 dice_2
+GuestArcturis got: ore
+UserLookaside got: grain
+GuestArcturis built a city: +1 VP
+UserLookaside rolled: dice_5 dice_4
+GuestArcturis got: woolwool
+UserLookaside got: woolwool
+UserLookaside gave bank: graingraingraingrain and took lumber
+UserLookaside built a road
+GuestArcturis rolled: dice_6 dice_1
+GuestArcturis moved robber robber to prob_9 wool tile
+GuestArcturis stole: wool from you
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: brick
+GuestArcturis rolled: dice_2 dice_3
+GuestArcturis got: graingrain
+UserLookaside got: graingrain
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: oreore
+UserLookaside gave bank: woolwool and took ore
+UserLookaside built a city: +1 VP
+GuestArcturis rolled: dice_3 dice_3
+GuestArcturis got: oreore
+UserLookaside got: grain
+GuestArcturis bought development card
+GuestArcturis bought development card
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: brick
+GuestArcturis rolled: dice_4 dice_3
+GuestArcturis moved robber robber to prob_8 wool tile
+GuestArcturis stole: grain from you
+GuestArcturis used Road Building card road building
+GuestArcturis placed a road
+GuestArcturis placed a road
+UserLookaside rolled: dice_1 dice_1
+GuestArcturis got: lumberlumber
+GuestArcturis rolled: dice_6 dice_3
+GuestArcturis got: woolwool
+UserLookaside got: woolwool
+GuestArcturis gave bank: lumberlumberlumberlumber and took brick
+GuestArcturis built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_2
+GuestArcturis got: oreore
+UserLookaside got: grain
+GuestArcturis rolled: dice_1 dice_4
+GuestArcturis got: graingrain
+UserLookaside got: graingrain
+GuestArcturis bought development card
+GuestArcturis bought development card
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: brick
+GuestArcturis rolled: dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestArcturis got: brick
+GuestArcturis built a road
+UserLookaside rolled: dice_5 dice_2
+Lookaside discarding resource cards
+UserLookaside discarded: brickbrickbrickgraingrain
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole: grain from: Arcturis
+GuestArcturis used Knight card knight
+GuestArcturis moved robber robber to prob_8 wool tile
+GuestArcturis stole: wool from you
+GuestArcturis rolled: dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+GuestArcturis got: brick
+UserLookaside rolled: dice_1 dice_3
+GuestArcturis got: lumberlumber
+UserLookaside got: brick
+GuestArcturis rolled: dice_3 dice_6
+GuestArcturis got: woolwool
+UserLookaside got: woolwool
+UserLookaside rolled: dice_2 dice_3
+GuestArcturis got: graingrain
+UserLookaside got: graingrain
+UserLookaside gave bank: woolwool and took lumber
+UserLookaside built a settlement: +1 VP
+GuestArcturis rolled: dice_1 dice_2
+UserLookaside got: oreoreoreore
+GuestArcturis built a settlement: +1 VP
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole: lumber from: Arcturis
+UserLookaside built a city: +1 VP
+UserLookaside built a road
+GuestArcturis used Knight card knight
+GuestArcturis received largest army: +2 VPs
+GuestArcturis moved robber robber to prob_9 wool tile
+GuestArcturis stole: ore from you
+GuestArcturis rolled: dice_4 dice_1
+GuestArcturis got: graingrain
+UserLookaside got: graingrain
+GuestArcturis bought development card
+UserLookaside rolled: dice_1 dice_5
+GuestArcturis got: oreore
+UserLookaside got: graingrain
+GuestArcturis rolled: dice_2 dice_2
+GuestArcturis got: lumberlumber
+UserLookaside got: brickbrick
+GuestArcturis bought development card
+UserLookaside rolled: dice_2 dice_4
+GuestArcturis got: oreore
+UserLookaside got: graingrain
+UserLookaside gave bank: graingraingraingrain and took lumber
+UserLookaside built a road
+GuestArcturis rolled: dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+GuestArcturis got: woolwool
+GuestArcturis used Monopoly card monopoly
+GuestArcturis stole 4: grain
+GuestArcturis built a city: +1 VP
+UserLookaside rolled: dice_5 dice_1
+GuestArcturis got: oreore
+UserLookaside got: graingrain
+GuestArcturis rolled: dice_4 dice_6
+GuestArcturis got: oreoreoreoreore
+UserLookaside got: lumberlumberlumberlumber
+GuestArcturis bought development card
+GuestArcturis bought development card
+GuestArcturis gave bank: oreore and took brick
+GuestArcturis built a road
+GuestArcturis gave bank: oreore and took wool
+GuestArcturis bought development card
+UserLookaside rolled: dice_3 dice_5
+GuestArcturis got: brickbrickbrick
+UserLookaside got: woolwool
+UserLookaside built a settlement: +1 VP
+GuestArcturis rolled: dice_4 dice_6
+GuestArcturis got: oreoreoreoreore
+UserLookaside got: lumberlumberlumberlumber
+GuestArcturis used Knight card knight
+GuestArcturis moved robber robber to prob_8 wool tile
+GuestArcturis stole: lumber from you
+GuestArcturis gave bank: oreoreoreore and took woolgrain
+GuestArcturis built a settlement: +1 VP
+GuestArcturis built a road
+UserLookaside rolled: dice_4 dice_2
+GuestArcturis got: oreoreore
+UserLookaside got: graingrain
+UserLookaside gave bank: lumberlumberlumberlumber and took brickbrick
+GuestArcturis rolled: dice_6 dice_1
+GuestArcturis moved robber robber to prob_9 wool tile
+GuestArcturis stole: grain from you
+GuestArcturis gave bank: oreore and took lumber
+GuestArcturis built a road
+GuestArcturis received longest road: +2 VPs
+trophy Arcturis won the game! trophy
+Send a message
+
+Discover the random hexes that lie beneath the fog

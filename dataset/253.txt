@@ -1,0 +1,369 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: :/
+UserLookaside: nooooo
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestHalwaRaj placed a settlement
+GuestHalwaRaj placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberbrickbrick
+GuestHalwaRaj placed a settlement
+GuestHalwaRaj placed a road
+GuestHalwaRaj received starting resources grainoregrain
+GuestHalwaRaj rolled dice_1 dice_2
+GuestHalwaRaj got grain
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 ore tile
+UserNo player to steal from
+UserLookaside built a road
+GuestHalwaRaj rolled dice_3 dice_5
+GuestHalwaRaj got wool
+UserLookaside rolled dice_1 dice_4
+UserLookaside got brick
+GuestHalwaRaj got brick
+GuestHalwaRaj rolled dice_2 dice_4
+UserLookaside got lumber
+GuestHalwaRaj got ore
+UserLookaside rolled dice_5 dice_6
+UserLookaside got brickbrick
+GuestHalwaRaj rolled dice_1 dice_3
+UserLookaside got grain
+GuestHalwaRaj got grain
+UserLookaside rolled dice_5 dice_5
+GuestHalwaRaj got lumber
+GuestHalwaRaj rolled dice_2 dice_6
+GuestHalwaRaj got wool
+GuestHalwaRaj built a road
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_5 lumber tile
+UserNo player to steal from
+GuestHalwaRaj rolled dice_6 dice_6
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+GuestHalwaRaj got grain
+GuestHalwaRaj rolled dice_4 dice_4
+GuestHalwaRaj got wool
+GuestHalwaRaj bought development card
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+GuestHalwaRaj got ore
+GuestHalwaRaj rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestHalwaRaj moved robber robber to prob_9 grain tile
+GuestNo player to steal from
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brickbrick
+UserLookaside gave bank brickbrickbrickbrick and took wool
+UserLookaside built a settlement (+1 VP)
+GuestHalwaRaj rolled dice_2 dice_1
+GuestHalwaRaj got grain
+UserLookaside rolled dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestHalwaRaj rolled dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumber
+GuestHalwaRaj got lumber
+UserLookaside built a road
+GuestHalwaRaj rolled dice_4 dice_2
+UserLookaside got lumberlumber
+GuestHalwaRaj got ore
+UserLookaside rolled dice_4 dice_1
+UserLookaside got brick
+GuestHalwaRaj got brick
+UserLookaside built a settlement (+1 VP)
+GuestHalwaRaj rolled dice_2 dice_3
+UserLookaside got lumberbrick
+GuestHalwaRaj got brick
+GuestHalwaRaj built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberbrick
+GuestHalwaRaj got brick
+UserLookaside built a road
+UserLookaside built a road
+GuestHalwaRaj rolled dice_5 dice_6
+UserLookaside got brickbrick
+UserLookaside rolled dice_1 dice_2
+GuestHalwaRaj got grain
+GuestHalwaRaj rolled dice_1 dice_6
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole lumber from you
+GuestHalwaRaj built a road
+UserLookaside rolled dice_6 dice_6
+GuestHalwaRaj rolled dice_5 dice_3
+GuestHalwaRaj got wool
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+GuestHalwaRaj got grain
+UserLookaside built a settlement (+1 VP)
+GuestHalwaRaj rolled dice_1 dice_4
+UserLookaside got lumberlumberbrick
+GuestHalwaRaj got brick
+GuestHalwaRaj used Monopoly card monopoly
+GuestHalwaRaj stole 2 lumber
+GuestHalwaRaj built a settlement (+1 VP)
+GuestHalwaRaj built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberwool
+GuestHalwaRaj got lumber
+UserLookaside built a road
+GuestHalwaRaj rolled dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got grain
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumberlumber
+GuestHalwaRaj got oreore
+GuestHalwaRaj rolled dice_4 dice_3
+GuestHalwaRaj moved robber robber to prob_6 lumber tile
+GuestHalwaRaj stole brick from you
+GuestHalwaRaj built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grainwoolwool
+GuestHalwaRaj rolled dice_3 dice_4
+GuestHalwaRaj moved robber robber to prob_5 lumber tile
+GuestHalwaRaj stole grain from you
+UserLookaside rolled dice_3 dice_2
+prob_5 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+GuestHalwaRaj got brickbrick
+GuestHalwaRaj rolled dice_2 dice_5
+GuestHalwaRaj moved robber robber to prob_6 lumber tile
+GuestHalwaRaj stole wool from you
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_4 dice_2
+prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestHalwaRaj got oreore
+GuestHalwaRaj rolled dice_3 dice_1
+UserLookaside got grain
+GuestHalwaRaj got grain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brickbrick
+UserLookaside gave bank woolwool and took ore
+GuestHalwaRaj rolled dice_2 dice_3
+UserLookaside got lumberlumberbrick
+GuestHalwaRaj got brickbrick
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grainwoolwool
+UserLookaside gave bank brickbrickbrickbrickwoolwool and took oreore
+UserLookaside built a city (+1 VP)
+GuestHalwaRaj rolled dice_1 dice_1
+UserLookaside got ore
+GuestHalwaRaj got ore
+GuestHalwaRaj built a city (+1 VP)
+UserLookaside rolled dice_4 dice_5
+UserLookaside got graingrainwoolwool
+UserLookaside gave bank lumberlumberlumberlumberwoolwool and took oreore
+UserLookaside built a city (+1 VP)
+GuestHalwaRaj rolled dice_2 dice_2
+UserLookaside got grain
+GuestHalwaRaj got graingrain
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole brick from HalwaRaj
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole grain from you
+GuestHalwaRaj rolled dice_1 dice_2
+GuestHalwaRaj got graingraingrain
+GuestHalwaRaj gave bank graingraingraingrain and took lumber
+UserLookaside rolled dice_2 dice_4
+UserLookaside got lumberlumberlumber
+GuestHalwaRaj got oreoreore
+GuestHalwaRaj rolled dice_4 dice_6
+UserLookaside got lumberlumberwool
+GuestHalwaRaj got lumberlumber
+GuestHalwaRaj built a road
+GuestHalwaRaj built a road
+GuestHalwaRaj received longest road (+2 VPs)
+GuestHalwaRaj built a road
+UserLookaside rolled dice_5 dice_3
+GuestHalwaRaj got woolwoolwool
+UserLookaside built a road
+GuestHalwaRaj rolled dice_6 dice_4
+UserLookaside got lumberlumberwool
+GuestHalwaRaj got lumberlumber
+GuestHalwaRaj built a settlement (+1 VP)
+GuestHalwaRaj bought development card
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole lumber from HalwaRaj
+UserLookaside wants to give lumberlumberlumberlumber for ore
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole wool from you
+GuestHalwaRaj rolled dice_6 dice_5
+UserLookaside got brickbrick
+UserLookaside rolled dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestHalwaRaj got grain
+UserLookaside built a road
+GuestHalwaRaj rolled dice_1 dice_6
+GuestHalwaRaj moved robber robber to prob_6 lumber tile
+GuestHalwaRaj stole grain from you
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestHalwaRaj got oreoreore
+GuestHalwaRaj rolled dice_5 dice_6
+UserLookaside got brickbrick
+UserLookaside rolled dice_5 dice_1
+prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestHalwaRaj got oreoreore
+GuestHalwaRaj rolled dice_3 dice_4
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole lumber from you
+GuestHalwaRaj gave bank oreoreore and took grain
+GuestHalwaRaj built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+GuestHalwaRaj got graingrain
+GuestHalwaRaj rolled dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestHalwaRaj got graingrain
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumberlumberbrick
+GuestHalwaRaj got brickbrick
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from HalwaRaj to Lookaside (+2 VPs)
+GuestHalwaRaj rolled dice_4 dice_2
+UserLookaside got lumberlumberlumber
+GuestHalwaRaj got oreoreore
+GuestHalwaRaj built a road
+GuestHalwaRaj built a road
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberlumberlumberbrick
+GuestHalwaRaj got brickbrick
+UserLookaside gave bank lumberlumberlumberlumber and took wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside built a road
+GuestHalwaRaj rolled dice_2 dice_6
+UserLookaside got ore
+GuestHalwaRaj got woolwoolwool
+GuestHalwaRaj bought development card
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_2 dice_2
+UserLookaside got grain
+GuestHalwaRaj got graingrain
+GuestHalwaRaj rolled dice_4 dice_1
+UserLookaside got lumberlumberlumberbrick
+GuestHalwaRaj got brickbrick
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj received largest army (+2 VPs)
+GuestHalwaRaj moved robber robber to prob_6 lumber tile
+GuestHalwaRaj stole grain from you
+GuestHalwaRaj gave bank brickbrickbrick and took lumber
+GuestHalwaRaj built a settlement (+1 VP)
+GuestHalwaRaj gave bank graingrain and took wool
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_1 dice_5
+prob_6 lumber tile is blocked by the robber. No resources produced.
+GuestHalwaRaj got oreoreoreore
+GuestHalwaRaj rolled dice_6 dice_6
+UserLookaside rolled dice_4 dice_5
+UserLookaside got graingrainwoolwoolwool
+GuestHalwaRaj got graingrain
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+GuestHalwaRaj rolled dice_4 dice_3
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole grain from you
+GuestHalwaRaj gave bank graingrain and took wool
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_2 dice_4
+UserLookaside got lumberlumberlumber
+GuestHalwaRaj got oreoreoreore
+GuestHalwaRaj rolled dice_5 dice_2
+GuestHalwaRaj moved robber robber to prob_8 ore tile
+GuestHalwaRaj stole lumber from you
+GuestHalwaRaj gave bank oreoreore and took wool
+GuestHalwaRaj bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberwoolwool
+GuestHalwaRaj got lumberlumber
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumber and took grain
+UserLookaside bought development card
+GuestHalwaRaj rolled dice_6 dice_5
+UserLookaside got brickbrick
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole brick from you
+GuestHalwaRaj built a road
+UserLookaside rolled dice_3 dice_5
+UserLookaside got oreore
+GuestHalwaRaj got woolwoolwool
+GuestHalwaRaj rolled dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestHalwaRaj got graingrain
+GuestHalwaRaj bought development card
+GuestHalwaRaj bought development card
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 grain tile
+GuestHalwaRaj stole brick from you
+GuestHalwaRaj built a road
+UserLookaside rolled dice_1 dice_1
+UserLookaside got oreore
+GuestHalwaRaj got ore
+UserLookaside built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole wool from HalwaRaj
+GuestHalwaRaj rolled dice_1 dice_5
+prob_6 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumberlumber
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole wool from you
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 ore tile
+UserYou stole ore from HalwaRaj
+GuestHalwaRaj used Knight card knight
+GuestHalwaRaj moved robber robber to prob_9 wool tile
+GuestHalwaRaj stole lumber from you
+GuestHalwaRaj rolled dice_4 dice_1
+UserLookaside got lumberlumberlumberbrick
+GuestHalwaRaj got brickbrick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got oreoreore
+GuestHalwaRaj got woolwoolwool
+UserLookaside built a road
+GuestHalwaRaj rolled dice_3 dice_2
+UserLookaside got lumberlumberlumberbrick
+GuestHalwaRaj got brickbrick
+GuestHalwaRaj used Road Building card road building
+GuestHalwaRaj placed a road
+GuestHalwaRaj placed a road
+GuestHalwaRaj built a road
+Guestlongest road passed from Lookaside to HalwaRaj (+2 VPs)
+trophyGuestHalwaRaj won the game!trophy
+GuestHalwaRaj has left the game

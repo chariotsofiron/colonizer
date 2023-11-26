@@ -1,0 +1,319 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+GuestSashabravo placed a settlement
+GuestSashabravo placed a road
+GuestSashabravo placed a settlement
+GuestSashabravo placed a road
+GuestSashabravo received starting resources bricklumberore
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumbergraingrain
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumber
+GuestSashabravo got lumber
+GuestSashabravo rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+GuestSashabravo moved robber robber to prob_12 ore tile
+GuestNo player to steal from
+UserLookaside rolled dice_4 dice_1
+UserLookaside got grainwool
+GuestSashabravo rolled dice_3 dice_6
+UserLookaside got brickgrain
+UserLookaside rolled dice_2 dice_6
+GuestSashabravo got brick
+UserLookaside built a road
+GuestSashabravo rolled dice_4 dice_2
+GuestSashabravo got grain
+UserLookaside rolled dice_3 dice_1
+GuestSashabravo got grain
+GuestSashabravo rolled dice_1 dice_5
+GuestSashabravo got grain
+UserLookaside rolled dice_4 dice_5
+UserLookaside got brickgrain
+UserLookaside built a settlement (+1 VP)
+GuestSashabravo rolled dice_1 dice_3
+GuestSashabravo got grain
+GuestSashabravo built a road
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+GuestSashabravo rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+GuestSashabravo moved robber robber to prob_9 brick tile
+GuestSashabravo stole lumber from you
+UserLookaside rolled dice_5 dice_6
+UserLookaside got brick
+GuestSashabravo rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_3
+GuestSashabravo got brick
+GuestSashabravo rolled dice_4 dice_6
+UserLookaside got lumberlumber
+GuestSashabravo got lumber
+GuestSashabravo gave bank graingraingraingrain and took wool
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grainwool
+UserLookaside gave bank graingraingraingrain and took brick
+UserLookaside built a road
+GuestSashabravo rolled dice_5 dice_1
+GuestSashabravo got grain
+GuestSashabravo built a settlement (+1 VP)
+GuestSashabravo built a road
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+GuestSashabravo got wooloreore
+UserLookaside built a road
+GuestSashabravo rolled dice_6 dice_1
+GuestSashabravo moved robber robber to prob_9 grain tile
+GuestSashabravo stole wool from you
+UserLookaside rolled dice_2 dice_2
+GuestSashabravo got woolgrain
+GuestSashabravo rolled dice_1 dice_2
+UserLookaside got ore
+GuestSashabravo got wooloreore
+GuestSashabravo bought development card
+UserLookaside rolled dice_4 dice_4
+GuestSashabravo got brick
+GuestSashabravo rolled dice_3 dice_2
+UserLookaside got grainwool
+UserLookaside rolled dice_5 dice_6
+UserLookaside got brick
+GuestSashabravo rolled dice_6 dice_3
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_2
+UserLookaside got grainwool
+GuestSashabravo rolled dice_5 dice_4
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_1
+UserLookaside discarded brickbrickwoolgraingrain
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole ore from Sashabravo
+GuestSashabravo used Knight card knight
+GuestSashabravo moved robber robber to prob_9 brick tile
+GuestSashabravo stole brick from you
+GuestSashabravo rolled dice_3 dice_5
+GuestSashabravo got brick
+UserLookaside rolled dice_2 dice_1
+UserLookaside got ore
+GuestSashabravo got wooloreore
+GuestSashabravo rolled dice_4 dice_5
+prob_9 brick tile is blocked by the robber. No resources produced.
+UserLookaside got graingrain
+GuestSashabravo gave bank woolwoolwoolwool and took grain
+UserLookaside rolled dice_4 dice_3
+GuestSashabravo discarded brickbrickoreoreore
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole ore from Sashabravo
+UserLookaside built a city (+1 VP)
+UserLookaside bought development card
+GuestSashabravo rolled dice_3 dice_6
+UserLookaside got brickgraingraingrain
+UserLookaside rolled dice_6 dice_5
+UserLookaside got brickbrick
+GuestSashabravo rolled dice_4 dice_2
+GuestSashabravo got grainwool
+GuestSashabravo built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_2
+GuestSashabravo got woolgraingrain
+GuestSashabravo rolled dice_1 dice_2
+UserLookaside got oreore
+GuestSashabravo got wooloreore
+GuestSashabravo built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Sashabravo
+UserLookaside built a city (+1 VP)
+GuestSashabravo rolled dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSashabravo got wool
+UserLookaside rolled dice_2 dice_6
+GuestSashabravo got brickbrick
+GuestSashabravo rolled dice_2 dice_4
+prob_6 grain tile is blocked by the robber. No resources produced.
+GuestSashabravo got wool
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingrainwool
+GuestSashabravo rolled dice_6 dice_4
+UserLookaside got lumberlumberlumber
+GuestSashabravo got lumberlumber
+GuestSashabravo built a road
+GuestSashabravo built a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside discarded lumberbrickwoolgraingrain
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole wool from Sashabravo
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestSashabravo rolled dice_3 dice_1
+GuestSashabravo got woolgraingrain
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Sashabravo
+GuestSashabravo rolled dice_5 dice_3
+GuestSashabravo got brickbrick
+UserLookaside rolled dice_5 dice_3
+GuestSashabravo got brickbrick
+GuestSashabravo rolled dice_5 dice_6
+UserLookaside got brickbrickbrick
+UserLookaside rolled dice_3 dice_1
+GuestSashabravo got woolgraingrain
+GuestSashabravo rolled dice_1 dice_2
+UserLookaside got oreore
+GuestSashabravo got wooloreoreore
+GuestSashabravo bought development card
+GuestSashabravo bought development card
+GuestSashabravo bought development card
+UserLookaside rolled dice_3 dice_5
+GuestSashabravo got brickbrick
+GuestSashabravo rolled dice_4 dice_4
+GuestSashabravo got brickbrick
+GuestSashabravo gave bank brickbrickbrickbrick and took lumber
+GuestSashabravo built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+GuestSashabravo got woolgraingrain
+GuestSashabravo used Knight card knight
+GuestSashabravo moved robber robber to prob_5 wool tile
+GuestSashabravo stole wool from you
+GuestSashabravo rolled dice_6 dice_4
+UserLookaside got lumberlumberlumber
+GuestSashabravo got lumberlumber
+GuestSashabravo built a road
+GuestSashabravo built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Sashabravo
+UserLookaside rolled dice_1 dice_1
+GuestSashabravo got oreoreore
+UserLookaside built a road
+UserLookaside built a road
+GuestSashabravo used Knight card knight
+GuestSashabravo received largest army (+2 VPs)
+GuestSashabravo moved robber robber to prob_5 wool tile
+GuestSashabravo stole ore from you
+GuestSashabravo rolled dice_2 dice_6
+GuestSashabravo got brickbrick
+GuestSashabravo built a city (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole wool from Sashabravo
+GuestSashabravo rolled dice_1 dice_5
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestSashabravo got wool
+UserLookaside rolled dice_5 dice_4
+UserLookaside got brickgraingraingraingrain
+GuestSashabravo got graingrain
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+GuestSashabravo rolled dice_6 dice_1
+GuestSashabravo moved robber robber to prob_5 wool tile
+GuestSashabravo stole grain from you
+GuestSashabravo bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got wool
+GuestSashabravo got graingrainwool
+GuestSashabravo rolled dice_6 dice_3
+UserLookaside got brickgraingraingraingrain
+GuestSashabravo got graingrain
+GuestSashabravo used Monopoly card monopoly
+GuestSashabravo stole 5 grain
+GuestSashabravo gave bank graingrain and took ore
+GuestSashabravo bought development card
+GuestSashabravo gave bank graingraingraingrain and took woolore
+GuestSashabravo bought development card
+UserLookaside rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+GuestSashabravo got grain
+GuestSashabravo rolled dice_6 dice_2
+GuestSashabravo got brickbrick
+UserLookaside rolled dice_4 dice_2
+UserLookaside got wool
+GuestSashabravo got graingrainwool
+GuestSashabravo rolled dice_6 dice_5
+UserLookaside got brickbrickbrick
+GuestSashabravo gave bank graingrain and took ore
+GuestSashabravo bought development card
+GuestSashabravo used Knight card knight
+GuestSashabravo moved robber robber to prob_10 lumber tile
+GuestSashabravo stole brick from you
+UserLookaside rolled dice_5 dice_5
+prob_10 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank brickbrickbrick and took ore
+GuestSashabravo rolled dice_5 dice_2
+GuestSashabravo moved robber robber to prob_5 wool tile
+GuestSashabravo stole grain from you
+GuestSashabravo gave bank graingrain and took lumber
+GuestSashabravo built a road
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from Sashabravo
+UserLookaside bought development card
+GuestSashabravo used Knight card knight
+GuestSashabravo moved robber robber to prob_5 wool tile
+GuestSashabravo stole brick from you
+GuestSashabravo rolled dice_4 dice_5
+UserLookaside got brickgraingraingraingrain
+GuestSashabravo got graingrain
+GuestSashabravo gave bank graingrain and took lumber
+GuestSashabravo built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got brickgraingraingraingrain
+GuestSashabravo got graingrain
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside gave bank graingraingrain and took lumber
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestSashabravo rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got graingraingrain
+GuestSashabravo got grain
+UserLookaside rolled dice_3 dice_1
+GuestSashabravo got woolgraingraingrain
+GuestSashabravo rolled dice_2 dice_1
+UserLookaside got wooloreore
+GuestSashabravo got wooloreoreore
+GuestSashabravo built a city (+1 VP)
+GuestSashabravo used Monopoly card monopoly
+GuestSashabravo stole 2 ore
+GuestSashabravo bought development card
+GuestSashabravo bought development card
+GuestSashabravo gave bank graingrain and took lumber
+GuestSashabravo built a road
+Guestlongest road passed from Lookaside to Sashabravo (+2 VPs)
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumber
+GuestSashabravo got brickbrick
+UserLookaside built a road
+GuestSashabravo rolled dice_3 dice_3
+UserLookaside got wool
+GuestSashabravo got graingrainwoolwool
+GuestSashabravo used Knight card knight
+GuestSashabravo moved robber robber to prob_8 lumber tile
+GuestSashabravo stole grain from you
+GuestSashabravo gave bank graingraingraingrain and took lumberlumber
+GuestSashabravo built a road
+GuestSashabravo built a settlement (+1 VP)
+trophyGuestSashabravo won the game!trophy
+7/8 player expansion
+Use special build phases to try to win against 7 other players

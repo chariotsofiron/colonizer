@@ -1,0 +1,326 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+Send a message
+List of Commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+Guestfjellvest placed a settlement
+Guestfjellvest placed a road
+Guestfjellvest placed a settlement
+Guestfjellvest placed a road
+Guestfjellvest received starting resources: lumbergrainwool
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources: grainlumberbrick
+UserLookaside rolled: dice_3 dice_6
+UserLookaside got: grain
+UserLookaside built a road
+Guestfjellvest rolled: dice_5 dice_5
+UserLookaside got: orebrick
+Guestfjellvest got: ore
+Guestfjellvest bought development card
+UserLookaside rolled: dice_1 dice_3
+Guestfjellvest got: grainore
+Guestfjellvest rolled: dice_2 dice_1
+UserLookaside got: lumber
+Guestfjellvest got: lumber
+UserLookaside rolled: dice_6 dice_6
+Guestfjellvest rolled: dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+Guestfjellvest moved robber robber to prob_5 wool tile
+GuestNo player to steal from
+UserLookaside rolled: dice_5 dice_6
+UserLookaside got: grain
+Guestfjellvest rolled: dice_3 dice_5
+Guestfjellvest got: lumberwool
+Guestfjellvest bought development card
+UserLookaside rolled: dice_5 dice_1
+Guestfjellvest rolled: dice_3 dice_3
+UserLookaside rolled: dice_6 dice_2
+Guestfjellvest got: lumberwool
+Guestfjellvest rolled: dice_4 dice_1
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: ore
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: grain
+Guestfjellvest rolled: dice_6 dice_3
+UserLookaside got: grain
+UserLookaside rolled: dice_4 dice_2
+UserLookaside gave bank: graingraingraingrain and took wool
+UserLookaside built a settlement: +1 VP
+Guestfjellvest rolled: dice_2 dice_2
+Guestfjellvest got: grainore
+Guestfjellvest bought development card
+UserLookaside rolled: dice_1 dice_1
+Guestfjellvest rolled: dice_6 dice_4
+UserLookaside got: orebrickbrick
+Guestfjellvest got: ore
+UserLookaside rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 lumber tile
+UserNo player to steal from
+Guestfjellvest rolled: dice_4 dice_4
+UserLookaside got: wool
+Guestfjellvest got: lumberwool
+Guestfjellvest gave bank: lumberlumberlumberlumber and took brick
+Guestfjellvest built a road
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: orebrickbrick
+Guestfjellvest got: ore
+Guestfjellvest rolled: dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+Guestfjellvest moved robber robber to prob_10 brick tile
+Guestfjellvest stole: brick from you
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: wool
+Guestfjellvest got: lumberwool
+Guestfjellvest rolled: dice_2 dice_3
+UserLookaside got: woolore
+UserLookaside rolled: dice_1 dice_6
+Lookaside discarding resource cards
+UserLookaside discarded: brickbrickwooloreore
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_3 lumber tile
+UserNo player to steal from
+Guestfjellvest rolled: dice_1 dice_5
+UserLookaside rolled: dice_6 dice_4
+UserLookaside got: orebrickbrick
+Guestfjellvest got: ore
+UserLookaside gave bank: oreoreoreore and took lumber
+UserLookaside built a road
+Guestfjellvest rolled: dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+Guestfjellvest moved robber robber to prob_9 grain tile
+Guestfjellvest stole: wool from you
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: wool
+Guestfjellvest got: lumberwool
+Guestfjellvest rolled: dice_2 dice_6
+UserLookaside got: wool
+Guestfjellvest got: lumberwool
+Guestfjellvest gave bank: woolwoolwoolwool and took grain
+Guestfjellvest built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_1
+UserLookaside got: woolore
+Guestfjellvest rolled: dice_3 dice_6
+prob_9 grain tile is blocked by the robber. No resources produced.
+UserLookaside rolled: dice_1 dice_3
+Guestfjellvest got: grainore
+Guestfjellvest rolled: dice_2 dice_3
+UserLookaside got: woolore
+UserLookaside rolled: dice_3 dice_3
+UserLookaside gave bank: woolwoolwoolwool and took lumber
+UserLookaside built a road
+Guestfjellvest rolled: dice_2 dice_1
+UserLookaside got: lumber
+Guestfjellvest got: lumber
+UserLookaside rolled: dice_1 dice_4
+UserLookaside got: woolore
+Guestfjellvest rolled: dice_3 dice_2
+UserLookaside got: woolore
+Guestfjellvest used Monopoly card monopoly
+Guestfjellvest stole 4: ore
+Guestfjellvest gave bank: oreore and took grain
+Guestfjellvest built a city: +1 VP
+Guestfjellvest gave bank: oreore and took brick
+Guestfjellvest built a road
+UserLookaside rolled: dice_6 dice_6
+Guestfjellvest rolled: dice_5 dice_1
+UserLookaside rolled: dice_4 dice_5
+prob_9 grain tile is blocked by the robber. No resources produced.
+Guestfjellvest rolled: dice_3 dice_5
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwool
+UserLookaside rolled: dice_1 dice_2
+UserLookaside got: lumber
+Guestfjellvest got: lumber
+Guestfjellvest rolled: dice_2 dice_5
+Guestfjellvest moved robber robber to prob_10 brick tile
+Guestfjellvest stole: wool from you
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwool
+UserLookaside built a road
+Guestfjellvest rolled: dice_4 dice_6
+prob_10 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: ore
+Guestfjellvest got: oreoreore
+Guestfjellvest gave bank: lumberlumberlumberlumber and took brick
+Guestfjellvest built a road
+Guestfjellvest gave bank: oreoreoreore and took brickgrain
+Guestfjellvest built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: grain
+Guestfjellvest got: wool
+Guestfjellvest rolled: dice_3 dice_1
+Guestfjellvest got: grainoreoreore
+Guestfjellvest bought development card
+Guestfjellvest gave bank: oreore and took brick
+Guestfjellvest built a road
+Guestfjellvest received longest road: +2 VPs
+UserLookaside rolled: dice_6 dice_6
+Guestfjellvest rolled: dice_2 dice_6
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwool
+UserLookaside rolled: dice_4 dice_3
+UserLookaside moved robber robber to prob_4 grain tile
+UserYou stole: wool from: fjellvest
+UserLookaside gave bank: woolwoolwoolwool and took brick
+UserLookaside built a settlement: +1 VP
+Guestfjellvest used Knight card knight
+Guestfjellvest moved robber robber to prob_9 grain tile
+Guestfjellvest stole: wool from you
+Guestfjellvest rolled: dice_1 dice_3
+UserLookaside got: ore
+Guestfjellvest got: grainoreoreore
+Guestfjellvest gave bank: oreore and took brick
+Guestfjellvest built a road
+Guestfjellvest bought development card
+UserLookaside rolled: dice_4 dice_5
+prob_9 grain tile is blocked by the robber. No resources produced.
+Guestfjellvest got: wool
+Guestfjellvest rolled: dice_5 dice_6
+UserLookaside got: graingrain
+UserLookaside rolled: dice_2 dice_5
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: lumber from: fjellvest
+Guestfjellvest used Knight card knight
+Guestfjellvest moved robber robber to prob_10 brick tile
+Guestfjellvest stole: grain from you
+Guestfjellvest rolled: dice_4 dice_2
+UserLookaside rolled: dice_6 dice_4
+prob_10 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: ore
+Guestfjellvest got: oreoreore
+Guestfjellvest rolled: dice_6 dice_2
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwool
+Guestfjellvest gave bank: oreore and took brick
+Guestfjellvest built a settlement: +1 VP
+UserLookaside rolled: dice_5 dice_5
+prob_10 brick tile is blocked by the robber. No resources produced.
+UserLookaside got: ore
+Guestfjellvest got: oreoreore
+UserLookaside bought development card
+Guestfjellvest rolled: dice_1 dice_2
+UserLookaside got: lumber
+Guestfjellvest got: lumberlumberlumber
+Guestfjellvest gave bank: lumberlumberlumberlumber and took graingrain
+Guestfjellvest built a city: +1 VP
+UserLookaside rolled: dice_5 dice_4
+UserLookaside got: grain
+Guestfjellvest got: wool
+Guestfjellvest rolled: dice_1 dice_4
+UserLookaside got: wooloreore
+UserLookaside rolled: dice_3 dice_2
+UserLookaside got: wooloreore
+UserLookaside gave bank: oreoreoreore and took grain
+UserLookaside built a city: +1 VP
+Guestfjellvest rolled: dice_6 dice_5
+UserLookaside got: graingrain
+UserLookaside rolled: dice_3 dice_4
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: wool from: fjellvest
+Guestfjellvest used Knight card knight
+Guestfjellvest received largest army: +2 VPs
+Guestfjellvest moved robber robber to prob_9 grain tile
+Guestfjellvest stole: lumber from you
+Guestfjellvest rolled: dice_6 dice_3
+prob_9 grain tile is blocked by the robber. No resources produced.
+Guestfjellvest got: wool
+UserLookaside rolled: dice_5 dice_3
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwoolwool
+Guestfjellvest rolled: dice_5 dice_2
+fjellvest discarding resource cards
+Guestfjellvest discarded: lumberwoolwoolwoolwool
+Guestfjellvest moved robber robber to prob_5 ore tile
+Guestfjellvest stole: wool from you
+Guestfjellvest gave bank: lumberlumber and took grain
+Guestfjellvest bought development card
+UserLookaside rolled: dice_4 dice_4
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwoolwool
+Guestfjellvest rolled: dice_1 dice_1
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: oreorebrickbrick
+Guestfjellvest got: oreoreore
+UserLookaside built a road
+UserLookaside bought development card
+UserLookaside bought development card
+Guestfjellvest rolled: dice_6 dice_1
+Guestfjellvest moved robber robber to prob_9 grain tile
+Guestfjellvest stole: wool from you
+Guestfjellvest used Road Building card road building
+Guestfjellvest placed a road
+Guestfjellvest placed a road
+Guestfjellvest gave bank: woolwoolwoolwooloreore and took brickgrain
+Guestfjellvest built a settlement: +1 VP
+UserLookaside rolled: dice_4 dice_2
+Guestfjellvest got: brick
+Guestfjellvest rolled: dice_2 dice_1
+UserLookaside got: lumber
+Guestfjellvest got: lumberlumberlumberlumber
+Guestfjellvest built a road
+Guestfjellvest gave bank: lumberlumber and took brick
+Guestfjellvest built a road
+UserLookaside rolled: dice_5 dice_2
+UserLookaside moved robber robber to prob_8 lumber tile
+UserYou stole: ore from: fjellvest
+UserLookaside built a road
+Guestfjellvest used Knight card knight
+Guestfjellvest moved robber robber to prob_10 brick tile
+Guestfjellvest stole: wool from you
+Guestfjellvest rolled: dice_5 dice_3
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberwoolwool
+UserLookaside rolled: dice_4 dice_5
+UserLookaside got: graingrain
+Guestfjellvest got: grainwool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank: lumber brick
+UserLookaside built a settlement: +1 VP
+Guestfjellvest rolled: dice_3 dice_4
+Guestfjellvest moved robber robber to prob_5 wool tile
+Guestfjellvest stole: grain from you
+Guestfjellvest gave bank: lumberlumber and took brick
+Guestfjellvest built a settlement: +1 VP
+UserLookaside rolled: dice_1 dice_4
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: oreoreore
+Guestfjellvest rolled: dice_2 dice_6
+UserLookaside got: wool
+Guestfjellvest got: lumberlumberlumberwoolwool
+Guestfjellvest gave bank: woolwoolwoolwool and took brick
+Guestfjellvest built a road
+Guestfjellvest gave bank: lumberlumber and took ore
+Guestfjellvest bought development card
+UserLookaside rolled: dice_4 dice_1
+prob_5 wool tile is blocked by the robber. No resources produced.
+UserLookaside got: oreoreore
+Guestfjellvest rolled: dice_4 dice_3
+Guestfjellvest moved robber robber to prob_5 ore tile
+Guestfjellvest stole: ore from you
+UserLookaside rolled: dice_6 dice_5
+UserLookaside got: graingrain
+UserLookaside built a city: +1 VP
+Guestfjellvest rolled: dice_5 dice_6
+UserLookaside got: graingrain
+UserLookaside rolled: dice_4 dice_6
+UserLookaside got: oreorebrickbrickbrick
+Guestfjellvest got: oreoreore
+UserLookaside built a city: +1 VP
+Guestfjellvest rolled: dice_4 dice_4
+UserLookaside got: woolwool
+Guestfjellvest got: lumberlumberlumberwoolwool
+Guestfjellvest gave bank: lumberlumber and took grain
+Guestfjellvest bought development card
+trophy fjellvest won the game! trophy

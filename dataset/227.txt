@@ -1,0 +1,356 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+UserLookaside: gg
+Send a message
+Send message
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestwernerH659 placed a settlement
+GuestwernerH659 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberorebrick
+GuestwernerH659 placed a settlement
+GuestwernerH659 placed a road
+GuestwernerH659 received starting resources lumberlumberore
+GuestwernerH659 rolled dice_3 dice_2
+GuestwernerH659 got lumber
+UserLookaside rolled dice_5 dice_6
+UserLookaside built a road
+GuestwernerH659 rolled dice_5 dice_1
+GuestwernerH659 got grain
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_2 grain tile
+UserNo player to steal from
+GuestwernerH659 rolled dice_6 dice_4
+UserLookaside got ore
+GuestwernerH659 got ore
+UserLookaside rolled dice_2 dice_6
+UserLookaside got bricklumber
+GuestwernerH659 got lumber
+GuestwernerH659 rolled dice_5 dice_5
+UserLookaside got ore
+GuestwernerH659 got ore
+UserLookaside rolled dice_4 dice_5
+GuestwernerH659 got brick
+GuestwernerH659 rolled dice_6 dice_2
+UserLookaside got bricklumber
+GuestwernerH659 got lumber
+GuestwernerH659 built a road
+UserLookaside rolled dice_4 dice_1
+GuestwernerH659 got lumber
+GuestwernerH659 rolled dice_1 dice_1
+prob_2 grain tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_5 dice_4
+GuestwernerH659 got brick
+GuestwernerH659 rolled dice_1 dice_3
+UserLookaside got grainlumber
+GuestwernerH659 gave bank lumberlumberlumberlumber and took wool
+GuestwernerH659 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from wernerH659
+UserLookaside gave bank oreoreoreore and took wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestwernerH659 rolled dice_4 dice_4
+UserLookaside got brickbricklumber
+GuestwernerH659 got lumber
+GuestwernerH659 has disconnected. Bot will wait until next turn to give wernerH659 a chance to reconnect.
+botwernerH659 has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+UserLookaside rolled dice_1 dice_5
+botwernerH659 got grain
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestwernerH659 has reconnected
+GuestwernerH659 rolled dice_2 dice_1
+UserLookaside got woollumber
+GuestwernerH659 got wool
+GuestwernerH659 bought development card
+UserLookaside rolled dice_4 dice_6
+UserLookaside got ore
+GuestwernerH659 got ore
+GuestwernerH659 used Knight card knight
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole wool from you
+GuestwernerH659 rolled dice_2 dice_2
+UserLookaside got grainlumber
+GuestwernerH659 got lumber
+UserLookaside rolled dice_5 dice_3
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestwernerH659 got lumber
+GuestwernerH659 rolled dice_6 dice_6
+UserLookaside rolled dice_2 dice_3
+GuestwernerH659 got lumber
+GuestwernerH659 rolled dice_4 dice_2
+GuestwernerH659 got grain
+GuestwernerH659 bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole lumber from wernerH659
+GuestwernerH659 used Knight card knight
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole grain from you
+GuestwernerH659 rolled dice_2 dice_6
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+GuestwernerH659 got lumber
+UserLookaside rolled dice_4 dice_6
+UserLookaside got ore
+GuestwernerH659 got ore
+GuestwernerH659 rolled dice_3 dice_6
+GuestwernerH659 got brickbrick
+GuestwernerH659 built a road
+UserLookaside rolled dice_6 dice_5
+GuestwernerH659 got wool
+GuestwernerH659 rolled dice_2 dice_1
+UserLookaside got woollumber
+GuestwernerH659 got wool
+GuestwernerH659 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_4
+GuestwernerH659 got grain
+UserLookaside gave bank lumberlumberlumberlumber and took brickgrain
+UserLookaside built a settlement (+1 VP)
+GuestwernerH659 rolled dice_1 dice_6
+GuestwernerH659 moved robber robber to prob_4 grain tile
+GuestwernerH659 stole lumber from you
+GuestwernerH659 bought development card
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+GuestwernerH659 got lumber
+GuestwernerH659 rolled dice_3 dice_2
+UserLookaside got wool
+GuestwernerH659 got lumber
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole ore from wernerH659
+GuestwernerH659 used Knight card knight
+GuestwernerH659 received largest army (+2 VPs)
+GuestwernerH659 moved robber robber to prob_4 grain tile
+GuestwernerH659 stole ore from you
+GuestwernerH659 rolled dice_1 dice_2
+UserLookaside got woollumber
+GuestwernerH659 got wool
+UserLookaside rolled dice_6 dice_3
+GuestwernerH659 got brickbrickbrick
+GuestwernerH659 rolled dice_2 dice_5
+GuestwernerH659 discarded lumberlumberlumberbrickore
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole ore from you
+GuestwernerH659 built a road
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+GuestwernerH659 got wool
+GuestwernerH659 rolled dice_2 dice_2
+UserLookaside got grainlumber
+GuestwernerH659 got lumber
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grainlumber
+GuestwernerH659 got lumber
+UserLookaside bought development card
+UserLookaside gave bank lumberlumber and took brick
+UserLookaside built a road
+GuestwernerH659 rolled dice_6 dice_1
+GuestwernerH659 moved robber robber to prob_4 grain tile
+GuestwernerH659 stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 brick tile
+UserYou stole lumber from wernerH659
+UserLookaside rolled dice_5 dice_4
+prob_9 brick tile is blocked by the robber. No resources produced.
+GuestwernerH659 rolled dice_3 dice_5
+UserLookaside got brickbricklumber
+GuestwernerH659 got lumber
+UserLookaside rolled dice_4 dice_4
+UserLookaside got brickbricklumber
+GuestwernerH659 got lumber
+UserLookaside built a settlement (+1 VP)
+GuestwernerH659 rolled dice_3 dice_4
+GuestwernerH659 moved robber robber to prob_6 ore tile
+GuestwernerH659 stole lumber from you
+GuestwernerH659 gave bank lumberlumberlumberlumber and took grain
+GuestwernerH659 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_1
+GuestwernerH659 got graingrain
+GuestwernerH659 rolled dice_6 dice_2
+UserLookaside got brickbricklumber
+GuestwernerH659 got lumber
+GuestwernerH659 bought development card
+UserLookaside rolled dice_5 dice_5
+UserLookaside got ore
+GuestwernerH659 got oreore
+UserLookaside gave bank brickbrickbrickbrick and took ore
+GuestwernerH659 rolled dice_4 dice_2
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestwernerH659 got grain
+GuestwernerH659 used Monopoly card monopoly
+GuestwernerH659 stole 2 ore
+GuestwernerH659 built a city (+1 VP)
+UserLookaside rolled dice_4 dice_6
+UserLookaside got ore
+GuestwernerH659 got oreore
+GuestwernerH659 rolled dice_2 dice_4
+prob_6 ore tile is blocked by the robber. No resources produced.
+GuestwernerH659 got graingrain
+GuestwernerH659 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_2
+UserLookaside got wool
+GuestwernerH659 got lumberlumberlumber
+GuestwernerH659 rolled dice_3 dice_6
+GuestwernerH659 got brickbrickbrickbrick
+GuestwernerH659 built a road
+GuestwernerH659 built a road
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grainlumber
+GuestwernerH659 got lumber
+UserLookaside bought development card
+GuestwernerH659 rolled dice_2 dice_6
+UserLookaside got brickbricklumber
+GuestwernerH659 got lumberlumber
+GuestwernerH659 gave bank lumberlumberlumberlumber and took grain
+GuestwernerH659 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole brick from wernerH659
+UserLookaside gave bank brickbrickbrickbrick and took ore
+GuestwernerH659 rolled dice_5 dice_4
+GuestwernerH659 got brickbrickbrickbrick
+UserLookaside rolled dice_2 dice_1
+UserLookaside got woollumberlumber
+GuestwernerH659 got woolwool
+UserLookaside gave bank lumberlumber and took grain
+GuestwernerH659 rolled dice_1 dice_5
+UserLookaside got oreore
+GuestwernerH659 got graingraingrain
+UserLookaside rolled dice_1 dice_4
+UserLookaside got wool
+GuestwernerH659 got lumberlumberlumber
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside built a city (+1 VP)
+GuestwernerH659 rolled dice_6 dice_5
+UserLookaside got grainwool
+GuestwernerH659 got wool
+GuestwernerH659 built a road
+GuestwernerH659 built a road
+Guestlongest road passed from Lookaside to wernerH659 (+2 VPs)
+GuestwernerH659 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+UserLookaside got grainwool
+GuestwernerH659 got wool
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestwernerH659 rolled dice_6 dice_4
+prob_10 ore tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from wernerH659
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+Userlongest road passed from wernerH659 to Lookaside (+2 VPs)
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+GuestwernerH659 rolled dice_3 dice_5
+UserLookaside got brickbrickbricklumberlumber
+GuestwernerH659 got lumberlumber
+GuestwernerH659 built a road
+UserLookaside rolled dice_5 dice_3
+UserLookaside got brickbrickbricklumberlumber
+GuestwernerH659 got lumberlumber
+UserLookaside built a road
+UserLookaside built a road
+GuestwernerH659 rolled dice_4 dice_1
+UserLookaside got wool
+GuestwernerH659 got lumberlumberlumber
+GuestwernerH659 gave bank lumberlumberlumber and took brick
+GuestwernerH659 built a road
+UserLookaside rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+GuestwernerH659 rolled dice_2 dice_2
+UserLookaside got graingrainlumberlumber
+GuestwernerH659 got lumber
+GuestwernerH659 gave bank lumberlumberlumber and took ore
+GuestwernerH659 bought development card
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestwernerH659 has disconnected. Bot will wait until next turn to give wernerH659 a chance to reconnect.
+botwernerH659 has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+GuestwernerH659 has reconnected
+GuestwernerH659 rolled dice_4 dice_4
+UserLookaside got brickbrickbricklumberlumber
+GuestwernerH659 got lumberlumber
+GuestwernerH659 used Knight card knight
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole ore from you
+UserLookaside rolled dice_1 dice_6
+UserLookaside discarded brickbrickbrickbrickbrick
+UserLookaside moved robber robber to prob_10 ore tile
+UserYou stole wool from wernerH659
+UserLookaside bought development card
+GuestwernerH659 rolled dice_5 dice_2
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole lumber from you
+GuestwernerH659 gave bank lumberlumberlumber and took grain
+GuestwernerH659 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_10 ore tile
+UserNo player to steal from
+UserLookaside rolled dice_2 dice_4
+UserLookaside got oreore
+GuestwernerH659 got graingraingraingrain
+GuestwernerH659 used Knight card knight
+GuestwernerH659 moved robber robber to prob_8 brick tile
+GuestwernerH659 stole ore from you
+GuestwernerH659 rolled dice_2 dice_3
+UserLookaside got woolwool
+GuestwernerH659 got lumberlumberlumber
+GuestwernerH659 gave bank lumberlumberlumber and took wool
+GuestwernerH659 bought development card
+UserLookaside rolled dice_4 dice_5
+UserLookaside got wool
+GuestwernerH659 got brickbrickbrickbrick
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+GuestwernerH659 rolled dice_5 dice_6
+UserLookaside got grainwool
+GuestwernerH659 got wool
+UserLookaside rolled dice_1 dice_5
+UserLookaside got oreore
+GuestwernerH659 got graingraingraingrain
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank grain ore
+GuestwernerH659 has disconnected. Bot will wait until next turn to give wernerH659 a chance to reconnect.
+botwernerH659 has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+UserLookaside built a city (+1 VP)
+GuestwernerH659 has reconnected
+GuestwernerH659 rolled dice_6 dice_2
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+GuestwernerH659 got lumberlumber
+GuestwernerH659 built a road
+GuestwernerH659 built a road
+Guestlongest road passed from Lookaside to wernerH659 (+2 VPs)
+GuestwernerH659 gave bank graingraingrain and took ore
+GuestwernerH659 bought development card
+trophyGuestwernerH659 won the game!trophy
+7/8 player expansion
+Use special build phases to try to win against 7 other players

@@ -1,0 +1,269 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserMars4987 placed a settlement
+UserMars4987 placed a road
+UserMars4987 placed a settlement
+UserMars4987 received starting resources lumberorebrick
+UserMars4987 placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources lumberwoolbrick
+UserLookaside placed a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wool
+UserMars4987 got ore
+UserMars4987 rolled dice_2 dice_4
+UserLookaside got brick
+UserMars4987 got lumber
+UserMars4987 built a road
+UserLookaside rolled dice_4 dice_6
+UserLookaside got grain
+UserMars4987 got ore
+UserMars4987 rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserMars4987 moved robber robber to prob_4 grain tile
+UserNo player to steal from
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brick
+UserMars4987 got lumber
+UserMars4987 rolled dice_3 dice_5
+UserMars4987 got grain
+UserLookaside rolled dice_1 dice_2
+UserLookaside got wool
+UserMars4987 got brick
+UserMars4987 rolled dice_2 dice_6
+UserMars4987 got grain
+UserMars4987 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got wool
+UserMars4987 got ore
+UserLookaside built a road
+UserMars4987 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserMars4987 moved robber robber to Desert
+UserNo player to steal from
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumber
+UserMars4987 got oreore
+UserLookaside built a road
+UserMars4987 rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserMars4987 moved robber robber to prob_8 brick tile
+UserNo player to steal from
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brick
+UserMars4987 got lumber
+UserMars4987 rolled dice_6 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_5
+UserLookaside got grain
+UserMars4987 got oreore
+UserLookaside built a settlement (+1 VP)
+UserMars4987 rolled dice_5 dice_3
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserMars4987 got graingrain
+UserMars4987 gave bank oreoreoreore and took wool
+UserMars4987 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_1
+UserMars4987 rolled dice_3 dice_1
+UserLookaside got grain
+UserMars4987 got grain
+UserLookaside rolled dice_6 dice_6
+UserMars4987 rolled dice_3 dice_3
+UserLookaside got brick
+UserMars4987 got lumber
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumber
+UserMars4987 got oreore
+UserLookaside built a road
+UserMars4987 rolled dice_4 dice_4
+prob_8 brick tile is blocked by the robber. No resources produced.
+UserMars4987 got graingraingrain
+UserMars4987 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wool
+UserMars4987 got oreore
+UserMars4987 rolled dice_4 dice_1
+UserLookaside got lumber
+UserMars4987 got oreore
+UserMars4987 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_3
+UserLookaside got brick
+UserMars4987 got lumberlumber
+UserLookaside built a settlement (+1 VP)
+UserMars4987 rolled dice_1 dice_3
+UserLookaside got grain
+UserMars4987 got graingrain
+UserMars4987 gave bank lumberlumberlumberlumber and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumber
+UserMars4987 got oreore
+UserMars4987 rolled dice_6 dice_1
+UserMars4987 moved robber robber to prob_6 brick tile
+UserMars4987 stole brick from you
+UserMars4987 built a road
+UserLookaside rolled dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserMars4987 got lumberlumber
+UserMars4987 rolled dice_5 dice_6
+UserLookaside got lumberlumber
+UserLookaside rolled dice_6 dice_6
+UserMars4987 rolled dice_6 dice_5
+UserLookaside got lumberlumber
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumber
+UserMars4987 got oreore
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+UserMars4987 rolled dice_6 dice_4
+UserLookaside got graingrainore
+UserMars4987 got oreore
+UserMars4987 gave bank oreoreoreore and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole ore from Mars4987
+UserMars4987 rolled dice_1 dice_2
+UserLookaside got wool
+UserMars4987 got brickbrickwoolwool
+UserMars4987 built a road
+UserMars4987 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_1
+UserLookaside got wool
+UserMars4987 got brickbrickwoolwool
+UserLookaside bought development card
+UserMars4987 rolled dice_1 dice_4
+UserLookaside got lumber
+UserMars4987 got oreore
+UserMars4987 used Year of Plenty card year of plenty
+UserMars4987 took from bank grain grain
+UserMars4987 bought development card
+UserMars4987 bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got brick
+UserMars4987 got lumberlumber
+UserLookaside built a road
+UserMars4987 used Knight card knight
+UserMars4987 moved robber robber to prob_10 grain tile
+UserMars4987 stole ore from you
+UserMars4987 rolled dice_4 dice_2
+UserLookaside got brick
+UserMars4987 got lumberlumber
+UserMars4987 built a road
+UserLookaside rolled dice_4 dice_5
+UserLookaside got woolore
+UserMars4987 got oreore
+UserLookaside built a settlement (+1 VP)
+UserMars4987 rolled dice_3 dice_6
+UserLookaside got woolore
+UserMars4987 got oreore
+UserMars4987 used Road Building card road building
+UserMars4987 placed a road
+UserMars4987 placed a road
+UserMars4987 received longest road (+2 VPs)
+UserMars4987 gave bank lumberlumber and took grain
+UserMars4987 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_1
+UserLookaside got grain
+UserMars4987 got graingraingrain
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+UserMars4987 rolled dice_2 dice_2
+UserLookaside got grain
+UserMars4987 got graingraingrain
+UserMars4987 gave bank graingraingrain and took wool
+UserMars4987 bought development card
+UserMars4987 gave bank oreoreore and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got brick
+UserMars4987 got graingraingraingrain
+UserLookaside built a road
+UserMars4987 rolled dice_2 dice_3
+UserLookaside got lumberlumber
+UserMars4987 got oreore
+UserMars4987 gave bank graingraingrain and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_6 dice_3
+UserLookaside got wooloreore
+UserMars4987 got oreore
+UserLookaside bought development card
+UserMars4987 rolled dice_4 dice_6
+prob_10 grain tile is blocked by the robber. No resources produced.
+UserLookaside got oreore
+UserMars4987 got oreore
+UserMars4987 gave bank oreoreore and took wool
+UserMars4987 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole ore from Mars4987
+UserLookaside rolled dice_3 dice_6
+UserLookaside got wooloreore
+UserMars4987 got oreore
+UserLookaside gave bank oreoreoreore and took grain
+UserLookaside bought development card
+UserMars4987 used Knight card knight
+UserMars4987 moved robber robber to prob_10 grain tile
+UserMars4987 stole lumber from you
+UserMars4987 rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserMars4987 got lumberlumberlumber
+UserLookaside rolled dice_1 dice_3
+UserLookaside got grain
+UserMars4987 got graingraingrain
+UserMars4987 rolled dice_2 dice_4
+UserLookaside got brickbrick
+UserMars4987 got lumberlumberlumber
+UserMars4987 used Monopoly card monopoly
+UserMars4987 stole 4 brick
+UserMars4987 built a road
+UserMars4987 built a road
+UserMars4987 gave bank lumberlumber and took wool
+UserMars4987 built a settlement (+1 VP)
+UserMars4987 gave bank lumberlumber and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberlumber
+UserMars4987 got oreorelumber
+UserMars4987 rolled dice_5 dice_4
+UserLookaside got wooloreore
+UserMars4987 got oreore
+UserMars4987 gave bank oreoreore and took wool
+UserMars4987 bought development card
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_8 grain tile
+UserYou stole lumber from Mars4987
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a city (+1 VP)
+UserMars4987 used Knight card knight
+UserMars4987 received largest army (+2 VPs)
+UserMars4987 moved robber robber to prob_10 grain tile
+UserMars4987 stole wool from you
+UserMars4987 rolled dice_4 dice_3
+UserMars4987 moved robber robber to prob_6 brick tile
+UserNo player to steal from
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumber
+UserMars4987 got oreorelumber
+UserMars4987 rolled dice_5 dice_5
+UserLookaside got graingraingrainoreore
+UserMars4987 got oreore
+UserMars4987 used Monopoly card monopoly
+UserMars4987 stole 3 grain
+UserMars4987 built a city (+1 VP)
+trophyUserMars4987 won the game!trophy
+UserMars4987 has left the game
+Send a message
+Send message
+No Ads

@@ -1,0 +1,354 @@
+GuestAdasmi0847 (1542)
+UserTotoMillon (1538)
+UserConoNaranja (x)
+GuestTina2257 (1515)
+Ranked
+Time: 28:25
+Date: 2023-03-22T22:35 EST
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Lookaside has started spectating!
+GuestAdasmi0847 placed a settlement
+GuestAdasmi0847 placed a road
+UserTotoMillon placed a settlement
+UserTotoMillon placed a road
+UserConoNaranja placed a settlement
+UserConoNaranja placed a road
+UserConoNaranja placed a settlement
+UserConoNaranja placed a road
+UserConoNaranja received starting resources: woollumberore
+UserTotoMillon placed a settlement
+UserTotoMillon placed a road
+UserTotoMillon received starting resources: oregrain
+GuestAdasmi0847 placed a settlement
+GuestAdasmi0847 placed a road
+GuestAdasmi0847 received starting resources: brickgrainwool
+GuestTina2257 placed a settlement
+GuestTina2257 placed a road
+GuestTina2257 received starting resources: lumberbricklumber
+GuestTina2257 rolled: dice_2 dice_3
+UserTotoMillon got: grain
+GuestTina2257 got: grain
+GuestAdasmi0847 got: ore
+GuestAdasmi0847 rolled: dice_1 dice_4
+UserTotoMillon got: grain
+GuestTina2257 got: grain
+GuestAdasmi0847 got: ore
+UserTotoMillon rolled: dice_1 dice_2
+GuestTina2257 got: lumber
+UserConoNaranja rolled: dice_5 dice_1
+GuestTina2257 got: wool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: wool
+GuestTina2257 rolled: dice_4 dice_5
+UserTotoMillon got: ore
+GuestTina2257 got: ore
+UserConoNaranja got: wool
+GuestTina2257 wants to give: grain for: brick
+GuestTina2257 wants to give: ore for: brick
+GuestTina2257 wants to give: grainore for: brick
+GuestTina2257 traded: grainore for: brick with: Adasmi0847
+GuestTina2257 built a road
+GuestTina2257 built a settlement: +1 VP
+GuestAdasmi0847 rolled: dice_6 dice_3
+UserTotoMillon got: ore
+GuestTina2257 got: ore
+UserConoNaranja got: wool
+GuestAdasmi0847 built a city: +1 VP
+UserTotoMillon rolled: dice_1 dice_5
+GuestTina2257 got: wool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: wool
+UserTotoMillon built a city: +1 VP
+UserConoNaranja rolled: dice_3 dice_6
+UserTotoMillon got: oreore
+GuestTina2257 got: ore
+UserConoNaranja got: wool
+UserConoNaranja gave bank: woolwool and took brick
+UserConoNaranja built a road
+GuestTina2257 rolled: dice_6 dice_6
+GuestAdasmi0847 got: brick
+UserConoNaranja has disconnected.
+UserBot will wait until next turn to give ConoNaranja a chance to reconnect
+GuestAdasmi0847 rolled: dice_2 dice_5
+UserConoNaranja has reconnected
+GuestAdasmi0847 moved robber robber to prob_9 ore tile
+GuestAdasmi0847 stole card from: TotoMillon
+UserTotoMillon rolled: dice_4 dice_4
+UserTotoMillon got: brick
+GuestTina2257 got: lumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumber
+UserConoNaranja rolled: dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserConoNaranja got: wool
+UserConoNaranja wants to give: ore for: grain
+UserConoNaranja gave bank: woolwool and took lumber
+GuestTina2257 rolled: dice_6 dice_5
+GuestTina2257 got: grain
+GuestAdasmi0847 got: grain
+GuestTina2257 wants to give: ore for: brick
+GuestTina2257 bought development card
+GuestAdasmi0847 rolled: dice_3 dice_3
+GuestTina2257 got: wool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: wool
+GuestAdasmi0847 built a road
+GuestAdasmi0847 wants to give: ore for: brick
+GuestAdasmi0847 wants to give: woolore for: brick
+GuestAdasmi0847 traded: woolore for: brick with: TotoMillon
+GuestAdasmi0847 built a settlement: +1 VP
+UserTotoMillon rolled: dice_4 dice_3
+UserTotoMillon moved robber robber to prob_8 lumber tile
+UserTotoMillon stole card from: Adasmi0847
+UserTotoMillon bought development card
+UserConoNaranja rolled: dice_3 dice_6
+UserTotoMillon got: oreore
+GuestTina2257 got: ore
+UserConoNaranja got: wool
+UserConoNaranja wants to give: ore for: grain
+UserConoNaranja wants to give: oreore for: grain
+UserConoNaranja wants to give: ore for: woolwool
+UserConoNaranja gave bank: oreoreoreore and took grain
+UserConoNaranja built a settlement: +1 VP
+GuestTina2257 rolled: dice_1 dice_6
+GuestTina2257 moved robber robber to prob_8 brick tile
+GuestTina2257 stole card from: ConoNaranja
+GuestTina2257 wants to give: wool for: grain
+GuestTina2257 wants to give: wool for: brick
+GuestTina2257 wants to give: ore for: brick
+GuestTina2257 wants to give: ore for: grain
+GuestTina2257 wants to give: lumberwool for: grain
+GuestTina2257 wants to give: lumberwool for: brick
+GuestAdasmi0847 rolled: dice_1 dice_4
+UserTotoMillon got: grain
+GuestTina2257 got: grain
+GuestAdasmi0847 got: oreore
+UserTotoMillon rolled: dice_1 dice_1
+UserConoNaranja got: lumber
+UserTotoMillon bought development card
+UserConoNaranja rolled: dice_6 dice_6
+GuestAdasmi0847 got: brick
+GuestTina2257 rolled: dice_4 dice_5
+UserTotoMillon got: oreore
+GuestTina2257 got: ore
+UserConoNaranja got: woolwool
+GuestTina2257 gave bank: lumberlumber and took grain
+GuestTina2257 built a city: +1 VP
+GuestAdasmi0847 rolled: dice_1 dice_5
+GuestTina2257 got: woolwool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: wool
+UserTotoMillon rolled: dice_6 dice_2
+prob_8 brick tile is blocked by the robber. No resources produced.
+GuestTina2257 got: lumber
+GuestAdasmi0847 got: lumberlumberlumber
+UserConoNaranja rolled: dice_1 dice_4
+UserTotoMillon got: grain
+GuestTina2257 got: graingrain
+GuestAdasmi0847 got: oreore
+UserConoNaranja gave bank: woolwool and took brick
+UserConoNaranja built a road
+GuestTina2257 rolled: dice_6 dice_1
+Adasmi0847 discarding resource cards
+GuestAdasmi0847 discarded: wooloreoreoreore
+GuestTina2257 moved robber robber to prob_10 grain tile
+GuestTina2257 stole card from: TotoMillon
+GuestTina2257 wants to give: woolwool for: brick
+GuestTina2257 wants to give: woolwool for: ore
+UserConoNaranja wants to give: Tina2257: ore for: woolwoolwool
+UserTotoMillon wants to give: Tina2257: ore for: lumberwool
+UserConoNaranja wants to give: Tina2257: ore for: lumberwoolwool
+GuestTotoMillon traded: ore for: lumberwool with: Tina2257
+GuestTina2257 wants to give: woolwool for: ore
+UserConoNaranja wants to give: Tina2257: ore for: lumberwoolwool
+GuestTina2257 wants to give: woolwoolwool for: ore
+GuestTina2257 traded: woolwoolwool for: ore with: ConoNaranja
+GuestTina2257 built a city: +1 VP
+GuestAdasmi0847 rolled: dice_1 dice_5
+GuestTina2257 got: woolwool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: wool
+GuestAdasmi0847 built a road
+UserTotoMillon rolled: dice_3 dice_6
+UserTotoMillon got: oreore
+GuestTina2257 got: oreore
+UserConoNaranja got: woolwool
+UserTotoMillon wants to give: ore for: brick
+UserTotoMillon gave bank: oreoreoreore and took brick
+UserTotoMillon used Road Building card road building
+UserTotoMillon placed a road
+UserTotoMillon placed a road
+UserTotoMillon built a settlement: +1 VP
+UserConoNaranja rolled: dice_5 dice_5
+prob_10 grain tile is blocked by the robber. No resources produced.
+GuestAdasmi0847 got: woolwool
+UserConoNaranja gave bank: woolwoolwoolwool and took lumberbrick
+UserConoNaranja built a road
+GuestTina2257 rolled: dice_3 dice_5
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestTina2257 gave bank: lumberlumber and took grain
+GuestTina2257 bought development card
+GuestAdasmi0847 rolled: dice_6 dice_6
+GuestAdasmi0847 got: brick
+GuestAdasmi0847 wants to give: wool for: grain
+GuestAdasmi0847 wants to give: lumber for: grain
+GuestAdasmi0847 wants to give: lumberwool for: grain
+GuestAdasmi0847 gave bank: woolwoolwool and took grain
+GuestAdasmi0847 built a settlement: +1 VP
+GuestAdasmi0847 gave bank: lumberlumberlumber and took brick
+UserTotoMillon rolled: dice_1 dice_5
+GuestTina2257 got: woolwool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: woolwool
+UserConoNaranja rolled: dice_4 dice_5
+UserTotoMillon got: oreore
+GuestTina2257 got: oreore
+UserConoNaranja got: woolwool
+UserConoNaranja wants to give: ore for: grain
+UserConoNaranja wants to give: wool for: grain
+GuestTina2257 rolled: dice_5 dice_1
+GuestTina2257 got: woolwool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: woolwool
+GuestTina2257 wants to give: wool for: grain
+GuestTina2257 gave bank: woolwoolwoolwool and took grain
+GuestTina2257 bought development card
+GuestAdasmi0847 rolled: dice_3 dice_5
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestAdasmi0847 built a road
+GuestAdasmi0847 wants to give: wool for: brick
+GuestAdasmi0847 gave bank: woolwoolwool and took brick
+GuestAdasmi0847 built a road
+UserTotoMillon rolled: dice_3 dice_3
+GuestTina2257 got: woolwool
+UserConoNaranja got: ore
+GuestAdasmi0847 got: woolwool
+UserTotoMillon gave bank: brickbrick and took lumber
+UserTotoMillon built a road
+UserConoNaranja rolled: dice_3 dice_2
+UserTotoMillon got: grain
+GuestTina2257 got: graingrain
+GuestAdasmi0847 got: oreore
+UserConoNaranja wants to give: wool for: grain
+UserConoNaranja wants to give: brick for: grain
+UserConoNaranja wants to give: brickore for: grain
+UserConoNaranja traded: brickore for: grain with: Tina2257
+UserConoNaranja gave bank: woolwool and took lumber
+UserConoNaranja built a settlement: +1 VP
+GuestTina2257 rolled: dice_6 dice_3
+UserTotoMillon got: oreore
+GuestTina2257 got: oreore
+UserConoNaranja got: woolwoolwool
+GuestTina2257 used Knight card knight
+GuestTina2257 moved robber robber to prob_5 ore tile
+GuestTina2257 stole card from: Adasmi0847
+GuestTina2257 gave bank: lumberlumber and took grain
+GuestTina2257 built a city: +1 VP
+GuestTina2257 wants to give: lumberwool for: grain
+GuestTina2257 wants to give: woolore for: grain
+GuestTina2257 wants to give: lumberwoolore for: grain
+GuestTina2257 traded: lumberwoolore for: grain with: TotoMillon
+GuestTina2257 bought development card
+GuestAdasmi0847 rolled: dice_5 dice_3
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestAdasmi0847 gave bank: lumberlumberlumber and took brick
+GuestAdasmi0847 built a road
+GuestAdasmi0847 received : +2 VPs
+GuestAdasmi0847 gave bank: woolwoolwool and took grain
+UserTotoMillon rolled: dice_1 dice_4
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserTotoMillon got: grain
+GuestTina2257 got: graingrain
+UserTotoMillon built a road
+UserTotoMillon wants to give: ore for: lumber
+UserTotoMillon gave bank: oreoreoreore and took lumber
+UserTotoMillon built a settlement: +1 VP
+UserConoNaranja rolled: dice_3 dice_5
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+UserConoNaranja gave bank: woolwool and took grain
+UserConoNaranja bought development card
+GuestTina2257 rolled: dice_5 dice_3
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestTina2257 used Monopoly card monopoly
+GuestTina2257 stole 8: brick
+GuestTina2257 built a road
+GuestTina2257 built a road
+GuestTina2257 built a road
+GuestTina2257 built a road
+GuestTina2257 built a road
+GuestTina2257 wants to give: brick for: wool
+GuestTina2257 built a road
+Guest passed from: Adasmi0847 to: Tina2257: +2 VPs
+GuestAdasmi0847 rolled: dice_6 dice_6
+GuestAdasmi0847 got: brick
+GuestAdasmi0847 gave bank: lumberlumberlumber and took brick
+GuestAdasmi0847 built a road
+GuestAdasmi0847 built a road
+Guest passed from: Tina2257 to: Adasmi0847: +2 VPs
+UserTotoMillon rolled: dice_3 dice_2
+prob_5 ore tile is blocked by the robber. No resources produced.
+UserTotoMillon got: grain
+GuestTina2257 got: graingrain
+UserConoNaranja used Knight card knight
+UserConoNaranja moved robber robber to prob_5 grain tile
+UserConoNaranja stole card from: Tina2257
+UserConoNaranja rolled: dice_3 dice_5
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestTina2257 used Knight card knight
+GuestTina2257 moved robber robber to prob_5 ore tile
+GuestTina2257 stole card from: Adasmi0847
+GuestTina2257 rolled: dice_2 dice_6
+UserTotoMillon got: brickbrick
+GuestTina2257 got: lumberlumber
+UserConoNaranja got: brick
+GuestAdasmi0847 got: lumberlumberlumber
+GuestTina2257 built a road
+GuestTina2257 built a road
+Guest passed from: Adasmi0847 to: Tina2257: +2 VPs
+GuestTina2257 built a road
+GuestAdasmi0847 rolled: dice_4 dice_3
+Adasmi0847 discarding resource cards
+GuestAdasmi0847 discarded: lumberlumberlumberlumber
+GuestAdasmi0847 moved robber robber to prob_4 brick tile
+GuestAdasmi0847 stole card from: Tina2257
+GuestAdasmi0847 gave bank: lumberlumberlumber and took ore
+UserTotoMillon rolled: dice_6 dice_6
+GuestAdasmi0847 got: brick
+UserTotoMillon gave bank: brickbrick and took wool
+UserTotoMillon bought development card
+UserConoNaranja rolled: dice_2 dice_1
+UserTotoMillon got: graingrain
+GuestTina2257 got: lumberlumber
+GuestAdasmi0847 got: lumber
+GuestTina2257 used Knight card knight
+GuestTina2257 received largest army: +2 VPs
+trophy Tina2257 won the game! trophy
+GuestAdasmi0847 has left the game
+UserConoNaranja has left the game
+UserTotoMillon has left the game
+GuestTina2257 has left the game
+Send a message

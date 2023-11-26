@@ -1,0 +1,346 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+Guestjasd11 placed a settlement
+Guestjasd11 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberorebrick
+Guestjasd11 placed a settlement
+Guestjasd11 placed a road
+Guestjasd11 received starting resources woollumberore
+Guestjasd11 rolled dice_6 dice_4
+Guestjasd11 got woollumber
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumber
+Guestjasd11 got lumber
+Guestjasd11 rolled dice_6 dice_3
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_2
+UserLookaside got wool
+Guestjasd11 got grain
+Guestjasd11 rolled dice_5 dice_5
+Guestjasd11 got woollumber
+UserLookaside rolled dice_4 dice_4
+Guestjasd11 got orebrick
+Guestjasd11 rolled dice_3 dice_1
+UserLookaside got lumberlumber
+Guestjasd11 got lumber
+Guestjasd11 built a road
+UserLookaside rolled dice_2 dice_6
+Guestjasd11 got orebrick
+Guestjasd11 rolled dice_4 dice_2
+Guestjasd11 built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_3
+UserLookaside got wool
+Guestjasd11 got grain
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+Guestjasd11 rolled dice_4 dice_5
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole lumber from jasd11
+UserLookaside built a road
+Guestjasd11 rolled dice_5 dice_4
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_5
+UserLookaside gave bank oreoreoreore and took brick
+UserLookaside built a settlement (+1 VP)
+Guestjasd11 rolled dice_3 dice_5
+prob_8 brick tile is blocked by the robber. No resources produced.
+Guestjasd11 got ore
+Guestjasd11 bought development card
+UserLookaside rolled dice_2 dice_1
+UserLookaside got brickbrick
+Guestjasd11 got brick
+Guestjasd11 rolled dice_3 dice_4
+Guestjasd11 moved robber robber to prob_9 ore tile
+Guestjasd11 stole wool from you
+Guestjasd11 built a road
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 brick tile
+UserYou stole ore from jasd11
+Guestjasd11 rolled dice_4 dice_6
+Guestjasd11 got woollumber
+UserLookaside rolled dice_1 dice_4
+UserLookaside got wool
+Guestjasd11 got grain
+Guestjasd11 rolled dice_3 dice_3
+UserLookaside got lumber
+Guestjasd11 bought development card
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+UserLookaside built a road
+Guestjasd11 rolled dice_6 dice_5
+UserLookaside got wool
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+UserLookaside gave bank woolwool and took grain
+UserLookaside built a settlement (+1 VP)
+Guestjasd11 rolled dice_5 dice_5
+UserLookaside got wool
+Guestjasd11 got woollumber
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole ore from jasd11
+Guestjasd11 rolled dice_1 dice_1
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumber
+Guestjasd11 got orelumber
+Guestjasd11 rolled dice_4 dice_3
+Guestjasd11 moved robber robber to prob_9 ore tile
+Guestjasd11 stole lumber from you
+UserLookaside rolled dice_3 dice_6
+prob_9 ore tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+Guestjasd11 rolled dice_2 dice_6
+Guestjasd11 got orebrickbrick
+Guestjasd11 gave bank lumberlumberlumberlumber and took grain
+Guestjasd11 used Road Building card road building
+Guestjasd11 placed a road
+Guestjasd11 placed a road
+Guestjasd11 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+Guestjasd11 got wool
+Guestjasd11 rolled dice_5 dice_2
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole lumber from you
+UserLookaside rolled dice_2 dice_1
+UserLookaside got brickbrick
+Guestjasd11 got brickbrick
+Guestjasd11 rolled dice_1 dice_3
+UserLookaside got lumberlumber
+Guestjasd11 got orelumber
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumberore
+UserLookaside built a road
+UserLookaside built a road
+Guestjasd11 rolled dice_1 dice_5
+UserLookaside got lumber
+Guestjasd11 got wool
+UserLookaside rolled dice_4 dice_2
+UserLookaside got lumber
+Guestjasd11 got wool
+Guestjasd11 rolled dice_2 dice_5
+Guestjasd11 discarded brickbrickwoolwoolwoolwool
+Guestjasd11 moved robber robber to prob_6 lumber tile
+Guestjasd11 stole lumber from you
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumberore
+UserLookaside gave bank woolwool and took grain
+Guestjasd11 rolled dice_3 dice_3
+prob_6 lumber tile is blocked by the robber. No resources produced.
+Guestjasd11 got wool
+UserLookaside rolled dice_6 dice_6
+Guestjasd11 rolled dice_1 dice_2
+UserLookaside got brickbrick
+Guestjasd11 got brickbrick
+Guestjasd11 built a road
+UserLookaside rolled dice_3 dice_2
+UserLookaside got woolwool
+Guestjasd11 got grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+Guestjasd11 rolled dice_4 dice_6
+UserLookaside got wool
+Guestjasd11 got woollumber
+Guestjasd11 built a road
+Guestjasd11 received longest road (+2 VPs)
+Guestjasd11 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_1
+UserLookaside got woolwoolwool
+Guestjasd11 got grain
+UserLookaside gave bank woolwoolwoolwool and took graingrain
+UserLookaside built a city (+1 VP)
+Guestjasd11 rolled dice_5 dice_4
+UserLookaside got lumberlumberore
+Guestjasd11 got ore
+UserLookaside rolled dice_3 dice_5
+Guestjasd11 got orebrickbrick
+Guestjasd11 rolled dice_5 dice_5
+UserLookaside got woolwool
+Guestjasd11 got woollumber
+Guestjasd11 bought development card
+UserLookaside rolled dice_1 dice_6
+Guestjasd11 discarded lumberlumberbrickbrickwool
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole wool from jasd11
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+Guestjasd11 used Knight card knight
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole lumber from you
+Guestjasd11 rolled dice_2 dice_4
+UserLookaside got lumberwool
+Guestjasd11 got lumberwool
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole ore from jasd11
+UserLookaside rolled dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwoolwool
+UserLookaside gave bank woolwoolwoolwool and took brickgrain
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+Guestjasd11 rolled dice_1 dice_4
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserLookaside got woolwoolwoolwool
+UserLookaside rolled dice_5 dice_6
+UserLookaside got wool
+Guestjasd11 got wool
+Guestjasd11 rolled dice_3 dice_4
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole wool from you
+UserLookaside rolled dice_3 dice_1
+UserLookaside got lumberlumber
+Guestjasd11 got orelumber
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+Guestjasd11 rolled dice_4 dice_5
+UserLookaside got lumberlumberlumberore
+Guestjasd11 got ore
+Guestjasd11 gave bank oreoreoreore and took grain
+Guestjasd11 bought development card
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumberwool
+Guestjasd11 got lumberwool
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside bought development card
+Guestjasd11 rolled dice_2 dice_3
+prob_5 wool tile is blocked by the robber. No resources produced.
+Guestjasd11 got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole wool from jasd11
+UserLookaside rolled dice_6 dice_5
+UserLookaside got wool
+Guestjasd11 got wool
+Guestjasd11 used Knight card knight
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole lumber from you
+Guestjasd11 rolled dice_1 dice_5
+UserLookaside got lumberwool
+Guestjasd11 got lumberwool
+Guestjasd11 gave bank lumberlumberlumberlumber and took ore
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole lumber from jasd11
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumberlumberlumberore
+Guestjasd11 got ore
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+Guestjasd11 rolled dice_3 dice_6
+UserLookaside got lumberlumberlumberore
+Guestjasd11 got ore
+Guestjasd11 gave bank woolwoolwoolwool and took grain
+Guestjasd11 built a city (+1 VP)
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole lumber from jasd11
+UserLookaside gave bank lumberlumberlumberlumberlumberlumberwoolwool and took graingrainoreore
+UserLookaside built a city (+1 VP)
+Guestjasd11 rolled dice_4 dice_4
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestjasd11 got brickbrick
+UserLookaside rolled dice_5 dice_3
+prob_8 ore tile is blocked by the robber. No resources produced.
+Guestjasd11 got brickbrick
+Guestjasd11 rolled dice_2 dice_5
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole lumber from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 grain tile
+UserYou stole brick from jasd11
+UserLookaside rolled dice_6 dice_2
+Guestjasd11 got oreorebrickbrick
+Guestjasd11 rolled dice_1 dice_1
+Guestjasd11 got grain
+UserLookaside rolled dice_2 dice_2
+UserLookaside got lumberlumber
+Guestjasd11 got orelumberlumber
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 5 brick
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from jasd11 to Lookaside (+2 VPs)
+Guestjasd11 rolled dice_1 dice_2
+UserLookaside got brickbrick
+Guestjasd11 got brickbrick
+UserLookaside rolled dice_4 dice_6
+UserLookaside got woolwool
+Guestjasd11 got woolwoollumber
+UserLookaside gave bank brickbrickbrickbrick and took grain
+Guestjasd11 rolled dice_3 dice_4
+Guestjasd11 discarded lumberlumberlumberbrickbrickwool
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole brick from you
+Guestjasd11 built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+Guestjasd11 got grain
+Guestjasd11 rolled dice_4 dice_2
+UserLookaside got lumberwoolwool
+Guestjasd11 got lumberwool
+Guestjasd11 bought development card
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumberwoolwool
+Guestjasd11 got lumberwool
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+UserLookaside gave bank lumberlumberwoolwool and took grainore
+UserLookaside bought development card
+Guestjasd11 rolled dice_6 dice_6
+UserLookaside got graingraingrain
+Guestjasd11 used Year of Plenty card year of plenty
+Guestjasd11 took from bank grain grain
+Guestjasd11 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole ore from jasd11
+UserLookaside rolled dice_1 dice_3
+UserLookaside got lumberlumber
+Guestjasd11 got orelumberlumber
+UserLookaside built a road
+Guestjasd11 used Knight card knight
+Guestjasd11 moved robber robber to prob_5 wool tile
+Guestjasd11 stole ore from you
+Guestjasd11 rolled dice_2 dice_1
+UserLookaside got brickbrick
+Guestjasd11 got brickbrick
+Guestjasd11 built a road
+Guestjasd11 built a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumberlumberlumberore
+Guestjasd11 got oreore
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 4 ore
+UserLookaside built a city (+1 VP)
+UserLookaside gave bank lumberlumberlumberlumber and took grainore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+Guestjasd11 has left the game
+UserLookaside: cant win on this board :(
+Guestjasd11: You can haha
+UserLookaside: i surprise myself sometimes
+UserLookaside: gg
+Send a message
+Send message
+7/8 player expansion
+Use special build phases to try to win against 7 other players

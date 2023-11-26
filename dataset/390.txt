@@ -1,0 +1,359 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserPirateSheep placed a settlement
+UserPirateSheep placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources brickgrainlumber
+UserLookaside placed a road
+UserPirateSheep placed a settlement
+UserPirateSheep received starting resources orewoolbrick
+UserPirateSheep placed a road
+UserPirateSheep rolled dice_6 dice_6
+UserLookaside rolled dice_5 dice_1
+UserPirateSheep got brickgrain
+UserPirateSheep rolled dice_5 dice_5
+UserLookaside got lumberwool
+UserLookaside rolled dice_2 dice_2
+UserPirateSheep rolled dice_6 dice_4
+UserLookaside got lumberwool
+UserLookaside rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 lumber tile
+UserNo player to steal from
+UserPirateSheep rolled dice_2 dice_4
+UserPirateSheep got brickgrain
+UserLookaside rolled dice_2 dice_1
+UserPirateSheep got oreore
+UserLookaside got ore
+UserLookaside built a road
+UserPirateSheep rolled dice_2 dice_6
+UserLookaside got lumber
+UserPirateSheep built a city (+1 VP)
+UserLookaside rolled dice_1 dice_3
+prob_4 lumber tile is blocked by the robber. No resources produced.
+UserPirateSheep rolled dice_6 dice_3
+UserPirateSheep got wool
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserLookaside built a settlement (+1 VP)
+UserPirateSheep rolled dice_3 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from PirateSheep
+UserLookaside built a road
+UserPirateSheep rolled dice_3 dice_1
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from PirateSheep
+UserPirateSheep rolled dice_5 dice_4
+UserPirateSheep got wool
+UserLookaside got brickwool
+UserLookaside rolled dice_6 dice_5
+UserPirateSheep got oreore
+UserLookaside got ore
+UserLookaside built a road
+UserPirateSheep rolled dice_3 dice_2
+UserLookaside got grain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got grain
+UserLookaside built a settlement (+1 VP)
+UserLookaside bought development card
+UserPirateSheep rolled dice_1 dice_2
+UserPirateSheep got oreoreore
+UserLookaside got ore
+UserLookaside rolled dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserPirateSheep got graingrain
+UserPirateSheep rolled dice_5 dice_6
+UserPirateSheep got oreore
+UserLookaside got oreore
+UserPirateSheep bought development card
+UserPirateSheep bought development card
+UserLookaside rolled dice_3 dice_6
+UserPirateSheep got wool
+UserLookaside got brickwool
+UserPirateSheep rolled dice_3 dice_5
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_1
+UserLookaside got graingrain
+UserLookaside built a city (+1 VP)
+UserPirateSheep rolled dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserPirateSheep got graingrain
+UserPirateSheep bought development card
+UserPirateSheep bought development card
+UserLookaside rolled dice_1 dice_2
+UserPirateSheep got oreoreore
+UserLookaside got ore
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole wool from you
+UserPirateSheep rolled dice_3 dice_1
+UserLookaside got wool
+UserLookaside rolled dice_4 dice_6
+UserLookaside got lumberlumberwoolwool
+UserPirateSheep rolled dice_6 dice_5
+UserPirateSheep got oreore
+UserLookaside got oreore
+UserPirateSheep gave bank oreoreoreore and took lumber
+UserPirateSheep built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside discarded lumberlumberlumberwoolwoolore
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from PirateSheep
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole ore from you
+UserPirateSheep rolled dice_4 dice_3
+UserPirateSheep moved robber robber to prob_9 brick tile
+UserPirateSheep stole ore from you
+UserLookaside rolled dice_6 dice_6
+UserPirateSheep rolled dice_3 dice_3
+UserPirateSheep got brickgraingrain
+UserPirateSheep bought development card
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserPirateSheep rolled dice_5 dice_1
+UserPirateSheep got brickgraingrain
+UserPirateSheep built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from PirateSheep
+UserLookaside built a settlement (+1 VP)
+UserPirateSheep rolled dice_5 dice_3
+UserLookaside got woollumber
+UserLookaside rolled dice_6 dice_3
+UserPirateSheep got woolwool
+UserLookaside got brickbrickwool
+UserPirateSheep rolled dice_6 dice_4
+UserLookaside got lumberlumberlumberwoolwool
+UserLookaside rolled dice_6 dice_1
+UserLookaside discarded brickwoolwoolwooloreore
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from PirateSheep
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+UserPirateSheep rolled dice_5 dice_6
+UserPirateSheep got oreore
+UserLookaside got oreore
+UserLookaside rolled dice_4 dice_5
+UserPirateSheep got woolwool
+UserLookaside got brickbrickwool
+UserPirateSheep rolled dice_2 dice_3
+UserLookaside got graingraingraingrain
+UserPirateSheep used Monopoly card monopoly
+UserPirateSheep stole 4 grain
+UserPirateSheep bought development card
+UserPirateSheep bought development card
+UserPirateSheep bought development card
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingraingraingrain
+UserLookaside bought development card
+UserPirateSheep used Knight card knight
+UserPirateSheep received largest army (+2 VPs)
+UserPirateSheep moved robber robber to prob_9 brick tile
+UserPirateSheep stole grain from you
+UserPirateSheep rolled dice_5 dice_2
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole brick from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from PirateSheep
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woollumber
+UserLookaside bought development card
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole grain from you
+UserPirateSheep rolled dice_6 dice_2
+UserLookaside got woollumber
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from PirateSheep
+UserLookaside rolled dice_5 dice_6
+UserPirateSheep got oreore
+UserLookaside got oreore
+UserLookaside built a road
+UserPirateSheep rolled dice_5 dice_3
+UserLookaside got woollumber
+UserPirateSheep bought development card
+UserLookaside rolled dice_3 dice_2
+UserLookaside got graingraingraingrain
+UserLookaside bought development card
+UserLookaside bought development card
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_9 brick tile
+UserPirateSheep stole brick from you
+UserPirateSheep rolled dice_1 dice_5
+UserPirateSheep got brickbrickgraingrain
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_1
+UserPirateSheep got oreoreoreore
+UserLookaside got ore
+UserPirateSheep rolled dice_1 dice_1
+UserLookaside rolled dice_5 dice_1
+UserPirateSheep got brickbrickgraingrain
+UserLookaside got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole ore from PirateSheep
+UserPirateSheep rolled dice_2 dice_2
+UserLookaside got woolwool
+UserPirateSheep gave bank brickbrickbrickbrick and took wool
+UserPirateSheep bought development card
+UserLookaside rolled dice_3 dice_1
+UserLookaside got woolwool
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside built a city (+1 VP)
+UserPirateSheep rolled dice_6 dice_3
+UserPirateSheep got woolwool
+UserLookaside got brickbrickwool
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole wool from you
+UserPirateSheep bought development card
+UserPirateSheep bought development card
+UserLookaside rolled dice_4 dice_1
+prob_5 grain tile is blocked by the robber. No resources produced.
+UserPirateSheep rolled dice_4 dice_2
+UserPirateSheep got brickbrickgraingrain
+UserLookaside got grain
+UserPirateSheep used Year of Plenty card year of plenty
+UserPirateSheep took from bank lumber wool
+UserPirateSheep bought development card
+UserPirateSheep built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_6
+UserPirateSheep got woolwool
+UserLookaside got brickbrickwool
+UserLookaside built a settlement (+1 VP)
+UserPirateSheep rolled dice_6 dice_1
+UserPirateSheep moved robber robber to prob_8 wool tile
+UserPirateSheep stole grain from you
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from PirateSheep
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_8 wool tile
+UserPirateSheep stole brick from you
+UserPirateSheep rolled dice_3 dice_3
+UserPirateSheep got brickbrickbrickgraingrain
+UserLookaside got grain
+UserPirateSheep gave bank brickbrickbrickgraingraingrain and took lumberlumber
+UserPirateSheep built a road
+UserPirateSheep built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumberlumberwoolwool
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+UserPirateSheep rolled dice_2 dice_4
+UserPirateSheep got brickbrickbrickgraingraingrain
+UserLookaside got grain
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole grain from PirateSheep
+UserPirateSheep rolled dice_1 dice_3
+UserPirateSheep got lumber
+UserLookaside got woolwoolwool
+UserPirateSheep gave bank graingraingrain and took lumber
+UserPirateSheep built a road
+UserPirateSheep built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_6
+UserLookaside got woolwoollumber
+UserLookaside gave bank woolwoolwoolwoolwoolwool and took oreoreore
+UserLookaside built a city (+1 VP)
+UserLookaside built a settlement (+1 VP)
+UserPirateSheep rolled dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole brick from PirateSheep
+UserPirateSheep rolled dice_5 dice_2
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole brick from you
+UserLookaside rolled dice_2 dice_4
+UserPirateSheep got brickbrickbrickgraingraingrain
+UserLookaside got grain
+UserPirateSheep rolled dice_3 dice_4
+UserPirateSheep moved robber robber to prob_8 wool tile
+UserPirateSheep stole lumber from you
+UserLookaside rolled dice_2 dice_3
+UserLookaside got graingraingraingrain
+UserPirateSheep rolled dice_3 dice_6
+UserPirateSheep got woolwool
+UserLookaside got brickbrickwool
+UserPirateSheep gave bank brickbrickbrick and took ore
+UserPirateSheep bought development card
+UserLookaside rolled dice_5 dice_6
+UserPirateSheep got brickoreore
+UserLookaside got oreore
+UserLookaside bought development card
+UserLookaside gave bank brickbrickbrickbrick and took wool
+UserLookaside bought development card
+UserPirateSheep rolled dice_5 dice_5
+UserLookaside got lumberlumberlumberlumberlumberwoolwoolwool
+UserPirateSheep used Knight card knight
+UserPirateSheep moved robber robber to prob_5 grain tile
+UserPirateSheep stole grain from you
+UserPirateSheep bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole grain from PirateSheep
+UserLookaside rolled dice_4 dice_2
+UserPirateSheep got brickbrickbrickgraingraingrain
+UserLookaside got grain
+UserLookaside gave bank lumberlumberlumberlumber and took oreore
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+UserPirateSheep rolled dice_6 dice_3
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got brickbrick
+UserPirateSheep used Monopoly card monopoly
+UserPirateSheep stole 2 brick
+UserPirateSheep gave bank brickbrickbrickbrickbrickbrick and took oreore
+UserPirateSheep built a city (+1 VP)
+UserLookaside rolled dice_1 dice_1
+UserPirateSheep got grain
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 grain tile
+UserYou stole grain from PirateSheep
+UserPirateSheep rolled dice_5 dice_1
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserPirateSheep got brickbrickbrick
+UserLookaside rolled dice_6 dice_5
+UserPirateSheep got brickbrickoreore
+UserLookaside got oreore
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside built a city (+1 VP)
+trophyUserLookaside won the game!trophy
+UserPirateSheep has left the game
+UserPirateSheep: gg
+UserLookaside: gg friend
+UserLookaside: close one
+UserPirateSheep: yep
+UserPirateSheep: wp[
+Send a message
+Send message
+No Ads

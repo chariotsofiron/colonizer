@@ -1,0 +1,321 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserAWikiWiki placed a settlement
+UserAWikiWiki placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources brickorelumber
+UserLookaside placed a road
+UserAWikiWiki placed a settlement
+UserAWikiWiki received starting resources lumberbrickgrain
+UserAWikiWiki placed a road
+UserAWikiWiki rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserAWikiWiki moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+UserAWikiWiki built a road
+UserLookaside rolled dice_4 dice_2
+UserLookaside got grain
+UserAWikiWiki got lumber
+UserAWikiWiki rolled dice_4 dice_5
+UserAWikiWiki got lumber
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserAWikiWiki rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_6 dice_6
+UserAWikiWiki rolled dice_3 dice_1
+UserLookaside got woolbrick
+UserAWikiWiki got brick
+UserLookaside rolled dice_6 dice_4
+UserAWikiWiki got wool
+UserAWikiWiki rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_4 dice_6
+UserAWikiWiki got wool
+UserAWikiWiki rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserAWikiWiki moved robber robber to prob_8 lumber tile
+UserNo player to steal from
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserAWikiWiki rolled dice_1 dice_1
+UserLookaside rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserAWikiWiki rolled dice_1 dice_4
+UserLookaside got lumber
+UserAWikiWiki got ore
+UserLookaside rolled dice_2 dice_1
+UserAWikiWiki got grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+UserAWikiWiki rolled dice_3 dice_6
+UserAWikiWiki got lumber
+UserAWikiWiki bought development card
+UserLookaside rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_10 wool tile
+UserNo player to steal from
+UserAWikiWiki rolled dice_5 dice_6
+UserLookaside got oreore
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumber
+UserAWikiWiki got ore
+UserAWikiWiki rolled dice_5 dice_1
+UserLookaside got grain
+UserAWikiWiki got lumber
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserAWikiWiki rolled dice_5 dice_4
+UserAWikiWiki got lumber
+UserLookaside rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserAWikiWiki rolled dice_6 dice_4
+UserAWikiWiki got wool
+UserAWikiWiki gave bank lumberlumberlumberlumber and took brick
+UserLookaside rolled dice_5 dice_6
+UserLookaside got oreore
+UserAWikiWiki rolled dice_2 dice_1
+UserLookaside got grain
+UserAWikiWiki got grain
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_10 wool tile
+UserNo player to steal from
+UserLookaside built a city (+1 VP)
+UserAWikiWiki rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole ore from you
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumber
+UserAWikiWiki rolled dice_1 dice_4
+UserLookaside got lumber
+UserAWikiWiki got ore
+UserAWikiWiki built a city (+1 VP)
+UserLookaside rolled dice_6 dice_5
+UserLookaside got oreoreore
+UserAWikiWiki rolled dice_5 dice_5
+UserAWikiWiki got woolwool
+UserLookaside rolled dice_6 dice_6
+UserAWikiWiki rolled dice_4 dice_2
+UserLookaside got graingrain
+UserAWikiWiki got lumber
+UserLookaside rolled dice_1 dice_1
+UserLookaside built a city (+1 VP)
+UserAWikiWiki rolled dice_2 dice_6
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from AWikiWiki
+UserAWikiWiki used Knight card knight
+UserAWikiWiki moved robber robber to prob_6 grain tile
+UserAWikiWiki stole ore from you
+UserAWikiWiki rolled dice_2 dice_3
+UserLookaside got lumberlumber
+UserAWikiWiki got oreore
+UserAWikiWiki built a road
+UserLookaside rolled dice_3 dice_6
+UserAWikiWiki got lumberlumber
+UserAWikiWiki rolled dice_1 dice_3
+UserLookaside got woolwoolwoolbrickbrick
+UserAWikiWiki got brick
+UserAWikiWiki built a road
+UserLookaside rolled dice_6 dice_3
+UserAWikiWiki got lumberlumber
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+UserAWikiWiki rolled dice_4 dice_4
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_1
+UserLookaside got woolwoolwoolbrickbrick
+UserAWikiWiki got brick
+UserLookaside built a road
+UserAWikiWiki rolled dice_5 dice_4
+UserAWikiWiki got lumberlumber
+UserAWikiWiki gave bank lumberlumberlumberlumber and took grain
+UserAWikiWiki built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+prob_6 grain tile is blocked by the robber. No resources produced.
+UserAWikiWiki got lumber
+UserAWikiWiki rolled dice_1 dice_6
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole wool from you
+UserLookaside rolled dice_2 dice_4
+UserLookaside got graingraingrain
+UserAWikiWiki got lumber
+UserLookaside gave bank woolwoolwoolwool and took ore
+UserLookaside bought development card
+UserAWikiWiki rolled dice_2 dice_1
+UserLookaside got graingrain
+UserAWikiWiki got grain
+UserAWikiWiki built a settlement (+1 VP)
+UserAWikiWiki gave bank lumberlumber and took grain
+UserAWikiWiki bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole ore from AWikiWiki
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+UserAWikiWiki got graingrain
+UserAWikiWiki rolled dice_2 dice_2
+UserLookaside got woolwoolwoolbrickbrick
+UserAWikiWiki got brick
+UserAWikiWiki bought development card
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded brickbrickwoolgraingraingraingrain
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole brick from AWikiWiki
+UserLookaside bought development card
+UserLookaside built a road
+UserAWikiWiki rolled dice_5 dice_1
+UserLookaside got graingraingrain
+UserAWikiWiki got lumber
+UserLookaside rolled dice_6 dice_3
+UserAWikiWiki got lumberlumber
+UserAWikiWiki rolled dice_1 dice_6
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole lumber from AWikiWiki
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole lumber from AWikiWiki
+UserLookaside built a road
+UserAWikiWiki rolled dice_2 dice_4
+UserLookaside got graingraingrain
+UserAWikiWiki got lumber
+UserLookaside rolled dice_5 dice_5
+UserAWikiWiki got woolwoolwool
+UserAWikiWiki rolled dice_2 dice_5
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole grain from you
+UserLookaside rolled dice_2 dice_6
+UserLookaside got lumber
+UserAWikiWiki got woolwool
+UserAWikiWiki rolled dice_5 dice_2
+UserAWikiWiki discarded woolwoolwoolwoolgrain
+UserAWikiWiki moved robber robber to prob_6 grain tile
+UserAWikiWiki stole wool from you
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberlumber
+UserAWikiWiki got oreorelumber
+UserAWikiWiki rolled dice_4 dice_6
+UserAWikiWiki got woolwoolwool
+UserAWikiWiki bought development card
+UserAWikiWiki gave bank lumberlumber and took brick
+UserAWikiWiki used Road Building card road building
+UserAWikiWiki placed a road
+UserAWikiWiki received longest road (+2 VPs)
+UserAWikiWiki placed a road
+UserAWikiWiki built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+UserAWikiWiki rolled dice_5 dice_4
+UserAWikiWiki got grainlumberlumber
+UserLookaside rolled dice_1 dice_1
+UserAWikiWiki rolled dice_3 dice_4
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole lumber from you
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumber
+UserAWikiWiki got woolwool
+UserAWikiWiki rolled dice_4 dice_2
+UserLookaside got graingraingrain
+UserAWikiWiki got lumber
+UserAWikiWiki gave bank lumberlumberlumberlumberwoolwoolwoolwool and took grainoreore
+UserAWikiWiki built a city (+1 VP)
+UserLookaside rolled dice_6 dice_4
+UserAWikiWiki got woolwoolwoolwool
+UserLookaside gave bank graingraingraingrain and took ore
+UserAWikiWiki rolled dice_3 dice_3
+UserLookaside got graingraingrain
+UserAWikiWiki got lumber
+UserLookaside rolled dice_3 dice_6
+UserAWikiWiki got grainlumberlumber
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside bought development card
+UserAWikiWiki rolled dice_1 dice_4
+UserLookaside got lumberlumber
+UserAWikiWiki got oreorelumberlumber
+UserAWikiWiki gave bank lumberlumberlumberlumber and took grainore
+UserAWikiWiki built a city (+1 VP)
+UserAWikiWiki gave bank woolwoolwoolwool and took brick
+UserAWikiWiki built a road
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_5 ore tile
+UserYou stole wool from AWikiWiki
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_8 wool tile
+UserNo player to steal from
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+UserAWikiWiki rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumberlumber
+UserAWikiWiki got oreorelumberlumber
+UserAWikiWiki rolled dice_5 dice_5
+UserAWikiWiki got woolwoolwoolwool
+UserAWikiWiki gave bank lumberlumber and took grain
+UserAWikiWiki bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got graingrain
+UserAWikiWiki got graingraingraingrain
+UserAWikiWiki rolled dice_3 dice_1
+UserLookaside got woolwoolwoolwoolbrickbrick
+UserAWikiWiki got brickbrick
+UserAWikiWiki bought development card
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberlumber
+UserAWikiWiki got oreorelumberlumber
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside gave bank lumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+UserAWikiWiki rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserAWikiWiki bought development card
+UserAWikiWiki used Road Building card road building
+UserAWikiWiki placed a road
+UserAWikiWiki placed a road
+UserAWikiWiki built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_3
+UserLookaside got graingraingrain
+UserAWikiWiki got lumberlumber
+UserLookaside gave bank graingraingrain and took ore
+UserLookaside bought development card
+UserAWikiWiki used Knight card knight
+UserAWikiWiki moved robber robber to prob_4 wool tile
+UserAWikiWiki stole wool from you
+UserAWikiWiki rolled dice_6 dice_3
+UserAWikiWiki got graingrainlumberlumber
+UserAWikiWiki gave bank lumberlumber and took brick
+UserAWikiWiki built a road
+UserAWikiWiki built a settlement (+1 VP)
+trophyUserAWikiWiki won the game!trophy
+UserAWikiWiki: Gg
+Send a message
+Send message
+No Ads

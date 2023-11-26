@@ -1,0 +1,370 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+FounderCanneloni placed a settlement
+FounderCanneloni placed a road
+FounderCanneloni placed a settlement
+FounderCanneloni received starting resources lumberlumberwool
+FounderCanneloni placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources oregrainwool
+UserLookaside placed a road
+UserLookaside rolled dice_6 dice_5
+FounderCanneloni rolled dice_5 dice_4
+FounderCanneloni got wool
+UserLookaside rolled dice_3 dice_6
+FounderCanneloni got wool
+FounderCanneloni rolled dice_3 dice_1
+FounderCanneloni got grain
+UserLookaside rolled dice_2 dice_6
+UserLookaside got wool
+FounderCanneloni rolled dice_1 dice_4
+FounderCanneloni got lumber
+UserLookaside got wool
+UserLookaside rolled dice_1 dice_5
+FounderCanneloni got ore
+UserLookaside got ore
+FounderCanneloni rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+FounderCanneloni moved robber robber to prob_9 wool tile
+FounderNo player to steal from
+FounderCanneloni bought development card
+UserLookaside rolled dice_3 dice_5
+UserLookaside got wool
+FounderCanneloni rolled dice_4 dice_1
+FounderCanneloni got lumber
+UserLookaside got wool
+UserLookaside rolled dice_6 dice_2
+UserLookaside got wool
+UserLookaside gave bank woolwoolwoolwool and took brick
+FounderCanneloni rolled dice_4 dice_6
+FounderCanneloni got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_2
+FounderCanneloni got lumber
+UserLookaside got wool
+UserLookaside built a road
+FounderCanneloni rolled dice_2 dice_1
+FounderCanneloni got brick
+UserLookaside got brick
+FounderCanneloni built a road
+UserLookaside rolled dice_4 dice_5
+prob_9 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni got wool
+FounderCanneloni rolled dice_5 dice_1
+FounderCanneloni got ore
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_3
+FounderCanneloni got ore
+UserLookaside got ore
+UserLookaside gave bank oreoreoreore and took lumber
+UserLookaside built a settlement (+1 VP)
+FounderCanneloni rolled dice_4 dice_3
+FounderCanneloni discarded lumberlumberlumberwoolwool
+robberFriendly Robber is active, tiles available to block are limited
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole wool from you
+UserLookaside rolled dice_2 dice_2
+FounderCanneloni got grain
+UserLookaside got grain
+FounderCanneloni rolled dice_6 dice_4
+FounderCanneloni got lumber
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_1 dice_1
+FounderCanneloni rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+FounderCanneloni moved robber robber to prob_5 wool tile
+FounderCanneloni stole lumber from you
+FounderCanneloni has disconnected. Bot will wait until next turn to give Canneloni a chance to reconnect.
+botCanneloni has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+FounderCanneloni has reconnected
+UserLookaside rolled dice_2 dice_3
+prob_5 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni got lumber
+Canneloni has started spectating!
+Canneloni has stopped spectating!
+FounderCanneloni rolled dice_4 dice_6
+FounderCanneloni got lumber
+UserLookaside got lumber
+FounderCanneloni has disconnected. Bot will wait until next turn to give Canneloni a chance to reconnect.
+botCanneloni has left the game
+You are the last player remaining. You will be awarded the win in 1 minute if your opponent does not reconnect.
+FounderCanneloni has reconnected
+FounderCanneloni gave bank lumberlumberlumberlumber and took brick
+FounderCanneloni built a settlement (+1 VP)
+UserLookaside rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni got lumber
+FounderCanneloni rolled dice_2 dice_4
+FounderCanneloni got ore
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_4
+UserLookaside got woolwool
+UserLookaside bought development card
+FounderCanneloni rolled dice_6 dice_3
+FounderCanneloni got woolwool
+UserLookaside rolled dice_6 dice_6
+UserLookaside got grain
+FounderCanneloni rolled dice_3 dice_3
+FounderCanneloni got ore
+UserLookaside got ore
+UserLookaside rolled dice_3 dice_6
+FounderCanneloni got woolwool
+UserLookaside bought development card
+FounderCanneloni rolled dice_4 dice_3
+FounderCanneloni discarded lumberwoolwoolwoolore
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole wool from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole wool from Canneloni
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_5 lumber tile
+UserYou stole lumber from Canneloni
+FounderCanneloni rolled dice_2 dice_1
+FounderCanneloni got brick
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_4
+FounderCanneloni got lumber
+UserLookaside got lumber
+FounderCanneloni rolled dice_4 dice_5
+FounderCanneloni got woolwool
+FounderCanneloni built a road
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole ore from Canneloni
+FounderCanneloni rolled dice_1 dice_1
+FounderCanneloni got brick
+UserLookaside rolled dice_1 dice_5
+FounderCanneloni got ore
+UserLookaside got ore
+FounderCanneloni rolled dice_2 dice_5
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole lumber from you
+UserLookaside rolled dice_1 dice_4
+FounderCanneloni got lumber
+UserLookaside got wool
+FounderCanneloni rolled dice_5 dice_1
+FounderCanneloni got ore
+UserLookaside got ore
+FounderCanneloni gave bank oreoreoreore and took grain
+FounderCanneloni built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+FounderCanneloni got graingrainbrick
+UserLookaside got grain
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+FounderCanneloni rolled dice_1 dice_2
+FounderCanneloni got brick
+UserLookaside got brick
+FounderCanneloni built a road
+UserLookaside rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni rolled dice_5 dice_4
+FounderCanneloni got woolwool
+UserLookaside got wool
+FounderCanneloni gave bank woolwoolwool and took ore
+FounderCanneloni bought development card
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole grain from Canneloni
+UserLookaside bought development card
+FounderCanneloni rolled dice_1 dice_5
+FounderCanneloni got ore
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_2
+FounderCanneloni got ore
+UserLookaside got ore
+FounderCanneloni rolled dice_5 dice_2
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole ore from you
+UserLookaside rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni rolled dice_6 dice_5
+FounderCanneloni got lumber
+FounderCanneloni built a road
+UserLookaside rolled dice_2 dice_1
+FounderCanneloni got brick
+UserLookaside got brick
+FounderCanneloni rolled dice_5 dice_3
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_5 dice_5
+FounderCanneloni got lumber
+UserLookaside got lumberlumber
+UserLookaside built a road
+FounderCanneloni rolled dice_6 dice_3
+FounderCanneloni got woolwool
+UserLookaside got wool
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole wool from Canneloni
+FounderCanneloni rolled dice_3 dice_1
+FounderCanneloni got graingrainbrick
+UserLookaside got grain
+FounderCanneloni built a settlement (+1 VP)
+FounderCanneloni bought development card
+UserLookaside rolled dice_2 dice_4
+FounderCanneloni got oreore
+UserLookaside got ore
+UserLookaside built a settlement (+1 VP)
+FounderCanneloni used Knight card knight
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole wool from you
+FounderCanneloni rolled dice_1 dice_1
+FounderCanneloni got brick
+UserLookaside rolled dice_3 dice_2
+FounderCanneloni got lumber
+UserLookaside got woolwool
+UserLookaside gave bank woolwool and took grain
+UserLookaside bought development card
+FounderCanneloni rolled dice_3 dice_6
+FounderCanneloni got woolwool
+UserLookaside got wool
+FounderCanneloni gave bank oreoreore and took grain
+FounderCanneloni bought development card
+UserLookaside rolled dice_6 dice_4
+FounderCanneloni got lumber
+UserLookaside got lumberlumber
+FounderCanneloni rolled dice_6 dice_6
+UserLookaside got grain
+FounderCanneloni built a road
+FounderCanneloni received longest road (+2 VPs)
+FounderCanneloni built a road
+UserLookaside rolled dice_1 dice_3
+FounderCanneloni got graingrainbrickbrick
+UserLookaside got grain
+UserLookaside built a city (+1 VP)
+FounderCanneloni rolled dice_2 dice_3
+FounderCanneloni got lumber
+UserLookaside got woolwoolwool
+UserLookaside rolled dice_2 dice_6
+prob_8 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni rolled dice_2 dice_2
+FounderCanneloni got graingrainbrickbrick
+UserLookaside got grain
+FounderCanneloni gave bank brickbrickbrick and took ore
+UserLookaside rolled dice_4 dice_6
+FounderCanneloni got lumber
+UserLookaside got lumberlumber
+UserLookaside gave bank woolwool and took brick
+FounderCanneloni rolled dice_5 dice_1
+FounderCanneloni got oreore
+UserLookaside got oreore
+FounderCanneloni built a city (+1 VP)
+FounderCanneloni built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_2
+UserLookaside discarded lumberlumberlumberlumberore
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole wool from Canneloni
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+FounderCanneloni used Knight card knight
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole wool from you
+FounderCanneloni rolled dice_3 dice_1
+FounderCanneloni got graingraingrainbrickbrick
+UserLookaside got grain
+FounderCanneloni gave bank graingraingrain and took ore
+FounderCanneloni bought development card
+UserLookaside rolled dice_6 dice_3
+FounderCanneloni got woolwoolwool
+UserLookaside got wool
+UserLookaside bought development card
+FounderCanneloni rolled dice_2 dice_5
+FounderCanneloni moved robber robber to prob_5 wool tile
+FounderCanneloni stole wool from you
+UserLookaside rolled dice_2 dice_6
+UserLookaside got grainwoolwoolwool
+FounderCanneloni rolled dice_1 dice_1
+FounderCanneloni got brick
+UserLookaside rolled dice_3 dice_2
+prob_5 wool tile is blocked by the robber. No resources produced.
+FounderCanneloni got lumber
+FounderCanneloni rolled dice_2 dice_2
+FounderCanneloni got graingraingrainbrickbrick
+UserLookaside got grain
+FounderCanneloni gave bank brickbrickbrick and took ore
+FounderCanneloni bought development card
+FounderCanneloni built a road
+FounderCanneloni built a road
+UserLookaside rolled dice_4 dice_4
+UserLookaside got grainwoolwoolwool
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank ore ore
+UserLookaside gave bank woolwool and took ore
+UserLookaside bought development card
+UserLookaside bought development card
+UserLookaside bought development card
+FounderCanneloni used Knight card knight
+FounderCanneloni received largest army (+2 VPs)
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole wool from you
+FounderCanneloni rolled dice_4 dice_6
+FounderCanneloni got lumber
+UserLookaside got lumberlumberlumber
+FounderCanneloni gave bank woolwoolwool and took ore
+FounderCanneloni bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole grain from Canneloni
+UserLookaside rolled dice_3 dice_6
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+FounderCanneloni used Knight card knight
+FounderCanneloni moved robber robber to prob_8 wool tile
+FounderCanneloni stole lumber from you
+FounderCanneloni rolled dice_6 dice_5
+FounderCanneloni got lumberore
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 wool tile
+UserYou stole ore from Canneloni
+UserLookaside rolled dice_1 dice_2
+FounderCanneloni got grainbrickbrickbrick
+UserLookaside got brick
+UserLookaside bought development card
+UserLookaside built a road
+FounderCanneloni rolled dice_1 dice_4
+FounderCanneloni got lumber
+UserLookaside got woolwoolwool
+FounderCanneloni gave bank lumberlumberlumber and took ore
+UserLookaside rolled dice_6 dice_2
+UserLookaside got grainwoolwoolwool
+UserLookaside used Monopoly card monopoly
+UserLookaside stole 1 ore
+UserLookaside gave bank woolwoolwoolwool and took grainore
+UserLookaside bought development card
+UserLookaside bought development card
+FounderCanneloni rolled dice_5 dice_4
+prob_9 wool tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+UserLookaside rolled dice_2 dice_1
+FounderCanneloni got grainbrickbrickbrick
+UserLookaside got brick
+FounderCanneloni rolled dice_1 dice_3
+FounderCanneloni got graingraingrainbrickbrick
+UserLookaside got grain
+FounderCanneloni gave bank brickbrickbrickbrickbrickbrickgraingraingrain and took oreoreore
+FounderCanneloni built a city (+1 VP)
+trophyFounderCanneloni won the game!trophy
+FounderCanneloni has left the game
+Send a message
+Send message

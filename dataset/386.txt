@@ -1,0 +1,303 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserInvincibleJ placed a settlement
+UserInvincibleJ placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources lumberbrickgrain
+UserLookaside placed a road
+UserInvincibleJ placed a settlement
+UserInvincibleJ received starting resources lumberbrickgrain
+UserInvincibleJ placed a road
+UserInvincibleJ rolled dice_1 dice_5
+UserLookaside got brick
+UserInvincibleJ built a road
+UserLookaside rolled dice_2 dice_3
+UserInvincibleJ got lumber
+UserLookaside got grainlumber
+UserInvincibleJ rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+UserInvincibleJ moved robber robber to prob_4 lumber tile
+UserNo player to steal from
+UserLookaside rolled dice_6 dice_3
+UserInvincibleJ got lumber
+UserLookaside got grain
+UserLookaside built a road
+UserInvincibleJ rolled dice_2 dice_1
+UserLookaside rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_6 wool tile
+UserNo player to steal from
+UserInvincibleJ rolled dice_4 dice_5
+UserInvincibleJ got lumber
+UserLookaside got grain
+UserLookaside rolled dice_6 dice_2
+UserInvincibleJ got ore
+UserLookaside got wool
+UserLookaside built a settlement (+1 VP)
+UserInvincibleJ rolled dice_5 dice_3
+UserInvincibleJ got ore
+UserLookaside got woolwool
+UserLookaside rolled dice_1 dice_4
+UserInvincibleJ got lumber
+UserLookaside got grainlumber
+UserInvincibleJ rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserInvincibleJ moved robber robber to prob_8 wool tile
+UserInvincibleJ stole grain from you
+UserLookaside rolled dice_1 dice_1
+UserInvincibleJ rolled dice_3 dice_6
+UserInvincibleJ got lumber
+UserLookaside got grain
+UserInvincibleJ gave bank lumberlumberlumberlumber and took ore
+UserInvincibleJ built a city (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole lumber from InvincibleJ
+UserInvincibleJ rolled dice_1 dice_2
+UserLookaside got ore
+UserLookaside rolled dice_4 dice_2
+UserLookaside got brick
+UserLookaside bought development card
+UserLookaside built a road
+UserInvincibleJ rolled dice_2 dice_4
+UserLookaside got brick
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+UserInvincibleJ rolled dice_6 dice_4
+UserInvincibleJ got brick
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_1
+UserLookaside got brick
+UserInvincibleJ rolled dice_1 dice_6
+UserInvincibleJ moved robber robber to prob_8 wool tile
+UserInvincibleJ stole grain from you
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole grain from InvincibleJ
+UserLookaside rolled dice_2 dice_2
+UserInvincibleJ got woolwool
+UserLookaside got lumber
+UserInvincibleJ rolled dice_5 dice_5
+UserInvincibleJ got brick
+UserLookaside got brick
+UserLookaside rolled dice_5 dice_4
+UserInvincibleJ got lumber
+UserLookaside got grain
+UserInvincibleJ rolled dice_5 dice_6
+UserInvincibleJ got grain
+UserLookaside rolled dice_4 dice_6
+UserInvincibleJ got brick
+UserLookaside got brick
+UserLookaside built a settlement (+1 VP)
+UserInvincibleJ rolled dice_5 dice_1
+UserLookaside got brickbrick
+UserInvincibleJ built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_3
+UserInvincibleJ got woolwool
+UserLookaside got lumber
+UserLookaside built a road
+UserInvincibleJ rolled dice_6 dice_4
+UserInvincibleJ got grainbrick
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_4 wool tile
+UserYou stole wool from InvincibleJ
+UserInvincibleJ rolled dice_6 dice_5
+UserInvincibleJ got grain
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_6
+UserInvincibleJ got lumber
+UserLookaside got grain
+UserLookaside gave bank brickbrickbrickbrick and took lumber
+UserLookaside built a settlement (+1 VP)
+UserInvincibleJ rolled dice_1 dice_6
+UserInvincibleJ moved robber robber to prob_8 wool tile
+UserInvincibleJ stole grain from you
+UserInvincibleJ built a road
+UserLookaside rolled dice_4 dice_4
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserInvincibleJ got oreoreore
+UserInvincibleJ rolled dice_1 dice_5
+UserLookaside got brickbrick
+UserInvincibleJ bought development card
+UserInvincibleJ bought development card
+UserLookaside rolled dice_2 dice_2
+UserInvincibleJ got woolwool
+UserLookaside got lumber
+UserInvincibleJ rolled dice_6 dice_6
+UserInvincibleJ bought development card
+UserLookaside rolled dice_1 dice_1
+UserInvincibleJ rolled dice_2 dice_3
+UserInvincibleJ got lumberlumber
+UserLookaside got grainlumber
+UserInvincibleJ built a road
+UserLookaside rolled dice_6 dice_2
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserInvincibleJ got oreoreore
+UserInvincibleJ rolled dice_3 dice_5
+prob_8 wool tile is blocked by the robber. No resources produced.
+UserInvincibleJ got oreoreore
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole ore from InvincibleJ
+UserInvincibleJ used Knight card knight
+UserInvincibleJ moved robber robber to prob_8 wool tile
+UserInvincibleJ stole lumber from you
+UserInvincibleJ rolled dice_3 dice_1
+UserInvincibleJ got woolwool
+UserLookaside got lumber
+UserInvincibleJ gave bank oreoreore and took grain
+UserInvincibleJ built a settlement (+1 VP)
+UserLookaside rolled dice_2 dice_5
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole wool from InvincibleJ
+UserLookaside built a road
+UserInvincibleJ rolled dice_2 dice_1
+UserInvincibleJ got lumber
+UserLookaside got oreore
+UserLookaside rolled dice_3 dice_2
+UserInvincibleJ got lumberlumber
+UserLookaside got grainlumber
+UserLookaside built a city (+1 VP)
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+UserInvincibleJ rolled dice_1 dice_4
+UserInvincibleJ got lumberlumber
+UserLookaside got grainlumberlumber
+UserInvincibleJ gave bank lumberlumberlumber and took grain
+UserInvincibleJ bought development card
+UserLookaside rolled dice_2 dice_4
+UserInvincibleJ got wool
+UserLookaside got brickbrickbrick
+UserLookaside built a road
+UserInvincibleJ rolled dice_1 dice_5
+UserInvincibleJ got wool
+UserLookaside got brickbrickbrick
+UserInvincibleJ used Monopoly card monopoly
+UserInvincibleJ stole 5 brick
+UserInvincibleJ built a road
+UserInvincibleJ built a road
+UserInvincibleJ built a road
+Userlongest road passed from Lookaside to InvincibleJ (+2 VPs)
+UserLookaside rolled dice_4 dice_5
+UserInvincibleJ got lumber
+UserLookaside got graingraingrain
+UserInvincibleJ rolled dice_6 dice_2
+prob_8 ore tile is blocked by the robber. No resources produced.
+UserLookaside got woolwool
+UserInvincibleJ used Year of Plenty card year of plenty
+UserInvincibleJ took from bank grain grain
+UserInvincibleJ bought development card
+UserInvincibleJ built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_2
+UserInvincibleJ got lumber
+UserLookaside got oreore
+UserLookaside bought development card
+UserLookaside bought development card
+UserInvincibleJ used Knight card knight
+UserInvincibleJ moved robber robber to prob_9 grain tile
+UserInvincibleJ stole grain from you
+UserInvincibleJ rolled dice_6 dice_5
+UserInvincibleJ got grain
+UserLookaside got brickbrick
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole grain from InvincibleJ
+UserLookaside rolled dice_6 dice_4
+UserInvincibleJ got grainbrick
+UserLookaside got grainbrick
+UserInvincibleJ rolled dice_2 dice_1
+UserInvincibleJ got lumber
+UserLookaside got oreore
+UserLookaside rolled dice_4 dice_3
+UserLookaside discarded lumberbrickbrickbrickgrain
+UserLookaside moved robber robber to prob_4 wool tile
+UserYou stole lumber from InvincibleJ
+UserInvincibleJ rolled dice_1 dice_4
+UserInvincibleJ got lumberlumber
+UserLookaside got grainlumberlumber
+UserInvincibleJ built a road
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_8 ore tile
+UserYou stole lumber from InvincibleJ
+UserLookaside gave bank graingrain and took ore
+UserLookaside built a city (+1 VP)
+UserInvincibleJ rolled dice_4 dice_2
+UserInvincibleJ got woolwool
+UserLookaside got brickbrickbrick
+UserInvincibleJ built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_6
+UserLookaside built a road
+UserLookaside built a road
+UserLookaside built a road
+Userlongest road passed from InvincibleJ to Lookaside (+2 VPs)
+UserInvincibleJ rolled dice_4 dice_1
+UserInvincibleJ got lumberlumber
+UserLookaside got graingrainlumberlumber
+UserInvincibleJ gave bank lumberlumber and took ore
+UserInvincibleJ bought development card
+UserLookaside used Knight card knight
+UserLookaside received largest army (+2 VPs)
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+UserLookaside rolled dice_3 dice_1
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumber
+UserInvincibleJ rolled dice_5 dice_3
+UserInvincibleJ got oreoreore
+UserLookaside got woolwoolwool
+UserLookaside rolled dice_3 dice_3
+UserInvincibleJ got woolwool
+UserLookaside got brickbrickbrick
+UserLookaside built a settlement (+1 VP)
+UserLookaside gave bank lumberlumberlumber and took ore
+UserLookaside bought development card
+UserInvincibleJ rolled dice_4 dice_6
+UserInvincibleJ got grainbrick
+UserLookaside got grainbrickbrick
+UserInvincibleJ bought development card
+UserLookaside rolled dice_3 dice_6
+UserInvincibleJ got lumberlumber
+UserLookaside got graingraingrain
+UserLookaside gave bank brickbrickbrick and took ore
+UserLookaside bought development card
+UserInvincibleJ rolled dice_1 dice_1
+UserInvincibleJ got woolwool
+UserInvincibleJ gave bank lumberlumber and took grain
+UserInvincibleJ bought development card
+UserLookaside rolled dice_2 dice_3
+UserInvincibleJ got lumberlumber
+UserLookaside got graingraingrainlumberlumber
+UserLookaside gave bank lumberlumberlumbergraingraingraingrain and took oreoreore
+UserLookaside built a city (+1 VP)
+UserInvincibleJ rolled dice_2 dice_2
+prob_4 wool tile is blocked by the robber. No resources produced.
+UserLookaside got lumberlumberlumber
+UserInvincibleJ built a road
+UserInvincibleJ used Year of Plenty card year of plenty
+UserInvincibleJ took from bank brick grain
+UserInvincibleJ bought development card
+UserInvincibleJ built a road
+UserLookaside rolled dice_3 dice_2
+UserInvincibleJ got lumberlumber
+UserLookaside got graingraingrainlumberlumber
+UserLookaside gave bank graingrain and took wool
+UserLookaside gave bank lumberlumberlumber and took brick
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+trophyUserLookaside won the game!trophy
+Send a message
+Send message
+No Ads

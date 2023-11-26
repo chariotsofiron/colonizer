@@ -1,0 +1,331 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+GuestRosati2690 placed a settlement
+GuestRosati2690 placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside placed a settlement
+UserLookaside placed a road
+UserLookaside received starting resources lumberbrickgrain
+GuestRosati2690 placed a settlement
+GuestRosati2690 placed a road
+GuestRosati2690 received starting resources grainoreore
+GuestRosati2690 rolled dice_4 dice_1
+UserLookaside got grain
+GuestRosati2690 got wool
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+GuestRosati2690 got lumbergrain
+GuestRosati2690 rolled dice_6 dice_1
+robberFriendly Robber is active, tiles available to block are limited
+GuestRosati2690 moved robber robber to prob_3 ore tile
+GuestNo player to steal from
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brick
+GuestRosati2690 rolled dice_6 dice_6
+UserLookaside rolled dice_1 dice_2
+prob_3 ore tile is blocked by the robber. No resources produced.
+GuestRosati2690 rolled dice_2 dice_2
+UserLookaside got brick
+UserLookaside rolled dice_3 dice_5
+UserLookaside got lumber
+UserLookaside built a road
+GuestRosati2690 rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+GuestRosati2690 moved robber robber to prob_12 grain tile
+GuestNo player to steal from
+UserLookaside rolled dice_6 dice_4
+UserLookaside got ore
+GuestRosati2690 got ore
+GuestRosati2690 rolled dice_6 dice_3
+UserLookaside got grain
+GuestRosati2690 got lumbergrain
+GuestRosati2690 bought development card
+UserLookaside rolled dice_4 dice_3
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_10 wool tile
+UserNo player to steal from
+GuestRosati2690 rolled dice_1 dice_5
+UserLookaside got lumber
+GuestRosati2690 got brick
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumber
+UserLookaside built a road
+GuestRosati2690 rolled dice_1 dice_4
+UserLookaside got grain
+GuestRosati2690 got wool
+GuestRosati2690 used Year of Plenty card year of plenty
+GuestRosati2690 took from bank brick grain
+GuestRosati2690 bought development card
+UserLookaside rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_12 grain tile
+UserNo player to steal from
+UserLookaside gave bank graingraingraingrain and took wool
+UserLookaside built a settlement (+1 VP)
+GuestRosati2690 rolled dice_4 dice_2
+UserLookaside got lumber
+GuestRosati2690 got brick
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grain
+GuestRosati2690 got lumbergrain
+GuestRosati2690 rolled dice_1 dice_1
+GuestRosati2690 built a road
+GuestRosati2690 built a road
+UserLookaside rolled dice_3 dice_2
+UserLookaside got grainwool
+GuestRosati2690 got wool
+UserLookaside bought development card
+GuestRosati2690 rolled dice_2 dice_1
+GuestRosati2690 built a settlement (+1 VP)
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumberwool
+GuestRosati2690 got wool
+GuestRosati2690 rolled dice_5 dice_3
+UserLookaside got lumberwool
+GuestRosati2690 got wool
+UserLookaside rolled dice_2 dice_4
+UserLookaside got lumber
+GuestRosati2690 got brick
+GuestRosati2690 rolled dice_4 dice_3
+GuestRosati2690 moved robber robber to prob_4 brick tile
+GuestRosati2690 stole lumber from you
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole brick from Rosati2690
+UserLookaside built a road
+GuestRosati2690 rolled dice_1 dice_1
+UserLookaside rolled dice_5 dice_3
+UserLookaside got lumberwool
+GuestRosati2690 got wool
+GuestRosati2690 rolled dice_3 dice_1
+UserLookaside got brickbrick
+UserLookaside rolled dice_1 dice_4
+UserLookaside got grainwool
+GuestRosati2690 got wool
+UserLookaside built a settlement (+1 VP)
+UserLookaside built a road
+GuestRosati2690 rolled dice_1 dice_2
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_2
+UserLookaside got lumberlumberwool
+GuestRosati2690 got wool
+UserLookaside gave bank lumberlumberlumberlumber and took ore
+UserLookaside bought development card
+GuestRosati2690 rolled dice_6 dice_4
+UserLookaside got ore
+GuestRosati2690 got woolore
+GuestRosati2690 gave bank woolwoolwool and took ore
+GuestRosati2690 built a city (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got grain
+GuestRosati2690 got lumbergraingrain
+UserLookaside bought development card
+GuestRosati2690 rolled dice_1 dice_5
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_6 dice_1
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole lumber from Rosati2690
+GuestRosati2690 rolled dice_5 dice_5
+UserLookaside got ore
+GuestRosati2690 got wooloreore
+GuestRosati2690 gave bank woolwoolwool and took ore
+GuestRosati2690 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_4
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from Rosati2690
+GuestRosati2690 rolled dice_3 dice_5
+UserLookaside got lumberlumberwool
+GuestRosati2690 got wool
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumber
+UserLookaside used Year of Plenty card year of plenty
+UserLookaside took from bank brick brick
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a road
+UserLookaside built a settlement (+1 VP)
+GuestRosati2690 rolled dice_3 dice_3
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_4 dice_5
+UserLookaside got grain
+GuestRosati2690 got lumberlumbergraingrain
+UserLookaside bought development card
+GuestRosati2690 rolled dice_3 dice_6
+UserLookaside got grain
+GuestRosati2690 got lumberlumbergraingrain
+GuestRosati2690 gave bank lumberlumberlumber and took ore
+GuestRosati2690 bought development card
+UserLookaside rolled dice_4 dice_6
+UserLookaside got ore
+GuestRosati2690 got wooloreore
+GuestRosati2690 used Knight card knight
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole lumber from you
+GuestRosati2690 rolled dice_2 dice_6
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestRosati2690 got wool
+GuestRosati2690 gave bank woolwoolwool and took ore
+GuestRosati2690 built a city (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from Rosati2690
+UserLookaside rolled dice_6 dice_3
+UserLookaside got grain
+GuestRosati2690 got lumberlumbergraingrain
+GuestRosati2690 rolled dice_5 dice_1
+prob_6 brick tile is blocked by the robber. No resources produced.
+UserLookaside got lumber
+UserLookaside rolled dice_3 dice_2
+UserLookaside got graingrainwool
+GuestRosati2690 got woolwool
+UserLookaside bought development card
+GuestRosati2690 rolled dice_3 dice_2
+UserLookaside got graingrainwool
+GuestRosati2690 got woolwool
+GuestRosati2690 gave bank woolwoolwool and took ore
+GuestRosati2690 bought development card
+UserLookaside rolled dice_1 dice_3
+UserLookaside got brickbrickbrick
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+UserLookaside built a road
+GuestRosati2690 used Knight card knight
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole brick from you
+GuestRosati2690 rolled dice_5 dice_5
+UserLookaside got ore
+GuestRosati2690 got woolwooloreore
+GuestRosati2690 bought development card
+GuestRosati2690 bought development card
+GuestRosati2690 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole lumber from Rosati2690
+UserLookaside rolled dice_6 dice_5
+GuestRosati2690 got oreore
+GuestRosati2690 used Knight card knight
+GuestRosati2690 received largest army (+2 VPs)
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole ore from you
+GuestRosati2690 rolled dice_5 dice_6
+GuestRosati2690 got oreore
+UserLookaside rolled dice_3 dice_6
+UserLookaside got grain
+GuestRosati2690 got lumberlumbergraingrain
+UserLookaside built a road
+UserLookaside received longest road (+2 VPs)
+GuestRosati2690 rolled dice_4 dice_2
+UserLookaside got lumber
+GuestRosati2690 got brickbrick
+GuestRosati2690 gave bank oreoreore and took wool
+GuestRosati2690 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_1
+GuestRosati2690 rolled dice_5 dice_1
+UserLookaside got lumber
+GuestRosati2690 got brickbrick
+GuestRosati2690 gave bank brickbrick and took wool
+UserLookaside rolled dice_2 dice_1
+UserLookaside got lumber
+UserLookaside gave bank lumberlumber and took ore
+GuestRosati2690 rolled dice_2 dice_5
+GuestRosati2690 moved robber robber to prob_6 lumber tile
+GuestRosati2690 stole grain from you
+GuestRosati2690 used Road Building card road building
+GuestRosati2690 placed a road
+GuestRosati2690 placed a road
+GuestRosati2690 built a settlement (+1 VP)
+UserLookaside rolled dice_4 dice_6
+UserLookaside got ore
+GuestRosati2690 got woolwoolwooloreore
+GuestRosati2690 rolled dice_5 dice_4
+UserLookaside got grain
+GuestRosati2690 got lumberlumberlumbergraingrain
+GuestRosati2690 bought development card
+GuestRosati2690 bought development card
+GuestRosati2690 bought development card
+UserLookaside rolled dice_4 dice_4
+UserLookaside got lumberlumberwool
+GuestRosati2690 got woolwool
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside built a city (+1 VP)
+GuestRosati2690 rolled dice_1 dice_2
+UserLookaside got lumber
+GuestRosati2690 got lumber
+GuestRosati2690 used Knight card knight
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole wool from you
+GuestRosati2690 gave bank lumberlumberlumber and took grain
+GuestRosati2690 bought development card
+UserLookaside rolled dice_5 dice_3
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestRosati2690 got woolwool
+UserLookaside gave bank lumberlumber and took ore
+UserLookaside bought development card
+GuestRosati2690 rolled dice_1 dice_5
+UserLookaside got lumber
+GuestRosati2690 got brickbrickbrick
+GuestRosati2690 built a road
+GuestRosati2690 built a road
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_9 grain tile
+UserYou stole brick from Rosati2690
+UserLookaside rolled dice_5 dice_2
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Rosati2690
+UserLookaside built a settlement (+1 VP)
+GuestRosati2690 rolled dice_3 dice_4
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole wool from you
+UserLookaside rolled dice_1 dice_4
+UserLookaside got graingraingrainwool
+GuestRosati2690 got woolwool
+GuestRosati2690 rolled dice_2 dice_3
+UserLookaside got graingraingrainwool
+GuestRosati2690 got woolwool
+GuestRosati2690 used Monopoly card monopoly
+GuestRosati2690 stole 7 grain
+GuestRosati2690 gave bank graingraingrain and took ore
+GuestRosati2690 bought development card
+GuestRosati2690 gave bank woolwoolwool and took ore
+GuestRosati2690 bought development card
+UserLookaside rolled dice_3 dice_3
+UserLookaside got lumberlumber
+GuestRosati2690 got brickbrickbrick
+GuestRosati2690 rolled dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestRosati2690 got woolwool
+GuestRosati2690 used Knight card knight
+GuestRosati2690 moved robber robber to prob_6 lumber tile
+GuestRosati2690 stole lumber from you
+GuestRosati2690 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_6
+UserLookaside moved robber robber to prob_6 brick tile
+UserYou stole wool from Rosati2690
+GuestRosati2690 used Knight card knight
+GuestRosati2690 moved robber robber to prob_8 lumber tile
+GuestRosati2690 stole wool from you
+GuestRosati2690 rolled dice_3 dice_5
+prob_8 lumber tile is blocked by the robber. No resources produced.
+UserLookaside got wool
+GuestRosati2690 got woolwool
+GuestRosati2690 gave bank woolwoolwool and took lumber
+GuestRosati2690 built a road
+Guestlongest road passed from Lookaside to Rosati2690 (+2 VPs)
+trophyGuestRosati2690 won the game!trophy
+GuestRosati2690 has left the game
+Send a message
+Send message

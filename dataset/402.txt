@@ -1,0 +1,269 @@
+
+Ad
+
+Remove Ads
+Ad
+
+Remove Ads
+Ad (00:15)
+List of commands: /help
+Learn how to play at the rules page or get help on our Discord
+Karma System: Active. Leavers will receive a karma penalty
+UserLookaside placed a settlement
+UserLookaside placed a road
+icon_scarfYoMomma10 placed a settlement
+icon_scarfYoMomma10 placed a road
+icon_scarfYoMomma10 placed a settlement
+icon_scarfYoMomma10 received starting resources oregrainlumber
+icon_scarfYoMomma10 placed a road
+UserLookaside placed a settlement
+UserLookaside received starting resources woolorelumber
+UserLookaside placed a road
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumber
+icon_scarfYoMomma10 got brick
+icon_scarfYoMomma10 rolled dice_3 dice_4
+robberFriendly Robber is active, tiles available to block are limited
+icon_scarfYoMomma10 moved robber robber to prob_11 grain tile
+icon_scarfNo player to steal from
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumber
+icon_scarfYoMomma10 got brick
+icon_scarfYoMomma10 rolled dice_5 dice_2
+robberFriendly Robber is active, tiles available to block are limited
+icon_scarfYoMomma10 moved robber robber to prob_3 ore tile
+icon_scarfNo player to steal from
+UserLookaside rolled dice_6 dice_2
+UserLookaside got grain
+icon_scarfYoMomma10 rolled dice_1 dice_6
+robberFriendly Robber is active, tiles available to block are limited
+icon_scarfYoMomma10 moved robber robber to prob_11 grain tile
+icon_scarfNo player to steal from
+UserLookaside rolled dice_2 dice_1
+icon_scarfYoMomma10 got wool
+icon_scarfYoMomma10 rolled dice_5 dice_6
+prob_11 grain tile is blocked by the robber. No resources produced.
+icon_scarfYoMomma10 got grain
+UserLookaside rolled dice_5 dice_3
+UserLookaside got grain
+icon_scarfYoMomma10 rolled dice_5 dice_4
+UserLookaside got lumber
+icon_scarfYoMomma10 got brick
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_5 dice_5
+UserLookaside got woolore
+UserLookaside bought development card
+icon_scarfYoMomma10 rolled dice_2 dice_2
+UserLookaside rolled dice_1 dice_2
+icon_scarfYoMomma10 got wool
+icon_scarfYoMomma10 rolled dice_3 dice_1
+UserLookaside rolled dice_2 dice_5
+robberFriendly Robber is active, tiles available to block are limited
+UserLookaside moved robber robber to prob_4 wool tile
+UserNo player to steal from
+icon_scarfYoMomma10 rolled dice_2 dice_4
+icon_scarfYoMomma10 got bricklumber
+icon_scarfYoMomma10 built a settlement (+1 VP)
+UserLookaside rolled dice_1 dice_5
+icon_scarfYoMomma10 got bricklumber
+icon_scarfYoMomma10 rolled dice_1 dice_1
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_2 dice_3
+UserLookaside got lumberore
+icon_scarfYoMomma10 got ore
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside placed a road
+UserLookaside built a settlement (+1 VP)
+icon_scarfYoMomma10 rolled dice_6 dice_5
+icon_scarfYoMomma10 got graingrain
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumberore
+icon_scarfYoMomma10 got ore
+icon_scarfYoMomma10 rolled dice_4 dice_4
+UserLookaside got graingrain
+icon_scarfYoMomma10 built a city (+1 VP)
+UserLookaside rolled dice_3 dice_3
+icon_scarfYoMomma10 got bricklumberlumber
+UserLookaside built a city (+1 VP)
+icon_scarfYoMomma10 rolled dice_6 dice_1
+icon_scarfYoMomma10 moved robber robber to prob_8 grain tile
+icon_scarfYoMomma10 stole lumber from you
+icon_scarfYoMomma10 built a road
+icon_scarfYoMomma10 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_4
+UserLookaside got lumberlumber
+icon_scarfYoMomma10 got brick
+icon_scarfYoMomma10 rolled dice_3 dice_5
+prob_8 grain tile is blocked by the robber. No resources produced.
+UserLookaside rolled dice_3 dice_3
+icon_scarfYoMomma10 got bricklumberlumberlumber
+icon_scarfYoMomma10 rolled dice_4 dice_6
+UserLookaside got woolwoolore
+icon_scarfYoMomma10 got ore
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_3 dice_6
+UserLookaside got lumberlumber
+icon_scarfYoMomma10 got brick
+icon_scarfYoMomma10 rolled dice_2 dice_3
+UserLookaside got lumberoreore
+icon_scarfYoMomma10 got oreore
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_3 dice_1
+UserLookaside got brick
+UserLookaside built a road
+icon_scarfYoMomma10 rolled dice_1 dice_2
+UserLookaside got ore
+icon_scarfYoMomma10 got wooloreore
+icon_scarfYoMomma10 gave bank oreoreoreore and took grain
+icon_scarfYoMomma10 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+icon_scarfYoMomma10 got wool
+icon_scarfYoMomma10 rolled dice_2 dice_4
+icon_scarfYoMomma10 got bricklumberlumberlumber
+UserLookaside rolled dice_2 dice_5
+UserLookaside discarded wooloreoreoreore
+UserLookaside moved robber robber to prob_11 grain tile
+UserYou stole brick from YoMomma10
+icon_scarfYoMomma10 rolled dice_4 dice_5
+UserLookaside got lumberlumber
+icon_scarfYoMomma10 got brick
+UserLookaside rolled dice_3 dice_2
+UserLookaside got lumberoreore
+icon_scarfYoMomma10 got oreore
+UserLookaside gave bank lumberlumberlumberlumber and took grain
+UserLookaside built a settlement (+1 VP)
+icon_scarfYoMomma10 rolled dice_6 dice_1
+icon_scarfYoMomma10 discarded lumberlumberlumberbrickore
+icon_scarfYoMomma10 moved robber robber to prob_8 grain tile
+icon_scarfYoMomma10 stole lumber from you
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+icon_scarfYoMomma10 got wool
+UserLookaside built a road
+icon_scarfYoMomma10 rolled dice_2 dice_6
+prob_8 grain tile is blocked by the robber. No resources produced.
+icon_scarfYoMomma10 got wool
+UserLookaside rolled dice_4 dice_1
+UserLookaside got lumberoreore
+icon_scarfYoMomma10 got oreore
+icon_scarfYoMomma10 rolled dice_4 dice_4
+prob_8 grain tile is blocked by the robber. No resources produced.
+icon_scarfYoMomma10 got wool
+icon_scarfYoMomma10 gave bank oreoreoreore and took grain
+icon_scarfYoMomma10 built a settlement (+1 VP)
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+icon_scarfYoMomma10 got brickbricklumberlumberlumber
+icon_scarfYoMomma10 rolled dice_1 dice_1
+icon_scarfYoMomma10 got grain
+icon_scarfYoMomma10 gave bank lumberlumberlumberlumber and took ore
+icon_scarfYoMomma10 bought development card
+UserLookaside rolled dice_1 dice_4
+UserLookaside got lumberoreore
+icon_scarfYoMomma10 got oreore
+UserLookaside gave bank oreoreoreore and took grain
+icon_scarfYoMomma10 rolled dice_6 dice_3
+UserLookaside got lumberlumberlumber
+icon_scarfYoMomma10 got brick
+UserLookaside rolled dice_1 dice_5
+UserLookaside got lumber
+icon_scarfYoMomma10 got brickbricklumberlumberlumber
+UserLookaside gave bank lumberlumberlumberlumber and took wool
+icon_scarfYoMomma10 rolled dice_6 dice_5
+icon_scarfYoMomma10 got graingraingraingrain
+icon_scarfYoMomma10 gave bank brickbrickbrickbrick and took ore
+icon_scarfYoMomma10 built a city (+1 VP)
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_5 dice_3
+prob_8 grain tile is blocked by the robber. No resources produced.
+icon_scarfYoMomma10 got woolwool
+icon_scarfYoMomma10 rolled dice_1 dice_4
+UserLookaside got lumberoreore
+icon_scarfYoMomma10 got oreore
+icon_scarfYoMomma10 bought development card
+UserLookaside rolled dice_6 dice_6
+UserLookaside got lumber
+UserLookaside gave bank lumberlumberlumberlumber and took brick
+UserLookaside built a settlement (+1 VP)
+icon_scarfYoMomma10 rolled dice_5 dice_5
+UserLookaside got woolwoolore
+icon_scarfYoMomma10 got ore
+UserLookaside rolled dice_6 dice_3
+UserLookaside got lumberlumberlumber
+icon_scarfYoMomma10 got brick
+UserLookaside gave bank lumberlumber and took grain
+UserLookaside bought development card
+icon_scarfYoMomma10 rolled dice_3 dice_1
+UserLookaside got brick
+icon_scarfYoMomma10 got woolwool
+icon_scarfYoMomma10 built a settlement (+1 VP)
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole ore from YoMomma10
+UserLookaside rolled dice_5 dice_1
+UserLookaside got lumber
+icon_scarfYoMomma10 got brickbricklumberlumberlumber
+icon_scarfYoMomma10 rolled dice_5 dice_6
+icon_scarfYoMomma10 got graingraingraingraingrain
+icon_scarfYoMomma10 gave bank lumberlumberlumberlumberwoolwool and took oreore
+icon_scarfYoMomma10 built a city (+1 VP)
+icon_scarfYoMomma10 used Knight card knight
+icon_scarfYoMomma10 moved robber robber to prob_8 grain tile
+icon_scarfYoMomma10 stole lumber from you
+icon_scarfYoMomma10 built a road
+UserLookaside rolled dice_4 dice_3
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole grain from YoMomma10
+UserLookaside bought development card
+icon_scarfYoMomma10 used Knight card knight
+icon_scarfYoMomma10 moved robber robber to prob_8 grain tile
+icon_scarfYoMomma10 stole ore from you
+icon_scarfYoMomma10 rolled dice_6 dice_5
+icon_scarfYoMomma10 got graingraingraingraingraingrain
+icon_scarfYoMomma10 bought development card
+UserLookaside rolled dice_1 dice_2
+UserLookaside got ore
+icon_scarfYoMomma10 got woolwoolwooloreoreore
+UserLookaside used Road Building card road building
+UserLookaside placed a road
+UserLookaside received longest road (+2 VPs)
+UserLookaside placed a road
+icon_scarfYoMomma10 rolled dice_4 dice_6
+UserLookaside got woolwoolore
+icon_scarfYoMomma10 got oreore
+icon_scarfYoMomma10 used Year of Plenty card year of plenty
+icon_scarfYoMomma10 took from bank lumber ore
+icon_scarfYoMomma10 built a settlement (+1 VP)
+icon_scarfYoMomma10 built a city (+1 VP)
+icon_scarfYoMomma10 bought development card
+icon_scarfYoMomma10 bought development card
+icon_scarfYoMomma10 bought development card
+UserLookaside rolled dice_4 dice_5
+UserLookaside got lumberlumberlumber
+icon_scarfYoMomma10 got brickbrickbrickbrick
+UserLookaside gave bank lumberlumberlumberlumber and took graingrain
+UserLookaside bought development card
+UserLookaside bought development card
+icon_scarfYoMomma10 rolled dice_2 dice_1
+UserLookaside got ore
+icon_scarfYoMomma10 got woolwoolwooloreoreore
+icon_scarfYoMomma10 bought development card
+UserLookaside used Knight card knight
+UserLookaside moved robber robber to prob_8 wool tile
+UserYou stole brick from YoMomma10
+UserLookaside rolled dice_2 dice_2
+UserLookaside got brick
+icon_scarfYoMomma10 got woolwoolwool
+icon_scarfYoMomma10 rolled dice_6 dice_4
+UserLookaside got woolwoolore
+icon_scarfYoMomma10 got oreoreoreore
+icon_scarfYoMomma10 gave bank woolwool and took grain
+icon_scarfYoMomma10 bought development card
+trophyicon_scarfYoMomma10 won the game!trophy
+UserLookaside: bruh
+Send a message
+Send message
+No Ads
